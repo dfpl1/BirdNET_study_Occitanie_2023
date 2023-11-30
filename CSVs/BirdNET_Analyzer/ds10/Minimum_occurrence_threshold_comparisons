@@ -1,0 +1,7 @@
+BirdNET Analyzer:
+threshold 0.05 -> AUC = 
+threshold 0.03 -> AUC = 
+threshold 0.02 -> AUC = 0.307, mean recall = 0.153, mean precision = 0.737, mean FPR = 0.0025
+threshold 0.01 -> AUC = 
+BirdNET Lite -> AUC = 0.339, mean recall = 0.118, mean precision = 0.756
+

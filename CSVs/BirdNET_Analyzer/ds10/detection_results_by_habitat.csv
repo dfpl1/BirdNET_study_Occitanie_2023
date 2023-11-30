@@ -1,0 +1,6 @@
+"Habitat","Recordings analyzed","Species annotated","Correctly_identified_1st_threshold","Incorrectly_identified_1st_threshold","Correctly_identified_2nd_threshold","Incorrectly_identified_2nd_threshold","Correctly_identified_3rd_threshold","Incorrectly_identified_3rd_threshold"
+"alpine meadow",48,33,19,27,17,6,12,3
+"crop",45,44,20,40,12,10,8,2
+"grassland",54,50,27,37,21,9,15,3
+"mosaic",54,50,23,34,20,8,14,0
+"wood",36,39,26,29,24,3,18,0

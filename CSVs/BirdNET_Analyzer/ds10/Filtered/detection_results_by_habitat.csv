@@ -1,0 +1,5 @@
+"Habitat","Recordings analyzed","Species annotated","Correctly_identified_1st_threshold","Incorrectly_identified_1st_threshold","Correctly_identified_2nd_threshold","Incorrectly_identified_2nd_threshold","Correctly_identified_3rd_threshold","Incorrectly_identified_3rd_threshold"
+"crop",39,40,19,39,12,5,9,3
+"grassland",54,50,24,56,17,12,14,6
+"mosaic",51,45,27,57,15,7,13,6
+"wood",36,39,26,33,19,5,18,1

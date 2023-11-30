@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	corbun1	Corn Bunting	0.9287
+2	Spectrogram 1	1	1.0	4.0	150	15000	corbun1	Corn Bunting	0.6447
+3	Spectrogram 1	1	6.0	9.0	150	15000	corbun1	Corn Bunting	0.3473
+4	Spectrogram 1	1	6.0	9.0	150	15000	wooshr1	Woodchat Shrike	0.2222
+5	Spectrogram 1	1	7.0	10.0	150	15000	corbun1	Corn Bunting	0.2154
+6	Spectrogram 1	1	8.0	11.0	150	15000	corbun1	Corn Bunting	0.2216
+7	Spectrogram 1	1	8.0	11.0	150	15000	wooshr1	Woodchat Shrike	0.1017
+8	Spectrogram 1	1	9.0	12.0	150	15000	corbun1	Corn Bunting	0.1405
+9	Spectrogram 1	1	11.0	14.0	150	15000	skylar	Eurasian Skylark	0.1397
+10	Spectrogram 1	1	13.0	16.0	150	15000	corbun1	Corn Bunting	0.6982
+11	Spectrogram 1	1	14.0	17.0	150	15000	corbun1	Corn Bunting	0.1023
+12	Spectrogram 1	1	18.0	21.0	150	15000	corbun1	Corn Bunting	0.4422
+13	Spectrogram 1	1	19.0	22.0	150	15000	corbun1	Corn Bunting	0.2346
+14	Spectrogram 1	1	22.0	25.0	150	15000	corbun1	Corn Bunting	0.1465
+15	Spectrogram 1	1	23.0	26.0	150	15000	corbun1	Corn Bunting	0.1239
+16	Spectrogram 1	1	24.0	27.0	150	15000	corbun1	Corn Bunting	0.3687
+17	Spectrogram 1	1	29.0	32.0	150	15000	blutit	Eurasian Blue Tit	0.1378
+18	Spectrogram 1	1	36.0	39.0	150	15000	corbun1	Corn Bunting	0.5820
+19	Spectrogram 1	1	37.0	40.0	150	15000	corbun1	Corn Bunting	0.1799
+20	Spectrogram 1	1	38.0	41.0	150	15000	corbun1	Corn Bunting	0.4721
+21	Spectrogram 1	1	39.0	42.0	150	15000	corbun1	Corn Bunting	0.8857
+22	Spectrogram 1	1	40.0	43.0	150	15000	corbun1	Corn Bunting	0.9689
+23	Spectrogram 1	1	41.0	44.0	150	15000	corbun1	Corn Bunting	0.8634
+24	Spectrogram 1	1	43.0	46.0	150	15000	blutit	Eurasian Blue Tit	0.2140
+25	Spectrogram 1	1	45.0	48.0	150	15000	corbun1	Corn Bunting	0.1239
+26	Spectrogram 1	1	51.0	54.0	150	15000	corbun1	Corn Bunting	0.7903
+27	Spectrogram 1	1	52.0	55.0	150	15000	corbun1	Corn Bunting	0.7407
+28	Spectrogram 1	1	53.0	56.0	150	15000	corbun1	Corn Bunting	0.9229
+29	Spectrogram 1	1	54.0	57.0	150	15000	corbun1	Corn Bunting	0.2087
+30	Spectrogram 1	1	58.0	61.0	150	15000	corbun1	Corn Bunting	0.1261

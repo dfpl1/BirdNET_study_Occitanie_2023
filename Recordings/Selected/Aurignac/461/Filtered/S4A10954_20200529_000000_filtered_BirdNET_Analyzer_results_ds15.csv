@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	9.0	12.0	150	15000	blared1	Black Redstart	0.1100
+2	Spectrogram 1	1	9.0	12.0	150	15000	lottit1	Long-tailed Tit	0.1059
+3	Spectrogram 1	1	39.0	42.0	150	15000	lottit1	Long-tailed Tit	0.1060
+4	Spectrogram 1	1	57.0	60.0	150	15000	lottit1	Long-tailed Tit	0.1058

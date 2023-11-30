@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	blared1	Black Redstart	0.6407
+2	Spectrogram 1	1	0	3.0	150	15000	burthr	Blue Rock-Thrush	0.1353
+3	Spectrogram 1	1	0	3.0	150	15000	comred2	Common Redstart	0.1128
+4	Spectrogram 1	1	0	3.0	150	15000	crelar2	Crested Lark	0.1093
+5	Spectrogram 1	1	24.0	27.0	150	15000	burthr	Blue Rock-Thrush	0.1143
+6	Spectrogram 1	1	42.0	45.0	150	15000	blared1	Black Redstart	0.7361
+7	Spectrogram 1	1	48.0	51.0	150	15000	blackc1	Eurasian Blackcap	0.2330
+8	Spectrogram 1	1	48.0	51.0	150	15000	grewhi1	Greater Whitethroat	0.1285
+9	Spectrogram 1	1	48.0	51.0	150	15000	eurbul	Eurasian Bullfinch	0.1178
+10	Spectrogram 1	1	51.0	54.0	150	15000	blackc1	Eurasian Blackcap	0.1805
+11	Spectrogram 1	1	54.0	57.0	150	15000	blared1	Black Redstart	0.8484

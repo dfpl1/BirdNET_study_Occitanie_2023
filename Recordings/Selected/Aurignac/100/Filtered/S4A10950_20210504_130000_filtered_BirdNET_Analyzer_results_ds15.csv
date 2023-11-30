@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	lirplo	Little Ringed Plover	0.1247
+2	Spectrogram 1	1	0	3.0	150	15000	eurbul	Eurasian Bullfinch	0.1102
+3	Spectrogram 1	1	9.0	12.0	150	15000	trepip	Tree Pipit	0.1072
+4	Spectrogram 1	1	18.0	21.0	150	15000	yellow2	Yellowhammer	0.1539
+5	Spectrogram 1	1	18.0	21.0	150	15000	wooshr1	Woodchat Shrike	0.1408
+6	Spectrogram 1	1	18.0	21.0	150	15000	cirbun1	Cirl Bunting	0.1305
+7	Spectrogram 1	1	18.0	21.0	150	15000	zitcis1	Zitting Cisticola	0.1287
+8	Spectrogram 1	1	18.0	21.0	150	15000	corbun1	Corn Bunting	0.1038
+9	Spectrogram 1	1	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.1919
+10	Spectrogram 1	1	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.1732
+11	Spectrogram 1	1	24.0	27.0	150	15000	burthr	Blue Rock-Thrush	0.1414
+12	Spectrogram 1	1	24.0	27.0	150	15000	webwar1	Western Bonelli's Warbler	0.1268
+13	Spectrogram 1	1	24.0	27.0	150	15000	eurwry	Eurasian Wryneck	0.1232
+14	Spectrogram 1	1	24.0	27.0	150	15000	cirbun1	Cirl Bunting	0.1229
+15	Spectrogram 1	1	24.0	27.0	150	15000	ibechi2	Iberian Chiffchaff	0.1164
+16	Spectrogram 1	1	24.0	27.0	150	15000	trepip	Tree Pipit	0.1043
+17	Spectrogram 1	1	54.0	57.0	150	15000	booeag1	Booted Eagle	0.1121

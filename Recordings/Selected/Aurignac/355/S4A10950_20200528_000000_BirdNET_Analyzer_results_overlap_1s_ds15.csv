@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	bcnher	Black-crowned Night-Heron	0.1405
+2	Spectrogram 1	1	4.0	7.0	150	15000	bcnher	Black-crowned Night-Heron	0.1827
+3	Spectrogram 1	1	6.0	9.0	150	15000	bcnher	Black-crowned Night-Heron	0.1225
+4	Spectrogram 1	1	10.0	13.0	150	15000	bcnher	Black-crowned Night-Heron	0.1546
+5	Spectrogram 1	1	12.0	15.0	150	15000	commoo3	Eurasian Moorhen	0.1903
+6	Spectrogram 1	1	14.0	17.0	150	15000	bcnher	Black-crowned Night-Heron	0.1693
+7	Spectrogram 1	1	20.0	23.0	150	15000	graher1	Gray Heron	0.1466
+8	Spectrogram 1	1	22.0	25.0	150	15000	graher1	Gray Heron	0.1144
+9	Spectrogram 1	1	38.0	41.0	150	15000	bcnher	Black-crowned Night-Heron	0.2140

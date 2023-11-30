@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	dunnoc1	Dunnock	0.2978
+2	Spectrogram 1	1	4.0	7.0	150	15000	dunnoc1	Dunnock	0.9660
+3	Spectrogram 1	1	12.0	15.0	150	15000	stonec4	European Stonechat	0.2886
+4	Spectrogram 1	1	12.0	15.0	150	15000	dunnoc1	Dunnock	0.1290
+5	Spectrogram 1	1	38.0	41.0	150	15000	blackc1	Eurasian Blackcap	0.4386
+6	Spectrogram 1	1	48.0	51.0	150	15000	trepip	Tree Pipit	0.9583
+7	Spectrogram 1	1	50.0	53.0	150	15000	trepip	Tree Pipit	0.7867
+8	Spectrogram 1	1	52.0	55.0	150	15000	trepip	Tree Pipit	0.8727
+9	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.7172
+10	Spectrogram 1	1	56.0	59.0	150	15000	trepip	Tree Pipit	0.9833

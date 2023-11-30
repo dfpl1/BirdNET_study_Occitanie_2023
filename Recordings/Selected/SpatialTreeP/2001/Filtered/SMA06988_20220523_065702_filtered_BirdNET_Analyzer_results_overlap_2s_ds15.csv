@@ -1,0 +1,165 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	stonec4	European Stonechat	0.3681
+2	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.3219
+3	Spectrogram 1	1	0	3.0	150	15000	dunnoc1	Dunnock	0.1097
+4	Spectrogram 1	1	0	3.0	150	15000	eaywag1	Western Yellow Wagtail	0.1040
+5	Spectrogram 1	1	1.0	4.0	150	15000	trepip	Tree Pipit	0.4826
+6	Spectrogram 1	1	1.0	4.0	150	15000	watpip1	Water Pipit	0.1415
+7	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.4325
+8	Spectrogram 1	1	2.0	5.0	150	15000	eurwry	Eurasian Wryneck	0.1474
+9	Spectrogram 1	1	2.0	5.0	150	15000	grywag	Gray Wagtail	0.1095
+10	Spectrogram 1	1	2.0	5.0	150	15000	watpip1	Water Pipit	0.1091
+11	Spectrogram 1	1	3.0	6.0	150	15000	trepip	Tree Pipit	0.2239
+12	Spectrogram 1	1	3.0	6.0	150	15000	watpip1	Water Pipit	0.1519
+13	Spectrogram 1	1	4.0	7.0	150	15000	trepip	Tree Pipit	0.5957
+14	Spectrogram 1	1	4.0	7.0	150	15000	cirbun1	Cirl Bunting	0.2421
+15	Spectrogram 1	1	4.0	7.0	150	15000	watpip1	Water Pipit	0.1438
+16	Spectrogram 1	1	4.0	7.0	150	15000	yellow2	Yellowhammer	0.1251
+17	Spectrogram 1	1	4.0	7.0	150	15000	stonec4	European Stonechat	0.1098
+18	Spectrogram 1	1	5.0	8.0	150	15000	trepip	Tree Pipit	0.9282
+19	Spectrogram 1	1	5.0	8.0	150	15000	watpip1	Water Pipit	0.1846
+20	Spectrogram 1	1	6.0	9.0	150	15000	trepip	Tree Pipit	0.8798
+21	Spectrogram 1	1	6.0	9.0	150	15000	watpip1	Water Pipit	0.1031
+22	Spectrogram 1	1	7.0	10.0	150	15000	trepip	Tree Pipit	0.5289
+23	Spectrogram 1	1	7.0	10.0	150	15000	stonec4	European Stonechat	0.2683
+24	Spectrogram 1	1	7.0	10.0	150	15000	dunnoc1	Dunnock	0.1639
+25	Spectrogram 1	1	8.0	11.0	150	15000	dunnoc1	Dunnock	0.7407
+26	Spectrogram 1	1	8.0	11.0	150	15000	stonec4	European Stonechat	0.3144
+27	Spectrogram 1	1	9.0	12.0	150	15000	dunnoc1	Dunnock	0.8237
+28	Spectrogram 1	1	9.0	12.0	150	15000	stonec4	European Stonechat	0.1430
+29	Spectrogram 1	1	10.0	13.0	150	15000	dunnoc1	Dunnock	0.7933
+30	Spectrogram 1	1	11.0	14.0	150	15000	dunnoc1	Dunnock	0.7265
+31	Spectrogram 1	1	11.0	14.0	150	15000	stonec4	European Stonechat	0.1889
+32	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.5576
+33	Spectrogram 1	1	12.0	15.0	150	15000	eurwry	Eurasian Wryneck	0.1690
+34	Spectrogram 1	1	12.0	15.0	150	15000	watpip1	Water Pipit	0.1362
+35	Spectrogram 1	1	13.0	16.0	150	15000	dunnoc1	Dunnock	0.6519
+36	Spectrogram 1	1	13.0	16.0	150	15000	grewhi1	Greater Whitethroat	0.1117
+37	Spectrogram 1	1	13.0	16.0	150	15000	rocbun1	Rock Bunting	0.1063
+38	Spectrogram 1	1	14.0	17.0	150	15000	dunnoc1	Dunnock	0.8842
+39	Spectrogram 1	1	15.0	18.0	150	15000	dunnoc1	Dunnock	0.9106
+40	Spectrogram 1	1	16.0	19.0	150	15000	dunnoc1	Dunnock	0.8305
+41	Spectrogram 1	1	16.0	19.0	150	15000	stonec4	European Stonechat	0.1445
+42	Spectrogram 1	1	17.0	20.0	150	15000	dunnoc1	Dunnock	0.4513
+43	Spectrogram 1	1	17.0	20.0	150	15000	stonec4	European Stonechat	0.3195
+44	Spectrogram 1	1	17.0	20.0	150	15000	trepip	Tree Pipit	0.1173
+45	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.7064
+46	Spectrogram 1	1	18.0	21.0	150	15000	watpip1	Water Pipit	0.3081
+47	Spectrogram 1	1	19.0	22.0	150	15000	dunnoc1	Dunnock	0.5352
+48	Spectrogram 1	1	19.0	22.0	150	15000	trepip	Tree Pipit	0.1833
+49	Spectrogram 1	1	19.0	22.0	150	15000	stonec4	European Stonechat	0.1600
+50	Spectrogram 1	1	20.0	23.0	150	15000	dunnoc1	Dunnock	0.5184
+51	Spectrogram 1	1	20.0	23.0	150	15000	stonec4	European Stonechat	0.1272
+52	Spectrogram 1	1	21.0	24.0	150	15000	dunnoc1	Dunnock	0.8138
+53	Spectrogram 1	1	21.0	24.0	150	15000	stonec4	European Stonechat	0.1034
+54	Spectrogram 1	1	22.0	25.0	150	15000	dunnoc1	Dunnock	0.7969
+55	Spectrogram 1	1	22.0	25.0	150	15000	stonec4	European Stonechat	0.1721
+56	Spectrogram 1	1	23.0	26.0	150	15000	dunnoc1	Dunnock	0.6709
+57	Spectrogram 1	1	23.0	26.0	150	15000	stonec4	European Stonechat	0.2817
+58	Spectrogram 1	1	24.0	27.0	150	15000	stonec4	European Stonechat	0.2231
+59	Spectrogram 1	1	24.0	27.0	150	15000	watpip1	Water Pipit	0.1582
+60	Spectrogram 1	1	24.0	27.0	150	15000	reebun	Reed Bunting	0.1563
+61	Spectrogram 1	1	24.0	27.0	150	15000	norwhe	Northern Wheatear	0.1493
+62	Spectrogram 1	1	24.0	27.0	150	15000	whinch1	Whinchat	0.1204
+63	Spectrogram 1	1	24.0	27.0	150	15000	eaywag1	Western Yellow Wagtail	0.1008
+64	Spectrogram 1	1	25.0	28.0	150	15000	dunnoc1	Dunnock	0.8355
+65	Spectrogram 1	1	25.0	28.0	150	15000	stonec4	European Stonechat	0.1743
+66	Spectrogram 1	1	26.0	29.0	150	15000	dunnoc1	Dunnock	0.8521
+67	Spectrogram 1	1	26.0	29.0	150	15000	stonec4	European Stonechat	0.2231
+68	Spectrogram 1	1	27.0	30.0	150	15000	dunnoc1	Dunnock	0.9172
+69	Spectrogram 1	1	28.0	31.0	150	15000	dunnoc1	Dunnock	0.8259
+70	Spectrogram 1	1	29.0	32.0	150	15000	dunnoc1	Dunnock	0.8196
+71	Spectrogram 1	1	29.0	32.0	150	15000	stonec4	European Stonechat	0.2112
+72	Spectrogram 1	1	30.0	33.0	150	15000	trepip	Tree Pipit	0.3812
+73	Spectrogram 1	1	30.0	33.0	150	15000	watpip1	Water Pipit	0.1821
+74	Spectrogram 1	1	30.0	33.0	150	15000	yellow2	Yellowhammer	0.1100
+75	Spectrogram 1	1	31.0	34.0	150	15000	trepip	Tree Pipit	0.6551
+76	Spectrogram 1	1	31.0	34.0	150	15000	watpip1	Water Pipit	0.3784
+77	Spectrogram 1	1	32.0	35.0	150	15000	trepip	Tree Pipit	0.8063
+78	Spectrogram 1	1	32.0	35.0	150	15000	watpip1	Water Pipit	0.3937
+79	Spectrogram 1	1	33.0	36.0	150	15000	trepip	Tree Pipit	0.8829
+80	Spectrogram 1	1	33.0	36.0	150	15000	watpip1	Water Pipit	0.2329
+81	Spectrogram 1	1	34.0	37.0	150	15000	trepip	Tree Pipit	0.5371
+82	Spectrogram 1	1	34.0	37.0	150	15000	watpip1	Water Pipit	0.2115
+83	Spectrogram 1	1	34.0	37.0	150	15000	grywag	Gray Wagtail	0.1201
+84	Spectrogram 1	1	35.0	38.0	150	15000	trepip	Tree Pipit	0.2114
+85	Spectrogram 1	1	35.0	38.0	150	15000	watpip1	Water Pipit	0.1212
+86	Spectrogram 1	1	35.0	38.0	150	15000	grywag	Gray Wagtail	0.1043
+87	Spectrogram 1	1	36.0	39.0	150	15000	blared1	Black Redstart	0.1397
+88	Spectrogram 1	1	36.0	39.0	150	15000	stonec4	European Stonechat	0.1328
+89	Spectrogram 1	1	36.0	39.0	150	15000	trepip	Tree Pipit	0.1262
+90	Spectrogram 1	1	36.0	39.0	150	15000	watpip1	Water Pipit	0.1235
+91	Spectrogram 1	1	36.0	39.0	150	15000	reebun	Reed Bunting	0.1071
+92	Spectrogram 1	1	37.0	40.0	150	15000	trepip	Tree Pipit	0.3133
+93	Spectrogram 1	1	37.0	40.0	150	15000	stonec4	European Stonechat	0.1454
+94	Spectrogram 1	1	38.0	41.0	150	15000	trepip	Tree Pipit	0.4689
+95	Spectrogram 1	1	38.0	41.0	150	15000	stonec4	European Stonechat	0.4197
+96	Spectrogram 1	1	38.0	41.0	150	15000	watpip1	Water Pipit	0.1788
+97	Spectrogram 1	1	39.0	42.0	150	15000	trepip	Tree Pipit	0.4943
+98	Spectrogram 1	1	39.0	42.0	150	15000	stonec4	European Stonechat	0.2163
+99	Spectrogram 1	1	39.0	42.0	150	15000	watpip1	Water Pipit	0.1702
+100	Spectrogram 1	1	39.0	42.0	150	15000	eaywag1	Western Yellow Wagtail	0.1140
+101	Spectrogram 1	1	40.0	43.0	150	15000	stonec4	European Stonechat	0.3018
+102	Spectrogram 1	1	40.0	43.0	150	15000	trepip	Tree Pipit	0.2099
+103	Spectrogram 1	1	40.0	43.0	150	15000	citfin1	Citril Finch	0.1638
+104	Spectrogram 1	1	41.0	44.0	150	15000	eurwry	Eurasian Wryneck	0.1401
+105	Spectrogram 1	1	41.0	44.0	150	15000	trepip	Tree Pipit	0.1068
+106	Spectrogram 1	1	41.0	44.0	150	15000	yellow2	Yellowhammer	0.1011
+107	Spectrogram 1	1	42.0	45.0	150	15000	dunnoc1	Dunnock	0.2201
+108	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1619
+109	Spectrogram 1	1	42.0	45.0	150	15000	stonec4	European Stonechat	0.1499
+110	Spectrogram 1	1	42.0	45.0	150	15000	eurwry	Eurasian Wryneck	0.1006
+111	Spectrogram 1	1	43.0	46.0	150	15000	dunnoc1	Dunnock	0.3624
+112	Spectrogram 1	1	43.0	46.0	150	15000	trepip	Tree Pipit	0.1203
+113	Spectrogram 1	1	43.0	46.0	150	15000	stonec4	European Stonechat	0.1036
+114	Spectrogram 1	1	44.0	47.0	150	15000	dunnoc1	Dunnock	0.7755
+115	Spectrogram 1	1	44.0	47.0	150	15000	stonec4	European Stonechat	0.1859
+116	Spectrogram 1	1	44.0	47.0	150	15000	yellow2	Yellowhammer	0.1044
+117	Spectrogram 1	1	45.0	48.0	150	15000	dunnoc1	Dunnock	0.8844
+118	Spectrogram 1	1	45.0	48.0	150	15000	stonec4	European Stonechat	0.1383
+119	Spectrogram 1	1	46.0	49.0	150	15000	dunnoc1	Dunnock	0.8934
+120	Spectrogram 1	1	47.0	50.0	150	15000	dunnoc1	Dunnock	0.9004
+121	Spectrogram 1	1	48.0	51.0	150	15000	dunnoc1	Dunnock	0.7953
+122	Spectrogram 1	1	49.0	52.0	150	15000	dunnoc1	Dunnock	0.5620
+123	Spectrogram 1	1	49.0	52.0	150	15000	stonec4	European Stonechat	0.2142
+124	Spectrogram 1	1	49.0	52.0	150	15000	grewhi1	Greater Whitethroat	0.1352
+125	Spectrogram 1	1	50.0	53.0	150	15000	trepip	Tree Pipit	0.2946
+126	Spectrogram 1	1	50.0	53.0	150	15000	reebun	Reed Bunting	0.1948
+127	Spectrogram 1	1	50.0	53.0	150	15000	stonec4	European Stonechat	0.1217
+128	Spectrogram 1	1	50.0	53.0	150	15000	watpip1	Water Pipit	0.1213
+129	Spectrogram 1	1	51.0	54.0	150	15000	trepip	Tree Pipit	0.7103
+130	Spectrogram 1	1	51.0	54.0	150	15000	watpip1	Water Pipit	0.2036
+131	Spectrogram 1	1	52.0	55.0	150	15000	trepip	Tree Pipit	0.1528
+132	Spectrogram 1	1	52.0	55.0	150	15000	dunnoc1	Dunnock	0.1188
+133	Spectrogram 1	1	52.0	55.0	150	15000	stonec4	European Stonechat	0.1086
+134	Spectrogram 1	1	53.0	56.0	150	15000	dunnoc1	Dunnock	0.3756
+135	Spectrogram 1	1	53.0	56.0	150	15000	trepip	Tree Pipit	0.2352
+136	Spectrogram 1	1	53.0	56.0	150	15000	stonec4	European Stonechat	0.1494
+137	Spectrogram 1	1	54.0	57.0	150	15000	dunnoc1	Dunnock	0.6349
+138	Spectrogram 1	1	54.0	57.0	150	15000	stonec4	European Stonechat	0.3948
+139	Spectrogram 1	1	55.0	58.0	150	15000	stonec4	European Stonechat	0.6303
+140	Spectrogram 1	1	55.0	58.0	150	15000	dunnoc1	Dunnock	0.4474
+141	Spectrogram 1	1	55.0	58.0	150	15000	thelar1	Thekla's Lark	0.1223
+142	Spectrogram 1	1	56.0	59.0	150	15000	stonec4	European Stonechat	0.2638
+143	Spectrogram 1	1	56.0	59.0	150	15000	eurwry	Eurasian Wryneck	0.2346
+144	Spectrogram 1	1	56.0	59.0	150	15000	thelar1	Thekla's Lark	0.2123
+145	Spectrogram 1	1	56.0	59.0	150	15000	grewhi1	Greater Whitethroat	0.1230
+146	Spectrogram 1	1	56.0	59.0	150	15000	comqua1	Common Quail	0.1184
+147	Spectrogram 1	1	56.0	59.0	150	15000	yellow2	Yellowhammer	0.1108
+148	Spectrogram 1	1	56.0	59.0	150	15000	whinch1	Whinchat	0.1099
+149	Spectrogram 1	1	57.0	60.0	150	15000	dunnoc1	Dunnock	0.4369
+150	Spectrogram 1	1	57.0	60.0	150	15000	stonec4	European Stonechat	0.1873
+151	Spectrogram 1	1	57.0	60.0	150	15000	rocbun1	Rock Bunting	0.1471
+152	Spectrogram 1	1	57.0	60.0	150	15000	grewhi1	Greater Whitethroat	0.1139
+153	Spectrogram 1	1	57.0	60.0	150	15000	cirbun1	Cirl Bunting	0.1044
+154	Spectrogram 1	1	57.0	60.0	150	15000	yellow2	Yellowhammer	0.1037
+155	Spectrogram 1	1	58.0	61.0	150	15000	dunnoc1	Dunnock	0.5677
+156	Spectrogram 1	1	58.0	61.0	150	15000	stonec4	European Stonechat	0.2134
+157	Spectrogram 1	1	58.0	61.0	150	15000	whinch1	Whinchat	0.1370
+158	Spectrogram 1	1	58.0	61.0	150	15000	rocbun1	Rock Bunting	0.1019
+159	Spectrogram 1	1	58.0	61.0	150	15000	eurbul	Eurasian Bullfinch	0.1008
+160	Spectrogram 1	1	59.0	62.0	150	15000	dunnoc1	Dunnock	0.5780
+161	Spectrogram 1	1	59.0	62.0	150	15000	winwre4	Eurasian Wren	0.1264
+162	Spectrogram 1	1	59.0	62.0	150	15000	rocbun1	Rock Bunting	0.1103
+163	Spectrogram 1	1	59.0	62.0	150	15000	stonec4	European Stonechat	0.1083
+164	Spectrogram 1	1	59.0	62.0	150	15000	whinch1	Whinchat	0.1040

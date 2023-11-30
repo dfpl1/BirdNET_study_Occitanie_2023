@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	watpip1	Water Pipit	0.7032
+2	Spectrogram 1	1	4.0	7.0	150	15000	watpip1	Water Pipit	0.1931
+3	Spectrogram 1	1	10.0	13.0	150	15000	lirplo	Little Ringed Plover	0.1795
+4	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.5837
+5	Spectrogram 1	1	38.0	41.0	150	15000	carcro1	Carrion Crow	0.5079

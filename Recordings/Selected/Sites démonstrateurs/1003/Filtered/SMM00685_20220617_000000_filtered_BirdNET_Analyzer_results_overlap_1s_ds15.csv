@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	18.0	21.0	150	15000	goldcr1	Goldcrest	0.1151
+2	Spectrogram 1	1	22.0	25.0	150	15000	tawowl1	Tawny Owl	0.1245
+3	Spectrogram 1	1	26.0	29.0	150	15000	tawowl1	Tawny Owl	0.1020
+4	Spectrogram 1	1	28.0	31.0	150	15000	goldcr1	Goldcrest	0.1160
+5	Spectrogram 1	1	32.0	35.0	150	15000	grnsan	Green Sandpiper	0.1099
+6	Spectrogram 1	1	36.0	39.0	150	15000	grnsan	Green Sandpiper	0.1075
+7	Spectrogram 1	1	54.0	57.0	150	15000	goldcr1	Goldcrest	0.1151
+8	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.1071

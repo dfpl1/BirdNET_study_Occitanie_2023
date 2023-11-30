@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.100867	9.279737	3170.4	8062.9	Phylloscopus collybita
+2	Spectrogram 1	1	2.488045	2.740212	7097.4	9907.4	Unidentified bird
+3	Spectrogram 1	1	3.589174	4.665085	3468.9	5539.6	Sylvia atricapilla
+4	Spectrogram 1	1	9.128437	9.397415	7097.4	9684.6	Unidentified bird
+5	Spectrogram 1	1	15.483039	15.827667	7264.6	9795.4	Unidentified bird
+6	Spectrogram 1	1	21.980536	22.224298	7015.1	9253.0	Unidentified bird
+7	Spectrogram 1	1	26.628811	26.864166	7435.5	9466.5	Unidentified bird
+8	Spectrogram 1	1	33.874402	36.564181	1831.6	9907.4	Erithacus rubecula
+9	Spectrogram 1	1	37.421548	37.791393	4293.1	5606.2	Unidentified bird
+10	Spectrogram 1	1	38.127615	38.413404	7264.6	10020.5	Unidentified bird
+11	Spectrogram 1	1	40.691311	41.019127	5879.7	8062.9	Unidentified bird
+12	Spectrogram 1	1	41.405783	42.616184	6773.3	10020.5	Unidentified bird
+13	Spectrogram 1	1	44.145995	60.000000	1391.4	5092.9	Leiopicus medius
+14	Spectrogram 1	1	44.314106	45.339585	7097.4	9466.5	Unidentified bird
+15	Spectrogram 1	1	49.323819	50.366109	6539.1	9684.6	Unidentified bird
+16	Spectrogram 1	1	51.416804	53.593843	5741.5	10020.5	Unidentified bird
+17	Spectrogram 1	1	54.367155	55.291766	2463.6	5280.3	Unidentified bird
+18	Spectrogram 1	1	58.511095	58.990212	3170.4	4621.4	Unidentified bird
+19	Spectrogram 1	1	59.889607	60.000000	6694.4	10134.9	Unidentified bird

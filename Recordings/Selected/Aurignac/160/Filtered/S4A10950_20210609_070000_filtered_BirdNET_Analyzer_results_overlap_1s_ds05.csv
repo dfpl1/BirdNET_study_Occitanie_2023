@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	28.0	31.0	150	15000	corbun1	Corn Bunting	0.2677
+2	Spectrogram 1	1	48.0	51.0	150	15000	yellow2	Yellowhammer	0.1683
+3	Spectrogram 1	1	56.0	59.0	150	15000	woolar1	Wood Lark	0.3450
+4	Spectrogram 1	1	56.0	59.0	150	15000	wooshr1	Woodchat Shrike	0.1106

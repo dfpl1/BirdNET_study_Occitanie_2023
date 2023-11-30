@@ -1,0 +1,47 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	tawowl1	Tawny Owl	0.1315
+2	Spectrogram 1	1	3.0	6.0	150	15000	tawowl1	Tawny Owl	0.1227
+3	Spectrogram 1	1	3.0	6.0	150	15000	eurrob1	European Robin	0.1060
+4	Spectrogram 1	1	6.0	9.0	150	15000	eurrob1	European Robin	0.1365
+5	Spectrogram 1	1	6.0	9.0	150	15000	sonthr1	Song Thrush	0.1218
+6	Spectrogram 1	1	6.0	9.0	150	15000	goldcr1	Goldcrest	0.1137
+7	Spectrogram 1	1	6.0	9.0	150	15000	eurbla	Eurasian Blackbird	0.1050
+8	Spectrogram 1	1	9.0	12.0	150	15000	eurrob1	European Robin	0.1395
+9	Spectrogram 1	1	9.0	12.0	150	15000	tawowl1	Tawny Owl	0.1229
+10	Spectrogram 1	1	9.0	12.0	150	15000	sonthr1	Song Thrush	0.1205
+11	Spectrogram 1	1	9.0	12.0	150	15000	goldcr1	Goldcrest	0.1146
+12	Spectrogram 1	1	12.0	15.0	150	15000	eurrob1	European Robin	0.1279
+13	Spectrogram 1	1	12.0	15.0	150	15000	goldcr1	Goldcrest	0.1103
+14	Spectrogram 1	1	12.0	15.0	150	15000	tawowl1	Tawny Owl	0.1079
+15	Spectrogram 1	1	15.0	18.0	150	15000	tawowl1	Tawny Owl	0.1301
+16	Spectrogram 1	1	18.0	21.0	150	15000	eurrob1	European Robin	0.1786
+17	Spectrogram 1	1	18.0	21.0	150	15000	sonthr1	Song Thrush	0.1781
+18	Spectrogram 1	1	18.0	21.0	150	15000	goldcr1	Goldcrest	0.1562
+19	Spectrogram 1	1	18.0	21.0	150	15000	eurbla	Eurasian Blackbird	0.1240
+20	Spectrogram 1	1	21.0	24.0	150	15000	sonthr1	Song Thrush	0.1642
+21	Spectrogram 1	1	21.0	24.0	150	15000	eurrob1	European Robin	0.1555
+22	Spectrogram 1	1	21.0	24.0	150	15000	eurbla	Eurasian Blackbird	0.1409
+23	Spectrogram 1	1	21.0	24.0	150	15000	goldcr1	Goldcrest	0.1217
+24	Spectrogram 1	1	24.0	27.0	150	15000	tawowl1	Tawny Owl	0.1272
+25	Spectrogram 1	1	30.0	33.0	150	15000	tawowl1	Tawny Owl	0.1582
+26	Spectrogram 1	1	33.0	36.0	150	15000	sonthr1	Song Thrush	0.1691
+27	Spectrogram 1	1	33.0	36.0	150	15000	eurrob1	European Robin	0.1549
+28	Spectrogram 1	1	33.0	36.0	150	15000	eurbla	Eurasian Blackbird	0.1478
+29	Spectrogram 1	1	33.0	36.0	150	15000	goldcr1	Goldcrest	0.1292
+30	Spectrogram 1	1	36.0	39.0	150	15000	tawowl1	Tawny Owl	0.1678
+31	Spectrogram 1	1	39.0	42.0	150	15000	tawowl1	Tawny Owl	0.1118
+32	Spectrogram 1	1	39.0	42.0	150	15000	sonthr1	Song Thrush	0.1029
+33	Spectrogram 1	1	42.0	45.0	150	15000	graher1	Gray Heron	0.1110
+34	Spectrogram 1	1	45.0	48.0	150	15000	tawowl1	Tawny Owl	0.1068
+35	Spectrogram 1	1	48.0	51.0	150	15000	sonthr1	Song Thrush	0.1742
+36	Spectrogram 1	1	48.0	51.0	150	15000	eurrob1	European Robin	0.1398
+37	Spectrogram 1	1	48.0	51.0	150	15000	eurbla	Eurasian Blackbird	0.1362
+38	Spectrogram 1	1	48.0	51.0	150	15000	goldcr1	Goldcrest	0.1234
+39	Spectrogram 1	1	51.0	54.0	150	15000	sonthr1	Song Thrush	0.1765
+40	Spectrogram 1	1	51.0	54.0	150	15000	eurrob1	European Robin	0.1457
+41	Spectrogram 1	1	51.0	54.0	150	15000	goldcr1	Goldcrest	0.1317
+42	Spectrogram 1	1	51.0	54.0	150	15000	eurbla	Eurasian Blackbird	0.1060
+43	Spectrogram 1	1	54.0	57.0	150	15000	sonthr1	Song Thrush	0.1530
+44	Spectrogram 1	1	54.0	57.0	150	15000	eurrob1	European Robin	0.1333
+45	Spectrogram 1	1	54.0	57.0	150	15000	goldcr1	Goldcrest	0.1254
+46	Spectrogram 1	1	54.0	57.0	150	15000	eurbla	Eurasian Blackbird	0.1166

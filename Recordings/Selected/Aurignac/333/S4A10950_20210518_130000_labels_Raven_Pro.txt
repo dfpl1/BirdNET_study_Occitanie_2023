@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	4.740735	2166.1	7349.6	Curruca communis
+2	Spectrogram 1	1	0.218545	0.975045	1874.5	4904.2	Unidentified bird
+3	Spectrogram 1	1	1.008667	2.143418	6339.3	9143.3	Regulus ignicapilla
+4	Spectrogram 1	1	6.640392	28.217461	1740.0	10112.1	Curruca communis
+5	Spectrogram 1	1	8.523237	11.851838	358.3	 795.1	Streptopelia turtur
+6	Spectrogram 1	1	9.809287	12.070383	6929.1	8755.1	Regulus ignicapilla
+7	Spectrogram 1	1	20.534780	22.619359	6377.5	8907.5	Regulus ignicapilla
+8	Spectrogram 1	1	25.947960	26.805327	1810.4	4243.8	Sylvia atricapilla
+9	Spectrogram 1	1	28.343545	29.932195	1744.5	3745.2	Unidentified bird
+10	Spectrogram 1	1	30.310445	32.521107	6191.9	8532.1	Regulus ignicapilla
+11	Spectrogram 1	1	31.167812	31.596496	3804.7	7276.6	Unidentified bird
+12	Spectrogram 1	1	31.546062	35.236103	1680.4	4798.3	Sylvia atricapilla
+13	Spectrogram 1	1	38.825276	43.902234	1912.5	7276.6	Curruca communis
+14	Spectrogram 1	1	40.077705	41.826061	1675.4	4267.0	Sylvia atricapilla
+15	Spectrogram 1	1	41.355350	43.414712	6665.3	8780.7	Regulus ignicapilla
+16	Spectrogram 1	1	46.096085	48.180663	1909.3	4071.1	Sylvia atricapilla
+17	Spectrogram 1	1	51.273909	52.955021	6377.5	8532.1	Regulus ignicapilla
+18	Spectrogram 1	1	53.366893	55.316983	2091.9	4178.5	Sylvia atricapilla

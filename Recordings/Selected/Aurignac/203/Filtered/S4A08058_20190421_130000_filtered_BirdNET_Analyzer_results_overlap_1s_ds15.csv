@@ -1,0 +1,117 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	combuz1	Common Buzzard	0.3196
+2	Spectrogram 1	1	0	3.0	150	15000	woolar1	Wood Lark	0.2460
+3	Spectrogram 1	1	0	3.0	150	15000	rebshr1	Red-backed Shrike	0.1460
+4	Spectrogram 1	1	2.0	5.0	150	15000	combuz1	Common Buzzard	0.6723
+5	Spectrogram 1	1	2.0	5.0	150	15000	rebshr1	Red-backed Shrike	0.1719
+6	Spectrogram 1	1	4.0	7.0	150	15000	woolar1	Wood Lark	0.7279
+7	Spectrogram 1	1	4.0	7.0	150	15000	combuz1	Common Buzzard	0.2553
+8	Spectrogram 1	1	4.0	7.0	150	15000	thelar1	Thekla's Lark	0.1975
+9	Spectrogram 1	1	4.0	7.0	150	15000	rebshr1	Red-backed Shrike	0.1327
+10	Spectrogram 1	1	4.0	7.0	150	15000	crelar2	Crested Lark	0.1179
+11	Spectrogram 1	1	6.0	9.0	150	15000	combuz1	Common Buzzard	0.6891
+12	Spectrogram 1	1	6.0	9.0	150	15000	woolar1	Wood Lark	0.1664
+13	Spectrogram 1	1	8.0	11.0	150	15000	woolar1	Wood Lark	0.2766
+14	Spectrogram 1	1	8.0	11.0	150	15000	lirplo	Little Ringed Plover	0.1624
+15	Spectrogram 1	1	8.0	11.0	150	15000	reebun	Reed Bunting	0.1315
+16	Spectrogram 1	1	8.0	11.0	150	15000	whinch1	Whinchat	0.1234
+17	Spectrogram 1	1	10.0	13.0	150	15000	lirplo	Little Ringed Plover	0.3932
+18	Spectrogram 1	1	10.0	13.0	150	15000	woolar1	Wood Lark	0.2360
+19	Spectrogram 1	1	10.0	13.0	150	15000	meapip1	Meadow Pipit	0.1466
+20	Spectrogram 1	1	10.0	13.0	150	15000	whinch1	Whinchat	0.1451
+21	Spectrogram 1	1	10.0	13.0	150	15000	comshe	Common Shelduck	0.1345
+22	Spectrogram 1	1	10.0	13.0	150	15000	reebun	Reed Bunting	0.1168
+23	Spectrogram 1	1	12.0	15.0	150	15000	comqua1	Common Quail	0.1716
+24	Spectrogram 1	1	12.0	15.0	150	15000	reebun	Reed Bunting	0.1457
+25	Spectrogram 1	1	12.0	15.0	150	15000	whinch1	Whinchat	0.1311
+26	Spectrogram 1	1	12.0	15.0	150	15000	corbun1	Corn Bunting	0.1192
+27	Spectrogram 1	1	12.0	15.0	150	15000	skylar	Eurasian Skylark	0.1005
+28	Spectrogram 1	1	14.0	17.0	150	15000	combuz1	Common Buzzard	0.3570
+29	Spectrogram 1	1	14.0	17.0	150	15000	woolar1	Wood Lark	0.1517
+30	Spectrogram 1	1	14.0	17.0	150	15000	lirplo	Little Ringed Plover	0.1106
+31	Spectrogram 1	1	14.0	17.0	150	15000	rebshr1	Red-backed Shrike	0.1023
+32	Spectrogram 1	1	16.0	19.0	150	15000	combuz1	Common Buzzard	0.4682
+33	Spectrogram 1	1	16.0	19.0	150	15000	eurjay1	Eurasian Jay	0.1368
+34	Spectrogram 1	1	18.0	21.0	150	15000	combuz1	Common Buzzard	0.5195
+35	Spectrogram 1	1	18.0	21.0	150	15000	eurjay1	Eurasian Jay	0.2613
+36	Spectrogram 1	1	20.0	23.0	150	15000	combuz1	Common Buzzard	0.7021
+37	Spectrogram 1	1	20.0	23.0	150	15000	eurjay1	Eurasian Jay	0.2968
+38	Spectrogram 1	1	22.0	25.0	150	15000	woolar1	Wood Lark	0.4275
+39	Spectrogram 1	1	22.0	25.0	150	15000	combuz1	Common Buzzard	0.1702
+40	Spectrogram 1	1	22.0	25.0	150	15000	comred1	Common Redshank	0.1442
+41	Spectrogram 1	1	22.0	25.0	150	15000	corplo	Common Ringed Plover	0.1061
+42	Spectrogram 1	1	24.0	27.0	150	15000	combuz1	Common Buzzard	0.4951
+43	Spectrogram 1	1	24.0	27.0	150	15000	woolar1	Wood Lark	0.3552
+44	Spectrogram 1	1	24.0	27.0	150	15000	eurjay1	Eurasian Jay	0.1785
+45	Spectrogram 1	1	24.0	27.0	150	15000	lirplo	Little Ringed Plover	0.1690
+46	Spectrogram 1	1	26.0	29.0	150	15000	combuz1	Common Buzzard	0.4320
+47	Spectrogram 1	1	26.0	29.0	150	15000	woolar1	Wood Lark	0.1893
+48	Spectrogram 1	1	28.0	31.0	150	15000	woolar1	Wood Lark	0.6243
+49	Spectrogram 1	1	28.0	31.0	150	15000	lirplo	Little Ringed Plover	0.1611
+50	Spectrogram 1	1	28.0	31.0	150	15000	litgre1	Little Grebe	0.1024
+51	Spectrogram 1	1	30.0	33.0	150	15000	comqua1	Common Quail	0.1366
+52	Spectrogram 1	1	30.0	33.0	150	15000	litgre1	Little Grebe	0.1363
+53	Spectrogram 1	1	30.0	33.0	150	15000	lirplo	Little Ringed Plover	0.1251
+54	Spectrogram 1	1	32.0	35.0	150	15000	woolar1	Wood Lark	0.5412
+55	Spectrogram 1	1	32.0	35.0	150	15000	trepip	Tree Pipit	0.1520
+56	Spectrogram 1	1	32.0	35.0	150	15000	cirbun1	Cirl Bunting	0.1424
+57	Spectrogram 1	1	32.0	35.0	150	15000	melwar1	Melodious Warbler	0.1249
+58	Spectrogram 1	1	32.0	35.0	150	15000	corbun1	Corn Bunting	0.1227
+59	Spectrogram 1	1	32.0	35.0	150	15000	comqua1	Common Quail	0.1173
+60	Spectrogram 1	1	32.0	35.0	150	15000	whinch1	Whinchat	0.1062
+61	Spectrogram 1	1	32.0	35.0	150	15000	tawpip1	Tawny Pipit	0.1033
+62	Spectrogram 1	1	32.0	35.0	150	15000	meapip1	Meadow Pipit	0.1003
+63	Spectrogram 1	1	34.0	37.0	150	15000	whinch1	Whinchat	0.2056
+64	Spectrogram 1	1	34.0	37.0	150	15000	lirplo	Little Ringed Plover	0.1918
+65	Spectrogram 1	1	34.0	37.0	150	15000	thelar1	Thekla's Lark	0.1726
+66	Spectrogram 1	1	34.0	37.0	150	15000	cirbun1	Cirl Bunting	0.1649
+67	Spectrogram 1	1	34.0	37.0	150	15000	reebun	Reed Bunting	0.1465
+68	Spectrogram 1	1	34.0	37.0	150	15000	woolar1	Wood Lark	0.1461
+69	Spectrogram 1	1	34.0	37.0	150	15000	tawpip1	Tawny Pipit	0.1450
+70	Spectrogram 1	1	34.0	37.0	150	15000	trepip	Tree Pipit	0.1305
+71	Spectrogram 1	1	34.0	37.0	150	15000	melwar1	Melodious Warbler	0.1287
+72	Spectrogram 1	1	34.0	37.0	150	15000	comqua1	Common Quail	0.1246
+73	Spectrogram 1	1	34.0	37.0	150	15000	crelar2	Crested Lark	0.1222
+74	Spectrogram 1	1	34.0	37.0	150	15000	rebshr1	Red-backed Shrike	0.1175
+75	Spectrogram 1	1	38.0	41.0	150	15000	litgre1	Little Grebe	0.1531
+76	Spectrogram 1	1	38.0	41.0	150	15000	reebun	Reed Bunting	0.1351
+77	Spectrogram 1	1	40.0	43.0	150	15000	reebun	Reed Bunting	0.1086
+78	Spectrogram 1	1	42.0	45.0	150	15000	woolar1	Wood Lark	0.4334
+79	Spectrogram 1	1	42.0	45.0	150	15000	cirbun1	Cirl Bunting	0.1035
+80	Spectrogram 1	1	44.0	47.0	150	15000	eurjay1	Eurasian Jay	0.4015
+81	Spectrogram 1	1	44.0	47.0	150	15000	woolar1	Wood Lark	0.1512
+82	Spectrogram 1	1	46.0	49.0	150	15000	eurjay1	Eurasian Jay	0.4782
+83	Spectrogram 1	1	48.0	51.0	150	15000	woolar1	Wood Lark	0.1756
+84	Spectrogram 1	1	50.0	53.0	150	15000	woolar1	Wood Lark	0.1475
+85	Spectrogram 1	1	50.0	53.0	150	15000	reebun	Reed Bunting	0.1158
+86	Spectrogram 1	1	50.0	53.0	150	15000	cirbun1	Cirl Bunting	0.1098
+87	Spectrogram 1	1	50.0	53.0	150	15000	litgre1	Little Grebe	0.1068
+88	Spectrogram 1	1	52.0	55.0	150	15000	eurjay1	Eurasian Jay	0.6748
+89	Spectrogram 1	1	52.0	55.0	150	15000	hoopoe	Eurasian Hoopoe	0.1255
+90	Spectrogram 1	1	54.0	57.0	150	15000	cirbun1	Cirl Bunting	0.1557
+91	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.1500
+92	Spectrogram 1	1	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.1344
+93	Spectrogram 1	1	54.0	57.0	150	15000	rebshr1	Red-backed Shrike	0.1324
+94	Spectrogram 1	1	54.0	57.0	150	15000	whinch1	Whinchat	0.1244
+95	Spectrogram 1	1	54.0	57.0	150	15000	woolar1	Wood Lark	0.1018
+96	Spectrogram 1	1	54.0	57.0	150	15000	yellow2	Yellowhammer	0.1009
+97	Spectrogram 1	1	56.0	59.0	150	15000	cirbun1	Cirl Bunting	0.2399
+98	Spectrogram 1	1	56.0	59.0	150	15000	trepip	Tree Pipit	0.2364
+99	Spectrogram 1	1	56.0	59.0	150	15000	woolar1	Wood Lark	0.2250
+100	Spectrogram 1	1	56.0	59.0	150	15000	rebshr1	Red-backed Shrike	0.2127
+101	Spectrogram 1	1	56.0	59.0	150	15000	webwar1	Western Bonelli's Warbler	0.1823
+102	Spectrogram 1	1	56.0	59.0	150	15000	hawfin	Hawfinch	0.1572
+103	Spectrogram 1	1	56.0	59.0	150	15000	litgre1	Little Grebe	0.1503
+104	Spectrogram 1	1	56.0	59.0	150	15000	eugori2	Eurasian Golden Oriole	0.1369
+105	Spectrogram 1	1	56.0	59.0	150	15000	rocbun1	Rock Bunting	0.1289
+106	Spectrogram 1	1	56.0	59.0	150	15000	comqua1	Common Quail	0.1281
+107	Spectrogram 1	1	56.0	59.0	150	15000	corbun1	Corn Bunting	0.1070
+108	Spectrogram 1	1	58.0	61.0	150	15000	woolar1	Wood Lark	0.2580
+109	Spectrogram 1	1	58.0	61.0	150	15000	eugori2	Eurasian Golden Oriole	0.1443
+110	Spectrogram 1	1	58.0	61.0	150	15000	rebshr1	Red-backed Shrike	0.1211
+111	Spectrogram 1	1	58.0	61.0	150	15000	trepip	Tree Pipit	0.1207
+112	Spectrogram 1	1	58.0	61.0	150	15000	eurbla	Eurasian Blackbird	0.1112
+113	Spectrogram 1	1	58.0	61.0	150	15000	grnsan	Green Sandpiper	0.1102
+114	Spectrogram 1	1	58.0	61.0	150	15000	comqua1	Common Quail	0.1059
+115	Spectrogram 1	1	58.0	61.0	150	15000	reebun	Reed Bunting	0.1039
+116	Spectrogram 1	1	58.0	61.0	150	15000	meapip1	Meadow Pipit	0.1027

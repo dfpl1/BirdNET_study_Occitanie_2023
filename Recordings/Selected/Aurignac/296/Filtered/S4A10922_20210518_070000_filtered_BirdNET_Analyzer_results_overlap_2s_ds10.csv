@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	firecr1	Common Firecrest	0.1655
+2	Spectrogram 1	1	2.0	5.0	150	15000	grswoo	Great Spotted Woodpecker	0.1409
+3	Spectrogram 1	1	3.0	6.0	150	15000	grswoo	Great Spotted Woodpecker	0.1520
+4	Spectrogram 1	1	3.0	6.0	150	15000	firecr1	Common Firecrest	0.1453
+5	Spectrogram 1	1	4.0	7.0	150	15000	grswoo	Great Spotted Woodpecker	0.2638
+6	Spectrogram 1	1	6.0	9.0	150	15000	comcha	Common Chaffinch	0.2736
+7	Spectrogram 1	1	6.0	9.0	150	15000	eupfly1	European Pied Flycatcher	0.1547
+8	Spectrogram 1	1	7.0	10.0	150	15000	comcha	Common Chaffinch	0.1665
+9	Spectrogram 1	1	8.0	11.0	150	15000	comcha	Common Chaffinch	0.1408
+10	Spectrogram 1	1	11.0	14.0	150	15000	grswoo	Great Spotted Woodpecker	0.3605
+11	Spectrogram 1	1	12.0	15.0	150	15000	grswoo	Great Spotted Woodpecker	0.2870
+12	Spectrogram 1	1	19.0	22.0	150	15000	grswoo	Great Spotted Woodpecker	0.2730
+13	Spectrogram 1	1	20.0	23.0	150	15000	grswoo	Great Spotted Woodpecker	0.3858
+14	Spectrogram 1	1	21.0	24.0	150	15000	grswoo	Great Spotted Woodpecker	0.3519
+15	Spectrogram 1	1	24.0	27.0	150	15000	comcha	Common Chaffinch	0.4929
+16	Spectrogram 1	1	25.0	28.0	150	15000	comcha	Common Chaffinch	0.2170
+17	Spectrogram 1	1	26.0	29.0	150	15000	eupfly1	European Pied Flycatcher	0.3005
+18	Spectrogram 1	1	27.0	30.0	150	15000	grswoo	Great Spotted Woodpecker	0.1234
+19	Spectrogram 1	1	28.0	31.0	150	15000	grswoo	Great Spotted Woodpecker	0.4377
+20	Spectrogram 1	1	29.0	32.0	150	15000	grswoo	Great Spotted Woodpecker	0.1184
+21	Spectrogram 1	1	30.0	33.0	150	15000	grswoo	Great Spotted Woodpecker	0.3159
+22	Spectrogram 1	1	31.0	34.0	150	15000	comcha	Common Chaffinch	0.1737
+23	Spectrogram 1	1	32.0	35.0	150	15000	comcha	Common Chaffinch	0.1331
+24	Spectrogram 1	1	33.0	36.0	150	15000	eupfly1	European Pied Flycatcher	0.1404
+25	Spectrogram 1	1	39.0	42.0	150	15000	comcha	Common Chaffinch	0.1490
+26	Spectrogram 1	1	41.0	44.0	150	15000	eupfly1	European Pied Flycatcher	0.3602
+27	Spectrogram 1	1	45.0	48.0	150	15000	misthr1	Mistle Thrush	0.1892
+28	Spectrogram 1	1	48.0	51.0	150	15000	comcha	Common Chaffinch	0.2112
+29	Spectrogram 1	1	49.0	52.0	150	15000	comcha	Common Chaffinch	0.1283
+30	Spectrogram 1	1	54.0	57.0	150	15000	eupfly1	European Pied Flycatcher	0.1508
+31	Spectrogram 1	1	55.0	58.0	150	15000	comcha	Common Chaffinch	0.1293
+32	Spectrogram 1	1	56.0	59.0	150	15000	comcha	Common Chaffinch	0.1218
+33	Spectrogram 1	1	57.0	60.0	150	15000	eupfly1	European Pied Flycatcher	0.2269
+34	Spectrogram 1	1	57.0	60.0	150	15000	comcha	Common Chaffinch	0.1349

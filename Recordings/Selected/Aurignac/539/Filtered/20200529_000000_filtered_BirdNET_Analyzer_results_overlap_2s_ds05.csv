@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	comnig1	Common Nightingale	0.9666
+2	Spectrogram 1	1	5.0	8.0	150	15000	comnig1	Common Nightingale	0.9968
+3	Spectrogram 1	1	6.0	9.0	150	15000	comnig1	Common Nightingale	0.2805
+4	Spectrogram 1	1	18.0	21.0	150	15000	eurbul	Eurasian Bullfinch	0.1757
+5	Spectrogram 1	1	25.0	28.0	150	15000	comnig1	Common Nightingale	0.1123
+6	Spectrogram 1	1	26.0	29.0	150	15000	comnig1	Common Nightingale	0.8374
+7	Spectrogram 1	1	27.0	30.0	150	15000	comnig1	Common Nightingale	0.6269
+8	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.4233
+9	Spectrogram 1	1	31.0	34.0	150	15000	comnig1	Common Nightingale	0.9992
+10	Spectrogram 1	1	32.0	35.0	150	15000	comnig1	Common Nightingale	0.9906
+11	Spectrogram 1	1	33.0	36.0	150	15000	comnig1	Common Nightingale	0.5381

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	corbun1	Corn Bunting	0.1415
+2	Spectrogram 1	1	17.0	20.0	150	15000	grewhi1	Greater Whitethroat	0.1223
+3	Spectrogram 1	1	21.0	24.0	150	15000	subwar6	Western Subalpine Warbler	0.1491
+4	Spectrogram 1	1	22.0	25.0	150	15000	grewhi1	Greater Whitethroat	0.1711
+5	Spectrogram 1	1	23.0	26.0	150	15000	grewhi1	Greater Whitethroat	0.1120
+6	Spectrogram 1	1	56.0	59.0	150	15000	corbun1	Corn Bunting	0.2156

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	25.0	28.0	150	15000	eubeat1	European Bee-eater	0.1536
+2	Spectrogram 1	1	40.0	43.0	150	15000	comqua1	Common Quail	0.1440
+3	Spectrogram 1	1	41.0	44.0	150	15000	eurlin1	Eurasian Linnet	0.1315
+4	Spectrogram 1	1	41.0	44.0	150	15000	wooshr1	Woodchat Shrike	0.1071
+5	Spectrogram 1	1	41.0	44.0	150	15000	rebshr1	Red-backed Shrike	0.1021
+6	Spectrogram 1	1	42.0	45.0	150	15000	comqua1	Common Quail	0.1589
+7	Spectrogram 1	1	42.0	45.0	150	15000	comnig1	Common Nightingale	0.1124
+8	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1120
+9	Spectrogram 1	1	52.0	55.0	150	15000	eubeat1	European Bee-eater	0.1453

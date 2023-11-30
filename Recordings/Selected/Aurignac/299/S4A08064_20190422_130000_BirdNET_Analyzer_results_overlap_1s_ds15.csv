@@ -1,0 +1,67 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eurrob1	European Robin	0.2450
+2	Spectrogram 1	1	2.0	5.0	150	15000	eurrob1	European Robin	0.5985
+3	Spectrogram 1	1	2.0	5.0	150	15000	blutit	Eurasian Blue Tit	0.1144
+4	Spectrogram 1	1	4.0	7.0	150	15000	eurrob1	European Robin	0.3057
+5	Spectrogram 1	1	8.0	11.0	150	15000	eurrob1	European Robin	0.8031
+6	Spectrogram 1	1	10.0	13.0	150	15000	eurrob1	European Robin	0.5549
+7	Spectrogram 1	1	10.0	13.0	150	15000	eurtre1	Eurasian Treecreeper	0.1271
+8	Spectrogram 1	1	12.0	15.0	150	15000	lirplo	Little Ringed Plover	0.2825
+9	Spectrogram 1	1	12.0	15.0	150	15000	eurrob1	European Robin	0.2092
+10	Spectrogram 1	1	12.0	15.0	150	15000	litowl1	Little Owl	0.1398
+11	Spectrogram 1	1	12.0	15.0	150	15000	sonthr1	Song Thrush	0.1344
+12	Spectrogram 1	1	12.0	15.0	150	15000	eurbla	Eurasian Blackbird	0.1140
+13	Spectrogram 1	1	14.0	17.0	150	15000	winwre4	Eurasian Wren	0.3598
+14	Spectrogram 1	1	14.0	17.0	150	15000	eurrob1	European Robin	0.3591
+15	Spectrogram 1	1	14.0	17.0	150	15000	sonthr1	Song Thrush	0.1274
+16	Spectrogram 1	1	16.0	19.0	150	15000	eurrob1	European Robin	0.5978
+17	Spectrogram 1	1	16.0	19.0	150	15000	winwre4	Eurasian Wren	0.2072
+18	Spectrogram 1	1	16.0	19.0	150	15000	eurbla	Eurasian Blackbird	0.1438
+19	Spectrogram 1	1	20.0	23.0	150	15000	lirplo	Little Ringed Plover	0.3657
+20	Spectrogram 1	1	20.0	23.0	150	15000	tawowl1	Tawny Owl	0.1630
+21	Spectrogram 1	1	22.0	25.0	150	15000	eurrob1	European Robin	0.6675
+22	Spectrogram 1	1	22.0	25.0	150	15000	tawowl1	Tawny Owl	0.1017
+23	Spectrogram 1	1	24.0	27.0	150	15000	eurrob1	European Robin	0.6147
+24	Spectrogram 1	1	26.0	29.0	150	15000	firecr1	Common Firecrest	0.2816
+25	Spectrogram 1	1	26.0	29.0	150	15000	goldcr1	Goldcrest	0.1786
+26	Spectrogram 1	1	28.0	31.0	150	15000	goldcr1	Goldcrest	0.3572
+27	Spectrogram 1	1	28.0	31.0	150	15000	firecr1	Common Firecrest	0.3455
+28	Spectrogram 1	1	28.0	31.0	150	15000	cretit2	Crested Tit	0.2139
+29	Spectrogram 1	1	28.0	31.0	150	15000	eurrob1	European Robin	0.1382
+30	Spectrogram 1	1	30.0	33.0	150	15000	eurrob1	European Robin	0.5498
+31	Spectrogram 1	1	32.0	35.0	150	15000	eurrob1	European Robin	0.1715
+32	Spectrogram 1	1	34.0	37.0	150	15000	lirplo	Little Ringed Plover	0.1754
+33	Spectrogram 1	1	34.0	37.0	150	15000	watrai1	Water Rail	0.1504
+34	Spectrogram 1	1	34.0	37.0	150	15000	dunlin	Dunlin	0.1406
+35	Spectrogram 1	1	36.0	39.0	150	15000	eurrob1	European Robin	0.3606
+36	Spectrogram 1	1	36.0	39.0	150	15000	spofly1	Spotted Flycatcher	0.1877
+37	Spectrogram 1	1	38.0	41.0	150	15000	eurrob1	European Robin	0.6541
+38	Spectrogram 1	1	38.0	41.0	150	15000	spofly1	Spotted Flycatcher	0.1658
+39	Spectrogram 1	1	38.0	41.0	150	15000	eurtre1	Eurasian Treecreeper	0.1509
+40	Spectrogram 1	1	38.0	41.0	150	15000	firecr1	Common Firecrest	0.1209
+41	Spectrogram 1	1	40.0	43.0	150	15000	eurrob1	European Robin	0.5173
+42	Spectrogram 1	1	40.0	43.0	150	15000	eurbla	Eurasian Blackbird	0.1292
+43	Spectrogram 1	1	40.0	43.0	150	15000	goldcr1	Goldcrest	0.1233
+44	Spectrogram 1	1	40.0	43.0	150	15000	watrai1	Water Rail	0.1093
+45	Spectrogram 1	1	42.0	45.0	150	15000	eurrob1	European Robin	0.1950
+46	Spectrogram 1	1	42.0	45.0	150	15000	goldcr1	Goldcrest	0.1876
+47	Spectrogram 1	1	44.0	47.0	150	15000	eurrob1	European Robin	0.6584
+48	Spectrogram 1	1	44.0	47.0	150	15000	cetwar1	Cetti's Warbler	0.1275
+49	Spectrogram 1	1	46.0	49.0	150	15000	eurrob1	European Robin	0.5039
+50	Spectrogram 1	1	48.0	51.0	150	15000	tawowl1	Tawny Owl	0.2769
+51	Spectrogram 1	1	48.0	51.0	150	15000	eurrob1	European Robin	0.1374
+52	Spectrogram 1	1	50.0	53.0	150	15000	tawowl1	Tawny Owl	0.4660
+53	Spectrogram 1	1	50.0	53.0	150	15000	eurrob1	European Robin	0.2011
+54	Spectrogram 1	1	52.0	55.0	150	15000	eurrob1	European Robin	0.2307
+55	Spectrogram 1	1	52.0	55.0	150	15000	tawowl1	Tawny Owl	0.1136
+56	Spectrogram 1	1	54.0	57.0	150	15000	eurrob1	European Robin	0.1782
+57	Spectrogram 1	1	56.0	59.0	150	15000	eurrob1	European Robin	0.2477
+58	Spectrogram 1	1	56.0	59.0	150	15000	cowpig1	Common Wood-Pigeon	0.1520
+59	Spectrogram 1	1	56.0	59.0	150	15000	tawowl1	Tawny Owl	0.1067
+60	Spectrogram 1	1	56.0	59.0	150	15000	stodov1	Stock Dove	0.1035
+61	Spectrogram 1	1	58.0	61.0	150	15000	eurrob1	European Robin	0.7062
+62	Spectrogram 1	1	58.0	61.0	150	15000	spofly1	Spotted Flycatcher	0.1917
+63	Spectrogram 1	1	58.0	61.0	150	15000	firecr1	Common Firecrest	0.1309
+64	Spectrogram 1	1	58.0	61.0	150	15000	cowpig1	Common Wood-Pigeon	0.1288
+65	Spectrogram 1	1	58.0	61.0	150	15000	sonthr1	Song Thrush	0.1037
+66	Spectrogram 1	1	58.0	61.0	150	15000	eurtre1	Eurasian Treecreeper	0.1036

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	comchi1	Common Chiffchaff	0.2572
+2	Spectrogram 1	1	4.0	7.0	150	15000	trepip	Tree Pipit	0.1596
+3	Spectrogram 1	1	4.0	7.0	150	15000	reebun	Reed Bunting	0.1511
+4	Spectrogram 1	1	4.0	7.0	150	15000	yellow2	Yellowhammer	0.1430
+5	Spectrogram 1	1	4.0	7.0	150	15000	grewhi1	Greater Whitethroat	0.1313
+6	Spectrogram 1	1	4.0	7.0	150	15000	cirbun1	Cirl Bunting	0.1184
+7	Spectrogram 1	1	8.0	11.0	150	15000	goldcr1	Goldcrest	0.1383
+8	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.1203
+9	Spectrogram 1	1	12.0	15.0	150	15000	goldcr1	Goldcrest	0.1177
+10	Spectrogram 1	1	12.0	15.0	150	15000	watpip1	Water Pipit	0.1034
+11	Spectrogram 1	1	26.0	29.0	150	15000	goldcr1	Goldcrest	0.1054
+12	Spectrogram 1	1	28.0	31.0	150	15000	comchi1	Common Chiffchaff	0.1598
+13	Spectrogram 1	1	28.0	31.0	150	15000	goldcr1	Goldcrest	0.1408
+14	Spectrogram 1	1	28.0	31.0	150	15000	yellow2	Yellowhammer	0.1209
+15	Spectrogram 1	1	28.0	31.0	150	15000	trepip	Tree Pipit	0.1203
+16	Spectrogram 1	1	50.0	53.0	150	15000	eurcrm1	Eurasian Crag-Martin	0.1089

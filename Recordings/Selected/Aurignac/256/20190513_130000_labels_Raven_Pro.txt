@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.109272	13.39006	884.3	8088.7	Sturnus vulgaris
+2	Spectrogram 1	1	11.187799	13.12108	1227.5	2463.4	Turdus merula
+3	Spectrogram 1	1	14.432345	15.18044	2596.8	4230.7	Unidentified bird
+4	Spectrogram 1	1	14.465967	14.97871	758.7	2496.3	Corvus corone
+5	Spectrogram 1	1	16.020995	16.44127	1437.1	2242.9	Unidentified bird
+6	Spectrogram 1	1	17.189368	19.73625	985.5	4230.7	Unidentified bird
+7	Spectrogram 1	1	20.551591	22.03097	1744.0	2631.0	Turdus merula
+8	Spectrogram 1	1	20.652458	21.04752	1168.8	1873.4	Corvus corone
+9	Spectrogram 1	1	27.729939	29.52032	6598.6	9044.3	Unidentified bird
+10	Spectrogram 1	1	29.259750	29.84814	1130.6	2993.1	Corvus corone
+11	Spectrogram 1	1	36.135498	38.81687	1130.6	2529.4	Corvus corone
+12	Spectrogram 1	1	37.354304	37.69893	6828.1	8747.2	Unidentified bird
+13	Spectrogram 1	1	38.766438	39.74148	1795.0	2993.1	Luscinia megarhynchos
+14	Spectrogram 1	1	39.842349	41.49824	1459.3	4031.3	Sylvia atricapilla
+15	Spectrogram 1	1	42.666617	43.84340	1437.1	3887.0	Unidentified bird
+16	Spectrogram 1	1	42.733861	43.15414	671.1	2335.5	Corvus corone
+17	Spectrogram 1	1	44.019912	46.10449	2153.2	6160.3	Sylvia atricapilla
+18	Spectrogram 1	1	46.012029	47.19721	1669.5	2529.4	Luscinia megarhynchos
+19	Spectrogram 1	1	49.483525	50.46697	2431.0	4031.3	Sylvia atricapilla
+20	Spectrogram 1	1	49.836559	50.27365	1168.8	2596.8	Corvus corone
+21	Spectrogram 1	1	52.467499	53.16516	7226.8	8845.2	Unidentified bird
+22	Spectrogram 1	1	54.098177	54.61092	934.1	2212.7	Corvus corone
+23	Spectrogram 1	1	58.057195	59.98207	2273.5	4823.5	Unidentified bird
+24	Spectrogram 1	1	58.099223	58.46066	403.9	2529.4	Corvus corone

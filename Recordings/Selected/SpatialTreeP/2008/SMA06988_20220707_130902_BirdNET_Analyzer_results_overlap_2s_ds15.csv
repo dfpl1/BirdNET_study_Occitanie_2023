@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	17.0	20.0	150	15000	blared1	Black Redstart	0.1381
+2	Spectrogram 1	1	22.0	25.0	150	15000	santer1	Sandwich Tern	0.1105
+3	Spectrogram 1	1	38.0	41.0	150	15000	rebshr1	Red-backed Shrike	0.1156
+4	Spectrogram 1	1	59.0	62.0	150	15000	tawowl1	Tawny Owl	0.1467
+5	Spectrogram 1	1	59.0	62.0	150	15000	eurrob1	European Robin	0.1137
+6	Spectrogram 1	1	59.0	62.0	150	15000	sonthr1	Song Thrush	0.1006

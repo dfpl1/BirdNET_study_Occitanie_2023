@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	blackc1	Eurasian Blackcap	0.8964
+2	Spectrogram 1	1	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.9417
+3	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.9802
+4	Spectrogram 1	1	26.0	29.0	150	15000	carcro1	Carrion Crow	0.2084
+5	Spectrogram 1	1	28.0	31.0	150	15000	carcro1	Carrion Crow	0.2157
+6	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.2835
+7	Spectrogram 1	1	50.0	53.0	150	15000	blackc1	Eurasian Blackcap	0.6293
+8	Spectrogram 1	1	52.0	55.0	150	15000	blackc1	Eurasian Blackcap	0.7767
+9	Spectrogram 1	1	58.0	61.0	150	15000	garwar1	Garden Warbler	0.2422

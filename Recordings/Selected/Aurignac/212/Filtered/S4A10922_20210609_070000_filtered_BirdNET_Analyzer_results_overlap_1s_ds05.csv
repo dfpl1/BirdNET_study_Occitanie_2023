@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	whinch1	Whinchat	0.1510
+2	Spectrogram 1	1	18.0	21.0	150	15000	corbun1	Corn Bunting	0.2012
+3	Spectrogram 1	1	20.0	23.0	150	15000	wooshr1	Woodchat Shrike	0.2102
+4	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.1312
+5	Spectrogram 1	1	32.0	35.0	150	15000	spofly1	Spotted Flycatcher	0.9682
+6	Spectrogram 1	1	36.0	39.0	150	15000	hawfin	Hawfinch	0.8401
+7	Spectrogram 1	1	36.0	39.0	150	15000	spofly1	Spotted Flycatcher	0.1332

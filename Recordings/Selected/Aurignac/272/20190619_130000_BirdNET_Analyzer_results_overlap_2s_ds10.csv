@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	14.0	17.0	150	15000	woolar1	Wood Lark	0.1592
+2	Spectrogram 1	1	23.0	26.0	150	15000	blackc1	Eurasian Blackcap	0.1579
+3	Spectrogram 1	1	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.3283
+4	Spectrogram 1	1	25.0	28.0	150	15000	blackc1	Eurasian Blackcap	0.2749
+5	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.1849
+6	Spectrogram 1	1	38.0	41.0	150	15000	rebshr1	Red-backed Shrike	0.1018
+7	Spectrogram 1	1	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.4471
+8	Spectrogram 1	1	40.0	43.0	150	15000	blackc1	Eurasian Blackcap	0.4315
+9	Spectrogram 1	1	44.0	47.0	150	15000	blackc1	Eurasian Blackcap	0.4727
+10	Spectrogram 1	1	45.0	48.0	150	15000	blackc1	Eurasian Blackcap	0.7522
+11	Spectrogram 1	1	46.0	49.0	150	15000	blackc1	Eurasian Blackcap	0.4078

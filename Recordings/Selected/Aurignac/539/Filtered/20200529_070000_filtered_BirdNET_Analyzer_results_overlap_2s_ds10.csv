@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	29.0	32.0	150	15000	comswi	Common Swift	0.1109
+2	Spectrogram 1	1	35.0	38.0	150	15000	cirbun1	Cirl Bunting	0.1704
+3	Spectrogram 1	1	38.0	41.0	150	15000	woolar1	Wood Lark	0.1219
+4	Spectrogram 1	1	40.0	43.0	150	15000	thelar1	Thekla's Lark	0.1970
+5	Spectrogram 1	1	40.0	43.0	150	15000	cirbun1	Cirl Bunting	0.1526
+6	Spectrogram 1	1	42.0	45.0	150	15000	comkin1	Common Kingfisher	0.3283
+7	Spectrogram 1	1	43.0	46.0	150	15000	comkin1	Common Kingfisher	0.1129
+8	Spectrogram 1	1	51.0	54.0	150	15000	blackc1	Eurasian Blackcap	0.1445
+9	Spectrogram 1	1	51.0	54.0	150	15000	thelar1	Thekla's Lark	0.1113
+10	Spectrogram 1	1	52.0	55.0	150	15000	thelar1	Thekla's Lark	0.1322

@@ -1,0 +1,63 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	carcro1	Carrion Crow	0.2063
+2	Spectrogram 1	1	0	3.0	150	15000	eurhob	Eurasian Hobby	0.1121
+3	Spectrogram 1	1	0	3.0	150	15000	reebun	Reed Bunting	0.1024
+4	Spectrogram 1	1	3.0	6.0	150	15000	alpswi1	Alpine Swift	0.1830
+5	Spectrogram 1	1	3.0	6.0	150	15000	eurlin1	Eurasian Linnet	0.1670
+6	Spectrogram 1	1	6.0	9.0	150	15000	carcro1	Carrion Crow	0.2443
+7	Spectrogram 1	1	6.0	9.0	150	15000	comcha	Common Chaffinch	0.2440
+8	Spectrogram 1	1	6.0	9.0	150	15000	grewhi1	Greater Whitethroat	0.1292
+9	Spectrogram 1	1	6.0	9.0	150	15000	yellow2	Yellowhammer	0.1150
+10	Spectrogram 1	1	6.0	9.0	150	15000	sarwar1	Sardinian Warbler	0.1144
+11	Spectrogram 1	1	6.0	9.0	150	15000	eurlin1	Eurasian Linnet	0.1093
+12	Spectrogram 1	1	6.0	9.0	150	15000	trepip	Tree Pipit	0.1007
+13	Spectrogram 1	1	9.0	12.0	150	15000	carcro1	Carrion Crow	0.3555
+14	Spectrogram 1	1	9.0	12.0	150	15000	mallar3	Mallard	0.1776
+15	Spectrogram 1	1	9.0	12.0	150	15000	eurjay1	Eurasian Jay	0.1200
+16	Spectrogram 1	1	12.0	15.0	150	15000	alpswi1	Alpine Swift	0.1108
+17	Spectrogram 1	1	15.0	18.0	150	15000	carcro1	Carrion Crow	0.2905
+18	Spectrogram 1	1	18.0	21.0	150	15000	carcro1	Carrion Crow	0.3400
+19	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.2614
+20	Spectrogram 1	1	18.0	21.0	150	15000	yellow2	Yellowhammer	0.2312
+21	Spectrogram 1	1	18.0	21.0	150	15000	comcha	Common Chaffinch	0.1599
+22	Spectrogram 1	1	18.0	21.0	150	15000	reebun	Reed Bunting	0.1361
+23	Spectrogram 1	1	21.0	24.0	150	15000	comcha	Common Chaffinch	0.3558
+24	Spectrogram 1	1	21.0	24.0	150	15000	trepip	Tree Pipit	0.1893
+25	Spectrogram 1	1	21.0	24.0	150	15000	webwar1	Western Bonelli's Warbler	0.1668
+26	Spectrogram 1	1	21.0	24.0	150	15000	rebshr1	Red-backed Shrike	0.1447
+27	Spectrogram 1	1	21.0	24.0	150	15000	cirbun1	Cirl Bunting	0.1342
+28	Spectrogram 1	1	21.0	24.0	150	15000	rocbun1	Rock Bunting	0.1258
+29	Spectrogram 1	1	21.0	24.0	150	15000	yellow2	Yellowhammer	0.1167
+30	Spectrogram 1	1	21.0	24.0	150	15000	hawfin	Hawfinch	0.1102
+31	Spectrogram 1	1	21.0	24.0	150	15000	whinch1	Whinchat	0.1012
+32	Spectrogram 1	1	24.0	27.0	150	15000	carcro1	Carrion Crow	0.1227
+33	Spectrogram 1	1	27.0	30.0	150	15000	carcro1	Carrion Crow	0.2631
+34	Spectrogram 1	1	27.0	30.0	150	15000	thelar1	Thekla's Lark	0.1653
+35	Spectrogram 1	1	27.0	30.0	150	15000	comqua1	Common Quail	0.1455
+36	Spectrogram 1	1	27.0	30.0	150	15000	skylar	Eurasian Skylark	0.1237
+37	Spectrogram 1	1	27.0	30.0	150	15000	corbun1	Corn Bunting	0.1202
+38	Spectrogram 1	1	27.0	30.0	150	15000	norwhe	Northern Wheatear	0.1107
+39	Spectrogram 1	1	27.0	30.0	150	15000	eurlin1	Eurasian Linnet	0.1092
+40	Spectrogram 1	1	27.0	30.0	150	15000	callar1	Calandra Lark	0.1060
+41	Spectrogram 1	1	27.0	30.0	150	15000	grewhi1	Greater Whitethroat	0.1007
+42	Spectrogram 1	1	30.0	33.0	150	15000	eurgre1	European Greenfinch	0.4199
+43	Spectrogram 1	1	33.0	36.0	150	15000	alpswi1	Alpine Swift	0.1467
+44	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.1709
+45	Spectrogram 1	1	36.0	39.0	150	15000	norwhe	Northern Wheatear	0.1502
+46	Spectrogram 1	1	42.0	45.0	150	15000	yellow2	Yellowhammer	0.1392
+47	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1336
+48	Spectrogram 1	1	42.0	45.0	150	15000	comcha	Common Chaffinch	0.1284
+49	Spectrogram 1	1	42.0	45.0	150	15000	cirbun1	Cirl Bunting	0.1280
+50	Spectrogram 1	1	42.0	45.0	150	15000	rocbun1	Rock Bunting	0.1106
+51	Spectrogram 1	1	42.0	45.0	150	15000	dunnoc1	Dunnock	0.1040
+52	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1026
+53	Spectrogram 1	1	51.0	54.0	150	15000	carcro1	Carrion Crow	0.2551
+54	Spectrogram 1	1	51.0	54.0	150	15000	comcha	Common Chaffinch	0.1283
+55	Spectrogram 1	1	51.0	54.0	150	15000	trepip	Tree Pipit	0.1268
+56	Spectrogram 1	1	51.0	54.0	150	15000	reebun	Reed Bunting	0.1204
+57	Spectrogram 1	1	51.0	54.0	150	15000	yellow2	Yellowhammer	0.1146
+58	Spectrogram 1	1	51.0	54.0	150	15000	grewhi1	Greater Whitethroat	0.1129
+59	Spectrogram 1	1	54.0	57.0	150	15000	comcha	Common Chaffinch	0.3132
+60	Spectrogram 1	1	54.0	57.0	150	15000	carcro1	Carrion Crow	0.1614
+61	Spectrogram 1	1	54.0	57.0	150	15000	yellow2	Yellowhammer	0.1107
+62	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.1007

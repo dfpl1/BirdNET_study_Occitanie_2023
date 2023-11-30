@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	corbun1	Corn Bunting	0.4413
+2	Spectrogram 1	1	10.0	13.0	150	15000	corbun1	Corn Bunting	0.2331
+3	Spectrogram 1	1	10.0	13.0	150	15000	wooshr1	Woodchat Shrike	0.1288
+4	Spectrogram 1	1	20.0	23.0	150	15000	corbun1	Corn Bunting	0.1328
+5	Spectrogram 1	1	20.0	23.0	150	15000	wooshr1	Woodchat Shrike	0.1319
+6	Spectrogram 1	1	20.0	23.0	150	15000	thelar1	Thekla's Lark	0.1225
+7	Spectrogram 1	1	22.0	25.0	150	15000	corbun1	Corn Bunting	0.1342
+8	Spectrogram 1	1	30.0	33.0	150	15000	corbun1	Corn Bunting	0.4235
+9	Spectrogram 1	1	40.0	43.0	150	15000	corbun1	Corn Bunting	0.1408
+10	Spectrogram 1	1	48.0	51.0	150	15000	whinch1	Whinchat	0.1554
+11	Spectrogram 1	1	50.0	53.0	150	15000	corbun1	Corn Bunting	0.2174
+12	Spectrogram 1	1	50.0	53.0	150	15000	wooshr1	Woodchat Shrike	0.2129
+13	Spectrogram 1	1	50.0	53.0	150	15000	thelar1	Thekla's Lark	0.1716

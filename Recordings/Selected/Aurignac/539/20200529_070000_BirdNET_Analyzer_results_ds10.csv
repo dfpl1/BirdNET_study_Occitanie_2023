@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.2507
+2	Spectrogram 1	1	42.0	45.0	150	15000	comkin1	Common Kingfisher	0.1689
+3	Spectrogram 1	1	51.0	54.0	150	15000	blackc1	Eurasian Blackcap	0.3421

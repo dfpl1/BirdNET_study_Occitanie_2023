@@ -1,0 +1,47 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	winwre4	Eurasian Wren	0.8239
+2	Spectrogram 1	1	0	3.0	150	15000	blackc1	Eurasian Blackcap	0.1285
+3	Spectrogram 1	1	2.0	5.0	150	15000	winwre4	Eurasian Wren	0.3053
+4	Spectrogram 1	1	4.0	7.0	150	15000	spofly1	Spotted Flycatcher	0.1917
+5	Spectrogram 1	1	8.0	11.0	150	15000	comchi1	Common Chiffchaff	0.3478
+6	Spectrogram 1	1	8.0	11.0	150	15000	wlwwar	Willow Warbler	0.1125
+7	Spectrogram 1	1	8.0	11.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1011
+8	Spectrogram 1	1	10.0	13.0	150	15000	comcuc	Common Cuckoo	0.9317
+9	Spectrogram 1	1	12.0	15.0	150	15000	comcuc	Common Cuckoo	0.9661
+10	Spectrogram 1	1	14.0	17.0	150	15000	comcuc	Common Cuckoo	0.9950
+11	Spectrogram 1	1	16.0	19.0	150	15000	comcuc	Common Cuckoo	0.8684
+12	Spectrogram 1	1	18.0	21.0	150	15000	firecr1	Common Firecrest	0.2570
+13	Spectrogram 1	1	20.0	23.0	150	15000	blackc1	Eurasian Blackcap	0.1350
+14	Spectrogram 1	1	20.0	23.0	150	15000	comcuc	Common Cuckoo	0.1073
+15	Spectrogram 1	1	22.0	25.0	150	15000	comchi1	Common Chiffchaff	0.5004
+16	Spectrogram 1	1	22.0	25.0	150	15000	comcuc	Common Cuckoo	0.2179
+17	Spectrogram 1	1	24.0	27.0	150	15000	comchi1	Common Chiffchaff	0.3723
+18	Spectrogram 1	1	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.1403
+19	Spectrogram 1	1	26.0	29.0	150	15000	comchi1	Common Chiffchaff	0.2352
+20	Spectrogram 1	1	26.0	29.0	150	15000	stodov1	Stock Dove	0.1193
+21	Spectrogram 1	1	28.0	31.0	150	15000	eugori2	Eurasian Golden Oriole	0.1912
+22	Spectrogram 1	1	28.0	31.0	150	15000	comcuc	Common Cuckoo	0.1530
+23	Spectrogram 1	1	30.0	33.0	150	15000	comcuc	Common Cuckoo	0.1371
+24	Spectrogram 1	1	32.0	35.0	150	15000	comcuc	Common Cuckoo	0.2075
+25	Spectrogram 1	1	32.0	35.0	150	15000	winwre4	Eurasian Wren	0.1294
+26	Spectrogram 1	1	32.0	35.0	150	15000	blackc1	Eurasian Blackcap	0.1080
+27	Spectrogram 1	1	34.0	37.0	150	15000	comchi1	Common Chiffchaff	0.4286
+28	Spectrogram 1	1	36.0	39.0	150	15000	comchi1	Common Chiffchaff	0.3765
+29	Spectrogram 1	1	36.0	39.0	150	15000	comcuc	Common Cuckoo	0.1011
+30	Spectrogram 1	1	38.0	41.0	150	15000	eurrob1	European Robin	0.1620
+31	Spectrogram 1	1	42.0	45.0	150	15000	winwre4	Eurasian Wren	0.1425
+32	Spectrogram 1	1	44.0	47.0	150	15000	comcuc	Common Cuckoo	0.4331
+33	Spectrogram 1	1	44.0	47.0	150	15000	comchi1	Common Chiffchaff	0.1426
+34	Spectrogram 1	1	44.0	47.0	150	15000	winwre4	Eurasian Wren	0.1171
+35	Spectrogram 1	1	46.0	49.0	150	15000	comchi1	Common Chiffchaff	0.2981
+36	Spectrogram 1	1	46.0	49.0	150	15000	blackc1	Eurasian Blackcap	0.1235
+37	Spectrogram 1	1	48.0	51.0	150	15000	comcuc	Common Cuckoo	0.2335
+38	Spectrogram 1	1	48.0	51.0	150	15000	comchi1	Common Chiffchaff	0.1961
+39	Spectrogram 1	1	50.0	53.0	150	15000	comchi1	Common Chiffchaff	0.3255
+40	Spectrogram 1	1	50.0	53.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1322
+41	Spectrogram 1	1	52.0	55.0	150	15000	comchi1	Common Chiffchaff	0.2896
+42	Spectrogram 1	1	52.0	55.0	150	15000	stodov1	Stock Dove	0.1042
+43	Spectrogram 1	1	54.0	57.0	150	15000	comchi1	Common Chiffchaff	0.7241
+44	Spectrogram 1	1	54.0	57.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1080
+45	Spectrogram 1	1	56.0	59.0	150	15000	spofly1	Spotted Flycatcher	0.3189
+46	Spectrogram 1	1	56.0	59.0	150	15000	eurrob1	European Robin	0.1045

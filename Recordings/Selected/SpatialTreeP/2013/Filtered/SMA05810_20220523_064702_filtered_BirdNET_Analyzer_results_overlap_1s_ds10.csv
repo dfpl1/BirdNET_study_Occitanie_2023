@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.9435
+2	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.8399
+3	Spectrogram 1	1	4.0	7.0	150	15000	trepip	Tree Pipit	0.3264
+4	Spectrogram 1	1	8.0	11.0	150	15000	stonec4	European Stonechat	0.2373
+5	Spectrogram 1	1	8.0	11.0	150	15000	dunnoc1	Dunnock	0.1180
+6	Spectrogram 1	1	10.0	13.0	150	15000	woolar1	Wood Lark	0.1522
+7	Spectrogram 1	1	12.0	15.0	150	15000	woolar1	Wood Lark	0.4511
+8	Spectrogram 1	1	14.0	17.0	150	15000	trepip	Tree Pipit	0.2815
+9	Spectrogram 1	1	16.0	19.0	150	15000	trepip	Tree Pipit	0.9227
+10	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.4446
+11	Spectrogram 1	1	24.0	27.0	150	15000	trepip	Tree Pipit	0.3054
+12	Spectrogram 1	1	26.0	29.0	150	15000	trepip	Tree Pipit	0.2915
+13	Spectrogram 1	1	32.0	35.0	150	15000	trepip	Tree Pipit	0.2169
+14	Spectrogram 1	1	34.0	37.0	150	15000	trepip	Tree Pipit	0.8950
+15	Spectrogram 1	1	36.0	39.0	150	15000	trepip	Tree Pipit	0.9468
+16	Spectrogram 1	1	38.0	41.0	150	15000	trepip	Tree Pipit	0.9837
+17	Spectrogram 1	1	46.0	49.0	150	15000	stonec4	European Stonechat	0.6166
+18	Spectrogram 1	1	46.0	49.0	150	15000	trepip	Tree Pipit	0.1001
+19	Spectrogram 1	1	48.0	51.0	150	15000	stonec4	European Stonechat	0.3761
+20	Spectrogram 1	1	50.0	53.0	150	15000	trepip	Tree Pipit	0.5267
+21	Spectrogram 1	1	52.0	55.0	150	15000	trepip	Tree Pipit	0.9602
+22	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.3779
+23	Spectrogram 1	1	56.0	59.0	150	15000	stonec4	European Stonechat	0.3694
+24	Spectrogram 1	1	58.0	61.0	150	15000	trepip	Tree Pipit	0.1954

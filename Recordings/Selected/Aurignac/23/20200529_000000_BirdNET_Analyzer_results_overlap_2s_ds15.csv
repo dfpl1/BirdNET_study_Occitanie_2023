@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	5.0	8.0	150	15000	stodov1	Stock Dove	0.1211
+2	Spectrogram 1	1	41.0	44.0	150	15000	goldcr1	Goldcrest	0.1089
+3	Spectrogram 1	1	42.0	45.0	150	15000	goldcr1	Goldcrest	0.1268
+4	Spectrogram 1	1	43.0	46.0	150	15000	goldcr1	Goldcrest	0.1034
+5	Spectrogram 1	1	59.0	62.0	150	15000	goldcr1	Goldcrest	0.2071
+6	Spectrogram 1	1	59.0	62.0	150	15000	eurrob1	European Robin	0.1670
+7	Spectrogram 1	1	59.0	62.0	150	15000	sonthr1	Song Thrush	0.1631

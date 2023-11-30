@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	2.983973	3.404251	2493.0	4095.9	Unidentified bird
+2	Spectrogram 1	1	9.170465	9.649582	2654.4	3921.8	Unidentified bird
+3	Spectrogram 1	1	18.248468	19.576547	2157.7	4464.1	Unidentified bird
+4	Spectrogram 1	1	20.913030	22.325164	5214.0	7755.4	Emberiza calandra
+5	Spectrogram 1	1	22.039375	24.476987	1889.4	4276.6	Sylvia atricapilla
+6	Spectrogram 1	1	24.426554	25.073782	1646.2	4215.6	Unidentified bird
+7	Spectrogram 1	1	26.981844	28.562089	1986.9	4215.6	Sylvia atricapilla
+8	Spectrogram 1	1	30.394501	36.387664	1226.2	4095.9	Sylvia atricapilla
+9	Spectrogram 1	1	39.371638	40.935072	2302.2	4792.4	Sylvia atricapilla
+10	Spectrogram 1	1	51.399993	53.593843	2229.1	4464.1	Unidentified bird
+11	Spectrogram 1	1	56.989689	59.990474	2122.7	4338.3	Sylvia atricapilla
+12	Spectrogram 1	1	59.326435	59.956851	3002.1	7056.4	Unidentified bird

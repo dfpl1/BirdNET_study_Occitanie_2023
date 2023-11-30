@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	9.0	12.0	150	15000	cowpig1	Common Wood-Pigeon	0.1528
+2	Spectrogram 1	1	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.1314
+3	Spectrogram 1	1	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.7662
+4	Spectrogram 1	1	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.8910
+5	Spectrogram 1	1	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9888
+6	Spectrogram 1	1	57.0	60.0	150	15000	blackc1	Eurasian Blackcap	0.1420

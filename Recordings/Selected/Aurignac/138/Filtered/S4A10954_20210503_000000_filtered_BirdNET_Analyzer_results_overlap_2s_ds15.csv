@@ -1,0 +1,85 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	6.0	9.0	150	15000	woolar1	Wood Lark	0.1264
+2	Spectrogram 1	1	7.0	10.0	150	15000	comnig1	Common Nightingale	0.1229
+3	Spectrogram 1	1	7.0	10.0	150	15000	meapip1	Meadow Pipit	0.1021
+4	Spectrogram 1	1	9.0	12.0	150	15000	litgre1	Little Grebe	0.1074
+5	Spectrogram 1	1	10.0	13.0	150	15000	reebun	Reed Bunting	0.1326
+6	Spectrogram 1	1	10.0	13.0	150	15000	litgre1	Little Grebe	0.1144
+7	Spectrogram 1	1	15.0	18.0	150	15000	woolar1	Wood Lark	0.2037
+8	Spectrogram 1	1	16.0	19.0	150	15000	woolar1	Wood Lark	0.5621
+9	Spectrogram 1	1	16.0	19.0	150	15000	lirplo	Little Ringed Plover	0.1675
+10	Spectrogram 1	1	16.0	19.0	150	15000	woosan	Wood Sandpiper	0.1175
+11	Spectrogram 1	1	17.0	20.0	150	15000	woolar1	Wood Lark	0.4419
+12	Spectrogram 1	1	17.0	20.0	150	15000	woosan	Wood Sandpiper	0.1165
+13	Spectrogram 1	1	18.0	21.0	150	15000	woolar1	Wood Lark	0.4597
+14	Spectrogram 1	1	18.0	21.0	150	15000	woosan	Wood Sandpiper	0.1767
+15	Spectrogram 1	1	18.0	21.0	150	15000	comgre	Common Greenshank	0.1674
+16	Spectrogram 1	1	18.0	21.0	150	15000	redkit1	Red Kite	0.1190
+17	Spectrogram 1	1	18.0	21.0	150	15000	grcgre1	Great Crested Grebe	0.1174
+18	Spectrogram 1	1	19.0	22.0	150	15000	woosan	Wood Sandpiper	0.2675
+19	Spectrogram 1	1	19.0	22.0	150	15000	woolar1	Wood Lark	0.2396
+20	Spectrogram 1	1	19.0	22.0	150	15000	redkit1	Red Kite	0.1345
+21	Spectrogram 1	1	19.0	22.0	150	15000	comgre	Common Greenshank	0.1335
+22	Spectrogram 1	1	19.0	22.0	150	15000	comred1	Common Redshank	0.1068
+23	Spectrogram 1	1	20.0	23.0	150	15000	comnig1	Common Nightingale	0.1021
+24	Spectrogram 1	1	22.0	25.0	150	15000	comnig1	Common Nightingale	0.1255
+25	Spectrogram 1	1	23.0	26.0	150	15000	comnig1	Common Nightingale	0.5204
+26	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.6895
+27	Spectrogram 1	1	24.0	27.0	150	15000	woolar1	Wood Lark	0.1320
+28	Spectrogram 1	1	24.0	27.0	150	15000	comred2	Common Redstart	0.1041
+29	Spectrogram 1	1	25.0	28.0	150	15000	comnig1	Common Nightingale	0.3534
+30	Spectrogram 1	1	25.0	28.0	150	15000	woolar1	Wood Lark	0.2348
+31	Spectrogram 1	1	26.0	29.0	150	15000	comnig1	Common Nightingale	0.2220
+32	Spectrogram 1	1	26.0	29.0	150	15000	woolar1	Wood Lark	0.2174
+33	Spectrogram 1	1	26.0	29.0	150	15000	comred2	Common Redstart	0.1189
+34	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.4487
+35	Spectrogram 1	1	31.0	34.0	150	15000	comnig1	Common Nightingale	0.5057
+36	Spectrogram 1	1	32.0	35.0	150	15000	comnig1	Common Nightingale	0.3221
+37	Spectrogram 1	1	33.0	36.0	150	15000	woolar1	Wood Lark	0.2079
+38	Spectrogram 1	1	34.0	37.0	150	15000	woolar1	Wood Lark	0.3390
+39	Spectrogram 1	1	35.0	38.0	150	15000	woolar1	Wood Lark	0.3851
+40	Spectrogram 1	1	35.0	38.0	150	15000	lirplo	Little Ringed Plover	0.1831
+41	Spectrogram 1	1	36.0	39.0	150	15000	whinch1	Whinchat	0.1276
+42	Spectrogram 1	1	36.0	39.0	150	15000	comnig1	Common Nightingale	0.1151
+43	Spectrogram 1	1	38.0	41.0	150	15000	comnig1	Common Nightingale	0.4794
+44	Spectrogram 1	1	38.0	41.0	150	15000	trepip	Tree Pipit	0.1034
+45	Spectrogram 1	1	39.0	42.0	150	15000	comnig1	Common Nightingale	0.3592
+46	Spectrogram 1	1	39.0	42.0	150	15000	woolar1	Wood Lark	0.3035
+47	Spectrogram 1	1	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.1719
+48	Spectrogram 1	1	40.0	43.0	150	15000	woolar1	Wood Lark	0.2248
+49	Spectrogram 1	1	41.0	44.0	150	15000	woolar1	Wood Lark	0.4534
+50	Spectrogram 1	1	42.0	45.0	150	15000	woolar1	Wood Lark	0.3572
+51	Spectrogram 1	1	43.0	46.0	150	15000	woolar1	Wood Lark	0.1070
+52	Spectrogram 1	1	44.0	47.0	150	15000	woolar1	Wood Lark	0.1085
+53	Spectrogram 1	1	45.0	48.0	150	15000	comnig1	Common Nightingale	0.1925
+54	Spectrogram 1	1	45.0	48.0	150	15000	sonthr1	Song Thrush	0.1285
+55	Spectrogram 1	1	46.0	49.0	150	15000	comnig1	Common Nightingale	0.2227
+56	Spectrogram 1	1	47.0	50.0	150	15000	comnig1	Common Nightingale	0.3633
+57	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.1155
+58	Spectrogram 1	1	48.0	51.0	150	15000	crelar2	Crested Lark	0.1009
+59	Spectrogram 1	1	50.0	53.0	150	15000	grnsan	Green Sandpiper	0.1130
+60	Spectrogram 1	1	50.0	53.0	150	15000	trepip	Tree Pipit	0.1096
+61	Spectrogram 1	1	50.0	53.0	150	15000	tawowl1	Tawny Owl	0.1088
+62	Spectrogram 1	1	50.0	53.0	150	15000	woolar1	Wood Lark	0.1017
+63	Spectrogram 1	1	52.0	55.0	150	15000	comnig1	Common Nightingale	0.2819
+64	Spectrogram 1	1	52.0	55.0	150	15000	garwar1	Garden Warbler	0.2259
+65	Spectrogram 1	1	52.0	55.0	150	15000	woolar1	Wood Lark	0.1598
+66	Spectrogram 1	1	52.0	55.0	150	15000	whinch1	Whinchat	0.1204
+67	Spectrogram 1	1	52.0	55.0	150	15000	burthr	Blue Rock-Thrush	0.1049
+68	Spectrogram 1	1	53.0	56.0	150	15000	comnig1	Common Nightingale	0.5182
+69	Spectrogram 1	1	53.0	56.0	150	15000	garwar1	Garden Warbler	0.1537
+70	Spectrogram 1	1	54.0	57.0	150	15000	comnig1	Common Nightingale	0.5423
+71	Spectrogram 1	1	54.0	57.0	150	15000	garwar1	Garden Warbler	0.2458
+72	Spectrogram 1	1	55.0	58.0	150	15000	comnig1	Common Nightingale	0.4694
+73	Spectrogram 1	1	55.0	58.0	150	15000	garwar1	Garden Warbler	0.2610
+74	Spectrogram 1	1	55.0	58.0	150	15000	grewhi1	Greater Whitethroat	0.1132
+75	Spectrogram 1	1	55.0	58.0	150	15000	comred2	Common Redstart	0.1028
+76	Spectrogram 1	1	57.0	60.0	150	15000	woolar1	Wood Lark	0.1505
+77	Spectrogram 1	1	57.0	60.0	150	15000	woosan	Wood Sandpiper	0.1280
+78	Spectrogram 1	1	57.0	60.0	150	15000	comred1	Common Redshank	0.1253
+79	Spectrogram 1	1	57.0	60.0	150	15000	lirplo	Little Ringed Plover	0.1032
+80	Spectrogram 1	1	58.0	61.0	150	15000	woolar1	Wood Lark	0.1843
+81	Spectrogram 1	1	58.0	61.0	150	15000	woosan	Wood Sandpiper	0.1191
+82	Spectrogram 1	1	58.0	61.0	150	15000	comred1	Common Redshank	0.1122
+83	Spectrogram 1	1	58.0	61.0	150	15000	lirplo	Little Ringed Plover	0.1030
+84	Spectrogram 1	1	58.0	61.0	150	15000	litgre1	Little Grebe	0.1027

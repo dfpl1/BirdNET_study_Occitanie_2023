@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	4.75807	7.16658	3267.8	6398.7	Phylloscopus collybita
+2	Spectrogram 1	1	12.26993	16.50587	3629.5	6155.2	Phylloscopus collybita
+3	Spectrogram 1	1	20.03442	23.17559	3809.5	5402.3	Phylloscopus collybita
+4	Spectrogram 1	1	25.23882	27.94208	3783.3	4925.0	Fringilla coelebs
+5	Spectrogram 1	1	28.37999	31.18431	3267.8	5545.9	Phylloscopus collybita
+6	Spectrogram 1	1	36.94452	40.43939	3154.0	4957.8	Phylloscopus collybita
+7	Spectrogram 1	1	46.45224	51.49663	3505.4	5473.7	Phylloscopus collybita

@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	9.0	12.0	150	15000	blackc1	Eurasian Blackcap	0.1154
+2	Spectrogram 1	1	9.0	12.0	150	15000	grewhi1	Greater Whitethroat	0.1107
+3	Spectrogram 1	1	24.0	27.0	150	15000	whinch1	Whinchat	0.1019
+4	Spectrogram 1	1	45.0	48.0	150	15000	blakit1	Black Kite	0.4719

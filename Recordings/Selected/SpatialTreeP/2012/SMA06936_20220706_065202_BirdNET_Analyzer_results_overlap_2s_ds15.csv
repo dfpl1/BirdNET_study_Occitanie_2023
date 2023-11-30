@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	21.0	24.0	150	15000	mallar3	Mallard	0.1073
+2	Spectrogram 1	1	21.0	24.0	150	15000	carcro1	Carrion Crow	0.1009
+3	Spectrogram 1	1	22.0	25.0	150	15000	eurcur	Eurasian Curlew	0.1200
+4	Spectrogram 1	1	23.0	26.0	150	15000	eurcur	Eurasian Curlew	0.1130
+5	Spectrogram 1	1	25.0	28.0	150	15000	carcro1	Carrion Crow	0.1180
+6	Spectrogram 1	1	32.0	35.0	150	15000	mallar3	Mallard	0.1171
+7	Spectrogram 1	1	45.0	48.0	150	15000	goleag	Golden Eagle	0.1051
+8	Spectrogram 1	1	52.0	55.0	150	15000	cowpig1	Common Wood-Pigeon	0.1023
+9	Spectrogram 1	1	59.0	62.0	150	15000	sonthr1	Song Thrush	0.1018

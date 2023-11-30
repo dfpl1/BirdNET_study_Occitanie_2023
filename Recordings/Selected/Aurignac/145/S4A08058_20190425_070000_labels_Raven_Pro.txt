@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.00000	5.951136	3360.1	8214.6	Phylloscopus collybita
+2	Spectrogram 1	1	12.12082	18.332524	3578.7	7649.1	Phylloscopus collybita
+3	Spectrogram 1	1	12.70921	15.012328	2149.9	5723.7	Sylvia atricapilla
+4	Spectrogram 1	1	14.97030	17.147340	2423.8	6249.3	Unidentified bird
+5	Spectrogram 1	1	15.29812	35.622759	199.2	 900.9	Streptopelia decaocto
+6	Spectrogram 1	1	18.77802	22.005753	1832.8	6817.9	Sylvia atricapilla
+7	Spectrogram 1	1	24.08193	29.991034	3564.9	7901.1	Phylloscopus collybita
+8	Spectrogram 1	1	29.76408	32.378213	2078.0	5049.9	Sylvia atricapilla
+9	Spectrogram 1	1	35.31175	38.220076	1414.7	3734.4	Sylvia atricapilla
+10	Spectrogram 1	1	37.97631	41.506650	3792.3	6952.1	Phylloscopus collybita
+11	Spectrogram 1	1	38.39659	43.700501	2078.0	10026.6	Troglodytes troglodytes
+12	Spectrogram 1	1	39.33802	45.297557	2004.4	5395.5	Sylvia atricapilla
+13	Spectrogram 1	1	46.60042	47.701547	4177.9	9463.1	Unidentified bird
+14	Spectrogram 1	1	52.34982	57.519239	2188.4	4284.3	Sylvia atricapilla
+15	Spectrogram 1	1	54.56889	58.880940	3809.0	7759.2	Phylloscopus collybita

@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.042028	1.840817	2031.3	4024.2	Sylvia atricapilla
+2	Spectrogram 1	1	1.933279	3.639607	2371.6	5274.6	Passer domesticus
+3	Spectrogram 1	1	5.236663	6.085625	991.0	2720.6	Buteo buteo
+4	Spectrogram 1	1	6.623580	12.406605	2085.3	5216.5	Sylvia atricapilla
+5	Spectrogram 1	1	13.297594	16.239540	991.0	2754.2	Buteo buteo
+6	Spectrogram 1	1	14.356695	20.391886	1850.5	4459.1	Sylvia atricapilla
+7	Spectrogram 1	1	26.738083	27.511394	1801.1	2557.3	Unidentified bird
+8	Spectrogram 1	1	28.351950	30.226390	1978.4	3842.9	Sylvia atricapilla
+9	Spectrogram 1	1	35.362186	37.245031	2140.3	4117.6	Sylvia atricapilla
+10	Spectrogram 1	1	53.585438	54.829461	833.4	1850.5	Corvus corone

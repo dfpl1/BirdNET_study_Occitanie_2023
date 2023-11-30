@@ -1,0 +1,58 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	9.0	12.0	150	15000	woolar1	Wood Lark	0.4762
+2	Spectrogram 1	1	9.0	12.0	150	15000	trepip	Tree Pipit	0.1535
+3	Spectrogram 1	1	12.0	15.0	150	15000	litgre1	Little Grebe	0.1243
+4	Spectrogram 1	1	12.0	15.0	150	15000	eurbul	Eurasian Bullfinch	0.1134
+5	Spectrogram 1	1	12.0	15.0	150	15000	watrai1	Water Rail	0.1010
+6	Spectrogram 1	1	15.0	18.0	150	15000	trepip	Tree Pipit	0.1630
+7	Spectrogram 1	1	15.0	18.0	150	15000	reebun	Reed Bunting	0.1582
+8	Spectrogram 1	1	15.0	18.0	150	15000	litgre1	Little Grebe	0.1316
+9	Spectrogram 1	1	15.0	18.0	150	15000	hawfin	Hawfinch	0.1110
+10	Spectrogram 1	1	15.0	18.0	150	15000	watrai1	Water Rail	0.1041
+11	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.6006
+12	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1134
+13	Spectrogram 1	1	21.0	24.0	150	15000	woolar1	Wood Lark	0.3194
+14	Spectrogram 1	1	21.0	24.0	150	15000	trepip	Tree Pipit	0.1974
+15	Spectrogram 1	1	21.0	24.0	150	15000	rocbun1	Rock Bunting	0.1847
+16	Spectrogram 1	1	21.0	24.0	150	15000	webwar1	Western Bonelli's Warbler	0.1599
+17	Spectrogram 1	1	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.1515
+18	Spectrogram 1	1	21.0	24.0	150	15000	cirbun1	Cirl Bunting	0.1405
+19	Spectrogram 1	1	21.0	24.0	150	15000	booeag1	Booted Eagle	0.1285
+20	Spectrogram 1	1	21.0	24.0	150	15000	sarwar1	Sardinian Warbler	0.1221
+21	Spectrogram 1	1	21.0	24.0	150	15000	grnsan	Green Sandpiper	0.1158
+22	Spectrogram 1	1	21.0	24.0	150	15000	citfin1	Citril Finch	0.1132
+23	Spectrogram 1	1	21.0	24.0	150	15000	shttre1	Short-toed Treecreeper	0.1075
+24	Spectrogram 1	1	21.0	24.0	150	15000	grewhi1	Greater Whitethroat	0.1055
+25	Spectrogram 1	1	24.0	27.0	150	15000	watrai1	Water Rail	0.1642
+26	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.5730
+27	Spectrogram 1	1	27.0	30.0	150	15000	martit2	Marsh Tit	0.2291
+28	Spectrogram 1	1	30.0	33.0	150	15000	trepip	Tree Pipit	0.1783
+29	Spectrogram 1	1	30.0	33.0	150	15000	rocbun1	Rock Bunting	0.1766
+30	Spectrogram 1	1	30.0	33.0	150	15000	sonthr1	Song Thrush	0.1218
+31	Spectrogram 1	1	33.0	36.0	150	15000	goldcr1	Goldcrest	0.1395
+32	Spectrogram 1	1	33.0	36.0	150	15000	rocbun1	Rock Bunting	0.1139
+33	Spectrogram 1	1	36.0	39.0	150	15000	trepip	Tree Pipit	0.6188
+34	Spectrogram 1	1	36.0	39.0	150	15000	martit2	Marsh Tit	0.1434
+35	Spectrogram 1	1	39.0	42.0	150	15000	martit2	Marsh Tit	0.1331
+36	Spectrogram 1	1	39.0	42.0	150	15000	grywag	Gray Wagtail	0.1182
+37	Spectrogram 1	1	39.0	42.0	150	15000	rocbun1	Rock Bunting	0.1161
+38	Spectrogram 1	1	39.0	42.0	150	15000	trepip	Tree Pipit	0.1092
+39	Spectrogram 1	1	39.0	42.0	150	15000	hawfin	Hawfinch	0.1023
+40	Spectrogram 1	1	39.0	42.0	150	15000	comsan	Common Sandpiper	0.1015
+41	Spectrogram 1	1	42.0	45.0	150	15000	norlap	Northern Lapwing	0.1456
+42	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1253
+43	Spectrogram 1	1	42.0	45.0	150	15000	rebshr1	Red-backed Shrike	0.1088
+44	Spectrogram 1	1	45.0	48.0	150	15000	trepip	Tree Pipit	0.5609
+45	Spectrogram 1	1	45.0	48.0	150	15000	webwar1	Western Bonelli's Warbler	0.1083
+46	Spectrogram 1	1	48.0	51.0	150	15000	trepip	Tree Pipit	0.3530
+47	Spectrogram 1	1	48.0	51.0	150	15000	martit2	Marsh Tit	0.1319
+48	Spectrogram 1	1	51.0	54.0	150	15000	comsan	Common Sandpiper	0.2140
+49	Spectrogram 1	1	51.0	54.0	150	15000	reebun	Reed Bunting	0.1602
+50	Spectrogram 1	1	51.0	54.0	150	15000	sonthr1	Song Thrush	0.1527
+51	Spectrogram 1	1	51.0	54.0	150	15000	blared1	Black Redstart	0.1273
+52	Spectrogram 1	1	51.0	54.0	150	15000	trepip	Tree Pipit	0.1152
+53	Spectrogram 1	1	51.0	54.0	150	15000	grywag	Gray Wagtail	0.1017
+54	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.5743
+55	Spectrogram 1	1	54.0	57.0	150	15000	martit2	Marsh Tit	0.1004
+56	Spectrogram 1	1	57.0	60.0	150	15000	trepip	Tree Pipit	0.3337
+57	Spectrogram 1	1	57.0	60.0	150	15000	martit2	Marsh Tit	0.3097

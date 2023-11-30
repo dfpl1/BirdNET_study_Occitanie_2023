@@ -1,0 +1,73 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	litowl1	Little Owl	0.1681
+2	Spectrogram 1	1	2.0	5.0	150	15000	litowl1	Little Owl	0.2260
+3	Spectrogram 1	1	2.0	5.0	150	15000	commoo3	Eurasian Moorhen	0.1304
+4	Spectrogram 1	1	2.0	5.0	150	15000	eurcoo	Eurasian Coot	0.1228
+5	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.1078
+6	Spectrogram 1	1	2.0	5.0	150	15000	mallar3	Mallard	0.1048
+7	Spectrogram 1	1	2.0	5.0	150	15000	graher1	Gray Heron	0.1037
+8	Spectrogram 1	1	4.0	7.0	150	15000	litowl1	Little Owl	0.1869
+9	Spectrogram 1	1	4.0	7.0	150	15000	mallar3	Mallard	0.1125
+10	Spectrogram 1	1	8.0	11.0	150	15000	tawowl1	Tawny Owl	0.3085
+11	Spectrogram 1	1	8.0	11.0	150	15000	litowl1	Little Owl	0.1786
+12	Spectrogram 1	1	10.0	13.0	150	15000	tawowl1	Tawny Owl	0.2666
+13	Spectrogram 1	1	10.0	13.0	150	15000	litowl1	Little Owl	0.1989
+14	Spectrogram 1	1	12.0	15.0	150	15000	litowl1	Little Owl	0.1098
+15	Spectrogram 1	1	14.0	17.0	150	15000	commoo3	Eurasian Moorhen	0.1127
+16	Spectrogram 1	1	16.0	19.0	150	15000	lirplo	Little Ringed Plover	0.1773
+17	Spectrogram 1	1	16.0	19.0	150	15000	commoo3	Eurasian Moorhen	0.1190
+18	Spectrogram 1	1	16.0	19.0	150	15000	watrai1	Water Rail	0.1037
+19	Spectrogram 1	1	16.0	19.0	150	15000	tawowl1	Tawny Owl	0.1027
+20	Spectrogram 1	1	16.0	19.0	150	15000	eurcoo	Eurasian Coot	0.1018
+21	Spectrogram 1	1	18.0	21.0	150	15000	mallar3	Mallard	0.2045
+22	Spectrogram 1	1	18.0	21.0	150	15000	eurcoo	Eurasian Coot	0.1989
+23	Spectrogram 1	1	18.0	21.0	150	15000	commoo3	Eurasian Moorhen	0.1516
+24	Spectrogram 1	1	18.0	21.0	150	15000	lirplo	Little Ringed Plover	0.1182
+25	Spectrogram 1	1	20.0	23.0	150	15000	eurcoo	Eurasian Coot	0.2497
+26	Spectrogram 1	1	20.0	23.0	150	15000	commoo3	Eurasian Moorhen	0.1857
+27	Spectrogram 1	1	20.0	23.0	150	15000	mallar3	Mallard	0.1751
+28	Spectrogram 1	1	20.0	23.0	150	15000	litowl1	Little Owl	0.1661
+29	Spectrogram 1	1	20.0	23.0	150	15000	lirplo	Little Ringed Plover	0.1260
+30	Spectrogram 1	1	20.0	23.0	150	15000	tawowl1	Tawny Owl	0.1052
+31	Spectrogram 1	1	20.0	23.0	150	15000	graher1	Gray Heron	0.1008
+32	Spectrogram 1	1	22.0	25.0	150	15000	litowl1	Little Owl	0.2664
+33	Spectrogram 1	1	22.0	25.0	150	15000	graher1	Gray Heron	0.1139
+34	Spectrogram 1	1	24.0	27.0	150	15000	litowl1	Little Owl	0.3154
+35	Spectrogram 1	1	24.0	27.0	150	15000	graher1	Gray Heron	0.1259
+36	Spectrogram 1	1	24.0	27.0	150	15000	tawowl1	Tawny Owl	0.1121
+37	Spectrogram 1	1	26.0	29.0	150	15000	litowl1	Little Owl	0.1678
+38	Spectrogram 1	1	28.0	31.0	150	15000	tawowl1	Tawny Owl	0.4164
+39	Spectrogram 1	1	28.0	31.0	150	15000	litowl1	Little Owl	0.2193
+40	Spectrogram 1	1	28.0	31.0	150	15000	commoo3	Eurasian Moorhen	0.1963
+41	Spectrogram 1	1	28.0	31.0	150	15000	graher1	Gray Heron	0.1936
+42	Spectrogram 1	1	28.0	31.0	150	15000	eurcoo	Eurasian Coot	0.1697
+43	Spectrogram 1	1	28.0	31.0	150	15000	mallar3	Mallard	0.1487
+44	Spectrogram 1	1	28.0	31.0	150	15000	bkhgul	Black-headed Gull	0.1278
+45	Spectrogram 1	1	30.0	33.0	150	15000	tawowl1	Tawny Owl	0.3166
+46	Spectrogram 1	1	30.0	33.0	150	15000	litowl1	Little Owl	0.1909
+47	Spectrogram 1	1	30.0	33.0	150	15000	eurcoo	Eurasian Coot	0.1543
+48	Spectrogram 1	1	30.0	33.0	150	15000	graher1	Gray Heron	0.1431
+49	Spectrogram 1	1	30.0	33.0	150	15000	commoo3	Eurasian Moorhen	0.1115
+50	Spectrogram 1	1	32.0	35.0	150	15000	litowl1	Little Owl	0.1709
+51	Spectrogram 1	1	32.0	35.0	150	15000	mallar3	Mallard	0.1309
+52	Spectrogram 1	1	32.0	35.0	150	15000	eurcoo	Eurasian Coot	0.1293
+53	Spectrogram 1	1	32.0	35.0	150	15000	commoo3	Eurasian Moorhen	0.1029
+54	Spectrogram 1	1	34.0	37.0	150	15000	litowl1	Little Owl	0.1634
+55	Spectrogram 1	1	34.0	37.0	150	15000	mallar3	Mallard	0.1431
+56	Spectrogram 1	1	36.0	39.0	150	15000	litowl1	Little Owl	0.1405
+57	Spectrogram 1	1	36.0	39.0	150	15000	mallar3	Mallard	0.1004
+58	Spectrogram 1	1	38.0	41.0	150	15000	litowl1	Little Owl	0.1888
+59	Spectrogram 1	1	38.0	41.0	150	15000	mallar3	Mallard	0.1187
+60	Spectrogram 1	1	40.0	43.0	150	15000	litowl1	Little Owl	0.1377
+61	Spectrogram 1	1	42.0	45.0	150	15000	litowl1	Little Owl	0.1400
+62	Spectrogram 1	1	42.0	45.0	150	15000	graher1	Gray Heron	0.1113
+63	Spectrogram 1	1	44.0	47.0	150	15000	litowl1	Little Owl	0.1672
+64	Spectrogram 1	1	44.0	47.0	150	15000	tawowl1	Tawny Owl	0.1091
+65	Spectrogram 1	1	44.0	47.0	150	15000	mallar3	Mallard	0.1016
+66	Spectrogram 1	1	46.0	49.0	150	15000	litowl1	Little Owl	0.1516
+67	Spectrogram 1	1	46.0	49.0	150	15000	mallar3	Mallard	0.1147
+68	Spectrogram 1	1	48.0	51.0	150	15000	litowl1	Little Owl	0.2139
+69	Spectrogram 1	1	50.0	53.0	150	15000	litowl1	Little Owl	0.2217
+70	Spectrogram 1	1	50.0	53.0	150	15000	graher1	Gray Heron	0.1014
+71	Spectrogram 1	1	52.0	55.0	150	15000	litowl1	Little Owl	0.1857
+72	Spectrogram 1	1	54.0	57.0	150	15000	litowl1	Little Owl	0.1495

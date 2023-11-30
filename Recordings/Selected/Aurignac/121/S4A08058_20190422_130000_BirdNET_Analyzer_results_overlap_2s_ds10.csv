@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	13.0	16.0	150	15000	carcro1	Carrion Crow	0.1471
+2	Spectrogram 1	1	14.0	17.0	150	15000	carcro1	Carrion Crow	0.2099
+3	Spectrogram 1	1	15.0	18.0	150	15000	carcro1	Carrion Crow	0.2150
+4	Spectrogram 1	1	16.0	19.0	150	15000	carcro1	Carrion Crow	0.1653
+5	Spectrogram 1	1	42.0	45.0	150	15000	relpar1	Red-legged Partridge	0.1484

@@ -1,0 +1,48 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	corbun1	Corn Bunting	0.8676
+2	Spectrogram 1	1	1.0	4.0	150	15000	corbun1	Corn Bunting	0.7018
+3	Spectrogram 1	1	5.0	8.0	150	15000	corbun1	Corn Bunting	0.3391
+4	Spectrogram 1	1	5.0	8.0	150	15000	callar1	Calandra Lark	0.3357
+5	Spectrogram 1	1	5.0	8.0	150	15000	citfin1	Citril Finch	0.1282
+6	Spectrogram 1	1	6.0	9.0	150	15000	corbun1	Corn Bunting	0.3996
+7	Spectrogram 1	1	6.0	9.0	150	15000	wooshr1	Woodchat Shrike	0.3489
+8	Spectrogram 1	1	6.0	9.0	150	15000	callar1	Calandra Lark	0.1424
+9	Spectrogram 1	1	7.0	10.0	150	15000	wooshr1	Woodchat Shrike	0.4043
+10	Spectrogram 1	1	7.0	10.0	150	15000	corbun1	Corn Bunting	0.3203
+11	Spectrogram 1	1	8.0	11.0	150	15000	wooshr1	Woodchat Shrike	0.3924
+12	Spectrogram 1	1	9.0	12.0	150	15000	corbun1	Corn Bunting	0.1192
+13	Spectrogram 1	1	10.0	13.0	150	15000	corbun1	Corn Bunting	0.1096
+14	Spectrogram 1	1	11.0	14.0	150	15000	skylar	Eurasian Skylark	0.1510
+15	Spectrogram 1	1	12.0	15.0	150	15000	corbun1	Corn Bunting	0.1086
+16	Spectrogram 1	1	13.0	16.0	150	15000	corbun1	Corn Bunting	0.6789
+17	Spectrogram 1	1	14.0	17.0	150	15000	corbun1	Corn Bunting	0.2586
+18	Spectrogram 1	1	16.0	19.0	150	15000	corbun1	Corn Bunting	0.1230
+19	Spectrogram 1	1	17.0	20.0	150	15000	wooshr1	Woodchat Shrike	0.2214
+20	Spectrogram 1	1	18.0	21.0	150	15000	corbun1	Corn Bunting	0.5194
+21	Spectrogram 1	1	19.0	22.0	150	15000	corbun1	Corn Bunting	0.2617
+22	Spectrogram 1	1	21.0	24.0	150	15000	corbun1	Corn Bunting	0.2530
+23	Spectrogram 1	1	22.0	25.0	150	15000	corbun1	Corn Bunting	0.1821
+24	Spectrogram 1	1	22.0	25.0	150	15000	wooshr1	Woodchat Shrike	0.1015
+25	Spectrogram 1	1	23.0	26.0	150	15000	corbun1	Corn Bunting	0.2795
+26	Spectrogram 1	1	24.0	27.0	150	15000	corbun1	Corn Bunting	0.6259
+27	Spectrogram 1	1	25.0	28.0	150	15000	corbun1	Corn Bunting	0.1036
+28	Spectrogram 1	1	27.0	30.0	150	15000	wooshr1	Woodchat Shrike	0.2432
+29	Spectrogram 1	1	28.0	31.0	150	15000	blutit	Eurasian Blue Tit	0.1163
+30	Spectrogram 1	1	32.0	35.0	150	15000	corbun1	Corn Bunting	0.2101
+31	Spectrogram 1	1	36.0	39.0	150	15000	corbun1	Corn Bunting	0.7056
+32	Spectrogram 1	1	37.0	40.0	150	15000	corbun1	Corn Bunting	0.3912
+33	Spectrogram 1	1	38.0	41.0	150	15000	corbun1	Corn Bunting	0.6823
+34	Spectrogram 1	1	39.0	42.0	150	15000	corbun1	Corn Bunting	0.9560
+35	Spectrogram 1	1	40.0	43.0	150	15000	corbun1	Corn Bunting	0.9828
+36	Spectrogram 1	1	41.0	44.0	150	15000	corbun1	Corn Bunting	0.9270
+37	Spectrogram 1	1	42.0	45.0	150	15000	corbun1	Corn Bunting	0.3807
+38	Spectrogram 1	1	43.0	46.0	150	15000	blutit	Eurasian Blue Tit	0.3062
+39	Spectrogram 1	1	44.0	47.0	150	15000	corbun1	Corn Bunting	0.2554
+40	Spectrogram 1	1	45.0	48.0	150	15000	corbun1	Corn Bunting	0.3696
+41	Spectrogram 1	1	46.0	49.0	150	15000	corbun1	Corn Bunting	0.1516
+42	Spectrogram 1	1	46.0	49.0	150	15000	thelar1	Thekla's Lark	0.1156
+43	Spectrogram 1	1	50.0	53.0	150	15000	hawfin	Hawfinch	0.3267
+44	Spectrogram 1	1	51.0	54.0	150	15000	corbun1	Corn Bunting	0.9060
+45	Spectrogram 1	1	52.0	55.0	150	15000	corbun1	Corn Bunting	0.9370
+46	Spectrogram 1	1	53.0	56.0	150	15000	corbun1	Corn Bunting	0.9662
+47	Spectrogram 1	1	54.0	57.0	150	15000	corbun1	Corn Bunting	0.4382

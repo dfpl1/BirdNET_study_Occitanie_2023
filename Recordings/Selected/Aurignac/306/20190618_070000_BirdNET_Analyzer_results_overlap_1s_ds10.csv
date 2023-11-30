@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	grewhi1	Greater Whitethroat	0.3208
+2	Spectrogram 1	1	4.0	7.0	150	15000	blackc1	Eurasian Blackcap	0.1522
+3	Spectrogram 1	1	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.5256
+4	Spectrogram 1	1	12.0	15.0	150	15000	eutdov	European Turtle-Dove	0.1328
+5	Spectrogram 1	1	14.0	17.0	150	15000	eutdov	European Turtle-Dove	0.6303
+6	Spectrogram 1	1	16.0	19.0	150	15000	zitcis1	Zitting Cisticola	0.4950
+7	Spectrogram 1	1	16.0	19.0	150	15000	eutdov	European Turtle-Dove	0.3433
+8	Spectrogram 1	1	18.0	21.0	150	15000	grewhi1	Greater Whitethroat	0.1326
+9	Spectrogram 1	1	22.0	25.0	150	15000	grewhi1	Greater Whitethroat	0.3187
+10	Spectrogram 1	1	24.0	27.0	150	15000	grewhi1	Greater Whitethroat	0.2172
+11	Spectrogram 1	1	26.0	29.0	150	15000	grewhi1	Greater Whitethroat	0.2215
+12	Spectrogram 1	1	28.0	31.0	150	15000	grewhi1	Greater Whitethroat	0.1711
+13	Spectrogram 1	1	32.0	35.0	150	15000	eutdov	European Turtle-Dove	0.4561
+14	Spectrogram 1	1	32.0	35.0	150	15000	grewhi1	Greater Whitethroat	0.2423
+15	Spectrogram 1	1	34.0	37.0	150	15000	eutdov	European Turtle-Dove	0.5241
+16	Spectrogram 1	1	34.0	37.0	150	15000	grewhi1	Greater Whitethroat	0.1308
+17	Spectrogram 1	1	36.0	39.0	150	15000	eutdov	European Turtle-Dove	0.6918
+18	Spectrogram 1	1	38.0	41.0	150	15000	eutdov	European Turtle-Dove	0.1789
+19	Spectrogram 1	1	44.0	47.0	150	15000	grewhi1	Greater Whitethroat	0.1640
+20	Spectrogram 1	1	50.0	53.0	150	15000	zitcis1	Zitting Cisticola	0.6533
+21	Spectrogram 1	1	58.0	61.0	150	15000	grewhi1	Greater Whitethroat	0.2222

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	litowl1	Little Owl	0.1455
+2	Spectrogram 1	1	4.0	7.0	150	15000	bcnher	Black-crowned Night-Heron	0.1112
+3	Spectrogram 1	1	26.0	29.0	150	15000	litowl1	Little Owl	0.1012
+4	Spectrogram 1	1	52.0	55.0	150	15000	bcnher	Black-crowned Night-Heron	0.1006
+5	Spectrogram 1	1	54.0	57.0	150	15000	bcnher	Black-crowned Night-Heron	0.1223
+6	Spectrogram 1	1	56.0	59.0	150	15000	mallar3	Mallard	0.1110

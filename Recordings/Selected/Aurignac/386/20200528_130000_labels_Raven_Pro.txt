@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.571578	4.749141	6790.1	10176.8	Unidentified bird
+2	Spectrogram 1	1	24.006276	24.687126	2113.3	3091.6	Turdus merula
+3	Spectrogram 1	1	27.032277	27.620666	3620.4	5997.1	Unidentified bird
+4	Spectrogram 1	1	33.462530	35.900142	1570.1	5344.1	Turdus merula
+5	Spectrogram 1	1	36.480126	42.296772	2087.1	7074.8	Sylvia atricapilla
+6	Spectrogram 1	1	42.380828	45.953190	1166.4	4410.1	Turdus merula
+7	Spectrogram 1	1	46.264196	48.844703	1886.8	5122.8	Unidentified bird
+8	Spectrogram 1	1	51.198259	55.401039	1064.8	2627.5	Turdus merula
+9	Spectrogram 1	1	56.182756	60.000000	1723.3	6448.9	Sylvia atricapilla

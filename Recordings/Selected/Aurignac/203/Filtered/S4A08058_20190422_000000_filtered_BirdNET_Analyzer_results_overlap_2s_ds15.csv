@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	15.0	18.0	150	15000	eutkne1	Eurasian Thick-knee	0.1753
+2	Spectrogram 1	1	15.0	18.0	150	15000	litgre1	Little Grebe	0.1197
+3	Spectrogram 1	1	15.0	18.0	150	15000	eurbul	Eurasian Bullfinch	0.1030
+4	Spectrogram 1	1	16.0	19.0	150	15000	litgre1	Little Grebe	0.1075
+5	Spectrogram 1	1	17.0	20.0	150	15000	eutkne1	Eurasian Thick-knee	0.1455
+6	Spectrogram 1	1	17.0	20.0	150	15000	litgre1	Little Grebe	0.1438
+7	Spectrogram 1	1	17.0	20.0	150	15000	eurbul	Eurasian Bullfinch	0.1058
+8	Spectrogram 1	1	52.0	55.0	150	15000	mallar3	Mallard	0.1000

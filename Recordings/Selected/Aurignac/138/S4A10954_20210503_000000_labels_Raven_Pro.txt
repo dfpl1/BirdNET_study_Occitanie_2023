@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	59.948446	933.5	7726.9	Luscinia megarhynchos
+2	Spectrogram 1	1	0.848961	16.516923	1141.1	1643.8	Otus scops
+3	Spectrogram 1	1	2.605723	3.412657	526.0	984.4	Strix aluco
+4	Spectrogram 1	1	9.010759	10.111887	526.0	921.4	Strix aluco
+5	Spectrogram 1	1	14.961895	27.553422	1493.6	5656.2	Lullula arborea
+6	Spectrogram 1	1	21.434175	58.158062	1049.9	1499.5	Otus scops
+7	Spectrogram 1	1	22.308353	23.081665	541.7	1006.0	Strix aluco
+8	Spectrogram 1	1	28.822661	30.159145	450.6	942.2	Strix aluco
+9	Spectrogram 1	1	32.630380	36.547370	1793.6	5495.3	Lullula arborea
+10	Spectrogram 1	1	40.573633	44.768007	2361.2	5185.7	Lullula arborea
+11	Spectrogram 1	1	48.239502	52.248954	2171.2	5261.6	Lullula arborea
+12	Spectrogram 1	1	51.088987	53.156754	450.6	1614.2	Strix aluco
+13	Spectrogram 1	1	55.535527	59.948446	2208.2	4963.7	Lullula arborea

@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	cirbun1	Cirl Bunting	0.1202
+2	Spectrogram 1	1	6.0	9.0	150	15000	woolar1	Wood Lark	0.1370
+3	Spectrogram 1	1	6.0	9.0	150	15000	webwar1	Western Bonelli's Warbler	0.1150
+4	Spectrogram 1	1	21.0	24.0	150	15000	webwar1	Western Bonelli's Warbler	0.1413
+5	Spectrogram 1	1	21.0	24.0	150	15000	cirbun1	Cirl Bunting	0.1177
+6	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1320
+7	Spectrogram 1	1	42.0	45.0	150	15000	spofly1	Spotted Flycatcher	0.1201
+8	Spectrogram 1	1	45.0	48.0	150	15000	blared1	Black Redstart	0.1405
+9	Spectrogram 1	1	45.0	48.0	150	15000	stonec4	European Stonechat	0.1160
+10	Spectrogram 1	1	45.0	48.0	150	15000	barswa	Barn Swallow	0.1123
+11	Spectrogram 1	1	45.0	48.0	150	15000	webwar1	Western Bonelli's Warbler	0.1047
+12	Spectrogram 1	1	48.0	51.0	150	15000	whiwag	White Wagtail	0.2248
+13	Spectrogram 1	1	48.0	51.0	150	15000	eaywag1	Western Yellow Wagtail	0.1071
+14	Spectrogram 1	1	48.0	51.0	150	15000	stonec4	European Stonechat	0.1022
+15	Spectrogram 1	1	54.0	57.0	150	15000	whiwag	White Wagtail	0.1362
+16	Spectrogram 1	1	57.0	60.0	150	15000	whiwag	White Wagtail	0.3288
+17	Spectrogram 1	1	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.1256
+18	Spectrogram 1	1	57.0	60.0	150	15000	stonec4	European Stonechat	0.1193
+19	Spectrogram 1	1	57.0	60.0	150	15000	eurser1	European Serin	0.1148

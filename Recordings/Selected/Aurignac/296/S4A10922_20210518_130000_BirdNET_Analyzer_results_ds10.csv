@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.3836
+2	Spectrogram 1	1	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.2179
+3	Spectrogram 1	1	27.0	30.0	150	15000	eurbla	Eurasian Blackbird	0.1006
+4	Spectrogram 1	1	39.0	42.0	150	15000	comchi1	Common Chiffchaff	0.4957
+5	Spectrogram 1	1	42.0	45.0	150	15000	comchi1	Common Chiffchaff	0.1457
+6	Spectrogram 1	1	48.0	51.0	150	15000	comchi1	Common Chiffchaff	0.6884
+7	Spectrogram 1	1	51.0	54.0	150	15000	comchi1	Common Chiffchaff	0.2040
+8	Spectrogram 1	1	54.0	57.0	150	15000	eupfly1	European Pied Flycatcher	0.1027

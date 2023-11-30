@@ -1,0 +1,37 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	6.0	9.0	150	15000	thelar1	Thekla's Lark	0.1252
+2	Spectrogram 1	1	6.0	9.0	150	15000	reebun	Reed Bunting	0.1227
+3	Spectrogram 1	1	6.0	9.0	150	15000	whinch1	Whinchat	0.1025
+4	Spectrogram 1	1	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.1773
+5	Spectrogram 1	1	12.0	15.0	150	15000	cirbun1	Cirl Bunting	0.1528
+6	Spectrogram 1	1	12.0	15.0	150	15000	yellow2	Yellowhammer	0.1391
+7	Spectrogram 1	1	12.0	15.0	150	15000	webwar1	Western Bonelli's Warbler	0.1324
+8	Spectrogram 1	1	12.0	15.0	150	15000	comred2	Common Redstart	0.1089
+9	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.1041
+10	Spectrogram 1	1	15.0	18.0	150	15000	cirbun1	Cirl Bunting	0.1011
+11	Spectrogram 1	1	18.0	21.0	150	15000	cirbun1	Cirl Bunting	0.1393
+12	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1206
+13	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.1037
+14	Spectrogram 1	1	18.0	21.0	150	15000	garwar1	Garden Warbler	0.1004
+15	Spectrogram 1	1	21.0	24.0	150	15000	thelar1	Thekla's Lark	0.1211
+16	Spectrogram 1	1	21.0	24.0	150	15000	whinch1	Whinchat	0.1167
+17	Spectrogram 1	1	21.0	24.0	150	15000	cirbun1	Cirl Bunting	0.1148
+18	Spectrogram 1	1	27.0	30.0	150	15000	eurbla	Eurasian Blackbird	0.1266
+19	Spectrogram 1	1	30.0	33.0	150	15000	thelar1	Thekla's Lark	0.1616
+20	Spectrogram 1	1	30.0	33.0	150	15000	crelar2	Crested Lark	0.1245
+21	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.1073
+22	Spectrogram 1	1	33.0	36.0	150	15000	cirbun1	Cirl Bunting	0.2081
+23	Spectrogram 1	1	33.0	36.0	150	15000	webwar1	Western Bonelli's Warbler	0.1256
+24	Spectrogram 1	1	33.0	36.0	150	15000	thelar1	Thekla's Lark	0.1205
+25	Spectrogram 1	1	33.0	36.0	150	15000	yellow2	Yellowhammer	0.1114
+26	Spectrogram 1	1	33.0	36.0	150	15000	trepip	Tree Pipit	0.1031
+27	Spectrogram 1	1	33.0	36.0	150	15000	woolar1	Wood Lark	0.1023
+28	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.1609
+29	Spectrogram 1	1	36.0	39.0	150	15000	eurjac	Eurasian Jackdaw	0.1261
+30	Spectrogram 1	1	36.0	39.0	150	15000	whinch1	Whinchat	0.1083
+31	Spectrogram 1	1	36.0	39.0	150	15000	cirbun1	Cirl Bunting	0.1060
+32	Spectrogram 1	1	42.0	45.0	150	15000	thelar1	Thekla's Lark	0.1259
+33	Spectrogram 1	1	45.0	48.0	150	15000	eurcoo	Eurasian Coot	0.1039
+34	Spectrogram 1	1	48.0	51.0	150	15000	comred2	Common Redstart	0.1016
+35	Spectrogram 1	1	48.0	51.0	150	15000	reebun	Reed Bunting	0.1006
+36	Spectrogram 1	1	54.0	57.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1074

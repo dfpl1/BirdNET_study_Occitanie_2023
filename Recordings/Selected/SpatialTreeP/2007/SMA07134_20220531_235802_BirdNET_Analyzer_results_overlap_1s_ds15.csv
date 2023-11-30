@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	alpswi1	Alpine Swift	0.1537
+2	Spectrogram 1	1	2.0	5.0	150	15000	alpswi1	Alpine Swift	0.1545
+3	Spectrogram 1	1	4.0	7.0	150	15000	alpswi1	Alpine Swift	0.1007
+4	Spectrogram 1	1	22.0	25.0	150	15000	alpswi1	Alpine Swift	0.1176

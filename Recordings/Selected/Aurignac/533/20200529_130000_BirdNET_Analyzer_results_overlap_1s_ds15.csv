@@ -1,0 +1,38 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	lirplo	Little Ringed Plover	0.1099
+2	Spectrogram 1	1	4.0	7.0	150	15000	combuz1	Common Buzzard	0.6685
+3	Spectrogram 1	1	4.0	7.0	150	15000	redkit1	Red Kite	0.1177
+4	Spectrogram 1	1	6.0	9.0	150	15000	eaywag1	Western Yellow Wagtail	0.1319
+5	Spectrogram 1	1	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.1072
+6	Spectrogram 1	1	6.0	9.0	150	15000	whinch1	Whinchat	0.1063
+7	Spectrogram 1	1	8.0	11.0	150	15000	thelar1	Thekla's Lark	0.1582
+8	Spectrogram 1	1	8.0	11.0	150	15000	blackc1	Eurasian Blackcap	0.1552
+9	Spectrogram 1	1	8.0	11.0	150	15000	eutdov	European Turtle-Dove	0.1485
+10	Spectrogram 1	1	8.0	11.0	150	15000	cirbun1	Cirl Bunting	0.1119
+11	Spectrogram 1	1	8.0	11.0	150	15000	sarwar1	Sardinian Warbler	0.1015
+12	Spectrogram 1	1	8.0	11.0	150	15000	crelar2	Crested Lark	0.1004
+13	Spectrogram 1	1	12.0	15.0	150	15000	combuz1	Common Buzzard	0.1884
+14	Spectrogram 1	1	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.1503
+15	Spectrogram 1	1	12.0	15.0	150	15000	thelar1	Thekla's Lark	0.1358
+16	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.2125
+17	Spectrogram 1	1	14.0	17.0	150	15000	thelar1	Thekla's Lark	0.1808
+18	Spectrogram 1	1	14.0	17.0	150	15000	eutdov	European Turtle-Dove	0.1342
+19	Spectrogram 1	1	14.0	17.0	150	15000	cirbun1	Cirl Bunting	0.1159
+20	Spectrogram 1	1	14.0	17.0	150	15000	eugori2	Eurasian Golden Oriole	0.1042
+21	Spectrogram 1	1	14.0	17.0	150	15000	grewhi1	Greater Whitethroat	0.1038
+22	Spectrogram 1	1	16.0	19.0	150	15000	woolar1	Wood Lark	0.1925
+23	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.2276
+24	Spectrogram 1	1	18.0	21.0	150	15000	thelar1	Thekla's Lark	0.1188
+25	Spectrogram 1	1	20.0	23.0	150	15000	woolar1	Wood Lark	0.2019
+26	Spectrogram 1	1	20.0	23.0	150	15000	lirplo	Little Ringed Plover	0.1176
+27	Spectrogram 1	1	20.0	23.0	150	15000	blackc1	Eurasian Blackcap	0.1036
+28	Spectrogram 1	1	20.0	23.0	150	15000	comred2	Common Redstart	0.1005
+29	Spectrogram 1	1	22.0	25.0	150	15000	watrai1	Water Rail	0.1204
+30	Spectrogram 1	1	24.0	27.0	150	15000	graher1	Gray Heron	0.1124
+31	Spectrogram 1	1	28.0	31.0	150	15000	watrai1	Water Rail	0.2460
+32	Spectrogram 1	1	28.0	31.0	150	15000	lirplo	Little Ringed Plover	0.1092
+33	Spectrogram 1	1	32.0	35.0	150	15000	commoo3	Eurasian Moorhen	0.1278
+34	Spectrogram 1	1	38.0	41.0	150	15000	commoo3	Eurasian Moorhen	0.1204
+35	Spectrogram 1	1	48.0	51.0	150	15000	mallar3	Mallard	0.1182
+36	Spectrogram 1	1	54.0	57.0	150	15000	mallar3	Mallard	0.1449
+37	Spectrogram 1	1	56.0	59.0	150	15000	eutkne1	Eurasian Thick-knee	0.1074

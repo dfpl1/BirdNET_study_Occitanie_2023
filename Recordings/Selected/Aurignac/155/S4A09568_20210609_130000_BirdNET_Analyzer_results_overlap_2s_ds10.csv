@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	12.0	15.0	150	15000	combuz1	Common Buzzard	0.3558
+2	Spectrogram 1	1	13.0	16.0	150	15000	combuz1	Common Buzzard	0.6384
+3	Spectrogram 1	1	14.0	17.0	150	15000	combuz1	Common Buzzard	0.4813
+4	Spectrogram 1	1	16.0	19.0	150	15000	webwar1	Western Bonelli's Warbler	0.1714
+5	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1116
+6	Spectrogram 1	1	21.0	24.0	150	15000	relpar1	Red-legged Partridge	0.1306
+7	Spectrogram 1	1	22.0	25.0	150	15000	rebshr1	Red-backed Shrike	0.1005
+8	Spectrogram 1	1	24.0	27.0	150	15000	rebshr1	Red-backed Shrike	0.1200
+9	Spectrogram 1	1	24.0	27.0	150	15000	webwar1	Western Bonelli's Warbler	0.1116
+10	Spectrogram 1	1	25.0	28.0	150	15000	rebshr1	Red-backed Shrike	0.1019
+11	Spectrogram 1	1	27.0	30.0	150	15000	rebshr1	Red-backed Shrike	0.1221
+12	Spectrogram 1	1	27.0	30.0	150	15000	yellow2	Yellowhammer	0.1127
+13	Spectrogram 1	1	39.0	42.0	150	15000	rebshr1	Red-backed Shrike	0.1170
+14	Spectrogram 1	1	43.0	46.0	150	15000	rebshr1	Red-backed Shrike	0.1183
+15	Spectrogram 1	1	44.0	47.0	150	15000	yellow2	Yellowhammer	0.1498
+16	Spectrogram 1	1	44.0	47.0	150	15000	rebshr1	Red-backed Shrike	0.1333
+17	Spectrogram 1	1	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.1316

@@ -1,0 +1,57 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	blared1	Black Redstart	0.7244
+2	Spectrogram 1	1	2.0	5.0	150	15000	blared1	Black Redstart	0.7464
+3	Spectrogram 1	1	2.0	5.0	150	15000	melwar1	Melodious Warbler	0.1263
+4	Spectrogram 1	1	2.0	5.0	150	15000	sarwar1	Sardinian Warbler	0.1178
+5	Spectrogram 1	1	4.0	7.0	150	15000	blackc1	Eurasian Blackcap	0.1813
+6	Spectrogram 1	1	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.1454
+7	Spectrogram 1	1	6.0	9.0	150	15000	garwar1	Garden Warbler	0.1107
+8	Spectrogram 1	1	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.1049
+9	Spectrogram 1	1	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.3484
+10	Spectrogram 1	1	12.0	15.0	150	15000	webwar1	Western Bonelli's Warbler	0.1738
+11	Spectrogram 1	1	12.0	15.0	150	15000	eugori2	Eurasian Golden Oriole	0.1470
+12	Spectrogram 1	1	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.1453
+13	Spectrogram 1	1	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.1419
+14	Spectrogram 1	1	12.0	15.0	150	15000	yellow2	Yellowhammer	0.1382
+15	Spectrogram 1	1	12.0	15.0	150	15000	comred2	Common Redstart	0.1353
+16	Spectrogram 1	1	12.0	15.0	150	15000	spofly1	Spotted Flycatcher	0.1338
+17	Spectrogram 1	1	12.0	15.0	150	15000	shttre1	Short-toed Treecreeper	0.1255
+18	Spectrogram 1	1	12.0	15.0	150	15000	cirbun1	Cirl Bunting	0.1113
+19	Spectrogram 1	1	12.0	15.0	150	15000	cowpig1	Common Wood-Pigeon	0.1113
+20	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.1030
+21	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.3144
+22	Spectrogram 1	1	14.0	17.0	150	15000	webwar1	Western Bonelli's Warbler	0.1161
+23	Spectrogram 1	1	14.0	17.0	150	15000	cirbun1	Cirl Bunting	0.1103
+24	Spectrogram 1	1	14.0	17.0	150	15000	garwar1	Garden Warbler	0.1079
+25	Spectrogram 1	1	14.0	17.0	150	15000	ibechi2	Iberian Chiffchaff	0.1066
+26	Spectrogram 1	1	14.0	17.0	150	15000	melwar1	Melodious Warbler	0.1035
+27	Spectrogram 1	1	16.0	19.0	150	15000	blackc1	Eurasian Blackcap	0.2026
+28	Spectrogram 1	1	16.0	19.0	150	15000	sarwar1	Sardinian Warbler	0.1682
+29	Spectrogram 1	1	16.0	19.0	150	15000	garwar1	Garden Warbler	0.1522
+30	Spectrogram 1	1	16.0	19.0	150	15000	melwar1	Melodious Warbler	0.1466
+31	Spectrogram 1	1	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.1616
+32	Spectrogram 1	1	18.0	21.0	150	15000	sarwar1	Sardinian Warbler	0.1286
+33	Spectrogram 1	1	18.0	21.0	150	15000	comred2	Common Redstart	0.1259
+34	Spectrogram 1	1	18.0	21.0	150	15000	shttre1	Short-toed Treecreeper	0.1246
+35	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1051
+36	Spectrogram 1	1	20.0	23.0	150	15000	eugori2	Eurasian Golden Oriole	0.1952
+37	Spectrogram 1	1	20.0	23.0	150	15000	melwar1	Melodious Warbler	0.1692
+38	Spectrogram 1	1	20.0	23.0	150	15000	webwar1	Western Bonelli's Warbler	0.1240
+39	Spectrogram 1	1	20.0	23.0	150	15000	comcuc	Common Cuckoo	0.1165
+40	Spectrogram 1	1	20.0	23.0	150	15000	blackc1	Eurasian Blackcap	0.1135
+41	Spectrogram 1	1	20.0	23.0	150	15000	cetwar1	Cetti's Warbler	0.1063
+42	Spectrogram 1	1	20.0	23.0	150	15000	comred2	Common Redstart	0.1006
+43	Spectrogram 1	1	22.0	25.0	150	15000	melwar1	Melodious Warbler	0.1780
+44	Spectrogram 1	1	22.0	25.0	150	15000	webwar1	Western Bonelli's Warbler	0.1140
+45	Spectrogram 1	1	24.0	27.0	150	15000	skylar	Eurasian Skylark	0.1089
+46	Spectrogram 1	1	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.2080
+47	Spectrogram 1	1	32.0	35.0	150	15000	skylar	Eurasian Skylark	0.1279
+48	Spectrogram 1	1	40.0	43.0	150	15000	blackc1	Eurasian Blackcap	0.1463
+49	Spectrogram 1	1	40.0	43.0	150	15000	eugori2	Eurasian Golden Oriole	0.1372
+50	Spectrogram 1	1	44.0	47.0	150	15000	melwar1	Melodious Warbler	0.1036
+51	Spectrogram 1	1	52.0	55.0	150	15000	blackc1	Eurasian Blackcap	0.1347
+52	Spectrogram 1	1	52.0	55.0	150	15000	garwar1	Garden Warbler	0.1093
+53	Spectrogram 1	1	54.0	57.0	150	15000	blackc1	Eurasian Blackcap	0.2080
+54	Spectrogram 1	1	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.1080
+55	Spectrogram 1	1	54.0	57.0	150	15000	eurrob1	European Robin	0.1078
+56	Spectrogram 1	1	58.0	61.0	150	15000	dunnoc1	Dunnock	0.1471

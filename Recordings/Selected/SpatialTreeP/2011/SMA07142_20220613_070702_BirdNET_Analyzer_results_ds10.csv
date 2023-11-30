@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	3.0	6.0	150	15000	winwre4	Eurasian Wren	0.1997
+2	Spectrogram 1	1	6.0	9.0	150	15000	goldcr1	Goldcrest	0.9309
+3	Spectrogram 1	1	9.0	12.0	150	15000	winwre4	Eurasian Wren	0.1456
+4	Spectrogram 1	1	12.0	15.0	150	15000	goldcr1	Goldcrest	0.8883
+5	Spectrogram 1	1	15.0	18.0	150	15000	goldcr1	Goldcrest	0.6816
+6	Spectrogram 1	1	15.0	18.0	150	15000	firecr1	Common Firecrest	0.2039
+7	Spectrogram 1	1	15.0	18.0	150	15000	eurrob1	European Robin	0.1126
+8	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.2471
+9	Spectrogram 1	1	18.0	21.0	150	15000	goldcr1	Goldcrest	0.2006
+10	Spectrogram 1	1	18.0	21.0	150	15000	firecr1	Common Firecrest	0.1970
+11	Spectrogram 1	1	24.0	27.0	150	15000	dunnoc1	Dunnock	0.1998
+12	Spectrogram 1	1	27.0	30.0	150	15000	goldcr1	Goldcrest	0.2824
+13	Spectrogram 1	1	30.0	33.0	150	15000	goldcr1	Goldcrest	0.4283
+14	Spectrogram 1	1	36.0	39.0	150	15000	winwre4	Eurasian Wren	0.1661
+15	Spectrogram 1	1	39.0	42.0	150	15000	goldcr1	Goldcrest	0.4574
+16	Spectrogram 1	1	39.0	42.0	150	15000	firecr1	Common Firecrest	0.1244
+17	Spectrogram 1	1	42.0	45.0	150	15000	winwre4	Eurasian Wren	0.3573
+18	Spectrogram 1	1	45.0	48.0	150	15000	goldcr1	Goldcrest	0.6474
+19	Spectrogram 1	1	45.0	48.0	150	15000	trepip	Tree Pipit	0.1112
+20	Spectrogram 1	1	51.0	54.0	150	15000	winwre4	Eurasian Wren	0.3386
+21	Spectrogram 1	1	51.0	54.0	150	15000	goldcr1	Goldcrest	0.1694
+22	Spectrogram 1	1	54.0	57.0	150	15000	goldcr1	Goldcrest	0.3991

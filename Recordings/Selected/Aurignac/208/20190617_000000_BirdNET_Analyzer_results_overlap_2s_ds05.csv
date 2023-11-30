@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	12.0	15.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1055
+2	Spectrogram 1	1	13.0	16.0	150	15000	comnig1	Common Nightingale	0.2444
+3	Spectrogram 1	1	25.0	28.0	150	15000	comnig1	Common Nightingale	0.4114
+4	Spectrogram 1	1	26.0	29.0	150	15000	comnig1	Common Nightingale	0.2807
+5	Spectrogram 1	1	27.0	30.0	150	15000	comnig1	Common Nightingale	0.2245
+6	Spectrogram 1	1	33.0	36.0	150	15000	comnig1	Common Nightingale	0.9323
+7	Spectrogram 1	1	34.0	37.0	150	15000	comnig1	Common Nightingale	0.8293
+8	Spectrogram 1	1	35.0	38.0	150	15000	comnig1	Common Nightingale	0.5027
+9	Spectrogram 1	1	39.0	42.0	150	15000	comnig1	Common Nightingale	0.8290
+10	Spectrogram 1	1	40.0	43.0	150	15000	comnig1	Common Nightingale	0.8726
+11	Spectrogram 1	1	41.0	44.0	150	15000	comnig1	Common Nightingale	0.8998
+12	Spectrogram 1	1	44.0	47.0	150	15000	gadwal	Gadwall	0.1375
+13	Spectrogram 1	1	46.0	49.0	150	15000	comnig1	Common Nightingale	0.4467
+14	Spectrogram 1	1	47.0	50.0	150	15000	comnig1	Common Nightingale	0.1901
+15	Spectrogram 1	1	51.0	54.0	150	15000	comnig1	Common Nightingale	0.7424
+16	Spectrogram 1	1	52.0	55.0	150	15000	comnig1	Common Nightingale	0.9846
+17	Spectrogram 1	1	53.0	56.0	150	15000	comnig1	Common Nightingale	0.7827
+18	Spectrogram 1	1	55.0	58.0	150	15000	tawowl1	Tawny Owl	0.2990

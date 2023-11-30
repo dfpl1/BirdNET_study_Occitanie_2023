@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	grnsan	Green Sandpiper	0.1519
+2	Spectrogram 1	1	0	3.0	150	15000	watpip1	Water Pipit	0.1493
+3	Spectrogram 1	1	0	3.0	150	15000	zitcis1	Zitting Cisticola	0.1062
+4	Spectrogram 1	1	3.0	6.0	150	15000	watpip1	Water Pipit	0.1152
+5	Spectrogram 1	1	3.0	6.0	150	15000	woolar1	Wood Lark	0.1023
+6	Spectrogram 1	1	6.0	9.0	150	15000	winwre4	Eurasian Wren	0.5051
+7	Spectrogram 1	1	6.0	9.0	150	15000	yellow2	Yellowhammer	0.1058
+8	Spectrogram 1	1	9.0	12.0	150	15000	winwre4	Eurasian Wren	0.3685
+9	Spectrogram 1	1	18.0	21.0	150	15000	winwre4	Eurasian Wren	0.2450
+10	Spectrogram 1	1	30.0	33.0	150	15000	reebun	Reed Bunting	0.1256
+11	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.1194
+12	Spectrogram 1	1	30.0	33.0	150	15000	yellow2	Yellowhammer	0.1152
+13	Spectrogram 1	1	30.0	33.0	150	15000	winwre4	Eurasian Wren	0.1118
+14	Spectrogram 1	1	30.0	33.0	150	15000	cetwar1	Cetti's Warbler	0.1016
+15	Spectrogram 1	1	51.0	54.0	150	15000	stonec4	European Stonechat	0.2440
+16	Spectrogram 1	1	51.0	54.0	150	15000	eaywag1	Western Yellow Wagtail	0.1541
+17	Spectrogram 1	1	51.0	54.0	150	15000	skylar	Eurasian Skylark	0.1046
+18	Spectrogram 1	1	51.0	54.0	150	15000	watpip1	Water Pipit	0.1002

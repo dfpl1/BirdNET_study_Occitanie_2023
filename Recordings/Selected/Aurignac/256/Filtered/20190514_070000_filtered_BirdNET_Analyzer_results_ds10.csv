@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	12.0	15.0	150	15000	webwar1	Western Bonelli's Warbler	0.1248
+2	Spectrogram 1	1	15.0	18.0	150	15000	cirbun1	Cirl Bunting	0.1547
+3	Spectrogram 1	1	15.0	18.0	150	15000	webwar1	Western Bonelli's Warbler	0.1181
+4	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1671
+5	Spectrogram 1	1	21.0	24.0	150	15000	cirbun1	Cirl Bunting	0.1898
+6	Spectrogram 1	1	21.0	24.0	150	15000	webwar1	Western Bonelli's Warbler	0.1087
+7	Spectrogram 1	1	27.0	30.0	150	15000	webwar1	Western Bonelli's Warbler	0.1681
+8	Spectrogram 1	1	27.0	30.0	150	15000	cirbun1	Cirl Bunting	0.1006
+9	Spectrogram 1	1	30.0	33.0	150	15000	cirbun1	Cirl Bunting	0.1956
+10	Spectrogram 1	1	33.0	36.0	150	15000	hawfin	Hawfinch	0.1165
+11	Spectrogram 1	1	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.1458
+12	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1197
+13	Spectrogram 1	1	42.0	45.0	150	15000	cirbun1	Cirl Bunting	0.1191
+14	Spectrogram 1	1	45.0	48.0	150	15000	webwar1	Western Bonelli's Warbler	0.1966
+15	Spectrogram 1	1	48.0	51.0	150	15000	cirbun1	Cirl Bunting	0.3552
+16	Spectrogram 1	1	48.0	51.0	150	15000	webwar1	Western Bonelli's Warbler	0.1480
+17	Spectrogram 1	1	48.0	51.0	150	15000	yellow2	Yellowhammer	0.1187
+18	Spectrogram 1	1	51.0	54.0	150	15000	grywag	Gray Wagtail	0.4456
+19	Spectrogram 1	1	57.0	60.0	150	15000	cirbun1	Cirl Bunting	0.1481

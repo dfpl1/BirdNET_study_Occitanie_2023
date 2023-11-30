@@ -1,0 +1,51 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.9349
+2	Spectrogram 1	1	1.0	4.0	150	15000	trepip	Tree Pipit	0.8866
+3	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.8804
+4	Spectrogram 1	1	3.0	6.0	150	15000	trepip	Tree Pipit	0.2182
+5	Spectrogram 1	1	3.0	6.0	150	15000	eurbla	Eurasian Blackbird	0.1069
+6	Spectrogram 1	1	4.0	7.0	150	15000	trepip	Tree Pipit	0.2840
+7	Spectrogram 1	1	7.0	10.0	150	15000	dunnoc1	Dunnock	0.1564
+8	Spectrogram 1	1	8.0	11.0	150	15000	dunnoc1	Dunnock	0.1371
+9	Spectrogram 1	1	9.0	12.0	150	15000	stonec4	European Stonechat	0.1066
+10	Spectrogram 1	1	9.0	12.0	150	15000	woolar1	Wood Lark	0.1056
+11	Spectrogram 1	1	10.0	13.0	150	15000	woolar1	Wood Lark	0.2682
+12	Spectrogram 1	1	11.0	14.0	150	15000	woolar1	Wood Lark	0.8265
+13	Spectrogram 1	1	12.0	15.0	150	15000	woolar1	Wood Lark	0.4755
+14	Spectrogram 1	1	14.0	17.0	150	15000	trepip	Tree Pipit	0.3105
+15	Spectrogram 1	1	15.0	18.0	150	15000	trepip	Tree Pipit	0.5919
+16	Spectrogram 1	1	16.0	19.0	150	15000	trepip	Tree Pipit	0.9607
+17	Spectrogram 1	1	17.0	20.0	150	15000	trepip	Tree Pipit	0.9864
+18	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.6265
+19	Spectrogram 1	1	19.0	22.0	150	15000	trepip	Tree Pipit	0.7684
+20	Spectrogram 1	1	23.0	26.0	150	15000	trepip	Tree Pipit	0.1009
+21	Spectrogram 1	1	24.0	27.0	150	15000	trepip	Tree Pipit	0.2410
+22	Spectrogram 1	1	25.0	28.0	150	15000	trepip	Tree Pipit	0.7967
+23	Spectrogram 1	1	25.0	28.0	150	15000	woolar1	Wood Lark	0.1427
+24	Spectrogram 1	1	26.0	29.0	150	15000	trepip	Tree Pipit	0.5147
+25	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.1706
+26	Spectrogram 1	1	32.0	35.0	150	15000	trepip	Tree Pipit	0.1798
+27	Spectrogram 1	1	32.0	35.0	150	15000	comred1	Common Redshank	0.1080
+28	Spectrogram 1	1	33.0	36.0	150	15000	trepip	Tree Pipit	0.1329
+29	Spectrogram 1	1	34.0	37.0	150	15000	trepip	Tree Pipit	0.7695
+30	Spectrogram 1	1	34.0	37.0	150	15000	comcha	Common Chaffinch	0.2232
+31	Spectrogram 1	1	35.0	38.0	150	15000	trepip	Tree Pipit	0.9830
+32	Spectrogram 1	1	36.0	39.0	150	15000	trepip	Tree Pipit	0.9489
+33	Spectrogram 1	1	37.0	40.0	150	15000	trepip	Tree Pipit	0.9261
+34	Spectrogram 1	1	38.0	41.0	150	15000	trepip	Tree Pipit	0.9825
+35	Spectrogram 1	1	41.0	44.0	150	15000	dunnoc1	Dunnock	0.2047
+36	Spectrogram 1	1	41.0	44.0	150	15000	eurbla	Eurasian Blackbird	0.1098
+37	Spectrogram 1	1	46.0	49.0	150	15000	stonec4	European Stonechat	0.2765
+38	Spectrogram 1	1	46.0	49.0	150	15000	trepip	Tree Pipit	0.1252
+39	Spectrogram 1	1	47.0	50.0	150	15000	stonec4	European Stonechat	0.4422
+40	Spectrogram 1	1	48.0	51.0	150	15000	stonec4	European Stonechat	0.3319
+41	Spectrogram 1	1	50.0	53.0	150	15000	trepip	Tree Pipit	0.2987
+42	Spectrogram 1	1	51.0	54.0	150	15000	trepip	Tree Pipit	0.9732
+43	Spectrogram 1	1	52.0	55.0	150	15000	trepip	Tree Pipit	0.9603
+44	Spectrogram 1	1	53.0	56.0	150	15000	trepip	Tree Pipit	0.8446
+45	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.2256
+46	Spectrogram 1	1	55.0	58.0	150	15000	trepip	Tree Pipit	0.4629
+47	Spectrogram 1	1	56.0	59.0	150	15000	stonec4	European Stonechat	0.2598
+48	Spectrogram 1	1	57.0	60.0	150	15000	trepip	Tree Pipit	0.2990
+49	Spectrogram 1	1	58.0	61.0	150	15000	trepip	Tree Pipit	0.1938
+50	Spectrogram 1	1	59.0	62.0	150	15000	trepip	Tree Pipit	0.2604

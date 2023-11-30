@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	spaspa1	Spanish Sparrow	0.1170
+2	Spectrogram 1	1	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.3752
+3	Spectrogram 1	1	27.0	30.0	150	15000	blackc1	Eurasian Blackcap	0.5959
+4	Spectrogram 1	1	36.0	39.0	150	15000	blackc1	Eurasian Blackcap	0.5673
+5	Spectrogram 1	1	45.0	48.0	150	15000	blackc1	Eurasian Blackcap	0.1729
+6	Spectrogram 1	1	54.0	57.0	150	15000	blackc1	Eurasian Blackcap	0.6066
+7	Spectrogram 1	1	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.1022
+8	Spectrogram 1	1	57.0	60.0	150	15000	blackc1	Eurasian Blackcap	0.3504

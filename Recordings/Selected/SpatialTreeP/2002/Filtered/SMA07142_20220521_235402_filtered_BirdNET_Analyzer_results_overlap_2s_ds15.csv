@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	59.0	62.0	150	15000	sonthr1	Song Thrush	0.1329
+2	Spectrogram 1	1	59.0	62.0	150	15000	goldcr1	Goldcrest	0.1291
+3	Spectrogram 1	1	59.0	62.0	150	15000	carcro1	Carrion Crow	0.1095
+4	Spectrogram 1	1	59.0	62.0	150	15000	graher1	Gray Heron	0.1025

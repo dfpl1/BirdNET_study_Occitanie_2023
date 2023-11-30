@@ -1,0 +1,55 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.1108
+2	Spectrogram 1	1	1.0	4.0	150	15000	blutit	Eurasian Blue Tit	0.1696
+3	Spectrogram 1	1	2.0	5.0	150	15000	blutit	Eurasian Blue Tit	0.7046
+4	Spectrogram 1	1	2.0	5.0	150	15000	cretit2	Crested Tit	0.1529
+5	Spectrogram 1	1	3.0	6.0	150	15000	blutit	Eurasian Blue Tit	0.8424
+6	Spectrogram 1	1	3.0	6.0	150	15000	cretit2	Crested Tit	0.3945
+7	Spectrogram 1	1	4.0	7.0	150	15000	cretit2	Crested Tit	0.8060
+8	Spectrogram 1	1	4.0	7.0	150	15000	blutit	Eurasian Blue Tit	0.1879
+9	Spectrogram 1	1	5.0	8.0	150	15000	cretit2	Crested Tit	0.4901
+10	Spectrogram 1	1	5.0	8.0	150	15000	blutit	Eurasian Blue Tit	0.3335
+11	Spectrogram 1	1	6.0	9.0	150	15000	cretit2	Crested Tit	0.8968
+12	Spectrogram 1	1	7.0	10.0	150	15000	blutit	Eurasian Blue Tit	0.6808
+13	Spectrogram 1	1	7.0	10.0	150	15000	cretit2	Crested Tit	0.2428
+14	Spectrogram 1	1	8.0	11.0	150	15000	blutit	Eurasian Blue Tit	0.2646
+15	Spectrogram 1	1	8.0	11.0	150	15000	cretit2	Crested Tit	0.1587
+16	Spectrogram 1	1	9.0	12.0	150	15000	blutit	Eurasian Blue Tit	0.5008
+17	Spectrogram 1	1	9.0	12.0	150	15000	coatit2	Coal Tit	0.1651
+18	Spectrogram 1	1	10.0	13.0	150	15000	blutit	Eurasian Blue Tit	0.4535
+19	Spectrogram 1	1	10.0	13.0	150	15000	coatit2	Coal Tit	0.1064
+20	Spectrogram 1	1	11.0	14.0	150	15000	blutit	Eurasian Blue Tit	0.3003
+21	Spectrogram 1	1	11.0	14.0	150	15000	coatit2	Coal Tit	0.1388
+22	Spectrogram 1	1	11.0	14.0	150	15000	cretit2	Crested Tit	0.1201
+23	Spectrogram 1	1	12.0	15.0	150	15000	blutit	Eurasian Blue Tit	0.4155
+24	Spectrogram 1	1	12.0	15.0	150	15000	rocbun1	Rock Bunting	0.1038
+25	Spectrogram 1	1	13.0	16.0	150	15000	blutit	Eurasian Blue Tit	0.2140
+26	Spectrogram 1	1	13.0	16.0	150	15000	cretit2	Crested Tit	0.2060
+27	Spectrogram 1	1	14.0	17.0	150	15000	blutit	Eurasian Blue Tit	0.4966
+28	Spectrogram 1	1	15.0	18.0	150	15000	cretit2	Crested Tit	0.6899
+29	Spectrogram 1	1	15.0	18.0	150	15000	blutit	Eurasian Blue Tit	0.2072
+30	Spectrogram 1	1	16.0	19.0	150	15000	coatit2	Coal Tit	0.2198
+31	Spectrogram 1	1	17.0	20.0	150	15000	coatit2	Coal Tit	0.1929
+32	Spectrogram 1	1	23.0	26.0	150	15000	cretit2	Crested Tit	0.6555
+33	Spectrogram 1	1	23.0	26.0	150	15000	blutit	Eurasian Blue Tit	0.1356
+34	Spectrogram 1	1	30.0	33.0	150	15000	cretit2	Crested Tit	0.3436
+35	Spectrogram 1	1	44.0	47.0	150	15000	blutit	Eurasian Blue Tit	0.2613
+36	Spectrogram 1	1	45.0	48.0	150	15000	cretit2	Crested Tit	0.1377
+37	Spectrogram 1	1	46.0	49.0	150	15000	blutit	Eurasian Blue Tit	0.4358
+38	Spectrogram 1	1	46.0	49.0	150	15000	cretit2	Crested Tit	0.1502
+39	Spectrogram 1	1	47.0	50.0	150	15000	blutit	Eurasian Blue Tit	0.4408
+40	Spectrogram 1	1	47.0	50.0	150	15000	cretit2	Crested Tit	0.2065
+41	Spectrogram 1	1	50.0	53.0	150	15000	blutit	Eurasian Blue Tit	0.5716
+42	Spectrogram 1	1	51.0	54.0	150	15000	blutit	Eurasian Blue Tit	0.7110
+43	Spectrogram 1	1	52.0	55.0	150	15000	blutit	Eurasian Blue Tit	0.1785
+44	Spectrogram 1	1	53.0	56.0	150	15000	blutit	Eurasian Blue Tit	0.3555
+45	Spectrogram 1	1	54.0	57.0	150	15000	blutit	Eurasian Blue Tit	0.3479
+46	Spectrogram 1	1	54.0	57.0	150	15000	cretit2	Crested Tit	0.1674
+47	Spectrogram 1	1	55.0	58.0	150	15000	blutit	Eurasian Blue Tit	0.2323
+48	Spectrogram 1	1	56.0	59.0	150	15000	cretit2	Crested Tit	0.1566
+49	Spectrogram 1	1	56.0	59.0	150	15000	blutit	Eurasian Blue Tit	0.1324
+50	Spectrogram 1	1	57.0	60.0	150	15000	blutit	Eurasian Blue Tit	0.6628
+51	Spectrogram 1	1	57.0	60.0	150	15000	cretit2	Crested Tit	0.2407
+52	Spectrogram 1	1	58.0	61.0	150	15000	blutit	Eurasian Blue Tit	0.7654
+53	Spectrogram 1	1	58.0	61.0	150	15000	cretit2	Crested Tit	0.1957
+54	Spectrogram 1	1	59.0	62.0	150	15000	cretit2	Crested Tit	0.4224

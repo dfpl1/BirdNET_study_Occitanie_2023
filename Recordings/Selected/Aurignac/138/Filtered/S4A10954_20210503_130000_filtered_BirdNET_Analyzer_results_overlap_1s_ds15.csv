@@ -1,0 +1,43 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	14.0	17.0	150	15000	wooshr1	Woodchat Shrike	0.1124
+2	Spectrogram 1	1	18.0	21.0	150	15000	comswi	Common Swift	0.1187
+3	Spectrogram 1	1	24.0	27.0	150	15000	thelar1	Thekla's Lark	0.1044
+4	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.2770
+5	Spectrogram 1	1	32.0	35.0	150	15000	sarwar1	Sardinian Warbler	0.1042
+6	Spectrogram 1	1	32.0	35.0	150	15000	grewhi1	Greater Whitethroat	0.1007
+7	Spectrogram 1	1	36.0	39.0	150	15000	grewhi1	Greater Whitethroat	0.2625
+8	Spectrogram 1	1	36.0	39.0	150	15000	whinch1	Whinchat	0.2257
+9	Spectrogram 1	1	36.0	39.0	150	15000	callar1	Calandra Lark	0.1336
+10	Spectrogram 1	1	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.1334
+11	Spectrogram 1	1	36.0	39.0	150	15000	sarwar1	Sardinian Warbler	0.1285
+12	Spectrogram 1	1	36.0	39.0	150	15000	wooshr1	Woodchat Shrike	0.1282
+13	Spectrogram 1	1	36.0	39.0	150	15000	rebshr1	Red-backed Shrike	0.1048
+14	Spectrogram 1	1	38.0	41.0	150	15000	grewhi1	Greater Whitethroat	0.4441
+15	Spectrogram 1	1	38.0	41.0	150	15000	subwar6	Western Subalpine Warbler	0.2723
+16	Spectrogram 1	1	38.0	41.0	150	15000	sarwar1	Sardinian Warbler	0.2056
+17	Spectrogram 1	1	38.0	41.0	150	15000	whinch1	Whinchat	0.1636
+18	Spectrogram 1	1	38.0	41.0	150	15000	rebshr1	Red-backed Shrike	0.1502
+19	Spectrogram 1	1	38.0	41.0	150	15000	wooshr1	Woodchat Shrike	0.1416
+20	Spectrogram 1	1	38.0	41.0	150	15000	garwar1	Garden Warbler	0.1258
+21	Spectrogram 1	1	38.0	41.0	150	15000	melwar1	Melodious Warbler	0.1090
+22	Spectrogram 1	1	40.0	43.0	150	15000	grewhi1	Greater Whitethroat	0.4037
+23	Spectrogram 1	1	40.0	43.0	150	15000	sarwar1	Sardinian Warbler	0.2066
+24	Spectrogram 1	1	40.0	43.0	150	15000	darwar1	Dartford Warbler	0.1815
+25	Spectrogram 1	1	40.0	43.0	150	15000	wooshr1	Woodchat Shrike	0.1727
+26	Spectrogram 1	1	40.0	43.0	150	15000	subwar6	Western Subalpine Warbler	0.1705
+27	Spectrogram 1	1	40.0	43.0	150	15000	whinch1	Whinchat	0.1300
+28	Spectrogram 1	1	40.0	43.0	150	15000	rebshr1	Red-backed Shrike	0.1239
+29	Spectrogram 1	1	40.0	43.0	150	15000	burthr	Blue Rock-Thrush	0.1063
+30	Spectrogram 1	1	42.0	45.0	150	15000	grewhi1	Greater Whitethroat	0.3144
+31	Spectrogram 1	1	42.0	45.0	150	15000	subwar6	Western Subalpine Warbler	0.1370
+32	Spectrogram 1	1	42.0	45.0	150	15000	sarwar1	Sardinian Warbler	0.1175
+33	Spectrogram 1	1	42.0	45.0	150	15000	whinch1	Whinchat	0.1107
+34	Spectrogram 1	1	50.0	53.0	150	15000	comnig1	Common Nightingale	0.6346
+35	Spectrogram 1	1	50.0	53.0	150	15000	garwar1	Garden Warbler	0.2067
+36	Spectrogram 1	1	50.0	53.0	150	15000	melwar1	Melodious Warbler	0.1386
+37	Spectrogram 1	1	50.0	53.0	150	15000	webwar1	Western Bonelli's Warbler	0.1148
+38	Spectrogram 1	1	50.0	53.0	150	15000	eugori2	Eurasian Golden Oriole	0.1038
+39	Spectrogram 1	1	50.0	53.0	150	15000	ibechi2	Iberian Chiffchaff	0.1020
+40	Spectrogram 1	1	54.0	57.0	150	15000	rebshr1	Red-backed Shrike	0.1157
+41	Spectrogram 1	1	56.0	59.0	150	15000	comswi	Common Swift	0.1021
+42	Spectrogram 1	1	58.0	61.0	150	15000	comswi	Common Swift	0.1041

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	20.0	23.0	150	15000	comcha	Common Chaffinch	0.2384
+2	Spectrogram 1	1	32.0	35.0	150	15000	comcha	Common Chaffinch	0.1309
+3	Spectrogram 1	1	40.0	43.0	150	15000	comcha	Common Chaffinch	0.1239
+4	Spectrogram 1	1	40.0	43.0	150	15000	webwar1	Western Bonelli's Warbler	0.1084
+5	Spectrogram 1	1	42.0	45.0	150	15000	comcha	Common Chaffinch	0.1293
+6	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1277

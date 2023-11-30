@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	0.521145	1255.6	2247.9	Turdus merula
+2	Spectrogram 1	1	0.000000	59.940040	836.2	12000.0	Luscinia megarhynchos
+3	Spectrogram 1	1	0.437089	1.235617	5838.7	9644.0	Aegithalos caudatus
+4	Spectrogram 1	1	2.437612	4.807980	225.3	 694.8	Streptopelia decaocto
+5	Spectrogram 1	1	4.043074	22.568926	1303.4	4690.4	Turdus merula
+6	Spectrogram 1	1	4.303646	6.228519	2043.9	4664.1	Sylvia atricapilla
+7	Spectrogram 1	1	5.614913	6.228519	5918.1	9519.9	Aegithalos caudatus
+8	Spectrogram 1	1	8.901487	9.414226	6415.2	9156.5	Aegithalos caudatus
+9	Spectrogram 1	1	14.180178	15.289712	1480.1	5760.3	Curruca communis
+10	Spectrogram 1	1	14.499589	14.827406	6677.6	10420.9	Aegithalos caudatus
+11	Spectrogram 1	1	20.257397	22.115025	1480.1	4957.0	Curruca communis
+12	Spectrogram 1	1	25.813471	28.267895	1850.4	4077.5	Sylvia atricapilla
+13	Spectrogram 1	1	26.620405	31.638524	1480.1	4077.5	Turdus merula
+14	Spectrogram 1	1	34.992342	36.799537	1303.4	5025.7	Sylvia atricapilla
+15	Spectrogram 1	1	36.656642	59.940040	1279.4	4020.2	Turdus merula
+16	Spectrogram 1	1	36.900403	37.446765	6245.5	8691.9	Unidentified bird
+17	Spectrogram 1	1	38.514271	40.666094	1881.4	4020.2	Unidentified bird
+18	Spectrogram 1	1	40.775366	41.405783	6162.2	9038.2	Unidentified bird
+19	Spectrogram 1	1	41.162022	46.684474	1012.5	5308.9	Sylvia atricapilla
+20	Spectrogram 1	1	42.918784	45.079012	1377.3	4135.5	Unidentified bird
+21	Spectrogram 1	1	49.365847	59.914824	5455.8	10155.7	Aegithalos caudatus
+22	Spectrogram 1	1	52.585176	56.023050	1480.1	3797.7	Sylvia atricapilla

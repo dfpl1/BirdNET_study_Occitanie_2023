@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	comred1	Common Redshank	0.1967
+2	Spectrogram 1	1	9.0	12.0	150	15000	graher1	Gray Heron	0.1325
+3	Spectrogram 1	1	18.0	21.0	150	15000	tawowl1	Tawny Owl	0.1139
+4	Spectrogram 1	1	36.0	39.0	150	15000	comnig1	Common Nightingale	0.2536
+5	Spectrogram 1	1	48.0	51.0	150	15000	graher1	Gray Heron	0.1898
+6	Spectrogram 1	1	48.0	51.0	150	15000	tawowl1	Tawny Owl	0.1206
+7	Spectrogram 1	1	48.0	51.0	150	15000	lirplo	Little Ringed Plover	0.1003
+8	Spectrogram 1	1	51.0	54.0	150	15000	eutkne1	Eurasian Thick-knee	0.3317
+9	Spectrogram 1	1	51.0	54.0	150	15000	corplo	Common Ringed Plover	0.2401
+10	Spectrogram 1	1	51.0	54.0	150	15000	lirplo	Little Ringed Plover	0.1474
+11	Spectrogram 1	1	51.0	54.0	150	15000	graher1	Gray Heron	0.1414
+12	Spectrogram 1	1	51.0	54.0	150	15000	tawowl1	Tawny Owl	0.1351
+13	Spectrogram 1	1	51.0	54.0	150	15000	grnsan	Green Sandpiper	0.1199
+14	Spectrogram 1	1	51.0	54.0	150	15000	litowl1	Little Owl	0.1030

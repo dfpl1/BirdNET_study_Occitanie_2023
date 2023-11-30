@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	38.0	41.0	150	15000	woolar1	Wood Lark	0.1219
+2	Spectrogram 1	1	40.0	43.0	150	15000	thelar1	Thekla's Lark	0.1970
+3	Spectrogram 1	1	40.0	43.0	150	15000	cirbun1	Cirl Bunting	0.1526
+4	Spectrogram 1	1	42.0	45.0	150	15000	comkin1	Common Kingfisher	0.3283
+5	Spectrogram 1	1	52.0	55.0	150	15000	thelar1	Thekla's Lark	0.1322

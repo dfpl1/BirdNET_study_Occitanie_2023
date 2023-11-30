@@ -1,0 +1,67 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	1.0	4.0	150	15000	eurnut2	Eurasian Nuthatch	0.1849
+2	Spectrogram 1	1	1.0	4.0	150	15000	comnig1	Common Nightingale	0.1453
+3	Spectrogram 1	1	1.0	4.0	150	15000	eurgre1	European Greenfinch	0.1006
+4	Spectrogram 1	1	2.0	5.0	150	15000	comnig1	Common Nightingale	0.1038
+5	Spectrogram 1	1	4.0	7.0	150	15000	reebun	Reed Bunting	0.2094
+6	Spectrogram 1	1	4.0	7.0	150	15000	eupfly1	European Pied Flycatcher	0.1558
+7	Spectrogram 1	1	4.0	7.0	150	15000	comchi1	Common Chiffchaff	0.1532
+8	Spectrogram 1	1	4.0	7.0	150	15000	watpip1	Water Pipit	0.1453
+9	Spectrogram 1	1	4.0	7.0	150	15000	blared1	Black Redstart	0.1168
+10	Spectrogram 1	1	4.0	7.0	150	15000	yellow2	Yellowhammer	0.1134
+11	Spectrogram 1	1	4.0	7.0	150	15000	grnsan	Green Sandpiper	0.1112
+12	Spectrogram 1	1	5.0	8.0	150	15000	comnig1	Common Nightingale	0.2207
+13	Spectrogram 1	1	5.0	8.0	150	15000	grywag	Gray Wagtail	0.1915
+14	Spectrogram 1	1	5.0	8.0	150	15000	garwar1	Garden Warbler	0.1451
+15	Spectrogram 1	1	5.0	8.0	150	15000	whinch1	Whinchat	0.1143
+16	Spectrogram 1	1	5.0	8.0	150	15000	eupfly1	European Pied Flycatcher	0.1087
+17	Spectrogram 1	1	6.0	9.0	150	15000	comnig1	Common Nightingale	0.2118
+18	Spectrogram 1	1	6.0	9.0	150	15000	whinch1	Whinchat	0.1220
+19	Spectrogram 1	1	6.0	9.0	150	15000	citfin1	Citril Finch	0.1026
+20	Spectrogram 1	1	7.0	10.0	150	15000	garwar1	Garden Warbler	0.1634
+21	Spectrogram 1	1	8.0	11.0	150	15000	eurnut2	Eurasian Nuthatch	0.1407
+22	Spectrogram 1	1	8.0	11.0	150	15000	litgre1	Little Grebe	0.1317
+23	Spectrogram 1	1	9.0	12.0	150	15000	tawowl1	Tawny Owl	0.1907
+24	Spectrogram 1	1	9.0	12.0	150	15000	litgre1	Little Grebe	0.1214
+25	Spectrogram 1	1	9.0	12.0	150	15000	eutkne1	Eurasian Thick-knee	0.1126
+26	Spectrogram 1	1	10.0	13.0	150	15000	tawowl1	Tawny Owl	0.2205
+27	Spectrogram 1	1	10.0	13.0	150	15000	eutkne1	Eurasian Thick-knee	0.1365
+28	Spectrogram 1	1	10.0	13.0	150	15000	litgre1	Little Grebe	0.1236
+29	Spectrogram 1	1	11.0	14.0	150	15000	tawowl1	Tawny Owl	0.1957
+30	Spectrogram 1	1	11.0	14.0	150	15000	eutkne1	Eurasian Thick-knee	0.1946
+31	Spectrogram 1	1	12.0	15.0	150	15000	tawowl1	Tawny Owl	0.1265
+32	Spectrogram 1	1	13.0	16.0	150	15000	tawowl1	Tawny Owl	0.1203
+33	Spectrogram 1	1	22.0	25.0	150	15000	eurgre1	European Greenfinch	0.1713
+34	Spectrogram 1	1	25.0	28.0	150	15000	woolar1	Wood Lark	0.1329
+35	Spectrogram 1	1	26.0	29.0	150	15000	woolar1	Wood Lark	0.1578
+36	Spectrogram 1	1	28.0	31.0	150	15000	woolar1	Wood Lark	0.1486
+37	Spectrogram 1	1	29.0	32.0	150	15000	woolar1	Wood Lark	0.2362
+38	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1095
+39	Spectrogram 1	1	31.0	34.0	150	15000	reebun	Reed Bunting	0.1185
+40	Spectrogram 1	1	31.0	34.0	150	15000	cirbun1	Cirl Bunting	0.1004
+41	Spectrogram 1	1	37.0	40.0	150	15000	comnig1	Common Nightingale	0.1404
+42	Spectrogram 1	1	38.0	41.0	150	15000	comnig1	Common Nightingale	0.2081
+43	Spectrogram 1	1	38.0	41.0	150	15000	reebun	Reed Bunting	0.1069
+44	Spectrogram 1	1	38.0	41.0	150	15000	cirbun1	Cirl Bunting	0.1046
+45	Spectrogram 1	1	43.0	46.0	150	15000	whinch1	Whinchat	0.1168
+46	Spectrogram 1	1	44.0	47.0	150	15000	whinch1	Whinchat	0.1077
+47	Spectrogram 1	1	45.0	48.0	150	15000	comnig1	Common Nightingale	0.1350
+48	Spectrogram 1	1	47.0	50.0	150	15000	yellow2	Yellowhammer	0.1350
+49	Spectrogram 1	1	48.0	51.0	150	15000	eurcrm1	Eurasian Crag-Martin	0.2169
+50	Spectrogram 1	1	48.0	51.0	150	15000	cohmar1	Common House-Martin	0.1217
+51	Spectrogram 1	1	48.0	51.0	150	15000	yellow2	Yellowhammer	0.1047
+52	Spectrogram 1	1	49.0	52.0	150	15000	goldcr1	Goldcrest	0.1196
+53	Spectrogram 1	1	52.0	55.0	150	15000	watrai1	Water Rail	0.1026
+54	Spectrogram 1	1	53.0	56.0	150	15000	watrai1	Water Rail	0.2356
+55	Spectrogram 1	1	53.0	56.0	150	15000	woosan	Wood Sandpiper	0.1057
+56	Spectrogram 1	1	54.0	57.0	150	15000	watrai1	Water Rail	0.2537
+57	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.1006
+58	Spectrogram 1	1	55.0	58.0	150	15000	watrai1	Water Rail	0.1300
+59	Spectrogram 1	1	55.0	58.0	150	15000	comred1	Common Redshank	0.1174
+60	Spectrogram 1	1	55.0	58.0	150	15000	reebun	Reed Bunting	0.1138
+61	Spectrogram 1	1	55.0	58.0	150	15000	woosan	Wood Sandpiper	0.1106
+62	Spectrogram 1	1	56.0	59.0	150	15000	eurbul	Eurasian Bullfinch	0.1378
+63	Spectrogram 1	1	56.0	59.0	150	15000	booeag1	Booted Eagle	0.1200
+64	Spectrogram 1	1	57.0	60.0	150	15000	goldcr1	Goldcrest	0.1002
+65	Spectrogram 1	1	59.0	62.0	150	15000	goldcr1	Goldcrest	0.1402
+66	Spectrogram 1	1	59.0	62.0	150	15000	sonthr1	Song Thrush	0.1182

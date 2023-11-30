@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	8.0	11.0	150	15000	litowl1	Little Owl	0.1456
+2	Spectrogram 1	1	26.0	29.0	150	15000	tawowl1	Tawny Owl	0.1121
+3	Spectrogram 1	1	28.0	31.0	150	15000	tawowl1	Tawny Owl	0.1241
+4	Spectrogram 1	1	40.0	43.0	150	15000	comqua1	Common Quail	0.1199
+5	Spectrogram 1	1	40.0	43.0	150	15000	tawowl1	Tawny Owl	0.1052
+6	Spectrogram 1	1	44.0	47.0	150	15000	tawowl1	Tawny Owl	0.1411
+7	Spectrogram 1	1	48.0	51.0	150	15000	tawowl1	Tawny Owl	0.1487
+8	Spectrogram 1	1	48.0	51.0	150	15000	litowl1	Little Owl	0.1087
+9	Spectrogram 1	1	50.0	53.0	150	15000	comqua1	Common Quail	0.1161
+10	Spectrogram 1	1	50.0	53.0	150	15000	tawowl1	Tawny Owl	0.1010
+11	Spectrogram 1	1	52.0	55.0	150	15000	comqua1	Common Quail	0.1107

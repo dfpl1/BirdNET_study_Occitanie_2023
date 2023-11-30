@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	50.0	53.0	150	15000	goldcr1	Goldcrest	0.1034
+2	Spectrogram 1	1	52.0	55.0	150	15000	goldcr1	Goldcrest	0.1150
+3	Spectrogram 1	1	54.0	57.0	150	15000	goldcr1	Goldcrest	0.1409
+4	Spectrogram 1	1	56.0	59.0	150	15000	goldcr1	Goldcrest	0.1180

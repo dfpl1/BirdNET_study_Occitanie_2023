@@ -1,0 +1,58 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	blackc1	Eurasian Blackcap	0.2704
+2	Spectrogram 1	1	0	3.0	150	15000	eurrob1	European Robin	0.2628
+3	Spectrogram 1	1	6.0	9.0	150	15000	comcuc	Common Cuckoo	0.2723
+4	Spectrogram 1	1	6.0	9.0	150	15000	eurwry	Eurasian Wryneck	0.1549
+5	Spectrogram 1	1	6.0	9.0	150	15000	comred2	Common Redstart	0.1367
+6	Spectrogram 1	1	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.1364
+7	Spectrogram 1	1	6.0	9.0	150	15000	garwar1	Garden Warbler	0.1002
+8	Spectrogram 1	1	9.0	12.0	150	15000	eubeat1	European Bee-eater	0.5516
+9	Spectrogram 1	1	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.5310
+10	Spectrogram 1	1	12.0	15.0	150	15000	eubeat1	European Bee-eater	0.4660
+11	Spectrogram 1	1	12.0	15.0	150	15000	garwar1	Garden Warbler	0.2735
+12	Spectrogram 1	1	15.0	18.0	150	15000	eubeat1	European Bee-eater	0.1562
+13	Spectrogram 1	1	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.1292
+14	Spectrogram 1	1	18.0	21.0	150	15000	eubeat1	European Bee-eater	0.7416
+15	Spectrogram 1	1	18.0	21.0	150	15000	comcuc	Common Cuckoo	0.2573
+16	Spectrogram 1	1	18.0	21.0	150	15000	wlwwar	Willow Warbler	0.1224
+17	Spectrogram 1	1	18.0	21.0	150	15000	garwar1	Garden Warbler	0.1002
+18	Spectrogram 1	1	21.0	24.0	150	15000	eubeat1	European Bee-eater	0.8966
+19	Spectrogram 1	1	24.0	27.0	150	15000	eubeat1	European Bee-eater	0.6759
+20	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.1276
+21	Spectrogram 1	1	27.0	30.0	150	15000	blackc1	Eurasian Blackcap	0.3361
+22	Spectrogram 1	1	27.0	30.0	150	15000	eubeat1	European Bee-eater	0.2387
+23	Spectrogram 1	1	27.0	30.0	150	15000	garwar1	Garden Warbler	0.1738
+24	Spectrogram 1	1	30.0	33.0	150	15000	eubeat1	European Bee-eater	0.1607
+25	Spectrogram 1	1	30.0	33.0	150	15000	eurrob1	European Robin	0.1153
+26	Spectrogram 1	1	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.1082
+27	Spectrogram 1	1	33.0	36.0	150	15000	eubeat1	European Bee-eater	0.9342
+28	Spectrogram 1	1	33.0	36.0	150	15000	yellow2	Yellowhammer	0.1454
+29	Spectrogram 1	1	33.0	36.0	150	15000	eurwry	Eurasian Wryneck	0.1015
+30	Spectrogram 1	1	36.0	39.0	150	15000	wlwwar	Willow Warbler	0.2067
+31	Spectrogram 1	1	36.0	39.0	150	15000	comcuc	Common Cuckoo	0.1421
+32	Spectrogram 1	1	36.0	39.0	150	15000	eurwry	Eurasian Wryneck	0.1383
+33	Spectrogram 1	1	36.0	39.0	150	15000	comred2	Common Redstart	0.1376
+34	Spectrogram 1	1	36.0	39.0	150	15000	eubeat1	European Bee-eater	0.1238
+35	Spectrogram 1	1	36.0	39.0	150	15000	trepip	Tree Pipit	0.1078
+36	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.1040
+37	Spectrogram 1	1	36.0	39.0	150	15000	relpar1	Red-legged Partridge	0.1019
+38	Spectrogram 1	1	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.3626
+39	Spectrogram 1	1	39.0	42.0	150	15000	garwar1	Garden Warbler	0.1235
+40	Spectrogram 1	1	39.0	42.0	150	15000	yellow2	Yellowhammer	0.1159
+41	Spectrogram 1	1	42.0	45.0	150	15000	eubeat1	European Bee-eater	0.1086
+42	Spectrogram 1	1	45.0	48.0	150	15000	eubeat1	European Bee-eater	0.6348
+43	Spectrogram 1	1	48.0	51.0	150	15000	eubeat1	European Bee-eater	0.8451
+44	Spectrogram 1	1	48.0	51.0	150	15000	garwar1	Garden Warbler	0.1076
+45	Spectrogram 1	1	51.0	54.0	150	15000	blackc1	Eurasian Blackcap	0.2422
+46	Spectrogram 1	1	51.0	54.0	150	15000	garwar1	Garden Warbler	0.1888
+47	Spectrogram 1	1	51.0	54.0	150	15000	comnig1	Common Nightingale	0.1799
+48	Spectrogram 1	1	51.0	54.0	150	15000	eubeat1	European Bee-eater	0.1651
+49	Spectrogram 1	1	54.0	57.0	150	15000	eurrob1	European Robin	0.3672
+50	Spectrogram 1	1	54.0	57.0	150	15000	blackc1	Eurasian Blackcap	0.1393
+51	Spectrogram 1	1	54.0	57.0	150	15000	comnig1	Common Nightingale	0.1034
+52	Spectrogram 1	1	57.0	60.0	150	15000	eubeat1	European Bee-eater	0.2686
+53	Spectrogram 1	1	57.0	60.0	150	15000	eugori2	Eurasian Golden Oriole	0.1598
+54	Spectrogram 1	1	57.0	60.0	150	15000	blackc1	Eurasian Blackcap	0.1504
+55	Spectrogram 1	1	57.0	60.0	150	15000	garwar1	Garden Warbler	0.1454
+56	Spectrogram 1	1	57.0	60.0	150	15000	comcuc	Common Cuckoo	0.1276
+57	Spectrogram 1	1	57.0	60.0	150	15000	eurwry	Eurasian Wryneck	0.1053

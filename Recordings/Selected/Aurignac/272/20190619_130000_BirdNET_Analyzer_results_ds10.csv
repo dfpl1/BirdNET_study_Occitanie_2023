@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.3283
+2	Spectrogram 1	1	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.4471
+3	Spectrogram 1	1	45.0	48.0	150	15000	blackc1	Eurasian Blackcap	0.7522

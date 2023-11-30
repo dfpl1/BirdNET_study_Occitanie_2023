@@ -1,0 +1,63 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	stonec4	European Stonechat	0.2574
+2	Spectrogram 1	1	0	3.0	150	15000	eursta	European Starling	0.1511
+3	Spectrogram 1	1	0	3.0	150	15000	rebshr1	Red-backed Shrike	0.1070
+4	Spectrogram 1	1	0	3.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1062
+5	Spectrogram 1	1	2.0	5.0	150	15000	stonec4	European Stonechat	0.2283
+6	Spectrogram 1	1	4.0	7.0	150	15000	stonec4	European Stonechat	0.5226
+7	Spectrogram 1	1	4.0	7.0	150	15000	grewhi1	Greater Whitethroat	0.1493
+8	Spectrogram 1	1	4.0	7.0	150	15000	melwar1	Melodious Warbler	0.1131
+9	Spectrogram 1	1	4.0	7.0	150	15000	subwar6	Western Subalpine Warbler	0.1072
+10	Spectrogram 1	1	6.0	9.0	150	15000	stonec4	European Stonechat	0.3727
+11	Spectrogram 1	1	6.0	9.0	150	15000	comqua1	Common Quail	0.2316
+12	Spectrogram 1	1	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.1481
+13	Spectrogram 1	1	6.0	9.0	150	15000	grewhi1	Greater Whitethroat	0.1417
+14	Spectrogram 1	1	6.0	9.0	150	15000	subwar6	Western Subalpine Warbler	0.1319
+15	Spectrogram 1	1	6.0	9.0	150	15000	whisto1	White Stork	0.1038
+16	Spectrogram 1	1	8.0	11.0	150	15000	comqua1	Common Quail	0.9050
+17	Spectrogram 1	1	10.0	13.0	150	15000	comqua1	Common Quail	0.7920
+18	Spectrogram 1	1	12.0	15.0	150	15000	comqua1	Common Quail	0.3416
+19	Spectrogram 1	1	12.0	15.0	150	15000	corbun1	Corn Bunting	0.1210
+20	Spectrogram 1	1	12.0	15.0	150	15000	eubeat1	European Bee-eater	0.1122
+21	Spectrogram 1	1	14.0	17.0	150	15000	comqua1	Common Quail	0.3355
+22	Spectrogram 1	1	14.0	17.0	150	15000	corbun1	Corn Bunting	0.1141
+23	Spectrogram 1	1	14.0	17.0	150	15000	tawpip1	Tawny Pipit	0.1083
+24	Spectrogram 1	1	14.0	17.0	150	15000	whinch1	Whinchat	0.1023
+25	Spectrogram 1	1	16.0	19.0	150	15000	corbun1	Corn Bunting	0.1193
+26	Spectrogram 1	1	16.0	19.0	150	15000	garwar1	Garden Warbler	0.1174
+27	Spectrogram 1	1	22.0	25.0	150	15000	comcha	Common Chaffinch	0.1401
+28	Spectrogram 1	1	22.0	25.0	150	15000	wlwwar	Willow Warbler	0.1004
+29	Spectrogram 1	1	24.0	27.0	150	15000	comcha	Common Chaffinch	0.2099
+30	Spectrogram 1	1	24.0	27.0	150	15000	wlwwar	Willow Warbler	0.1161
+31	Spectrogram 1	1	24.0	27.0	150	15000	comcuc	Common Cuckoo	0.1071
+32	Spectrogram 1	1	24.0	27.0	150	15000	sonthr1	Song Thrush	0.1068
+33	Spectrogram 1	1	24.0	27.0	150	15000	cowpig1	Common Wood-Pigeon	0.1053
+34	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.2032
+35	Spectrogram 1	1	26.0	29.0	150	15000	grewhi1	Greater Whitethroat	0.1985
+36	Spectrogram 1	1	26.0	29.0	150	15000	garwar1	Garden Warbler	0.1779
+37	Spectrogram 1	1	26.0	29.0	150	15000	melwar1	Melodious Warbler	0.1067
+38	Spectrogram 1	1	26.0	29.0	150	15000	rebshr1	Red-backed Shrike	0.1002
+39	Spectrogram 1	1	28.0	31.0	150	15000	grewhi1	Greater Whitethroat	0.1515
+40	Spectrogram 1	1	28.0	31.0	150	15000	blackc1	Eurasian Blackcap	0.1427
+41	Spectrogram 1	1	28.0	31.0	150	15000	garwar1	Garden Warbler	0.1355
+42	Spectrogram 1	1	28.0	31.0	150	15000	rebshr1	Red-backed Shrike	0.1171
+43	Spectrogram 1	1	28.0	31.0	150	15000	melwar1	Melodious Warbler	0.1128
+44	Spectrogram 1	1	28.0	31.0	150	15000	eurlin1	Eurasian Linnet	0.1010
+45	Spectrogram 1	1	34.0	37.0	150	15000	comcha	Common Chaffinch	0.1145
+46	Spectrogram 1	1	36.0	39.0	150	15000	grewhi1	Greater Whitethroat	0.1481
+47	Spectrogram 1	1	36.0	39.0	150	15000	comred2	Common Redstart	0.1413
+48	Spectrogram 1	1	36.0	39.0	150	15000	yellow2	Yellowhammer	0.1310
+49	Spectrogram 1	1	36.0	39.0	150	15000	comcha	Common Chaffinch	0.1143
+50	Spectrogram 1	1	36.0	39.0	150	15000	garwar1	Garden Warbler	0.1058
+51	Spectrogram 1	1	38.0	41.0	150	15000	carcro1	Carrion Crow	0.5253
+52	Spectrogram 1	1	38.0	41.0	150	15000	eurjac	Eurasian Jackdaw	0.1181
+53	Spectrogram 1	1	40.0	43.0	150	15000	carcro1	Carrion Crow	0.5384
+54	Spectrogram 1	1	42.0	45.0	150	15000	carcro1	Carrion Crow	0.3310
+55	Spectrogram 1	1	42.0	45.0	150	15000	eurjac	Eurasian Jackdaw	0.2043
+56	Spectrogram 1	1	42.0	45.0	150	15000	eurrol1	European Roller	0.1197
+57	Spectrogram 1	1	48.0	51.0	150	15000	corbun1	Corn Bunting	0.1634
+58	Spectrogram 1	1	48.0	51.0	150	15000	skylar	Eurasian Skylark	0.1139
+59	Spectrogram 1	1	50.0	53.0	150	15000	eutdov	European Turtle-Dove	0.1119
+60	Spectrogram 1	1	52.0	55.0	150	15000	carcro1	Carrion Crow	0.3791
+61	Spectrogram 1	1	54.0	57.0	150	15000	carcro1	Carrion Crow	0.6399
+62	Spectrogram 1	1	56.0	59.0	150	15000	carcro1	Carrion Crow	0.6265

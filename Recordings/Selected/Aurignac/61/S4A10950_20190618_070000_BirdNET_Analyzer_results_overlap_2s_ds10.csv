@@ -1,0 +1,72 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	grewhi1	Greater Whitethroat	0.4747
+2	Spectrogram 1	1	1.0	4.0	150	15000	grewhi1	Greater Whitethroat	0.2767
+3	Spectrogram 1	1	1.0	4.0	150	15000	spofly1	Spotted Flycatcher	0.1278
+4	Spectrogram 1	1	1.0	4.0	150	15000	cirbun1	Cirl Bunting	0.1035
+5	Spectrogram 1	1	2.0	5.0	150	15000	grewhi1	Greater Whitethroat	0.5532
+6	Spectrogram 1	1	3.0	6.0	150	15000	eugori2	Eurasian Golden Oriole	0.8970
+7	Spectrogram 1	1	4.0	7.0	150	15000	eugori2	Eurasian Golden Oriole	0.7343
+8	Spectrogram 1	1	4.0	7.0	150	15000	grewhi1	Greater Whitethroat	0.6674
+9	Spectrogram 1	1	5.0	8.0	150	15000	eugori2	Eurasian Golden Oriole	0.5384
+10	Spectrogram 1	1	5.0	8.0	150	15000	grewhi1	Greater Whitethroat	0.4683
+11	Spectrogram 1	1	6.0	9.0	150	15000	grewhi1	Greater Whitethroat	0.4028
+12	Spectrogram 1	1	8.0	11.0	150	15000	grewhi1	Greater Whitethroat	0.5983
+13	Spectrogram 1	1	9.0	12.0	150	15000	grewhi1	Greater Whitethroat	0.4459
+14	Spectrogram 1	1	10.0	13.0	150	15000	grewhi1	Greater Whitethroat	0.4699
+15	Spectrogram 1	1	11.0	14.0	150	15000	cirbun1	Cirl Bunting	0.9453
+16	Spectrogram 1	1	11.0	14.0	150	15000	spofly1	Spotted Flycatcher	0.1166
+17	Spectrogram 1	1	12.0	15.0	150	15000	cirbun1	Cirl Bunting	0.8733
+18	Spectrogram 1	1	13.0	16.0	150	15000	cirbun1	Cirl Bunting	0.5157
+19	Spectrogram 1	1	14.0	17.0	150	15000	cirbun1	Cirl Bunting	0.6983
+20	Spectrogram 1	1	16.0	19.0	150	15000	cowpig1	Common Wood-Pigeon	0.4099
+21	Spectrogram 1	1	17.0	20.0	150	15000	cowpig1	Common Wood-Pigeon	0.2248
+22	Spectrogram 1	1	18.0	21.0	150	15000	cowpig1	Common Wood-Pigeon	0.1479
+23	Spectrogram 1	1	20.0	23.0	150	15000	comcuc	Common Cuckoo	0.1706
+24	Spectrogram 1	1	20.0	23.0	150	15000	eurbla	Eurasian Blackbird	0.1477
+25	Spectrogram 1	1	23.0	26.0	150	15000	cirbun1	Cirl Bunting	0.1293
+26	Spectrogram 1	1	24.0	27.0	150	15000	eugori2	Eurasian Golden Oriole	0.3645
+27	Spectrogram 1	1	25.0	28.0	150	15000	eugori2	Eurasian Golden Oriole	0.2946
+28	Spectrogram 1	1	25.0	28.0	150	15000	cirbun1	Cirl Bunting	0.1703
+29	Spectrogram 1	1	26.0	29.0	150	15000	eugori2	Eurasian Golden Oriole	0.6575
+30	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.1932
+31	Spectrogram 1	1	27.0	30.0	150	15000	cirbun1	Cirl Bunting	0.6531
+32	Spectrogram 1	1	27.0	30.0	150	15000	eugori2	Eurasian Golden Oriole	0.6332
+33	Spectrogram 1	1	28.0	31.0	150	15000	grewhi1	Greater Whitethroat	0.6158
+34	Spectrogram 1	1	28.0	31.0	150	15000	eugori2	Eurasian Golden Oriole	0.3140
+35	Spectrogram 1	1	28.0	31.0	150	15000	cirbun1	Cirl Bunting	0.1162
+36	Spectrogram 1	1	29.0	32.0	150	15000	grewhi1	Greater Whitethroat	0.2414
+37	Spectrogram 1	1	29.0	32.0	150	15000	cirbun1	Cirl Bunting	0.1608
+38	Spectrogram 1	1	29.0	32.0	150	15000	eugori2	Eurasian Golden Oriole	0.1059
+39	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.3441
+40	Spectrogram 1	1	31.0	34.0	150	15000	grewhi1	Greater Whitethroat	0.2203
+41	Spectrogram 1	1	31.0	34.0	150	15000	wlwwar	Willow Warbler	0.1031
+42	Spectrogram 1	1	35.0	38.0	150	15000	cirbun1	Cirl Bunting	0.3250
+43	Spectrogram 1	1	36.0	39.0	150	15000	cirbun1	Cirl Bunting	0.4233
+44	Spectrogram 1	1	38.0	41.0	150	15000	carcro1	Carrion Crow	0.2413
+45	Spectrogram 1	1	39.0	42.0	150	15000	carcro1	Carrion Crow	0.2739
+46	Spectrogram 1	1	39.0	42.0	150	15000	cirbun1	Cirl Bunting	0.1367
+47	Spectrogram 1	1	40.0	43.0	150	15000	eugori2	Eurasian Golden Oriole	0.1338
+48	Spectrogram 1	1	41.0	44.0	150	15000	eugori2	Eurasian Golden Oriole	0.3364
+49	Spectrogram 1	1	42.0	45.0	150	15000	eugori2	Eurasian Golden Oriole	0.8757
+50	Spectrogram 1	1	43.0	46.0	150	15000	eugori2	Eurasian Golden Oriole	0.4758
+51	Spectrogram 1	1	43.0	46.0	150	15000	cirbun1	Cirl Bunting	0.3094
+52	Spectrogram 1	1	44.0	47.0	150	15000	garwar1	Garden Warbler	0.2602
+53	Spectrogram 1	1	44.0	47.0	150	15000	cirbun1	Cirl Bunting	0.1175
+54	Spectrogram 1	1	46.0	49.0	150	15000	eugori2	Eurasian Golden Oriole	0.1319
+55	Spectrogram 1	1	46.0	49.0	150	15000	cowpig1	Common Wood-Pigeon	0.1176
+56	Spectrogram 1	1	48.0	51.0	150	15000	cowpig1	Common Wood-Pigeon	0.1635
+57	Spectrogram 1	1	48.0	51.0	150	15000	eurbla	Eurasian Blackbird	0.1093
+58	Spectrogram 1	1	49.0	52.0	150	15000	grewhi1	Greater Whitethroat	0.6646
+59	Spectrogram 1	1	49.0	52.0	150	15000	wlwwar	Willow Warbler	0.1332
+60	Spectrogram 1	1	50.0	53.0	150	15000	eurjay1	Eurasian Jay	0.1452
+61	Spectrogram 1	1	51.0	54.0	150	15000	eurjay1	Eurasian Jay	0.2561
+62	Spectrogram 1	1	52.0	55.0	150	15000	eurjay1	Eurasian Jay	0.3061
+63	Spectrogram 1	1	53.0	56.0	150	15000	eugori2	Eurasian Golden Oriole	0.7567
+64	Spectrogram 1	1	54.0	57.0	150	15000	grewhi1	Greater Whitethroat	0.4563
+65	Spectrogram 1	1	54.0	57.0	150	15000	eugori2	Eurasian Golden Oriole	0.2326
+66	Spectrogram 1	1	55.0	58.0	150	15000	carcro1	Carrion Crow	0.4247
+67	Spectrogram 1	1	55.0	58.0	150	15000	grewhi1	Greater Whitethroat	0.1933
+68	Spectrogram 1	1	56.0	59.0	150	15000	carcro1	Carrion Crow	0.8412
+69	Spectrogram 1	1	56.0	59.0	150	15000	grewhi1	Greater Whitethroat	0.1551
+70	Spectrogram 1	1	57.0	60.0	150	15000	carcro1	Carrion Crow	0.7667
+71	Spectrogram 1	1	58.0	61.0	150	15000	carcro1	Carrion Crow	0.2523

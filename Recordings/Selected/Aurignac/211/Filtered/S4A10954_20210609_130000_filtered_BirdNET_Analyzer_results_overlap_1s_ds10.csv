@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	woolar1	Wood Lark	0.1441
+2	Spectrogram 1	1	22.0	25.0	150	15000	whinch1	Whinchat	0.1515
+3	Spectrogram 1	1	26.0	29.0	150	15000	woolar1	Wood Lark	0.1086
+4	Spectrogram 1	1	52.0	55.0	150	15000	goldcr1	Goldcrest	0.3152

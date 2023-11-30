@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	3.0	6.0	150	15000	dunnoc1	Dunnock	0.5902
+2	Spectrogram 1	1	12.0	15.0	150	15000	dunnoc1	Dunnock	0.1721
+3	Spectrogram 1	1	12.0	15.0	150	15000	stonec4	European Stonechat	0.1267
+4	Spectrogram 1	1	15.0	18.0	150	15000	coatit2	Coal Tit	0.4533
+5	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.1036
+6	Spectrogram 1	1	48.0	51.0	150	15000	trepip	Tree Pipit	0.8971
+7	Spectrogram 1	1	51.0	54.0	150	15000	trepip	Tree Pipit	0.1975
+8	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.4026
+9	Spectrogram 1	1	57.0	60.0	150	15000	trepip	Tree Pipit	0.8543

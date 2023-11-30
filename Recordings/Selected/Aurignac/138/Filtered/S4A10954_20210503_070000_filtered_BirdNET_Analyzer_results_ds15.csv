@@ -1,0 +1,105 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	melwar1	Melodious Warbler	0.2723
+2	Spectrogram 1	1	0	3.0	150	15000	garwar1	Garden Warbler	0.2158
+3	Spectrogram 1	1	0	3.0	150	15000	grewhi1	Greater Whitethroat	0.1942
+4	Spectrogram 1	1	0	3.0	150	15000	cetwar1	Cetti's Warbler	0.1757
+5	Spectrogram 1	1	0	3.0	150	15000	cirbun1	Cirl Bunting	0.1608
+6	Spectrogram 1	1	0	3.0	150	15000	reebun	Reed Bunting	0.1311
+7	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.1263
+8	Spectrogram 1	1	0	3.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1193
+9	Spectrogram 1	1	0	3.0	150	15000	webwar1	Western Bonelli's Warbler	0.1176
+10	Spectrogram 1	1	0	3.0	150	15000	eurwry	Eurasian Wryneck	0.1163
+11	Spectrogram 1	1	0	3.0	150	15000	yellow2	Yellowhammer	0.1035
+12	Spectrogram 1	1	0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.1017
+13	Spectrogram 1	1	3.0	6.0	150	15000	grewhi1	Greater Whitethroat	0.2587
+14	Spectrogram 1	1	3.0	6.0	150	15000	eurbul	Eurasian Bullfinch	0.1969
+15	Spectrogram 1	1	3.0	6.0	150	15000	garwar1	Garden Warbler	0.1595
+16	Spectrogram 1	1	3.0	6.0	150	15000	yellow2	Yellowhammer	0.1576
+17	Spectrogram 1	1	3.0	6.0	150	15000	eurwry	Eurasian Wryneck	0.1471
+18	Spectrogram 1	1	3.0	6.0	150	15000	comcuc	Common Cuckoo	0.1428
+19	Spectrogram 1	1	3.0	6.0	150	15000	eurlin1	Eurasian Linnet	0.1408
+20	Spectrogram 1	1	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.1387
+21	Spectrogram 1	1	3.0	6.0	150	15000	trepip	Tree Pipit	0.1299
+22	Spectrogram 1	1	3.0	6.0	150	15000	reebun	Reed Bunting	0.1216
+23	Spectrogram 1	1	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.1070
+24	Spectrogram 1	1	3.0	6.0	150	15000	winwre4	Eurasian Wren	0.1048
+25	Spectrogram 1	1	6.0	9.0	150	15000	comnig1	Common Nightingale	0.3001
+26	Spectrogram 1	1	6.0	9.0	150	15000	grewhi1	Greater Whitethroat	0.2611
+27	Spectrogram 1	1	6.0	9.0	150	15000	comred2	Common Redstart	0.1866
+28	Spectrogram 1	1	6.0	9.0	150	15000	reebun	Reed Bunting	0.1838
+29	Spectrogram 1	1	6.0	9.0	150	15000	garwar1	Garden Warbler	0.1493
+30	Spectrogram 1	1	9.0	12.0	150	15000	grewhi1	Greater Whitethroat	0.1027
+31	Spectrogram 1	1	12.0	15.0	150	15000	garwar1	Garden Warbler	0.3373
+32	Spectrogram 1	1	12.0	15.0	150	15000	comnig1	Common Nightingale	0.1871
+33	Spectrogram 1	1	12.0	15.0	150	15000	cetwar1	Cetti's Warbler	0.1660
+34	Spectrogram 1	1	12.0	15.0	150	15000	winwre4	Eurasian Wren	0.1543
+35	Spectrogram 1	1	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.1523
+36	Spectrogram 1	1	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.1311
+37	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.1257
+38	Spectrogram 1	1	12.0	15.0	150	15000	martit2	Marsh Tit	0.1140
+39	Spectrogram 1	1	12.0	15.0	150	15000	eurwry	Eurasian Wryneck	0.1109
+40	Spectrogram 1	1	12.0	15.0	150	15000	ibechi2	Iberian Chiffchaff	0.1000
+41	Spectrogram 1	1	15.0	18.0	150	15000	comnig1	Common Nightingale	0.2406
+42	Spectrogram 1	1	15.0	18.0	150	15000	garwar1	Garden Warbler	0.1192
+43	Spectrogram 1	1	18.0	21.0	150	15000	yellow2	Yellowhammer	0.1286
+44	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.1045
+45	Spectrogram 1	1	21.0	24.0	150	15000	comnig1	Common Nightingale	0.3224
+46	Spectrogram 1	1	24.0	27.0	150	15000	garwar1	Garden Warbler	0.1705
+47	Spectrogram 1	1	24.0	27.0	150	15000	grewhi1	Greater Whitethroat	0.1630
+48	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.1529
+49	Spectrogram 1	1	24.0	27.0	150	15000	eurlin1	Eurasian Linnet	0.1417
+50	Spectrogram 1	1	24.0	27.0	150	15000	comcuc	Common Cuckoo	0.1107
+51	Spectrogram 1	1	27.0	30.0	150	15000	yellow2	Yellowhammer	0.2160
+52	Spectrogram 1	1	27.0	30.0	150	15000	grewhi1	Greater Whitethroat	0.2051
+53	Spectrogram 1	1	27.0	30.0	150	15000	garwar1	Garden Warbler	0.1973
+54	Spectrogram 1	1	27.0	30.0	150	15000	reebun	Reed Bunting	0.1660
+55	Spectrogram 1	1	27.0	30.0	150	15000	cetwar1	Cetti's Warbler	0.1541
+56	Spectrogram 1	1	27.0	30.0	150	15000	eurwry	Eurasian Wryneck	0.1425
+57	Spectrogram 1	1	27.0	30.0	150	15000	rebshr1	Red-backed Shrike	0.1088
+58	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.1057
+59	Spectrogram 1	1	27.0	30.0	150	15000	winwre4	Eurasian Wren	0.1054
+60	Spectrogram 1	1	27.0	30.0	150	15000	comred2	Common Redstart	0.1045
+61	Spectrogram 1	1	27.0	30.0	150	15000	eurlin1	Eurasian Linnet	0.1031
+62	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.1000
+63	Spectrogram 1	1	33.0	36.0	150	15000	litgre1	Little Grebe	0.2235
+64	Spectrogram 1	1	33.0	36.0	150	15000	grewhi1	Greater Whitethroat	0.2122
+65	Spectrogram 1	1	33.0	36.0	150	15000	comnig1	Common Nightingale	0.1403
+66	Spectrogram 1	1	33.0	36.0	150	15000	eurlin1	Eurasian Linnet	0.1330
+67	Spectrogram 1	1	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.1044
+68	Spectrogram 1	1	39.0	42.0	150	15000	reebun	Reed Bunting	0.1711
+69	Spectrogram 1	1	39.0	42.0	150	15000	cirbun1	Cirl Bunting	0.1379
+70	Spectrogram 1	1	39.0	42.0	150	15000	grewhi1	Greater Whitethroat	0.1334
+71	Spectrogram 1	1	39.0	42.0	150	15000	comnig1	Common Nightingale	0.1229
+72	Spectrogram 1	1	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.1117
+73	Spectrogram 1	1	39.0	42.0	150	15000	lottit1	Long-tailed Tit	0.1061
+74	Spectrogram 1	1	39.0	42.0	150	15000	cetwar1	Cetti's Warbler	0.1027
+75	Spectrogram 1	1	42.0	45.0	150	15000	eurwry	Eurasian Wryneck	0.2331
+76	Spectrogram 1	1	42.0	45.0	150	15000	garwar1	Garden Warbler	0.2323
+77	Spectrogram 1	1	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.2220
+78	Spectrogram 1	1	42.0	45.0	150	15000	grewhi1	Greater Whitethroat	0.2111
+79	Spectrogram 1	1	42.0	45.0	150	15000	winwre4	Eurasian Wren	0.2065
+80	Spectrogram 1	1	42.0	45.0	150	15000	yellow2	Yellowhammer	0.1888
+81	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1492
+82	Spectrogram 1	1	42.0	45.0	150	15000	wooshr1	Woodchat Shrike	0.1478
+83	Spectrogram 1	1	42.0	45.0	150	15000	comnig1	Common Nightingale	0.1165
+84	Spectrogram 1	1	42.0	45.0	150	15000	reebun	Reed Bunting	0.1165
+85	Spectrogram 1	1	42.0	45.0	150	15000	cetwar1	Cetti's Warbler	0.1144
+86	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1096
+87	Spectrogram 1	1	42.0	45.0	150	15000	eugori2	Eurasian Golden Oriole	0.1048
+88	Spectrogram 1	1	45.0	48.0	150	15000	rocbun1	Rock Bunting	0.2133
+89	Spectrogram 1	1	45.0	48.0	150	15000	martit2	Marsh Tit	0.1725
+90	Spectrogram 1	1	45.0	48.0	150	15000	cirbun1	Cirl Bunting	0.1404
+91	Spectrogram 1	1	45.0	48.0	150	15000	webwar1	Western Bonelli's Warbler	0.1142
+92	Spectrogram 1	1	45.0	48.0	150	15000	garwar1	Garden Warbler	0.1067
+93	Spectrogram 1	1	45.0	48.0	150	15000	goldcr1	Goldcrest	0.1032
+94	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.1293
+95	Spectrogram 1	1	48.0	51.0	150	15000	grnwoo3	Iberian Green Woodpecker	0.1278
+96	Spectrogram 1	1	51.0	54.0	150	15000	reebun	Reed Bunting	0.1621
+97	Spectrogram 1	1	51.0	54.0	150	15000	eurwry	Eurasian Wryneck	0.1507
+98	Spectrogram 1	1	51.0	54.0	150	15000	grewhi1	Greater Whitethroat	0.1209
+99	Spectrogram 1	1	51.0	54.0	150	15000	cirbun1	Cirl Bunting	0.1114
+100	Spectrogram 1	1	51.0	54.0	150	15000	stonec4	European Stonechat	0.1048
+101	Spectrogram 1	1	51.0	54.0	150	15000	cetwar1	Cetti's Warbler	0.1033
+102	Spectrogram 1	1	51.0	54.0	150	15000	eaywag1	Western Yellow Wagtail	0.1021
+103	Spectrogram 1	1	54.0	57.0	150	15000	comnig1	Common Nightingale	0.1218
+104	Spectrogram 1	1	54.0	57.0	150	15000	grewhi1	Greater Whitethroat	0.1051

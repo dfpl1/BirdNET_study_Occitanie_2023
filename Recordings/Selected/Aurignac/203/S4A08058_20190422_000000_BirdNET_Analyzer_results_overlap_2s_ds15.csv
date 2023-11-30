@@ -1,0 +1,30 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	5.0	8.0	150	15000	litowl1	Little Owl	0.1045
+2	Spectrogram 1	1	11.0	14.0	150	15000	grefla3	Greater Flamingo	0.1188
+3	Spectrogram 1	1	11.0	14.0	150	15000	watrai1	Water Rail	0.1176
+4	Spectrogram 1	1	11.0	14.0	150	15000	litowl1	Little Owl	0.1009
+5	Spectrogram 1	1	12.0	15.0	150	15000	watrai1	Water Rail	0.1202
+6	Spectrogram 1	1	13.0	16.0	150	15000	watrai1	Water Rail	0.1460
+7	Spectrogram 1	1	14.0	17.0	150	15000	mallar3	Mallard	0.1277
+8	Spectrogram 1	1	15.0	18.0	150	15000	mallar3	Mallard	0.1421
+9	Spectrogram 1	1	16.0	19.0	150	15000	mallar3	Mallard	0.1420
+10	Spectrogram 1	1	16.0	19.0	150	15000	litgre1	Little Grebe	0.1091
+11	Spectrogram 1	1	17.0	20.0	150	15000	mallar3	Mallard	0.1068
+12	Spectrogram 1	1	43.0	46.0	150	15000	litowl1	Little Owl	0.1011
+13	Spectrogram 1	1	45.0	48.0	150	15000	litowl1	Little Owl	0.1003
+14	Spectrogram 1	1	46.0	49.0	150	15000	mallar3	Mallard	0.1051
+15	Spectrogram 1	1	47.0	50.0	150	15000	eurmag1	Eurasian Magpie	0.1090
+16	Spectrogram 1	1	47.0	50.0	150	15000	mallar3	Mallard	0.1007
+17	Spectrogram 1	1	50.0	53.0	150	15000	mallar3	Mallard	0.1219
+18	Spectrogram 1	1	50.0	53.0	150	15000	watrai1	Water Rail	0.1063
+19	Spectrogram 1	1	51.0	54.0	150	15000	mallar3	Mallard	0.1464
+20	Spectrogram 1	1	52.0	55.0	150	15000	mallar3	Mallard	0.1228
+21	Spectrogram 1	1	53.0	56.0	150	15000	mallar3	Mallard	0.1671
+22	Spectrogram 1	1	54.0	57.0	150	15000	mallar3	Mallard	0.1473
+23	Spectrogram 1	1	55.0	58.0	150	15000	mallar3	Mallard	0.1258
+24	Spectrogram 1	1	57.0	60.0	150	15000	watrai1	Water Rail	0.1354
+25	Spectrogram 1	1	57.0	60.0	150	15000	mallar3	Mallard	0.1294
+26	Spectrogram 1	1	57.0	60.0	150	15000	litowl1	Little Owl	0.1017
+27	Spectrogram 1	1	59.0	62.0	150	15000	comnig1	Common Nightingale	0.1309
+28	Spectrogram 1	1	59.0	62.0	150	15000	commoo3	Eurasian Moorhen	0.1121
+29	Spectrogram 1	1	59.0	62.0	150	15000	litgre1	Little Grebe	0.1037

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	22.846309	1904.5	5355.6	Sylvia atricapilla
+2	Spectrogram 1	1	1.832412	2.689779	1225.4	2313.4	Oriolus oriolus
+3	Spectrogram 1	1	10.305215	11.196204	1090.0	2160.5	Oriolus oriolus
+4	Spectrogram 1	1	22.846309	23.493537	2376.8	4988.7	Unidentified bird
+5	Spectrogram 1	1	25.838688	59.982068	1904.5	5048.3	Sylvia atricapilla
+6	Spectrogram 1	1	55.090033	55.728855	1225.4	2750.4	Oriolus oriolus

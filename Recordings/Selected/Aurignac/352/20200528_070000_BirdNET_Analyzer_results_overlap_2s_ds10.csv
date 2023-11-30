@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	winwre4	Eurasian Wren	0.1880
+2	Spectrogram 1	1	25.0	28.0	150	15000	comcuc	Common Cuckoo	0.1497
+3	Spectrogram 1	1	29.0	32.0	150	15000	grrwar1	Great Reed Warbler	0.1185
+4	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.1007

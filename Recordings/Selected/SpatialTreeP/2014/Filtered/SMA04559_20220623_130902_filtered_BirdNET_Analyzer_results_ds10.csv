@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	coatit2	Coal Tit	0.1597
+2	Spectrogram 1	1	9.0	12.0	150	15000	trepip	Tree Pipit	0.3660
+3	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.9161
+4	Spectrogram 1	1	21.0	24.0	150	15000	trepip	Tree Pipit	0.7676
+5	Spectrogram 1	1	24.0	27.0	150	15000	trepip	Tree Pipit	0.9534
+6	Spectrogram 1	1	33.0	36.0	150	15000	trepip	Tree Pipit	0.3446
+7	Spectrogram 1	1	36.0	39.0	150	15000	trepip	Tree Pipit	0.4865
+8	Spectrogram 1	1	39.0	42.0	150	15000	trepip	Tree Pipit	0.2554
+9	Spectrogram 1	1	45.0	48.0	150	15000	martit2	Marsh Tit	0.3214
+10	Spectrogram 1	1	45.0	48.0	150	15000	trepip	Tree Pipit	0.1284
+11	Spectrogram 1	1	48.0	51.0	150	15000	martit2	Marsh Tit	0.4835
+12	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.2559
+13	Spectrogram 1	1	57.0	60.0	150	15000	trepip	Tree Pipit	0.1687

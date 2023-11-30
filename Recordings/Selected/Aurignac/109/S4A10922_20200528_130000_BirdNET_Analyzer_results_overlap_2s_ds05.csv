@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	8.0	11.0	150	15000	cowpig1	Common Wood-Pigeon	0.3127
+2	Spectrogram 1	1	9.0	12.0	150	15000	cowpig1	Common Wood-Pigeon	0.1528
+3	Spectrogram 1	1	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.1314
+4	Spectrogram 1	1	10.0	13.0	150	15000	melwar1	Melodious Warbler	0.3923
+5	Spectrogram 1	1	11.0	14.0	150	15000	melwar1	Melodious Warbler	0.9138
+6	Spectrogram 1	1	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.7662
+7	Spectrogram 1	1	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.8910
+8	Spectrogram 1	1	25.0	28.0	150	15000	melwar1	Melodious Warbler	0.6393
+9	Spectrogram 1	1	26.0	29.0	150	15000	melwar1	Melodious Warbler	0.5934
+10	Spectrogram 1	1	26.0	29.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1553
+11	Spectrogram 1	1	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9888
+12	Spectrogram 1	1	28.0	31.0	150	15000	melwar1	Melodious Warbler	0.8826
+13	Spectrogram 1	1	29.0	32.0	150	15000	melwar1	Melodious Warbler	0.9317
+14	Spectrogram 1	1	34.0	37.0	150	15000	eugori2	Eurasian Golden Oriole	0.1929
+15	Spectrogram 1	1	57.0	60.0	150	15000	blackc1	Eurasian Blackcap	0.1420
+16	Spectrogram 1	1	58.0	61.0	150	15000	blackc1	Eurasian Blackcap	0.1219

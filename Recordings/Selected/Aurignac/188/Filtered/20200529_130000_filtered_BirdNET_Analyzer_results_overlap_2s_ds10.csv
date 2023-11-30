@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	5.0	8.0	150	15000	grewhi1	Greater Whitethroat	0.1032
+2	Spectrogram 1	1	22.0	25.0	150	15000	grewhi1	Greater Whitethroat	0.3302
+3	Spectrogram 1	1	30.0	33.0	150	15000	spaspa1	Spanish Sparrow	0.1289
+4	Spectrogram 1	1	32.0	35.0	150	15000	spaspa1	Spanish Sparrow	0.1198
+5	Spectrogram 1	1	37.0	40.0	150	15000	tawpip1	Tawny Pipit	0.1026
+6	Spectrogram 1	1	38.0	41.0	150	15000	thelar1	Thekla's Lark	0.1415
+7	Spectrogram 1	1	38.0	41.0	150	15000	tawpip1	Tawny Pipit	0.1224
+8	Spectrogram 1	1	39.0	42.0	150	15000	thelar1	Thekla's Lark	0.1598
+9	Spectrogram 1	1	42.0	45.0	150	15000	woolar1	Wood Lark	0.1032
+10	Spectrogram 1	1	43.0	46.0	150	15000	woolar1	Wood Lark	0.4045
+11	Spectrogram 1	1	48.0	51.0	150	15000	wooshr1	Woodchat Shrike	0.1486
+12	Spectrogram 1	1	56.0	59.0	150	15000	corbun1	Corn Bunting	0.5670
+13	Spectrogram 1	1	58.0	61.0	150	15000	corbun1	Corn Bunting	0.1174

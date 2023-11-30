@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	9.0	12.0	150	15000	carcro1	Carrion Crow	0.1438
+2	Spectrogram 1	1	16.0	19.0	150	15000	carcro1	Carrion Crow	0.1417
+3	Spectrogram 1	1	17.0	20.0	150	15000	carcro1	Carrion Crow	0.1198
+4	Spectrogram 1	1	18.0	21.0	150	15000	carcro1	Carrion Crow	0.1203
+5	Spectrogram 1	1	19.0	22.0	150	15000	comcha	Common Chaffinch	0.1385
+6	Spectrogram 1	1	21.0	24.0	150	15000	comcha	Common Chaffinch	0.1441
+7	Spectrogram 1	1	30.0	33.0	150	15000	eurgre1	European Greenfinch	0.2750
+8	Spectrogram 1	1	37.0	40.0	150	15000	carcro1	Carrion Crow	0.1105

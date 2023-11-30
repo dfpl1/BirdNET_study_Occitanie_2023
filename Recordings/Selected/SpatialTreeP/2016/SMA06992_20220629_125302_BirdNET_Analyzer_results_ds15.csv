@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	blared1	Black Redstart	0.1487
+2	Spectrogram 1	1	15.0	18.0	150	15000	rebcho1	Red-billed Chough	0.4159
+3	Spectrogram 1	1	15.0	18.0	150	15000	combuz1	Common Buzzard	0.1464
+4	Spectrogram 1	1	15.0	18.0	150	15000	medgul1	Mediterranean Gull	0.1001
+5	Spectrogram 1	1	21.0	24.0	150	15000	watpip1	Water Pipit	0.1182
+6	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.1935
+7	Spectrogram 1	1	36.0	39.0	150	15000	eurrob1	European Robin	0.1273
+8	Spectrogram 1	1	36.0	39.0	150	15000	litgre1	Little Grebe	0.1198
+9	Spectrogram 1	1	36.0	39.0	150	15000	eurlin1	Eurasian Linnet	0.1167
+10	Spectrogram 1	1	36.0	39.0	150	15000	mallar3	Mallard	0.1118
+11	Spectrogram 1	1	36.0	39.0	150	15000	norlap	Northern Lapwing	0.1109
+12	Spectrogram 1	1	36.0	39.0	150	15000	corbun1	Corn Bunting	0.1072
+13	Spectrogram 1	1	36.0	39.0	150	15000	sonthr1	Song Thrush	0.1020
+14	Spectrogram 1	1	42.0	45.0	150	15000	carcro1	Carrion Crow	0.1619
+15	Spectrogram 1	1	42.0	45.0	150	15000	bkhgul	Black-headed Gull	0.1247
+16	Spectrogram 1	1	42.0	45.0	150	15000	commoo3	Eurasian Moorhen	0.1196
+17	Spectrogram 1	1	42.0	45.0	150	15000	eurjac	Eurasian Jackdaw	0.1078
+18	Spectrogram 1	1	42.0	45.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.1024
+19	Spectrogram 1	1	42.0	45.0	150	15000	litgre1	Little Grebe	0.1019
+20	Spectrogram 1	1	42.0	45.0	150	15000	eurcoo	Eurasian Coot	0.1010
+21	Spectrogram 1	1	48.0	51.0	150	15000	tawowl1	Tawny Owl	0.1195

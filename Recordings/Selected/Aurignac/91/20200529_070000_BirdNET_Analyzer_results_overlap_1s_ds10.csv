@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	carcro1	Carrion Crow	0.6535
+2	Spectrogram 1	1	4.0	7.0	150	15000	blackc1	Eurasian Blackcap	0.1176
+3	Spectrogram 1	1	32.0	35.0	150	15000	carcro1	Carrion Crow	0.4077
+4	Spectrogram 1	1	40.0	43.0	150	15000	carcro1	Carrion Crow	0.3960
+5	Spectrogram 1	1	42.0	45.0	150	15000	eugori2	Eurasian Golden Oriole	0.2364
+6	Spectrogram 1	1	52.0	55.0	150	15000	carcro1	Carrion Crow	0.1740

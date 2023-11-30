@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	12.0	15.0	150	15000	yellow2	Yellowhammer	0.1183
+2	Spectrogram 1	1	21.0	24.0	150	15000	comcha	Common Chaffinch	0.6824
+3	Spectrogram 1	1	21.0	24.0	150	15000	yellow2	Yellowhammer	0.1225
+4	Spectrogram 1	1	24.0	27.0	150	15000	norwhe	Northern Wheatear	0.5761
+5	Spectrogram 1	1	27.0	30.0	150	15000	blared1	Black Redstart	1.0000
+6	Spectrogram 1	1	30.0	33.0	150	15000	comcha	Common Chaffinch	0.7356
+7	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.1296
+8	Spectrogram 1	1	30.0	33.0	150	15000	yellow2	Yellowhammer	0.1162
+9	Spectrogram 1	1	36.0	39.0	150	15000	blared1	Black Redstart	0.9948
+10	Spectrogram 1	1	39.0	42.0	150	15000	comcha	Common Chaffinch	0.8871
+11	Spectrogram 1	1	45.0	48.0	150	15000	comcha	Common Chaffinch	0.5696
+12	Spectrogram 1	1	45.0	48.0	150	15000	grewhi1	Greater Whitethroat	0.1141
+13	Spectrogram 1	1	54.0	57.0	150	15000	comcha	Common Chaffinch	0.5554
+14	Spectrogram 1	1	57.0	60.0	150	15000	comcha	Common Chaffinch	0.5925
+15	Spectrogram 1	1	57.0	60.0	150	15000	grewhi1	Greater Whitethroat	0.3455

@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	15.0	18.0	150	15000	watpip1	Water Pipit	0.3921
+2	Spectrogram 1	1	18.0	21.0	150	15000	watpip1	Water Pipit	0.9153
+3	Spectrogram 1	1	27.0	30.0	150	15000	woolar1	Wood Lark	0.1318
+4	Spectrogram 1	1	51.0	54.0	150	15000	watpip1	Water Pipit	0.3770

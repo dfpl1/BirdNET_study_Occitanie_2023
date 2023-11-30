@@ -1,0 +1,45 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.4206
+2	Spectrogram 1	1	2.0	5.0	150	15000	stodov1	Stock Dove	0.1438
+3	Spectrogram 1	1	3.0	6.0	150	15000	cowpig1	Common Wood-Pigeon	0.2989
+4	Spectrogram 1	1	3.0	6.0	150	15000	stodov1	Stock Dove	0.1286
+5	Spectrogram 1	1	4.0	7.0	150	15000	cowpig1	Common Wood-Pigeon	0.1440
+6	Spectrogram 1	1	5.0	8.0	150	15000	trepip	Tree Pipit	0.3657
+7	Spectrogram 1	1	6.0	9.0	150	15000	trepip	Tree Pipit	0.8110
+8	Spectrogram 1	1	7.0	10.0	150	15000	trepip	Tree Pipit	0.9030
+9	Spectrogram 1	1	10.0	13.0	150	15000	eurrob1	European Robin	0.4247
+10	Spectrogram 1	1	11.0	14.0	150	15000	eurrob1	European Robin	0.6751
+11	Spectrogram 1	1	12.0	15.0	150	15000	eurrob1	European Robin	0.5906
+12	Spectrogram 1	1	14.0	17.0	150	15000	hoopoe	Eurasian Hoopoe	0.2858
+13	Spectrogram 1	1	16.0	19.0	150	15000	eutdov	European Turtle-Dove	0.1244
+14	Spectrogram 1	1	17.0	20.0	150	15000	eurrob1	European Robin	0.1832
+15	Spectrogram 1	1	18.0	21.0	150	15000	eurrob1	European Robin	0.5596
+16	Spectrogram 1	1	19.0	22.0	150	15000	eurrob1	European Robin	0.8551
+17	Spectrogram 1	1	20.0	23.0	150	15000	eurrob1	European Robin	0.3038
+18	Spectrogram 1	1	21.0	24.0	150	15000	trepip	Tree Pipit	0.2426
+19	Spectrogram 1	1	22.0	25.0	150	15000	trepip	Tree Pipit	0.4860
+20	Spectrogram 1	1	23.0	26.0	150	15000	trepip	Tree Pipit	0.5685
+21	Spectrogram 1	1	24.0	27.0	150	15000	trepip	Tree Pipit	0.2038
+22	Spectrogram 1	1	25.0	28.0	150	15000	eurrob1	European Robin	0.1124
+23	Spectrogram 1	1	26.0	29.0	150	15000	eurrob1	European Robin	0.2325
+24	Spectrogram 1	1	27.0	30.0	150	15000	eurrob1	European Robin	0.1314
+25	Spectrogram 1	1	27.0	30.0	150	15000	webwar1	Western Bonelli's Warbler	0.1187
+26	Spectrogram 1	1	31.0	34.0	150	15000	trepip	Tree Pipit	0.8315
+27	Spectrogram 1	1	32.0	35.0	150	15000	trepip	Tree Pipit	0.5996
+28	Spectrogram 1	1	33.0	36.0	150	15000	trepip	Tree Pipit	0.4128
+29	Spectrogram 1	1	34.0	37.0	150	15000	trepip	Tree Pipit	0.1655
+30	Spectrogram 1	1	35.0	38.0	150	15000	cowpig1	Common Wood-Pigeon	0.4310
+31	Spectrogram 1	1	35.0	38.0	150	15000	eurrob1	European Robin	0.1106
+32	Spectrogram 1	1	40.0	43.0	150	15000	trepip	Tree Pipit	0.2530
+33	Spectrogram 1	1	40.0	43.0	150	15000	webwar1	Western Bonelli's Warbler	0.1090
+34	Spectrogram 1	1	41.0	44.0	150	15000	trepip	Tree Pipit	0.2888
+35	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1303
+36	Spectrogram 1	1	43.0	46.0	150	15000	trepip	Tree Pipit	0.2239
+37	Spectrogram 1	1	44.0	47.0	150	15000	trepip	Tree Pipit	0.1433
+38	Spectrogram 1	1	45.0	48.0	150	15000	eurrob1	European Robin	0.1342
+39	Spectrogram 1	1	51.0	54.0	150	15000	trepip	Tree Pipit	0.1749
+40	Spectrogram 1	1	53.0	56.0	150	15000	trepip	Tree Pipit	0.1352
+41	Spectrogram 1	1	57.0	60.0	150	15000	eurrob1	European Robin	0.1978
+42	Spectrogram 1	1	58.0	61.0	150	15000	eurrob1	European Robin	0.1064
+43	Spectrogram 1	1	59.0	62.0	150	15000	eurbul	Eurasian Bullfinch	0.2701
+44	Spectrogram 1	1	59.0	62.0	150	15000	eurrob1	European Robin	0.1638

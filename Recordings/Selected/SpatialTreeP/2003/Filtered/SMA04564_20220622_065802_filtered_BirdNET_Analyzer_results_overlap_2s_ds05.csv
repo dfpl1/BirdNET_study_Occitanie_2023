@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	12.0	15.0	150	15000	watpip1	Water Pipit	0.3086
+2	Spectrogram 1	1	13.0	16.0	150	15000	watpip1	Water Pipit	0.3260
+3	Spectrogram 1	1	14.0	17.0	150	15000	watpip1	Water Pipit	0.4709
+4	Spectrogram 1	1	15.0	18.0	150	15000	watpip1	Water Pipit	0.8689
+5	Spectrogram 1	1	16.0	19.0	150	15000	watpip1	Water Pipit	0.8547
+6	Spectrogram 1	1	17.0	20.0	150	15000	watpip1	Water Pipit	0.9937
+7	Spectrogram 1	1	18.0	21.0	150	15000	watpip1	Water Pipit	0.9761
+8	Spectrogram 1	1	19.0	22.0	150	15000	watpip1	Water Pipit	0.7091
+9	Spectrogram 1	1	24.0	27.0	150	15000	whinch1	Whinchat	0.1904
+10	Spectrogram 1	1	27.0	30.0	150	15000	woolar1	Wood Lark	0.2033
+11	Spectrogram 1	1	32.0	35.0	150	15000	thelar1	Thekla's Lark	0.1051
+12	Spectrogram 1	1	33.0	36.0	150	15000	thelar1	Thekla's Lark	0.6073
+13	Spectrogram 1	1	34.0	37.0	150	15000	thelar1	Thekla's Lark	0.4831
+14	Spectrogram 1	1	34.0	37.0	150	15000	woolar1	Wood Lark	0.3287
+15	Spectrogram 1	1	35.0	38.0	150	15000	thelar1	Thekla's Lark	0.1197
+16	Spectrogram 1	1	36.0	39.0	150	15000	thelar1	Thekla's Lark	0.1133
+17	Spectrogram 1	1	39.0	42.0	150	15000	watpip1	Water Pipit	0.1097
+18	Spectrogram 1	1	46.0	49.0	150	15000	watpip1	Water Pipit	0.5922
+19	Spectrogram 1	1	48.0	51.0	150	15000	watpip1	Water Pipit	0.5344
+20	Spectrogram 1	1	49.0	52.0	150	15000	watpip1	Water Pipit	0.8941
+21	Spectrogram 1	1	50.0	53.0	150	15000	watpip1	Water Pipit	0.6379
+22	Spectrogram 1	1	51.0	54.0	150	15000	watpip1	Water Pipit	0.9586
+23	Spectrogram 1	1	52.0	55.0	150	15000	watpip1	Water Pipit	0.9453
+24	Spectrogram 1	1	53.0	56.0	150	15000	watpip1	Water Pipit	0.4113
+25	Spectrogram 1	1	54.0	57.0	150	15000	watpip1	Water Pipit	0.1847

@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	1.313733	2.315875	3246.0	5943.4	Phoenicurus ochruros
+2	Spectrogram 1	1	2.644308	4.370687	2154.0	3558.6	Sylvia atricapilla
+3	Spectrogram 1	1	7.924502	9.044544	3451.7	5455.8	Phoenicurus ochruros
+4	Spectrogram 1	1	8.648740	9.204550	2360.5	3531.6	Unidentified bird
+5	Spectrogram 1	1	10.821451	11.739380	2979.6	5495.0	Phoenicurus ochruros
+6	Spectrogram 1	1	10.821451	12.522567	1845.6	3585.7	Unidentified bird
+7	Spectrogram 1	1	12.606780	14.164732	2029.8	3531.6	Sylvia atricapilla
+8	Spectrogram 1	1	12.741522	13.246804	3696.0	5040.3	Unidentified bird
+9	Spectrogram 1	1	23.512445	25.272510	1927.7	3895.9	Sylvia atricapilla
+10	Spectrogram 1	1	33.592817	33.870722	2499.7	3478.2	Fringilla coelebs
+11	Spectrogram 1	1	37.778234	40.043581	1944.5	3696.0	Sylvia atricapilla
+12	Spectrogram 1	1	42.603675	43.605817	3003.1	5985.7	Phoenicurus ochruros
+13	Spectrogram 1	1	48.077561	52.246135	1797.5	4104.9	Sylvia atricapilla
+14	Spectrogram 1	1	55.244141	56.322075	2666.5	6114.4	Phoenicurus ochruros

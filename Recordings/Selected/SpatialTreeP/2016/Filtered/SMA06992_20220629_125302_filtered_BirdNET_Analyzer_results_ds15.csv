@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eurcrm1	Eurasian Crag-Martin	0.1120
+2	Spectrogram 1	1	15.0	18.0	150	15000	rebcho1	Red-billed Chough	0.1597
+3	Spectrogram 1	1	21.0	24.0	150	15000	watpip1	Water Pipit	0.1230
+4	Spectrogram 1	1	42.0	45.0	150	15000	eurjac	Eurasian Jackdaw	0.1831

@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	12.0	15.0	150	15000	eutdov	European Turtle-Dove	0.1191
+2	Spectrogram 1	1	19.0	22.0	150	15000	eutdov	European Turtle-Dove	0.2252
+3	Spectrogram 1	1	20.0	23.0	150	15000	eutdov	European Turtle-Dove	0.5451
+4	Spectrogram 1	1	21.0	24.0	150	15000	eutdov	European Turtle-Dove	0.9834
+5	Spectrogram 1	1	22.0	25.0	150	15000	eutdov	European Turtle-Dove	0.9972
+6	Spectrogram 1	1	23.0	26.0	150	15000	eutdov	European Turtle-Dove	0.8111
+7	Spectrogram 1	1	24.0	27.0	150	15000	eutdov	European Turtle-Dove	0.8961
+8	Spectrogram 1	1	25.0	28.0	150	15000	eutdov	European Turtle-Dove	0.6992
+9	Spectrogram 1	1	40.0	43.0	150	15000	grewhi1	Greater Whitethroat	0.7356
+10	Spectrogram 1	1	41.0	44.0	150	15000	grewhi1	Greater Whitethroat	0.6468
+11	Spectrogram 1	1	49.0	52.0	150	15000	comnig1	Common Nightingale	0.3796
+12	Spectrogram 1	1	50.0	53.0	150	15000	comnig1	Common Nightingale	0.9247
+13	Spectrogram 1	1	51.0	54.0	150	15000	comnig1	Common Nightingale	0.4087

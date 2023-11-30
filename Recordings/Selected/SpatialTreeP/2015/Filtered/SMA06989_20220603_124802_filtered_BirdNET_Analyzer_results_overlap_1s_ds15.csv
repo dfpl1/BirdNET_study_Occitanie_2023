@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	12.0	15.0	150	15000	comcuc	Common Cuckoo	0.4500
+2	Spectrogram 1	1	12.0	15.0	150	15000	eucdov	Eurasian Collared-Dove	0.1003
+3	Spectrogram 1	1	40.0	43.0	150	15000	goleag	Golden Eagle	0.1044

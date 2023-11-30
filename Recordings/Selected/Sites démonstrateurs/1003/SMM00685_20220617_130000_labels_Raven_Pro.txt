@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	2.050360	4499.1	7309.7	Hirundo rustica
+2	Spectrogram 1	1	0.341727	2.841727	2764.2	4887.4	Passer domesticus
+3	Spectrogram 1	1	4.946043	7.562950	1797.0	4397.9	Sylvia atricapilla
+4	Spectrogram 1	1	5.161871	5.530576	7522.3	9505.6	Unidentified bird
+5	Spectrogram 1	1	7.733813	9.523381	4637.0	6753.1	Hirundo rustica
+6	Spectrogram 1	1	11.879496	14.001799	2652.7	5111.3	Passer domesticus
+7	Spectrogram 1	1	15.863309	17.850719	1685.1	4602.2	Sylvia atricapilla
+8	Spectrogram 1	1	18.606115	26.196043	4397.9	6802.0	Hirundo rustica
+9	Spectrogram 1	1	22.661871	24.361511	2018.9	4499.1	Sylvia atricapilla
+10	Spectrogram 1	1	24.424460	25.575540	3274.9	4742.9	Unidentified bird
+11	Spectrogram 1	1	27.212230	30.782374	2903.1	4637.0	Passer domesticus
+12	Spectrogram 1	1	28.875899	59.937050	4266.1	6753.1	Hirundo rustica
+13	Spectrogram 1	1	31.357914	33.498201	2036.7	4814.7	Sylvia atricapilla
+14	Spectrogram 1	1	33.543165	33.794964	2764.2	4814.7	Passer domesticus
+15	Spectrogram 1	1	39.487410	39.712230	3249.0	4533.2	Unidentified bird
+16	Spectrogram 1	1	44.604317	45.746403	2696.9	4742.9	Unidentified bird
+17	Spectrogram 1	1	52.248201	52.491007	3072.1	5073.3	Passer domesticus
+18	Spectrogram 1	1	57.544964	57.886691	2419.7	5073.3	Passer domesticus

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	stonec4	European Stonechat	0.5673
+2	Spectrogram 1	1	6.0	9.0	150	15000	stonec4	European Stonechat	0.1734
+3	Spectrogram 1	1	8.0	11.0	150	15000	comqua1	Common Quail	0.9988
+4	Spectrogram 1	1	10.0	13.0	150	15000	comqua1	Common Quail	0.9822
+5	Spectrogram 1	1	12.0	15.0	150	15000	comqua1	Common Quail	0.1225
+6	Spectrogram 1	1	14.0	17.0	150	15000	comqua1	Common Quail	0.1140
+7	Spectrogram 1	1	38.0	41.0	150	15000	carcro1	Carrion Crow	0.5753
+8	Spectrogram 1	1	40.0	43.0	150	15000	carcro1	Carrion Crow	0.6134
+9	Spectrogram 1	1	42.0	45.0	150	15000	carcro1	Carrion Crow	0.1081
+10	Spectrogram 1	1	52.0	55.0	150	15000	carcro1	Carrion Crow	0.1854
+11	Spectrogram 1	1	54.0	57.0	150	15000	carcro1	Carrion Crow	0.8488
+12	Spectrogram 1	1	56.0	59.0	150	15000	carcro1	Carrion Crow	0.8252

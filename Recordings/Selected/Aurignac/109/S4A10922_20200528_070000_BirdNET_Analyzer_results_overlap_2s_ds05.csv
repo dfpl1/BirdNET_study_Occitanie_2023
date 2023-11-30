@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.3625
+2	Spectrogram 1	1	7.0	10.0	150	15000	melwar1	Melodious Warbler	0.3030
+3	Spectrogram 1	1	8.0	11.0	150	15000	melwar1	Melodious Warbler	0.5567
+4	Spectrogram 1	1	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.1803
+5	Spectrogram 1	1	10.0	13.0	150	15000	melwar1	Melodious Warbler	0.1262
+6	Spectrogram 1	1	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.6802
+7	Spectrogram 1	1	16.0	19.0	150	15000	melwar1	Melodious Warbler	0.2756
+8	Spectrogram 1	1	17.0	20.0	150	15000	melwar1	Melodious Warbler	0.3084
+9	Spectrogram 1	1	18.0	21.0	150	15000	garwar1	Garden Warbler	0.5399
+10	Spectrogram 1	1	22.0	25.0	150	15000	eugori2	Eurasian Golden Oriole	0.2368
+11	Spectrogram 1	1	23.0	26.0	150	15000	eugori2	Eurasian Golden Oriole	0.1987
+12	Spectrogram 1	1	26.0	29.0	150	15000	melwar1	Melodious Warbler	0.1195
+13	Spectrogram 1	1	33.0	36.0	150	15000	lottit1	Long-tailed Tit	0.1324
+14	Spectrogram 1	1	36.0	39.0	150	15000	eutdov	European Turtle-Dove	0.2713
+15	Spectrogram 1	1	38.0	41.0	150	15000	eutdov	European Turtle-Dove	0.7300
+16	Spectrogram 1	1	39.0	42.0	150	15000	eutdov	European Turtle-Dove	0.8923
+17	Spectrogram 1	1	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.2665
+18	Spectrogram 1	1	43.0	46.0	150	15000	melwar1	Melodious Warbler	0.8575
+19	Spectrogram 1	1	44.0	47.0	150	15000	melwar1	Melodious Warbler	0.8506
+20	Spectrogram 1	1	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.8909
+21	Spectrogram 1	1	46.0	49.0	150	15000	eurgol	European Goldfinch	0.3943
+22	Spectrogram 1	1	47.0	50.0	150	15000	eurgol	European Goldfinch	0.4212
+23	Spectrogram 1	1	52.0	55.0	150	15000	eurgol	European Goldfinch	0.1214
+24	Spectrogram 1	1	53.0	56.0	150	15000	eurgol	European Goldfinch	0.2160
+25	Spectrogram 1	1	57.0	60.0	150	15000	eurgol	European Goldfinch	0.1469

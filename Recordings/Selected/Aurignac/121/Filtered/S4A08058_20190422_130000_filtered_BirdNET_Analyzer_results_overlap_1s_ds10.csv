@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	14.0	17.0	150	15000	carcro1	Carrion Crow	0.3108
+2	Spectrogram 1	1	16.0	19.0	150	15000	carcro1	Carrion Crow	0.2438
+3	Spectrogram 1	1	28.0	31.0	150	15000	pieavo1	Pied Avocet	0.1202
+4	Spectrogram 1	1	28.0	31.0	150	15000	comqua1	Common Quail	0.1079

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	corbun1	Corn Bunting	0.9982
+2	Spectrogram 1	1	4.0	7.0	150	15000	corbun1	Corn Bunting	0.6484
+3	Spectrogram 1	1	6.0	9.0	150	15000	skylar	Eurasian Skylark	0.1243
+4	Spectrogram 1	1	8.0	11.0	150	15000	corbun1	Corn Bunting	0.9910
+5	Spectrogram 1	1	10.0	13.0	150	15000	corbun1	Corn Bunting	0.9978
+6	Spectrogram 1	1	18.0	21.0	150	15000	corbun1	Corn Bunting	0.9952
+7	Spectrogram 1	1	20.0	23.0	150	15000	corbun1	Corn Bunting	0.9877
+8	Spectrogram 1	1	22.0	25.0	150	15000	zitcis1	Zitting Cisticola	0.2096
+9	Spectrogram 1	1	24.0	27.0	150	15000	corbun1	Corn Bunting	0.9960
+10	Spectrogram 1	1	26.0	29.0	150	15000	corbun1	Corn Bunting	0.9881
+11	Spectrogram 1	1	28.0	31.0	150	15000	zitcis1	Zitting Cisticola	0.7538
+12	Spectrogram 1	1	42.0	45.0	150	15000	skylar	Eurasian Skylark	0.2305

@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	firecr1	Common Firecrest	0.4475
+2	Spectrogram 1	1	3.0	6.0	150	15000	firecr1	Common Firecrest	0.1142
+3	Spectrogram 1	1	6.0	9.0	150	15000	firecr1	Common Firecrest	0.4784
+4	Spectrogram 1	1	6.0	9.0	150	15000	cowpig1	Common Wood-Pigeon	0.1250
+5	Spectrogram 1	1	9.0	12.0	150	15000	firecr1	Common Firecrest	0.9141
+6	Spectrogram 1	1	12.0	15.0	150	15000	winwre4	Eurasian Wren	0.3735
+7	Spectrogram 1	1	15.0	18.0	150	15000	winwre4	Eurasian Wren	0.8258
+8	Spectrogram 1	1	18.0	21.0	150	15000	firecr1	Common Firecrest	0.5350
+9	Spectrogram 1	1	27.0	30.0	150	15000	firecr1	Common Firecrest	0.7627
+10	Spectrogram 1	1	42.0	45.0	150	15000	winwre4	Eurasian Wren	0.1774
+11	Spectrogram 1	1	45.0	48.0	150	15000	winwre4	Eurasian Wren	0.9042

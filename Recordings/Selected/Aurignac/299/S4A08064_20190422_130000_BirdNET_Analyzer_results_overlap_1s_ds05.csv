@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	eurrob1	European Robin	0.7680
+2	Spectrogram 1	1	8.0	11.0	150	15000	eurrob1	European Robin	0.9855
+3	Spectrogram 1	1	10.0	13.0	150	15000	eurrob1	European Robin	0.6595
+4	Spectrogram 1	1	14.0	17.0	150	15000	winwre4	Eurasian Wren	0.1508
+5	Spectrogram 1	1	14.0	17.0	150	15000	eurrob1	European Robin	0.1495
+6	Spectrogram 1	1	16.0	19.0	150	15000	eurrob1	European Robin	0.7666
+7	Spectrogram 1	1	20.0	23.0	150	15000	lirplo	Little Ringed Plover	0.1609
+8	Spectrogram 1	1	22.0	25.0	150	15000	eurrob1	European Robin	0.8900
+9	Spectrogram 1	1	24.0	27.0	150	15000	eurrob1	European Robin	0.8024
+10	Spectrogram 1	1	28.0	31.0	150	15000	goldcr1	Goldcrest	0.1464
+11	Spectrogram 1	1	28.0	31.0	150	15000	firecr1	Common Firecrest	0.1282
+12	Spectrogram 1	1	30.0	33.0	150	15000	eurrob1	European Robin	0.6457
+13	Spectrogram 1	1	36.0	39.0	150	15000	eurrob1	European Robin	0.1521
+14	Spectrogram 1	1	38.0	41.0	150	15000	eurrob1	European Robin	0.8711
+15	Spectrogram 1	1	40.0	43.0	150	15000	eurrob1	European Robin	0.5517
+16	Spectrogram 1	1	44.0	47.0	150	15000	eurrob1	European Robin	0.8774
+17	Spectrogram 1	1	46.0	49.0	150	15000	eurrob1	European Robin	0.5117
+18	Spectrogram 1	1	50.0	53.0	150	15000	tawowl1	Tawny Owl	0.3992
+19	Spectrogram 1	1	58.0	61.0	150	15000	eurrob1	European Robin	0.9328

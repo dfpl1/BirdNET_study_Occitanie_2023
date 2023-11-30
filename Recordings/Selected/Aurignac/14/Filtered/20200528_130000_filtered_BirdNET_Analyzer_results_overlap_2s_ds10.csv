@@ -1,0 +1,55 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	1.0	4.0	150	15000	webwar1	Western Bonelli's Warbler	0.1052
+2	Spectrogram 1	1	8.0	11.0	150	15000	webwar1	Western Bonelli's Warbler	0.1765
+3	Spectrogram 1	1	8.0	11.0	150	15000	comred2	Common Redstart	0.1340
+4	Spectrogram 1	1	12.0	15.0	150	15000	comred2	Common Redstart	0.3967
+5	Spectrogram 1	1	13.0	16.0	150	15000	webwar1	Western Bonelli's Warbler	0.1403
+6	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.2655
+7	Spectrogram 1	1	14.0	17.0	150	15000	webwar1	Western Bonelli's Warbler	0.1472
+8	Spectrogram 1	1	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.5360
+9	Spectrogram 1	1	15.0	18.0	150	15000	webwar1	Western Bonelli's Warbler	0.1123
+10	Spectrogram 1	1	16.0	19.0	150	15000	blackc1	Eurasian Blackcap	0.4583
+11	Spectrogram 1	1	16.0	19.0	150	15000	webwar1	Western Bonelli's Warbler	0.1579
+12	Spectrogram 1	1	17.0	20.0	150	15000	webwar1	Western Bonelli's Warbler	0.1750
+13	Spectrogram 1	1	18.0	21.0	150	15000	grewhi1	Greater Whitethroat	0.1813
+14	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1458
+15	Spectrogram 1	1	18.0	21.0	150	15000	comred2	Common Redstart	0.1035
+16	Spectrogram 1	1	20.0	23.0	150	15000	blackc1	Eurasian Blackcap	0.1475
+17	Spectrogram 1	1	20.0	23.0	150	15000	garwar1	Garden Warbler	0.1356
+18	Spectrogram 1	1	20.0	23.0	150	15000	melwar1	Melodious Warbler	0.1085
+19	Spectrogram 1	1	21.0	24.0	150	15000	blackc1	Eurasian Blackcap	0.1730
+20	Spectrogram 1	1	21.0	24.0	150	15000	webwar1	Western Bonelli's Warbler	0.1064
+21	Spectrogram 1	1	22.0	25.0	150	15000	blackc1	Eurasian Blackcap	0.1413
+22	Spectrogram 1	1	22.0	25.0	150	15000	webwar1	Western Bonelli's Warbler	0.1309
+23	Spectrogram 1	1	25.0	28.0	150	15000	blackc1	Eurasian Blackcap	0.1995
+24	Spectrogram 1	1	25.0	28.0	150	15000	webwar1	Western Bonelli's Warbler	0.1089
+25	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.2924
+26	Spectrogram 1	1	26.0	29.0	150	15000	webwar1	Western Bonelli's Warbler	0.1406
+27	Spectrogram 1	1	27.0	30.0	150	15000	blackc1	Eurasian Blackcap	0.1522
+28	Spectrogram 1	1	27.0	30.0	150	15000	webwar1	Western Bonelli's Warbler	0.1164
+29	Spectrogram 1	1	28.0	31.0	150	15000	webwar1	Western Bonelli's Warbler	0.1727
+30	Spectrogram 1	1	29.0	32.0	150	15000	trepip	Tree Pipit	0.1169
+31	Spectrogram 1	1	30.0	33.0	150	15000	comred2	Common Redstart	0.1093
+32	Spectrogram 1	1	32.0	35.0	150	15000	grewhi1	Greater Whitethroat	0.3330
+33	Spectrogram 1	1	32.0	35.0	150	15000	comred2	Common Redstart	0.1160
+34	Spectrogram 1	1	33.0	36.0	150	15000	grewhi1	Greater Whitethroat	0.1776
+35	Spectrogram 1	1	34.0	37.0	150	15000	grewhi1	Greater Whitethroat	0.3356
+36	Spectrogram 1	1	35.0	38.0	150	15000	grewhi1	Greater Whitethroat	0.1463
+37	Spectrogram 1	1	39.0	42.0	150	15000	cirbun1	Cirl Bunting	0.1208
+38	Spectrogram 1	1	39.0	42.0	150	15000	webwar1	Western Bonelli's Warbler	0.1180
+39	Spectrogram 1	1	40.0	43.0	150	15000	webwar1	Western Bonelli's Warbler	0.1029
+40	Spectrogram 1	1	41.0	44.0	150	15000	grewhi1	Greater Whitethroat	0.1967
+41	Spectrogram 1	1	42.0	45.0	150	15000	comred2	Common Redstart	0.1646
+42	Spectrogram 1	1	42.0	45.0	150	15000	grewhi1	Greater Whitethroat	0.1233
+43	Spectrogram 1	1	43.0	46.0	150	15000	grewhi1	Greater Whitethroat	0.3549
+44	Spectrogram 1	1	44.0	47.0	150	15000	grewhi1	Greater Whitethroat	0.4046
+45	Spectrogram 1	1	50.0	53.0	150	15000	webwar1	Western Bonelli's Warbler	0.2719
+46	Spectrogram 1	1	52.0	55.0	150	15000	grewhi1	Greater Whitethroat	0.5908
+47	Spectrogram 1	1	52.0	55.0	150	15000	comred2	Common Redstart	0.1026
+48	Spectrogram 1	1	53.0	56.0	150	15000	grewhi1	Greater Whitethroat	0.2015
+49	Spectrogram 1	1	53.0	56.0	150	15000	comred2	Common Redstart	0.1093
+50	Spectrogram 1	1	54.0	57.0	150	15000	grewhi1	Greater Whitethroat	0.8207
+51	Spectrogram 1	1	55.0	58.0	150	15000	grewhi1	Greater Whitethroat	0.2895
+52	Spectrogram 1	1	56.0	59.0	150	15000	grewhi1	Greater Whitethroat	0.5178
+53	Spectrogram 1	1	57.0	60.0	150	15000	grewhi1	Greater Whitethroat	0.5222
+54	Spectrogram 1	1	58.0	61.0	150	15000	grewhi1	Greater Whitethroat	0.2171

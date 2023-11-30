@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.2787
+2	Spectrogram 1	1	24.0	27.0	150	15000	skylar	Eurasian Skylark	0.1060
+3	Spectrogram 1	1	27.0	30.0	150	15000	blackc1	Eurasian Blackcap	0.2589
+4	Spectrogram 1	1	33.0	36.0	150	15000	yellow2	Yellowhammer	0.5012
+5	Spectrogram 1	1	36.0	39.0	150	15000	blackc1	Eurasian Blackcap	0.1478
+6	Spectrogram 1	1	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.3367
+7	Spectrogram 1	1	54.0	57.0	150	15000	yellow2	Yellowhammer	0.5209

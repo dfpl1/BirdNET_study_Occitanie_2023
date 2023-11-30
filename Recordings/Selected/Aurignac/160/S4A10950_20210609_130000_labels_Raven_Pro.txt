@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	2.546884	1193.4	3111.7	Corvus corone
+2	Spectrogram 1	1	0.142895	2.403990	3872.3	10341.5	Emberiza calandra
+3	Spectrogram 1	1	3.463090	7.640653	1809.1	4530.6	Sylvia atricapilla
+4	Spectrogram 1	1	12.347766	13.205133	2660.6	4940.2	Unidentified bird
+5	Spectrogram 1	1	16.256351	17.836596	3981.6	7679.5	Emberiza calandra
+6	Spectrogram 1	1	18.946130	20.820569	2304.7	7763.5	Sylvia atricapilla
+7	Spectrogram 1	1	21.442581	23.905409	2756.0	9311.1	Emberiza calandra
+8	Spectrogram 1	1	25.788255	27.671100	4113.2	10825.7	Emberiza calandra
+9	Spectrogram 1	1	26.410266	28.662956	1809.1	4113.2	Sylvia atricapilla
+10	Spectrogram 1	1	29.385834	30.007845	3155.9	6012.8	Unidentified bird
+11	Spectrogram 1	1	30.007845	32.285752	4135.5	9311.1	Emberiza calandra
+12	Spectrogram 1	1	32.285752	33.159930	4317.6	5920.4	Emberiza citrinella
+13	Spectrogram 1	1	35.412620	37.236626	4458.6	9474.0	Emberiza calandra
+14	Spectrogram 1	1	35.605947	40.371899	2064.7	4180.4	Sylvia atricapilla
+15	Spectrogram 1	1	38.942954	41.624328	4203.6	8376.9	Emberiza calandra
+16	Spectrogram 1	1	44.465406	45.658996	4113.2	6012.8	Emberiza citrinella
+17	Spectrogram 1	1	45.961596	46.499552	554.7	2388.9	Corvus corone
+18	Spectrogram 1	1	47.920091	50.946092	2221.8	9311.1	Emberiza calandra
+19	Spectrogram 1	1	50.441759	52.702854	1949.1	4486.0	Sylvia atricapilla
+20	Spectrogram 1	1	52.358226	54.232666	4203.6	8003.7	Emberiza calandra
+21	Spectrogram 1	1	52.391848	54.736999	615.9	2567.9	Corvus corone
+22	Spectrogram 1	1	56.123917	58.494284	1388.2	6065.6	Sylvia atricapilla
+23	Spectrogram 1	1	58.435445	59.990474	3504.0	8126.4	Emberiza calandra

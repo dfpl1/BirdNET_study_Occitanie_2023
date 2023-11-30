@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	blutit	Eurasian Blue Tit	0.3249
+2	Spectrogram 1	1	2.0	5.0	150	15000	blutit	Eurasian Blue Tit	0.1011
+3	Spectrogram 1	1	8.0	11.0	150	15000	hawfin	Hawfinch	0.3747
+4	Spectrogram 1	1	10.0	13.0	150	15000	webwar1	Western Bonelli's Warbler	0.1347
+5	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1581
+6	Spectrogram 1	1	20.0	23.0	150	15000	melwar1	Melodious Warbler	0.1125
+7	Spectrogram 1	1	22.0	25.0	150	15000	lottit1	Long-tailed Tit	0.1637
+8	Spectrogram 1	1	22.0	25.0	150	15000	comcuc	Common Cuckoo	0.1207
+9	Spectrogram 1	1	24.0	27.0	150	15000	blutit	Eurasian Blue Tit	0.2214
+10	Spectrogram 1	1	28.0	31.0	150	15000	blutit	Eurasian Blue Tit	0.1316
+11	Spectrogram 1	1	32.0	35.0	150	15000	blutit	Eurasian Blue Tit	0.1814
+12	Spectrogram 1	1	36.0	39.0	150	15000	blutit	Eurasian Blue Tit	0.5542
+13	Spectrogram 1	1	38.0	41.0	150	15000	spofly1	Spotted Flycatcher	0.1617
+14	Spectrogram 1	1	40.0	43.0	150	15000	blutit	Eurasian Blue Tit	0.4290
+15	Spectrogram 1	1	42.0	45.0	150	15000	blutit	Eurasian Blue Tit	0.3903
+16	Spectrogram 1	1	44.0	47.0	150	15000	blutit	Eurasian Blue Tit	0.3131
+17	Spectrogram 1	1	52.0	55.0	150	15000	melwar1	Melodious Warbler	0.2126
+18	Spectrogram 1	1	52.0	55.0	150	15000	cirbun1	Cirl Bunting	0.1688
+19	Spectrogram 1	1	52.0	55.0	150	15000	grewhi1	Greater Whitethroat	0.1347

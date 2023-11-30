@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eurtre1	Eurasian Treecreeper	0.1165
+2	Spectrogram 1	1	15.0	18.0	150	15000	eurtre1	Eurasian Treecreeper	0.1600
+3	Spectrogram 1	1	42.0	45.0	150	15000	comchi1	Common Chiffchaff	0.4903
+4	Spectrogram 1	1	48.0	51.0	150	15000	eurtre1	Eurasian Treecreeper	0.1430

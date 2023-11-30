@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	0.537956	1459.1	2364.5	Turdus merula
+2	Spectrogram 1	1	0.042028	0.689256	3381.3	5539.6	Passer domesticus
+3	Spectrogram 1	1	2.395584	3.379035	1552.7	2671.6	Turdus merula
+4	Spectrogram 1	1	2.799051	10.204348	3838.3	5949.9	Passer domesticus
+5	Spectrogram 1	1	4.623057	6.447064	1998.1	3558.3	Unidentified bird
+6	Spectrogram 1	1	9.615959	10.397676	1778.5	3790.4	Unidentified bird
+7	Spectrogram 1	1	12.440227	13.230350	3049.1	5408.6	Unidentified bird
+8	Spectrogram 1	1	12.885722	43.801367	2463.6	5473.8	Passer domesticus
+9	Spectrogram 1	1	14.482778	15.583906	1576.7	2855.4	Turdus merula
+10	Spectrogram 1	1	18.282091	18.946130	2397.2	5280.3	Unidentified bird
+11	Spectrogram 1	1	19.391624	21.291281	2300.2	4621.4	Unidentified bird
+12	Spectrogram 1	1	22.115025	23.140504	1391.4	2744.0	Turdus merula
+13	Spectrogram 1	1	29.419456	30.083495	1552.7	2671.6	Turdus merula
+14	Spectrogram 1	1	39.833944	40.069299	2531.5	8062.9	Unidentified bird
+15	Spectrogram 1	1	41.489839	53.181971	3838.3	5408.6	Passer domesticus
+16	Spectrogram 1	1	45.432046	46.549985	2364.5	3649.7	Lullula arborea
+17	Spectrogram 1	1	46.936641	47.844441	1969.6	3295.6	Unidentified bird
+18	Spectrogram 1	1	49.996264	55.535527	1913.5	2931.6	Unidentified bird
+19	Spectrogram 1	1	56.359272	58.065601	2636.0	3886.7	Lullula arborea

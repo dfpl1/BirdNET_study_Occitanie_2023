@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	woolar1	Wood Lark	0.1739
+2	Spectrogram 1	1	6.0	9.0	150	15000	thelar1	Thekla's Lark	0.1015
+3	Spectrogram 1	1	12.0	15.0	150	15000	watpip1	Water Pipit	0.3687
+4	Spectrogram 1	1	15.0	18.0	150	15000	watpip1	Water Pipit	0.7792
+5	Spectrogram 1	1	18.0	21.0	150	15000	watpip1	Water Pipit	0.9222
+6	Spectrogram 1	1	24.0	27.0	150	15000	whinch1	Whinchat	0.2759
+7	Spectrogram 1	1	24.0	27.0	150	15000	thelar1	Thekla's Lark	0.1044
+8	Spectrogram 1	1	27.0	30.0	150	15000	woolar1	Wood Lark	0.2869
+9	Spectrogram 1	1	33.0	36.0	150	15000	thelar1	Thekla's Lark	0.5721
+10	Spectrogram 1	1	33.0	36.0	150	15000	woolar1	Wood Lark	0.1513
+11	Spectrogram 1	1	36.0	39.0	150	15000	thelar1	Thekla's Lark	0.2023
+12	Spectrogram 1	1	39.0	42.0	150	15000	watpip1	Water Pipit	0.1985
+13	Spectrogram 1	1	42.0	45.0	150	15000	woolar1	Wood Lark	0.1321
+14	Spectrogram 1	1	42.0	45.0	150	15000	thelar1	Thekla's Lark	0.1147
+15	Spectrogram 1	1	45.0	48.0	150	15000	watpip1	Water Pipit	0.1725
+16	Spectrogram 1	1	48.0	51.0	150	15000	watpip1	Water Pipit	0.5230
+17	Spectrogram 1	1	51.0	54.0	150	15000	watpip1	Water Pipit	0.8904
+18	Spectrogram 1	1	54.0	57.0	150	15000	watpip1	Water Pipit	0.2709
+19	Spectrogram 1	1	57.0	60.0	150	15000	stonec4	European Stonechat	0.1553

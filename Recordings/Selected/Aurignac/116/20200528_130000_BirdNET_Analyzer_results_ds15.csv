@@ -1,0 +1,56 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	stonec4	European Stonechat	0.2427
+2	Spectrogram 1	1	6.0	9.0	150	15000	trepip	Tree Pipit	0.2179
+3	Spectrogram 1	1	6.0	9.0	150	15000	eurnut2	Eurasian Nuthatch	0.1367
+4	Spectrogram 1	1	9.0	12.0	150	15000	eurgol	European Goldfinch	0.3363
+5	Spectrogram 1	1	9.0	12.0	150	15000	stonec4	European Stonechat	0.1675
+6	Spectrogram 1	1	9.0	12.0	150	15000	callar1	Calandra Lark	0.1149
+7	Spectrogram 1	1	15.0	18.0	150	15000	stonec4	European Stonechat	0.4660
+8	Spectrogram 1	1	15.0	18.0	150	15000	skylar	Eurasian Skylark	0.1330
+9	Spectrogram 1	1	15.0	18.0	150	15000	thelar1	Thekla's Lark	0.1234
+10	Spectrogram 1	1	15.0	18.0	150	15000	callar1	Calandra Lark	0.1089
+11	Spectrogram 1	1	15.0	18.0	150	15000	dunnoc1	Dunnock	0.1028
+12	Spectrogram 1	1	18.0	21.0	150	15000	dunnoc1	Dunnock	0.1671
+13	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.1323
+14	Spectrogram 1	1	18.0	21.0	150	15000	stonec4	European Stonechat	0.1307
+15	Spectrogram 1	1	18.0	21.0	150	15000	comswi	Common Swift	0.1295
+16	Spectrogram 1	1	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.1157
+17	Spectrogram 1	1	18.0	21.0	150	15000	eugori2	Eurasian Golden Oriole	0.1133
+18	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.1122
+19	Spectrogram 1	1	18.0	21.0	150	15000	sarwar1	Sardinian Warbler	0.1063
+20	Spectrogram 1	1	18.0	21.0	150	15000	cirbun1	Cirl Bunting	0.1051
+21	Spectrogram 1	1	18.0	21.0	150	15000	eurgol	European Goldfinch	0.1009
+22	Spectrogram 1	1	21.0	24.0	150	15000	stonec4	European Stonechat	0.2810
+23	Spectrogram 1	1	21.0	24.0	150	15000	dunnoc1	Dunnock	0.1796
+24	Spectrogram 1	1	21.0	24.0	150	15000	blared1	Black Redstart	0.1002
+25	Spectrogram 1	1	24.0	27.0	150	15000	stonec4	European Stonechat	0.7033
+26	Spectrogram 1	1	24.0	27.0	150	15000	dunnoc1	Dunnock	0.3634
+27	Spectrogram 1	1	24.0	27.0	150	15000	shttre1	Short-toed Treecreeper	0.1068
+28	Spectrogram 1	1	24.0	27.0	150	15000	comswi	Common Swift	0.1064
+29	Spectrogram 1	1	24.0	27.0	150	15000	eurgol	European Goldfinch	0.1063
+30	Spectrogram 1	1	30.0	33.0	150	15000	blared1	Black Redstart	0.1367
+31	Spectrogram 1	1	33.0	36.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.8723
+32	Spectrogram 1	1	36.0	39.0	150	15000	stonec4	European Stonechat	0.3104
+33	Spectrogram 1	1	36.0	39.0	150	15000	comqua1	Common Quail	0.1506
+34	Spectrogram 1	1	36.0	39.0	150	15000	thelar1	Thekla's Lark	0.1435
+35	Spectrogram 1	1	36.0	39.0	150	15000	corbun1	Corn Bunting	0.1200
+36	Spectrogram 1	1	36.0	39.0	150	15000	sarwar1	Sardinian Warbler	0.1194
+37	Spectrogram 1	1	36.0	39.0	150	15000	yellow2	Yellowhammer	0.1127
+38	Spectrogram 1	1	36.0	39.0	150	15000	eugori2	Eurasian Golden Oriole	0.1123
+39	Spectrogram 1	1	36.0	39.0	150	15000	relpar1	Red-legged Partridge	0.1113
+40	Spectrogram 1	1	36.0	39.0	150	15000	woolar1	Wood Lark	0.1031
+41	Spectrogram 1	1	39.0	42.0	150	15000	stonec4	European Stonechat	0.2076
+42	Spectrogram 1	1	39.0	42.0	150	15000	callar1	Calandra Lark	0.1374
+43	Spectrogram 1	1	39.0	42.0	150	15000	comqua1	Common Quail	0.1272
+44	Spectrogram 1	1	39.0	42.0	150	15000	skylar	Eurasian Skylark	0.1232
+45	Spectrogram 1	1	39.0	42.0	150	15000	dunnoc1	Dunnock	0.1039
+46	Spectrogram 1	1	39.0	42.0	150	15000	corbun1	Corn Bunting	0.1028
+47	Spectrogram 1	1	42.0	45.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.6258
+48	Spectrogram 1	1	45.0	48.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.5435
+49	Spectrogram 1	1	48.0	51.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.6890
+50	Spectrogram 1	1	48.0	51.0	150	15000	grnwoo3	Iberian Green Woodpecker	0.1113
+51	Spectrogram 1	1	48.0	51.0	150	15000	stonec4	European Stonechat	0.1111
+52	Spectrogram 1	1	51.0	54.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.8290
+53	Spectrogram 1	1	51.0	54.0	150	15000	grnwoo3	Iberian Green Woodpecker	0.1323
+54	Spectrogram 1	1	51.0	54.0	150	15000	eurnut2	Eurasian Nuthatch	0.1152
+55	Spectrogram 1	1	54.0	57.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9475

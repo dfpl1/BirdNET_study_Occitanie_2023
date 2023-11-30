@@ -1,0 +1,89 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eurbla	Eurasian Blackbird	0.1399
+2	Spectrogram 1	1	0	3.0	150	15000	litowl1	Little Owl	0.1140
+3	Spectrogram 1	1	1.0	4.0	150	15000	eurbla	Eurasian Blackbird	0.1760
+4	Spectrogram 1	1	1.0	4.0	150	15000	corbun1	Corn Bunting	0.1126
+5	Spectrogram 1	1	1.0	4.0	150	15000	norlap	Northern Lapwing	0.1028
+6	Spectrogram 1	1	2.0	5.0	150	15000	blackc1	Eurasian Blackcap	0.2586
+7	Spectrogram 1	1	2.0	5.0	150	15000	eurbla	Eurasian Blackbird	0.2150
+8	Spectrogram 1	1	2.0	5.0	150	15000	wlwwar	Willow Warbler	0.1712
+9	Spectrogram 1	1	2.0	5.0	150	15000	norlap	Northern Lapwing	0.1176
+10	Spectrogram 1	1	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.3107
+11	Spectrogram 1	1	3.0	6.0	150	15000	yellow2	Yellowhammer	0.1021
+12	Spectrogram 1	1	4.0	7.0	150	15000	blackc1	Eurasian Blackcap	0.3207
+13	Spectrogram 1	1	5.0	8.0	150	15000	lirplo	Little Ringed Plover	0.1255
+14	Spectrogram 1	1	5.0	8.0	150	15000	blackc1	Eurasian Blackcap	0.1173
+15	Spectrogram 1	1	7.0	10.0	150	15000	blackc1	Eurasian Blackcap	0.2866
+16	Spectrogram 1	1	7.0	10.0	150	15000	corbun1	Corn Bunting	0.1008
+17	Spectrogram 1	1	8.0	11.0	150	15000	blackc1	Eurasian Blackcap	0.4186
+18	Spectrogram 1	1	8.0	11.0	150	15000	yellow2	Yellowhammer	0.1871
+19	Spectrogram 1	1	8.0	11.0	150	15000	grewhi1	Greater Whitethroat	0.1686
+20	Spectrogram 1	1	8.0	11.0	150	15000	wlwwar	Willow Warbler	0.1602
+21	Spectrogram 1	1	8.0	11.0	150	15000	cirbun1	Cirl Bunting	0.1429
+22	Spectrogram 1	1	8.0	11.0	150	15000	trepip	Tree Pipit	0.1078
+23	Spectrogram 1	1	9.0	12.0	150	15000	blackc1	Eurasian Blackcap	0.2631
+24	Spectrogram 1	1	9.0	12.0	150	15000	grewhi1	Greater Whitethroat	0.1750
+25	Spectrogram 1	1	9.0	12.0	150	15000	grcgre1	Great Crested Grebe	0.1142
+26	Spectrogram 1	1	10.0	13.0	150	15000	wlwwar	Willow Warbler	0.1698
+27	Spectrogram 1	1	10.0	13.0	150	15000	grewhi1	Greater Whitethroat	0.1351
+28	Spectrogram 1	1	11.0	14.0	150	15000	wlwwar	Willow Warbler	0.2069
+29	Spectrogram 1	1	11.0	14.0	150	15000	grewhi1	Greater Whitethroat	0.1974
+30	Spectrogram 1	1	11.0	14.0	150	15000	eurlin1	Eurasian Linnet	0.1073
+31	Spectrogram 1	1	11.0	14.0	150	15000	yellow2	Yellowhammer	0.1016
+32	Spectrogram 1	1	12.0	15.0	150	15000	litowl1	Little Owl	0.2039
+33	Spectrogram 1	1	13.0	16.0	150	15000	litowl1	Little Owl	0.1503
+34	Spectrogram 1	1	14.0	17.0	150	15000	litowl1	Little Owl	0.1492
+35	Spectrogram 1	1	14.0	17.0	150	15000	whinch1	Whinchat	0.1008
+36	Spectrogram 1	1	17.0	20.0	150	15000	blakit1	Black Kite	0.1104
+37	Spectrogram 1	1	17.0	20.0	150	15000	litgre1	Little Grebe	0.1097
+38	Spectrogram 1	1	18.0	21.0	150	15000	litgre1	Little Grebe	0.1756
+39	Spectrogram 1	1	18.0	21.0	150	15000	blakit1	Black Kite	0.1116
+40	Spectrogram 1	1	19.0	22.0	150	15000	litgre1	Little Grebe	0.1184
+41	Spectrogram 1	1	22.0	25.0	150	15000	lirplo	Little Ringed Plover	0.1026
+42	Spectrogram 1	1	25.0	28.0	150	15000	litowl1	Little Owl	0.1679
+43	Spectrogram 1	1	26.0	29.0	150	15000	litowl1	Little Owl	0.1370
+44	Spectrogram 1	1	26.0	29.0	150	15000	corbun1	Corn Bunting	0.1193
+45	Spectrogram 1	1	26.0	29.0	150	15000	comqua1	Common Quail	0.1156
+46	Spectrogram 1	1	26.0	29.0	150	15000	crelar2	Crested Lark	0.1115
+47	Spectrogram 1	1	26.0	29.0	150	15000	trepip	Tree Pipit	0.1025
+48	Spectrogram 1	1	27.0	30.0	150	15000	litowl1	Little Owl	0.2224
+49	Spectrogram 1	1	27.0	30.0	150	15000	lirplo	Little Ringed Plover	0.1377
+50	Spectrogram 1	1	27.0	30.0	150	15000	blackc1	Eurasian Blackcap	0.1229
+51	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.1146
+52	Spectrogram 1	1	27.0	30.0	150	15000	crelar2	Crested Lark	0.1094
+53	Spectrogram 1	1	28.0	31.0	150	15000	blackc1	Eurasian Blackcap	0.1384
+54	Spectrogram 1	1	29.0	32.0	150	15000	lirplo	Little Ringed Plover	0.1821
+55	Spectrogram 1	1	29.0	32.0	150	15000	blackc1	Eurasian Blackcap	0.1194
+56	Spectrogram 1	1	29.0	32.0	150	15000	grcgre1	Great Crested Grebe	0.1094
+57	Spectrogram 1	1	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.2154
+58	Spectrogram 1	1	30.0	33.0	150	15000	wlwwar	Willow Warbler	0.1102
+59	Spectrogram 1	1	31.0	34.0	150	15000	blackc1	Eurasian Blackcap	0.1241
+60	Spectrogram 1	1	31.0	34.0	150	15000	litowl1	Little Owl	0.1130
+61	Spectrogram 1	1	32.0	35.0	150	15000	corbun1	Corn Bunting	0.1278
+62	Spectrogram 1	1	33.0	36.0	150	15000	corbun1	Corn Bunting	0.1137
+63	Spectrogram 1	1	35.0	38.0	150	15000	lirplo	Little Ringed Plover	0.1058
+64	Spectrogram 1	1	38.0	41.0	150	15000	litgre1	Little Grebe	0.1202
+65	Spectrogram 1	1	43.0	46.0	150	15000	comred1	Common Redshank	0.1339
+66	Spectrogram 1	1	43.0	46.0	150	15000	blakit1	Black Kite	0.1142
+67	Spectrogram 1	1	44.0	47.0	150	15000	blakit1	Black Kite	0.3041
+68	Spectrogram 1	1	45.0	48.0	150	15000	blakit1	Black Kite	0.4153
+69	Spectrogram 1	1	46.0	49.0	150	15000	blakit1	Black Kite	0.2077
+70	Spectrogram 1	1	47.0	50.0	150	15000	blakit1	Black Kite	0.1852
+71	Spectrogram 1	1	51.0	54.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1648
+72	Spectrogram 1	1	52.0	55.0	150	15000	eutspa	Eurasian Tree Sparrow	0.2131
+73	Spectrogram 1	1	53.0	56.0	150	15000	eutspa	Eurasian Tree Sparrow	0.2722
+74	Spectrogram 1	1	54.0	57.0	150	15000	eutspa	Eurasian Tree Sparrow	0.3651
+75	Spectrogram 1	1	54.0	57.0	150	15000	houspa	House Sparrow	0.1243
+76	Spectrogram 1	1	54.0	57.0	150	15000	eursis	Eurasian Siskin	0.1082
+77	Spectrogram 1	1	55.0	58.0	150	15000	eutspa	Eurasian Tree Sparrow	0.5483
+78	Spectrogram 1	1	55.0	58.0	150	15000	houspa	House Sparrow	0.1171
+79	Spectrogram 1	1	56.0	59.0	150	15000	eutspa	Eurasian Tree Sparrow	0.2846
+80	Spectrogram 1	1	56.0	59.0	150	15000	houspa	House Sparrow	0.1134
+81	Spectrogram 1	1	57.0	60.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1616
+82	Spectrogram 1	1	58.0	61.0	150	15000	callar1	Calandra Lark	0.1613
+83	Spectrogram 1	1	58.0	61.0	150	15000	skylar	Eurasian Skylark	0.1582
+84	Spectrogram 1	1	59.0	62.0	150	15000	garwar1	Garden Warbler	0.2636
+85	Spectrogram 1	1	59.0	62.0	150	15000	melwar1	Melodious Warbler	0.1576
+86	Spectrogram 1	1	59.0	62.0	150	15000	rebshr1	Red-backed Shrike	0.1206
+87	Spectrogram 1	1	59.0	62.0	150	15000	subwar6	Western Subalpine Warbler	0.1090
+88	Spectrogram 1	1	59.0	62.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1070

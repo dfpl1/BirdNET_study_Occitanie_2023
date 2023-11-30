@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	6.0	9.0	150	15000	dunnoc1	Dunnock	0.1071
+2	Spectrogram 1	1	14.0	17.0	150	15000	carcro1	Carrion Crow	0.1149
+3	Spectrogram 1	1	22.0	25.0	150	15000	carcro1	Carrion Crow	0.1099
+4	Spectrogram 1	1	40.0	43.0	150	15000	eurrob1	European Robin	0.1721
+5	Spectrogram 1	1	40.0	43.0	150	15000	eurbul	Eurasian Bullfinch	0.1179
+6	Spectrogram 1	1	40.0	43.0	150	15000	hawfin	Hawfinch	0.1045
+7	Spectrogram 1	1	54.0	57.0	150	15000	sonthr1	Song Thrush	0.1188
+8	Spectrogram 1	1	56.0	59.0	150	15000	sonthr1	Song Thrush	0.1566
+9	Spectrogram 1	1	56.0	59.0	150	15000	hawfin	Hawfinch	0.1457
+10	Spectrogram 1	1	56.0	59.0	150	15000	eurrob1	European Robin	0.1151
+11	Spectrogram 1	1	56.0	59.0	150	15000	goldcr1	Goldcrest	0.1016
+12	Spectrogram 1	1	58.0	61.0	150	15000	goldcr1	Goldcrest	0.1329

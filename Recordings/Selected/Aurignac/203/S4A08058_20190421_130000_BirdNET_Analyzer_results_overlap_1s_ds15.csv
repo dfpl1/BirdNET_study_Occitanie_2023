@@ -1,0 +1,63 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	combuz1	Common Buzzard	0.2645
+2	Spectrogram 1	1	0	3.0	150	15000	woolar1	Wood Lark	0.1541
+3	Spectrogram 1	1	2.0	5.0	150	15000	combuz1	Common Buzzard	0.6283
+4	Spectrogram 1	1	2.0	5.0	150	15000	rebshr1	Red-backed Shrike	0.1845
+5	Spectrogram 1	1	4.0	7.0	150	15000	woolar1	Wood Lark	0.6913
+6	Spectrogram 1	1	4.0	7.0	150	15000	combuz1	Common Buzzard	0.3933
+7	Spectrogram 1	1	4.0	7.0	150	15000	lirplo	Little Ringed Plover	0.1433
+8	Spectrogram 1	1	4.0	7.0	150	15000	rebshr1	Red-backed Shrike	0.1238
+9	Spectrogram 1	1	6.0	9.0	150	15000	combuz1	Common Buzzard	0.6609
+10	Spectrogram 1	1	6.0	9.0	150	15000	woolar1	Wood Lark	0.1718
+11	Spectrogram 1	1	10.0	13.0	150	15000	lirplo	Little Ringed Plover	0.6243
+12	Spectrogram 1	1	10.0	13.0	150	15000	woolar1	Wood Lark	0.1019
+13	Spectrogram 1	1	12.0	15.0	150	15000	lirplo	Little Ringed Plover	0.1855
+14	Spectrogram 1	1	12.0	15.0	150	15000	comqua1	Common Quail	0.1185
+15	Spectrogram 1	1	12.0	15.0	150	15000	litowl1	Little Owl	0.1031
+16	Spectrogram 1	1	14.0	17.0	150	15000	combuz1	Common Buzzard	0.3899
+17	Spectrogram 1	1	14.0	17.0	150	15000	lirplo	Little Ringed Plover	0.1327
+18	Spectrogram 1	1	14.0	17.0	150	15000	woolar1	Wood Lark	0.1054
+19	Spectrogram 1	1	16.0	19.0	150	15000	combuz1	Common Buzzard	0.4722
+20	Spectrogram 1	1	16.0	19.0	150	15000	eurjay1	Eurasian Jay	0.1329
+21	Spectrogram 1	1	18.0	21.0	150	15000	combuz1	Common Buzzard	0.4940
+22	Spectrogram 1	1	18.0	21.0	150	15000	eurjay1	Eurasian Jay	0.1424
+23	Spectrogram 1	1	18.0	21.0	150	15000	lirplo	Little Ringed Plover	0.1165
+24	Spectrogram 1	1	20.0	23.0	150	15000	combuz1	Common Buzzard	0.6689
+25	Spectrogram 1	1	20.0	23.0	150	15000	eurjay1	Eurasian Jay	0.2562
+26	Spectrogram 1	1	22.0	25.0	150	15000	woolar1	Wood Lark	0.5224
+27	Spectrogram 1	1	24.0	27.0	150	15000	combuz1	Common Buzzard	0.3932
+28	Spectrogram 1	1	24.0	27.0	150	15000	woolar1	Wood Lark	0.2307
+29	Spectrogram 1	1	24.0	27.0	150	15000	eurjay1	Eurasian Jay	0.1575
+30	Spectrogram 1	1	24.0	27.0	150	15000	lirplo	Little Ringed Plover	0.1500
+31	Spectrogram 1	1	26.0	29.0	150	15000	combuz1	Common Buzzard	0.4933
+32	Spectrogram 1	1	26.0	29.0	150	15000	woolar1	Wood Lark	0.1321
+33	Spectrogram 1	1	28.0	31.0	150	15000	woolar1	Wood Lark	0.5210
+34	Spectrogram 1	1	28.0	31.0	150	15000	lirplo	Little Ringed Plover	0.1606
+35	Spectrogram 1	1	32.0	35.0	150	15000	woolar1	Wood Lark	0.4075
+36	Spectrogram 1	1	32.0	35.0	150	15000	melwar1	Melodious Warbler	0.1168
+37	Spectrogram 1	1	34.0	37.0	150	15000	lirplo	Little Ringed Plover	0.1502
+38	Spectrogram 1	1	36.0	39.0	150	15000	litgre1	Little Grebe	0.1183
+39	Spectrogram 1	1	40.0	43.0	150	15000	lirplo	Little Ringed Plover	0.1059
+40	Spectrogram 1	1	42.0	45.0	150	15000	woolar1	Wood Lark	0.1791
+41	Spectrogram 1	1	44.0	47.0	150	15000	lirplo	Little Ringed Plover	0.1801
+42	Spectrogram 1	1	44.0	47.0	150	15000	litegr	Little Egret	0.1768
+43	Spectrogram 1	1	44.0	47.0	150	15000	bcnher	Black-crowned Night-Heron	0.1513
+44	Spectrogram 1	1	44.0	47.0	150	15000	graher1	Gray Heron	0.1450
+45	Spectrogram 1	1	44.0	47.0	150	15000	woolar1	Wood Lark	0.1286
+46	Spectrogram 1	1	44.0	47.0	150	15000	bkhgul	Black-headed Gull	0.1179
+47	Spectrogram 1	1	46.0	49.0	150	15000	eurjay1	Eurasian Jay	0.2292
+48	Spectrogram 1	1	46.0	49.0	150	15000	graher1	Gray Heron	0.1691
+49	Spectrogram 1	1	46.0	49.0	150	15000	bcnher	Black-crowned Night-Heron	0.1023
+50	Spectrogram 1	1	50.0	53.0	150	15000	mallar3	Mallard	0.1913
+51	Spectrogram 1	1	52.0	55.0	150	15000	eurjay1	Eurasian Jay	0.5457
+52	Spectrogram 1	1	52.0	55.0	150	15000	hoopoe	Eurasian Hoopoe	0.1288
+53	Spectrogram 1	1	54.0	57.0	150	15000	litgre1	Little Grebe	0.1158
+54	Spectrogram 1	1	56.0	59.0	150	15000	rebshr1	Red-backed Shrike	0.1451
+55	Spectrogram 1	1	56.0	59.0	150	15000	litgre1	Little Grebe	0.1345
+56	Spectrogram 1	1	56.0	59.0	150	15000	trepip	Tree Pipit	0.1338
+57	Spectrogram 1	1	56.0	59.0	150	15000	comcuc	Common Cuckoo	0.1004
+58	Spectrogram 1	1	58.0	61.0	150	15000	eugori2	Eurasian Golden Oriole	0.1682
+59	Spectrogram 1	1	58.0	61.0	150	15000	woolar1	Wood Lark	0.1594
+60	Spectrogram 1	1	58.0	61.0	150	15000	gretit1	Great Tit	0.1236
+61	Spectrogram 1	1	58.0	61.0	150	15000	wlwwar	Willow Warbler	0.1178
+62	Spectrogram 1	1	58.0	61.0	150	15000	eurbla	Eurasian Blackbird	0.1016

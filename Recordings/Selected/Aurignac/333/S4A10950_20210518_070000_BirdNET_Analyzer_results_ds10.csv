@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	grewhi1	Greater Whitethroat	0.6915
+2	Spectrogram 1	1	3.0	6.0	150	15000	grewhi1	Greater Whitethroat	0.1847
+3	Spectrogram 1	1	6.0	9.0	150	15000	grewhi1	Greater Whitethroat	0.5520
+4	Spectrogram 1	1	9.0	12.0	150	15000	grewhi1	Greater Whitethroat	0.1902
+5	Spectrogram 1	1	9.0	12.0	150	15000	comred2	Common Redstart	0.1448
+6	Spectrogram 1	1	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.5770
+7	Spectrogram 1	1	15.0	18.0	150	15000	grewhi1	Greater Whitethroat	0.5486
+8	Spectrogram 1	1	15.0	18.0	150	15000	comred2	Common Redstart	0.1783
+9	Spectrogram 1	1	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.1500
+10	Spectrogram 1	1	18.0	21.0	150	15000	grewhi1	Greater Whitethroat	0.1132
+11	Spectrogram 1	1	21.0	24.0	150	15000	stodov1	Stock Dove	0.1031
+12	Spectrogram 1	1	27.0	30.0	150	15000	grewhi1	Greater Whitethroat	0.2060
+13	Spectrogram 1	1	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.1141
+14	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.1487
+15	Spectrogram 1	1	33.0	36.0	150	15000	eurwry	Eurasian Wryneck	0.1078
+16	Spectrogram 1	1	45.0	48.0	150	15000	stodov1	Stock Dove	0.1046
+17	Spectrogram 1	1	48.0	51.0	150	15000	comcuc	Common Cuckoo	0.1142
+18	Spectrogram 1	1	51.0	54.0	150	15000	eutdov	European Turtle-Dove	0.4290

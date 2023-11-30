@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	combuz1	Common Buzzard	0.4195
+2	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.1938
+3	Spectrogram 1	1	14.0	17.0	150	15000	cirbun1	Cirl Bunting	0.1042
+4	Spectrogram 1	1	16.0	19.0	150	15000	thelar1	Thekla's Lark	0.1673

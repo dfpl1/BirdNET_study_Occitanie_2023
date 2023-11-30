@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	5.858675	1664.8	6297.4	Sylvia atricapilla
+2	Spectrogram 1	1	0.756500	1.193589	4078.2	7470.4	Unidentified bird
+3	Spectrogram 1	1	4.950874	5.295502	6006.7	8862.3	Unidentified bird
+4	Spectrogram 1	1	5.581291	8.254259	2846.8	7667.5	Prunella modularis
+5	Spectrogram 1	1	7.464136	9.094815	1430.2	3057.5	Unidentified bird
+6	Spectrogram 1	1	8.918298	15.130006	1693.2	5292.8	Sylvia atricapilla
+7	Spectrogram 1	1	15.096384	17.147340	2722.2	11265.1	Erithacus rubecula
+8	Spectrogram 1	1	18.088763	25.300732	1721.9	7277.9	Sylvia atricapilla
+9	Spectrogram 1	1	24.468582	25.569710	1097.7	2975.9	Oriolus oriolus
+10	Spectrogram 1	1	25.241893	26.242155	3592.1	7183.4	Unidentified bird
+11	Spectrogram 1	1	25.914338	28.175433	2061.3	9670.3	Unidentified bird
+12	Spectrogram 1	1	27.990511	30.335662	1664.8	4432.5	Sylvia atricapilla
+13	Spectrogram 1	1	30.755940	31.083757	6214.5	9794.6	Erithacus rubecula
+14	Spectrogram 1	1	31.680551	37.539226	1581.8	8954.4	Sylvia atricapilla
+15	Spectrogram 1	1	36.269987	36.656642	6051.6	9920.5	Erithacus rubecula
+16	Spectrogram 1	1	36.597803	38.278915	3441.3	6297.4	Phylloscopus collybita
+17	Spectrogram 1	1	38.892521	46.507957	1810.1	5585.5	Sylvia atricapilla
+18	Spectrogram 1	1	40.750149	41.262889	1076.4	2601.9	Oriolus oriolus
+19	Spectrogram 1	1	45.347990	51.559698	3541.2	6214.5	Phylloscopus collybita
+20	Spectrogram 1	1	49.575986	51.803459	1349.6	7183.4	Erithacus rubecula
+21	Spectrogram 1	1	52.131276	55.577555	1325.3	5292.8	Sylvia atricapilla
+22	Spectrogram 1	1	52.576771	52.971832	6214.5	9920.5	Erithacus rubecula
+23	Spectrogram 1	1	57.527645	59.982068	1780.3	5737.2	Unidentified bird
+24	Spectrogram 1	1	58.704423	59.040646	6132.6	9670.3	Erithacus rubecula

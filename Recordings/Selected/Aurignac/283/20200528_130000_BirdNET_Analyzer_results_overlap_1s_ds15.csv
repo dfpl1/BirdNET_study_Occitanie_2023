@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	grewhi1	Greater Whitethroat	0.1070
+2	Spectrogram 1	1	2.0	5.0	150	15000	norlap	Northern Lapwing	0.1093
+3	Spectrogram 1	1	4.0	7.0	150	15000	thelar1	Thekla's Lark	0.2526
+4	Spectrogram 1	1	4.0	7.0	150	15000	skylar	Eurasian Skylark	0.2252
+5	Spectrogram 1	1	4.0	7.0	150	15000	crelar2	Crested Lark	0.1473
+6	Spectrogram 1	1	8.0	11.0	150	15000	commoo3	Eurasian Moorhen	0.1067
+7	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.1139
+8	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.1196
+9	Spectrogram 1	1	18.0	21.0	150	15000	garwar1	Garden Warbler	0.1067
+10	Spectrogram 1	1	24.0	27.0	150	15000	relpar1	Red-legged Partridge	0.1754
+11	Spectrogram 1	1	24.0	27.0	150	15000	grewhi1	Greater Whitethroat	0.1356
+12	Spectrogram 1	1	26.0	29.0	150	15000	commoo3	Eurasian Moorhen	0.1233
+13	Spectrogram 1	1	26.0	29.0	150	15000	eurbla	Eurasian Blackbird	0.1106
+14	Spectrogram 1	1	28.0	31.0	150	15000	grewhi1	Greater Whitethroat	0.3460
+15	Spectrogram 1	1	28.0	31.0	150	15000	comred2	Common Redstart	0.1789
+16	Spectrogram 1	1	28.0	31.0	150	15000	eurrob1	European Robin	0.1177
+17	Spectrogram 1	1	28.0	31.0	150	15000	blackc1	Eurasian Blackcap	0.1042
+18	Spectrogram 1	1	28.0	31.0	150	15000	skylar	Eurasian Skylark	0.1011
+19	Spectrogram 1	1	28.0	31.0	150	15000	thelar1	Thekla's Lark	0.1000
+20	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.2259
+21	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.1864
+22	Spectrogram 1	1	36.0	39.0	150	15000	litegr	Little Egret	0.1442
+23	Spectrogram 1	1	36.0	39.0	150	15000	eurgri1	Eurasian Griffon	0.1312
+24	Spectrogram 1	1	36.0	39.0	150	15000	graher1	Gray Heron	0.1141
+25	Spectrogram 1	1	36.0	39.0	150	15000	grecor	Great Cormorant	0.1072
+26	Spectrogram 1	1	36.0	39.0	150	15000	grewhi1	Greater Whitethroat	0.1041
+27	Spectrogram 1	1	38.0	41.0	150	15000	carcro1	Carrion Crow	0.1875
+28	Spectrogram 1	1	42.0	45.0	150	15000	grewhi1	Greater Whitethroat	0.1126
+29	Spectrogram 1	1	42.0	45.0	150	15000	norwhe	Northern Wheatear	0.1090
+30	Spectrogram 1	1	42.0	45.0	150	15000	eurrob1	European Robin	0.1004
+31	Spectrogram 1	1	48.0	51.0	150	15000	reebun	Reed Bunting	0.1060
+32	Spectrogram 1	1	52.0	55.0	150	15000	mallar3	Mallard	0.1171
+33	Spectrogram 1	1	54.0	57.0	150	15000	eubeat1	European Bee-eater	0.1583
+34	Spectrogram 1	1	56.0	59.0	150	15000	mallar3	Mallard	0.1355

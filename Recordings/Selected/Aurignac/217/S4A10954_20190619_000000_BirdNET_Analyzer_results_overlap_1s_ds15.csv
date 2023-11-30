@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	comnig1	Common Nightingale	0.4926
+2	Spectrogram 1	1	0	3.0	150	15000	eubeat1	European Bee-eater	0.1002
+3	Spectrogram 1	1	2.0	5.0	150	15000	comnig1	Common Nightingale	0.2676
+4	Spectrogram 1	1	2.0	5.0	150	15000	eubeat1	European Bee-eater	0.2305
+5	Spectrogram 1	1	4.0	7.0	150	15000	litowl1	Little Owl	0.1455
+6	Spectrogram 1	1	6.0	9.0	150	15000	comnig1	Common Nightingale	0.7122
+7	Spectrogram 1	1	8.0	11.0	150	15000	comnig1	Common Nightingale	0.2706
+8	Spectrogram 1	1	8.0	11.0	150	15000	eurgre1	European Greenfinch	0.1125
+9	Spectrogram 1	1	10.0	13.0	150	15000	litowl1	Little Owl	0.1238
+10	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.1186
+11	Spectrogram 1	1	26.0	29.0	150	15000	comnig1	Common Nightingale	0.1266
+12	Spectrogram 1	1	28.0	31.0	150	15000	litowl1	Little Owl	0.1019
+13	Spectrogram 1	1	34.0	37.0	150	15000	litowl1	Little Owl	0.1259
+14	Spectrogram 1	1	36.0	39.0	150	15000	comnig1	Common Nightingale	0.1115
+15	Spectrogram 1	1	38.0	41.0	150	15000	graher1	Gray Heron	0.1862
+16	Spectrogram 1	1	38.0	41.0	150	15000	grefla3	Greater Flamingo	0.1644
+17	Spectrogram 1	1	42.0	45.0	150	15000	comnig1	Common Nightingale	0.1473
+18	Spectrogram 1	1	44.0	47.0	150	15000	grefla3	Greater Flamingo	0.1045
+19	Spectrogram 1	1	44.0	47.0	150	15000	mallar3	Mallard	0.1020
+20	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.4107
+21	Spectrogram 1	1	50.0	53.0	150	15000	comnig1	Common Nightingale	0.2530
+22	Spectrogram 1	1	56.0	59.0	150	15000	comnig1	Common Nightingale	0.4283

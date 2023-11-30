@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	1.227212	3.244546	2042.1	8928.7	Erithacus rubecula
+2	Spectrogram 1	1	2.168634	6.371414	1835.1	3912.6	Sylvia atricapilla
+3	Spectrogram 1	1	5.421585	9.094815	2015.3	7369.7	Troglodytes troglodytes
+4	Spectrogram 1	1	8.708159	9.338576	1098.2	2015.3	Unidentified bird
+5	Spectrogram 1	1	9.481470	19.988419	1643.7	6834.0	Sylvia atricapilla
+6	Spectrogram 1	1	10.044643	11.868649	3320.5	7449.3	Erithacus rubecula
+7	Spectrogram 1	1	15.449417	20.274208	2944.7	8558.0	Troglodytes troglodytes
+8	Spectrogram 1	1	19.198296	22.518492	2571.8	8467.6	Erithacus rubecula
+9	Spectrogram 1	1	22.770659	26.225344	1690.1	4289.3	Sylvia atricapilla
+10	Spectrogram 1	1	26.956627	30.789562	1885.3	8834.6	Erithacus rubecula
+11	Spectrogram 1	1	30.823184	33.655858	3017.0	6760.4	Unidentified bird
+12	Spectrogram 1	1	30.831590	35.261319	1810.3	4338.5	Sylvia atricapilla
+13	Spectrogram 1	1	33.512963	36.589398	3481.5	9216.3	Troglodytes troglodytes
+14	Spectrogram 1	1	36.589398	39.295988	1445.6	3481.5	Sylvia atricapilla
+15	Spectrogram 1	1	37.354304	40.018866	1737.5	8028.7	Erithacus rubecula
+16	Spectrogram 1	1	38.312537	38.976577	6403.2	8289.5	Unidentified bird
+17	Spectrogram 1	1	40.497983	41.027533	2873.9	8649.3	Unidentified bird
+18	Spectrogram 1	1	42.019389	45.003362	1322.9	4004.0	Sylvia atricapilla
+19	Spectrogram 1	1	42.053011	45.129446	3606.4	8928.7	Troglodytes troglodytes
+20	Spectrogram 1	1	45.448857	47.180402	2980.7	6760.4	Erithacus rubecula
+21	Spectrogram 1	1	47.230835	50.786387	1598.1	7059.1	Sylvia atricapilla
+22	Spectrogram 1	1	50.063509	51.114204	2702.8	5195.0	Unidentified bird
+23	Spectrogram 1	1	51.357965	59.990474	1666.8	5024.0	Sylvia atricapilla
+24	Spectrogram 1	1	51.408398	54.207449	3281.3	8114.8	Troglodytes troglodytes
+25	Spectrogram 1	1	55.594366	58.527906	1860.1	6687.6	Erithacus rubecula

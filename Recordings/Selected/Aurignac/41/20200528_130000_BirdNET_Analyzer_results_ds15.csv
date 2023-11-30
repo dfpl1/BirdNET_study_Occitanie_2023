@@ -1,0 +1,45 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	corbun1	Corn Bunting	0.3628
+2	Spectrogram 1	1	0	3.0	150	15000	eurser1	European Serin	0.1237
+3	Spectrogram 1	1	9.0	12.0	150	15000	corbun1	Corn Bunting	0.2948
+4	Spectrogram 1	1	9.0	12.0	150	15000	blared1	Black Redstart	0.1145
+5	Spectrogram 1	1	9.0	12.0	150	15000	stonec4	European Stonechat	0.1013
+6	Spectrogram 1	1	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.2645
+7	Spectrogram 1	1	12.0	15.0	150	15000	corbun1	Corn Bunting	0.1809
+8	Spectrogram 1	1	21.0	24.0	150	15000	corbun1	Corn Bunting	0.3633
+9	Spectrogram 1	1	21.0	24.0	150	15000	wooshr1	Woodchat Shrike	0.1978
+10	Spectrogram 1	1	21.0	24.0	150	15000	sarwar1	Sardinian Warbler	0.1438
+11	Spectrogram 1	1	21.0	24.0	150	15000	stonec4	European Stonechat	0.1248
+12	Spectrogram 1	1	21.0	24.0	150	15000	subwar6	Western Subalpine Warbler	0.1123
+13	Spectrogram 1	1	24.0	27.0	150	15000	lirplo	Little Ringed Plover	0.1439
+14	Spectrogram 1	1	27.0	30.0	150	15000	comswi	Common Swift	0.1201
+15	Spectrogram 1	1	27.0	30.0	150	15000	woolar1	Wood Lark	0.1112
+16	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.1092
+17	Spectrogram 1	1	27.0	30.0	150	15000	stonec4	European Stonechat	0.1073
+18	Spectrogram 1	1	27.0	30.0	150	15000	thelar1	Thekla's Lark	0.1035
+19	Spectrogram 1	1	30.0	33.0	150	15000	corbun1	Corn Bunting	0.5405
+20	Spectrogram 1	1	30.0	33.0	150	15000	thelar1	Thekla's Lark	0.1462
+21	Spectrogram 1	1	30.0	33.0	150	15000	callar1	Calandra Lark	0.1413
+22	Spectrogram 1	1	30.0	33.0	150	15000	comqua1	Common Quail	0.1403
+23	Spectrogram 1	1	30.0	33.0	150	15000	wooshr1	Woodchat Shrike	0.1327
+24	Spectrogram 1	1	30.0	33.0	150	15000	stonec4	European Stonechat	0.1188
+25	Spectrogram 1	1	33.0	36.0	150	15000	corbun1	Corn Bunting	0.1853
+26	Spectrogram 1	1	33.0	36.0	150	15000	comqua1	Common Quail	0.1520
+27	Spectrogram 1	1	33.0	36.0	150	15000	wooshr1	Woodchat Shrike	0.1027
+28	Spectrogram 1	1	36.0	39.0	150	15000	eurgre1	European Greenfinch	0.2654
+29	Spectrogram 1	1	36.0	39.0	150	15000	woolar1	Wood Lark	0.1703
+30	Spectrogram 1	1	42.0	45.0	150	15000	corbun1	Corn Bunting	0.2409
+31	Spectrogram 1	1	42.0	45.0	150	15000	eurser1	European Serin	0.2009
+32	Spectrogram 1	1	42.0	45.0	150	15000	comqua1	Common Quail	0.1562
+33	Spectrogram 1	1	42.0	45.0	150	15000	wooshr1	Woodchat Shrike	0.1384
+34	Spectrogram 1	1	42.0	45.0	150	15000	sarwar1	Sardinian Warbler	0.1268
+35	Spectrogram 1	1	42.0	45.0	150	15000	thelar1	Thekla's Lark	0.1128
+36	Spectrogram 1	1	48.0	51.0	150	15000	blared1	Black Redstart	0.1148
+37	Spectrogram 1	1	51.0	54.0	150	15000	wooshr1	Woodchat Shrike	0.2266
+38	Spectrogram 1	1	51.0	54.0	150	15000	stonec4	European Stonechat	0.1523
+39	Spectrogram 1	1	51.0	54.0	150	15000	thelar1	Thekla's Lark	0.1465
+40	Spectrogram 1	1	51.0	54.0	150	15000	comnig1	Common Nightingale	0.1437
+41	Spectrogram 1	1	51.0	54.0	150	15000	sarwar1	Sardinian Warbler	0.1191
+42	Spectrogram 1	1	54.0	57.0	150	15000	cirbun1	Cirl Bunting	0.1467
+43	Spectrogram 1	1	54.0	57.0	150	15000	comqua1	Common Quail	0.1129
+44	Spectrogram 1	1	54.0	57.0	150	15000	blackc1	Eurasian Blackcap	0.1023

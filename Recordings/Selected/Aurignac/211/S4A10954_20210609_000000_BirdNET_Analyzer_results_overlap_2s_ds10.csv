@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	39.0	42.0	150	15000	comnig1	Common Nightingale	0.1484
+2	Spectrogram 1	1	50.0	53.0	150	15000	comnig1	Common Nightingale	0.1621
+3	Spectrogram 1	1	51.0	54.0	150	15000	comnig1	Common Nightingale	0.1963

@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	7.0	10.0	150	15000	yellow2	Yellowhammer	0.1097
+2	Spectrogram 1	1	11.0	14.0	150	15000	woolar1	Wood Lark	0.1401
+3	Spectrogram 1	1	28.0	31.0	150	15000	lirplo	Little Ringed Plover	0.1330
+4	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.2781

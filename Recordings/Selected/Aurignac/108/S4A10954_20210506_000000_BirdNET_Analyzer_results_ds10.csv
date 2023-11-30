@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	9.0	12.0	150	15000	litowl1	Little Owl	0.3186
+2	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.2679
+3	Spectrogram 1	1	39.0	42.0	150	15000	comnig1	Common Nightingale	0.1142
+4	Spectrogram 1	1	42.0	45.0	150	15000	litowl1	Little Owl	0.1033
+5	Spectrogram 1	1	45.0	48.0	150	15000	comnig1	Common Nightingale	0.1665
+6	Spectrogram 1	1	51.0	54.0	150	15000	litowl1	Little Owl	0.2132
+7	Spectrogram 1	1	54.0	57.0	150	15000	comnig1	Common Nightingale	0.5971
+8	Spectrogram 1	1	54.0	57.0	150	15000	litowl1	Little Owl	0.1153

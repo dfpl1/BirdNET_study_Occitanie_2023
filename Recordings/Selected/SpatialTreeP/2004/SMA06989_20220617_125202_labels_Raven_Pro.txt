@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	7.057102	2880.4	7664.3	Anthus spinoletta
+2	Spectrogram 1	1	8.943487	11.133042	2273.9	3906.1	Unidentified bird
+3	Spectrogram 1	1	33.828615	35.521309	4772.4	8538.8	Anthus spinoletta
+4	Spectrogram 1	1	37.685599	39.993052	429.8	2498.8	Corvus corone
+5	Spectrogram 1	1	48.355466	49.719727	515.3	2273.9	Corvus corone

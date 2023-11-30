@@ -1,0 +1,32 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	blared1	Black Redstart	0.1487
+2	Spectrogram 1	1	10.0	13.0	150	15000	cirbun1	Cirl Bunting	0.1018
+3	Spectrogram 1	1	14.0	17.0	150	15000	rebcho1	Red-billed Chough	0.1953
+4	Spectrogram 1	1	14.0	17.0	150	15000	eugori2	Eurasian Golden Oriole	0.1878
+5	Spectrogram 1	1	20.0	23.0	150	15000	blared1	Black Redstart	0.1024
+6	Spectrogram 1	1	26.0	29.0	150	15000	litbit1	Little Bittern	0.1733
+7	Spectrogram 1	1	34.0	37.0	150	15000	woolar1	Wood Lark	0.1721
+8	Spectrogram 1	1	34.0	37.0	150	15000	eurlin1	Eurasian Linnet	0.1125
+9	Spectrogram 1	1	34.0	37.0	150	15000	trepip	Tree Pipit	0.1086
+10	Spectrogram 1	1	34.0	37.0	150	15000	zitcis1	Zitting Cisticola	0.1047
+11	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.1935
+12	Spectrogram 1	1	36.0	39.0	150	15000	eurrob1	European Robin	0.1273
+13	Spectrogram 1	1	36.0	39.0	150	15000	litgre1	Little Grebe	0.1198
+14	Spectrogram 1	1	36.0	39.0	150	15000	eurlin1	Eurasian Linnet	0.1167
+15	Spectrogram 1	1	36.0	39.0	150	15000	mallar3	Mallard	0.1118
+16	Spectrogram 1	1	36.0	39.0	150	15000	norlap	Northern Lapwing	0.1109
+17	Spectrogram 1	1	36.0	39.0	150	15000	corbun1	Corn Bunting	0.1072
+18	Spectrogram 1	1	36.0	39.0	150	15000	sonthr1	Song Thrush	0.1020
+19	Spectrogram 1	1	38.0	41.0	150	15000	tawowl1	Tawny Owl	0.1027
+20	Spectrogram 1	1	40.0	43.0	150	15000	eurrob1	European Robin	0.1360
+21	Spectrogram 1	1	40.0	43.0	150	15000	brnowl	Barn Owl	0.1089
+22	Spectrogram 1	1	40.0	43.0	150	15000	tawowl1	Tawny Owl	0.1015
+23	Spectrogram 1	1	42.0	45.0	150	15000	carcro1	Carrion Crow	0.1619
+24	Spectrogram 1	1	42.0	45.0	150	15000	bkhgul	Black-headed Gull	0.1247
+25	Spectrogram 1	1	42.0	45.0	150	15000	commoo3	Eurasian Moorhen	0.1196
+26	Spectrogram 1	1	42.0	45.0	150	15000	eurjac	Eurasian Jackdaw	0.1078
+27	Spectrogram 1	1	42.0	45.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.1024
+28	Spectrogram 1	1	42.0	45.0	150	15000	litgre1	Little Grebe	0.1019
+29	Spectrogram 1	1	42.0	45.0	150	15000	eurcoo	Eurasian Coot	0.1010
+30	Spectrogram 1	1	46.0	49.0	150	15000	mallar3	Mallard	0.1101
+31	Spectrogram 1	1	48.0	51.0	150	15000	tawowl1	Tawny Owl	0.1195

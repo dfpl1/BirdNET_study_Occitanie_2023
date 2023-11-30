@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	59.923229	1977.0	4498.1	Lullula arborea
+2	Spectrogram 1	1	1.084317	7.018642	653.3	4408.0	Garrulus glandarius
+3	Spectrogram 1	1	11.280260	13.768305	1752.5	5023.9	Unidentified bird
+4	Spectrogram 1	1	14.020472	14.356695	1516.4	2418.8	Unidentified bird
+5	Spectrogram 1	1	15.743612	20.761730	636.3	4810.8	Garrulus glandarius
+6	Spectrogram 1	1	20.761730	22.190675	1602.2	3633.4	Turdus merula
+7	Spectrogram 1	1	24.804804	26.351427	778.6	4217.8	Garrulus glandarius
+8	Spectrogram 1	1	28.587306	29.268156	1661.2	2539.4	Unidentified bird
+9	Spectrogram 1	1	33.269202	34.815825	1461.1	3167.1	Turdus merula
+10	Spectrogram 1	1	34.849447	36.185931	2498.7	4094.9	Passer domesticus
+11	Spectrogram 1	1	39.354827	43.439928	1602.2	3858.3	Turdus merula
+12	Spectrogram 1	1	46.003624	46.432307	760.0	12000.0	Garrulus glandarius
+13	Spectrogram 1	1	46.541579	49.735692	1510.6	2983.0	Turdus merula
+14	Spectrogram 1	1	52.837343	55.804505	1843.8	3276.1	Unidentified bird
+15	Spectrogram 1	1	53.215593	53.703116	593.4	11839.0	Garrulus glandarius
+16	Spectrogram 1	1	57.006500	57.258667	4673.1	6956.9	Unidentified bird
+17	Spectrogram 1	1	58.418634	59.469329	1380.6	2751.0	Turdus merula

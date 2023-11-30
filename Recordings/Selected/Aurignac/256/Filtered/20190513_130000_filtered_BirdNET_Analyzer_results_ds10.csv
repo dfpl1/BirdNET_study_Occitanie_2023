@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	15.0	18.0	150	15000	rebshr1	Red-backed Shrike	0.1228
+2	Spectrogram 1	1	45.0	48.0	150	15000	webwar1	Western Bonelli's Warbler	0.1705
+3	Spectrogram 1	1	48.0	51.0	150	15000	wooshr1	Woodchat Shrike	0.1267

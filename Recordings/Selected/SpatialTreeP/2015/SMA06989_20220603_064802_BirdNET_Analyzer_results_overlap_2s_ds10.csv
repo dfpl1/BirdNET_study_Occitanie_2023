@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	1.0	4.0	150	15000	grnsan	Green Sandpiper	0.4526
+2	Spectrogram 1	1	2.0	5.0	150	15000	grnsan	Green Sandpiper	0.3186
+3	Spectrogram 1	1	6.0	9.0	150	15000	winwre4	Eurasian Wren	0.7419
+4	Spectrogram 1	1	7.0	10.0	150	15000	winwre4	Eurasian Wren	0.7016
+5	Spectrogram 1	1	8.0	11.0	150	15000	winwre4	Eurasian Wren	0.4026
+6	Spectrogram 1	1	9.0	12.0	150	15000	winwre4	Eurasian Wren	0.1544
+7	Spectrogram 1	1	18.0	21.0	150	15000	winwre4	Eurasian Wren	0.6370
+8	Spectrogram 1	1	50.0	53.0	150	15000	dunnoc1	Dunnock	0.1968
+9	Spectrogram 1	1	51.0	54.0	150	15000	stonec4	European Stonechat	0.2109
+10	Spectrogram 1	1	51.0	54.0	150	15000	dunnoc1	Dunnock	0.1004
+11	Spectrogram 1	1	52.0	55.0	150	15000	skylar	Eurasian Skylark	0.2167
+12	Spectrogram 1	1	52.0	55.0	150	15000	dunnoc1	Dunnock	0.1099
+13	Spectrogram 1	1	53.0	56.0	150	15000	stonec4	European Stonechat	0.1605

@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	59.898013	1066.1	11381.3	Sylvia atricapilla
+2	Spectrogram 1	1	2.672968	7.859198	234.2	 710.6	Streptopelia decaocto
+3	Spectrogram 1	1	9.330170	12.129221	319.5	3130.2	Corvus corone
+4	Spectrogram 1	1	13.415272	17.786163	282.0	 641.8	Streptopelia decaocto
+5	Spectrogram 1	1	19.635386	21.022303	898.2	4665.8	Turdus merula
+6	Spectrogram 1	1	39.211932	43.036461	514.3	5011.4	Turdus merula
+7	Spectrogram 1	1	46.104490	55.737261	345.3	 592.5	Streptopelia decaocto
+8	Spectrogram 1	1	52.131276	53.930066	2597.2	3805.2	Unidentified bird
+9	Spectrogram 1	1	53.299649	54.711783	1567.0	2556.3	Luscinia megarhynchos
+10	Spectrogram 1	1	57.082150	59.990474	371.7	 878.3	Streptopelia decaocto
+11	Spectrogram 1	1	59.149918	59.351651	3326.3	5611.4	Emberiza citrinella

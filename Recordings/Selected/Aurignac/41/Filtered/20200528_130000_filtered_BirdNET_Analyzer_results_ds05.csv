@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	corbun1	Corn Bunting	0.4124
+2	Spectrogram 1	1	9.0	12.0	150	15000	corbun1	Corn Bunting	0.4227
+3	Spectrogram 1	1	21.0	24.0	150	15000	corbun1	Corn Bunting	0.3992
+4	Spectrogram 1	1	30.0	33.0	150	15000	corbun1	Corn Bunting	0.3864

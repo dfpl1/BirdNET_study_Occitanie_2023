@@ -1,0 +1,136 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	hawfin	Hawfinch	0.6040
+2	Spectrogram 1	1	0	3.0	150	15000	eurrob1	European Robin	0.1727
+3	Spectrogram 1	1	0	3.0	150	15000	comred2	Common Redstart	0.1716
+4	Spectrogram 1	1	0	3.0	150	15000	comnig1	Common Nightingale	0.1057
+5	Spectrogram 1	1	1.0	4.0	150	15000	eurrob1	European Robin	0.4570
+6	Spectrogram 1	1	1.0	4.0	150	15000	hawfin	Hawfinch	0.4357
+7	Spectrogram 1	1	1.0	4.0	150	15000	comred2	Common Redstart	0.1763
+8	Spectrogram 1	1	1.0	4.0	150	15000	webwar1	Western Bonelli's Warbler	0.1009
+9	Spectrogram 1	1	2.0	5.0	150	15000	eurrob1	European Robin	0.6407
+10	Spectrogram 1	1	2.0	5.0	150	15000	cirbun1	Cirl Bunting	0.1684
+11	Spectrogram 1	1	2.0	5.0	150	15000	comred2	Common Redstart	0.1394
+12	Spectrogram 1	1	2.0	5.0	150	15000	hawfin	Hawfinch	0.1311
+13	Spectrogram 1	1	2.0	5.0	150	15000	blared1	Black Redstart	0.1256
+14	Spectrogram 1	1	2.0	5.0	150	15000	spofly1	Spotted Flycatcher	0.1103
+15	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.1057
+16	Spectrogram 1	1	3.0	6.0	150	15000	eurrob1	European Robin	0.6272
+17	Spectrogram 1	1	3.0	6.0	150	15000	hawfin	Hawfinch	0.1969
+18	Spectrogram 1	1	4.0	7.0	150	15000	eurrob1	European Robin	0.4892
+19	Spectrogram 1	1	4.0	7.0	150	15000	hawfin	Hawfinch	0.2869
+20	Spectrogram 1	1	4.0	7.0	150	15000	cirbun1	Cirl Bunting	0.1245
+21	Spectrogram 1	1	5.0	8.0	150	15000	eurrob1	European Robin	0.4009
+22	Spectrogram 1	1	5.0	8.0	150	15000	hawfin	Hawfinch	0.2880
+23	Spectrogram 1	1	6.0	9.0	150	15000	hawfin	Hawfinch	0.2863
+24	Spectrogram 1	1	6.0	9.0	150	15000	eurrob1	European Robin	0.2110
+25	Spectrogram 1	1	6.0	9.0	150	15000	comred2	Common Redstart	0.1521
+26	Spectrogram 1	1	6.0	9.0	150	15000	webwar1	Western Bonelli's Warbler	0.1073
+27	Spectrogram 1	1	7.0	10.0	150	15000	eurrob1	European Robin	0.3483
+28	Spectrogram 1	1	7.0	10.0	150	15000	comred2	Common Redstart	0.2604
+29	Spectrogram 1	1	7.0	10.0	150	15000	hawfin	Hawfinch	0.2051
+30	Spectrogram 1	1	7.0	10.0	150	15000	blackc1	Eurasian Blackcap	0.1672
+31	Spectrogram 1	1	7.0	10.0	150	15000	eupfly1	European Pied Flycatcher	0.1087
+32	Spectrogram 1	1	7.0	10.0	150	15000	sonthr1	Song Thrush	0.1022
+33	Spectrogram 1	1	8.0	11.0	150	15000	eurrob1	European Robin	0.4928
+34	Spectrogram 1	1	8.0	11.0	150	15000	hawfin	Hawfinch	0.2270
+35	Spectrogram 1	1	8.0	11.0	150	15000	comred2	Common Redstart	0.2010
+36	Spectrogram 1	1	8.0	11.0	150	15000	firecr1	Common Firecrest	0.1523
+37	Spectrogram 1	1	8.0	11.0	150	15000	eurbul	Eurasian Bullfinch	0.1396
+38	Spectrogram 1	1	8.0	11.0	150	15000	rocbun1	Rock Bunting	0.1245
+39	Spectrogram 1	1	8.0	11.0	150	15000	webwar1	Western Bonelli's Warbler	0.1094
+40	Spectrogram 1	1	8.0	11.0	150	15000	cetwar1	Cetti's Warbler	0.1091
+41	Spectrogram 1	1	8.0	11.0	150	15000	shttre1	Short-toed Treecreeper	0.1043
+42	Spectrogram 1	1	8.0	11.0	150	15000	eupfly1	European Pied Flycatcher	0.1015
+43	Spectrogram 1	1	8.0	11.0	150	15000	cirbun1	Cirl Bunting	0.1012
+44	Spectrogram 1	1	9.0	12.0	150	15000	hawfin	Hawfinch	0.4621
+45	Spectrogram 1	1	9.0	12.0	150	15000	eurrob1	European Robin	0.3137
+46	Spectrogram 1	1	9.0	12.0	150	15000	comred2	Common Redstart	0.1327
+47	Spectrogram 1	1	10.0	13.0	150	15000	hawfin	Hawfinch	0.3069
+48	Spectrogram 1	1	10.0	13.0	150	15000	comnig1	Common Nightingale	0.1730
+49	Spectrogram 1	1	10.0	13.0	150	15000	eurrob1	European Robin	0.1435
+50	Spectrogram 1	1	10.0	13.0	150	15000	comred2	Common Redstart	0.1117
+51	Spectrogram 1	1	10.0	13.0	150	15000	firecr1	Common Firecrest	0.1082
+52	Spectrogram 1	1	11.0	14.0	150	15000	hawfin	Hawfinch	0.6324
+53	Spectrogram 1	1	11.0	14.0	150	15000	comnig1	Common Nightingale	0.1805
+54	Spectrogram 1	1	11.0	14.0	150	15000	eurrob1	European Robin	0.1791
+55	Spectrogram 1	1	11.0	14.0	150	15000	comred2	Common Redstart	0.1242
+56	Spectrogram 1	1	12.0	15.0	150	15000	martit2	Marsh Tit	0.1630
+57	Spectrogram 1	1	12.0	15.0	150	15000	cretit2	Crested Tit	0.1257
+58	Spectrogram 1	1	12.0	15.0	150	15000	grswoo	Great Spotted Woodpecker	0.1163
+59	Spectrogram 1	1	12.0	15.0	150	15000	lottit1	Long-tailed Tit	0.1158
+60	Spectrogram 1	1	15.0	18.0	150	15000	comnig1	Common Nightingale	0.3913
+61	Spectrogram 1	1	16.0	19.0	150	15000	comnig1	Common Nightingale	0.2540
+62	Spectrogram 1	1	16.0	19.0	150	15000	cirbun1	Cirl Bunting	0.1015
+63	Spectrogram 1	1	17.0	20.0	150	15000	eurrob1	European Robin	0.2376
+64	Spectrogram 1	1	18.0	21.0	150	15000	eurrob1	European Robin	0.2769
+65	Spectrogram 1	1	18.0	21.0	150	15000	hawfin	Hawfinch	0.2047
+66	Spectrogram 1	1	18.0	21.0	150	15000	grswoo	Great Spotted Woodpecker	0.1431
+67	Spectrogram 1	1	19.0	22.0	150	15000	eurrob1	European Robin	0.2918
+68	Spectrogram 1	1	19.0	22.0	150	15000	hawfin	Hawfinch	0.1561
+69	Spectrogram 1	1	19.0	22.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1124
+70	Spectrogram 1	1	20.0	23.0	150	15000	hawfin	Hawfinch	0.2761
+71	Spectrogram 1	1	20.0	23.0	150	15000	eurrob1	European Robin	0.1478
+72	Spectrogram 1	1	22.0	25.0	150	15000	comnig1	Common Nightingale	0.3994
+73	Spectrogram 1	1	22.0	25.0	150	15000	comred2	Common Redstart	0.2148
+74	Spectrogram 1	1	22.0	25.0	150	15000	webwar1	Western Bonelli's Warbler	0.1059
+75	Spectrogram 1	1	23.0	26.0	150	15000	comnig1	Common Nightingale	0.2683
+76	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.3173
+77	Spectrogram 1	1	24.0	27.0	150	15000	eurrob1	European Robin	0.1633
+78	Spectrogram 1	1	24.0	27.0	150	15000	hawfin	Hawfinch	0.1153
+79	Spectrogram 1	1	24.0	27.0	150	15000	comred2	Common Redstart	0.1056
+80	Spectrogram 1	1	26.0	29.0	150	15000	cirbun1	Cirl Bunting	0.1337
+81	Spectrogram 1	1	26.0	29.0	150	15000	hawfin	Hawfinch	0.1038
+82	Spectrogram 1	1	27.0	30.0	150	15000	cirbun1	Cirl Bunting	0.1502
+83	Spectrogram 1	1	27.0	30.0	150	15000	hawfin	Hawfinch	0.1099
+84	Spectrogram 1	1	28.0	31.0	150	15000	hawfin	Hawfinch	0.2073
+85	Spectrogram 1	1	28.0	31.0	150	15000	cirbun1	Cirl Bunting	0.1927
+86	Spectrogram 1	1	28.0	31.0	150	15000	comnig1	Common Nightingale	0.1237
+87	Spectrogram 1	1	29.0	32.0	150	15000	hawfin	Hawfinch	0.3210
+88	Spectrogram 1	1	29.0	32.0	150	15000	comnig1	Common Nightingale	0.2044
+89	Spectrogram 1	1	30.0	33.0	150	15000	hawfin	Hawfinch	0.2618
+90	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.2154
+91	Spectrogram 1	1	31.0	34.0	150	15000	comred2	Common Redstart	0.2535
+92	Spectrogram 1	1	31.0	34.0	150	15000	eurnut2	Eurasian Nuthatch	0.2517
+93	Spectrogram 1	1	31.0	34.0	150	15000	comchi1	Common Chiffchaff	0.2346
+94	Spectrogram 1	1	31.0	34.0	150	15000	comcha	Common Chaffinch	0.1245
+95	Spectrogram 1	1	31.0	34.0	150	15000	webwar1	Western Bonelli's Warbler	0.1227
+96	Spectrogram 1	1	31.0	34.0	150	15000	blackc1	Eurasian Blackcap	0.1218
+97	Spectrogram 1	1	31.0	34.0	150	15000	eupfly1	European Pied Flycatcher	0.1089
+98	Spectrogram 1	1	32.0	35.0	150	15000	comchi1	Common Chiffchaff	0.1080
+99	Spectrogram 1	1	32.0	35.0	150	15000	webwar1	Western Bonelli's Warbler	0.1007
+100	Spectrogram 1	1	35.0	38.0	150	15000	eurrob1	European Robin	0.3576
+101	Spectrogram 1	1	36.0	39.0	150	15000	eurrob1	European Robin	0.2346
+102	Spectrogram 1	1	36.0	39.0	150	15000	comnig1	Common Nightingale	0.1894
+103	Spectrogram 1	1	36.0	39.0	150	15000	comred2	Common Redstart	0.1635
+104	Spectrogram 1	1	37.0	40.0	150	15000	eurrob1	European Robin	0.3898
+105	Spectrogram 1	1	37.0	40.0	150	15000	comred2	Common Redstart	0.2028
+106	Spectrogram 1	1	37.0	40.0	150	15000	comnig1	Common Nightingale	0.1633
+107	Spectrogram 1	1	37.0	40.0	150	15000	blackc1	Eurasian Blackcap	0.1014
+108	Spectrogram 1	1	38.0	41.0	150	15000	comnig1	Common Nightingale	0.2964
+109	Spectrogram 1	1	38.0	41.0	150	15000	cirbun1	Cirl Bunting	0.1587
+110	Spectrogram 1	1	39.0	42.0	150	15000	cirbun1	Cirl Bunting	0.6073
+111	Spectrogram 1	1	44.0	47.0	150	15000	comnig1	Common Nightingale	0.1078
+112	Spectrogram 1	1	46.0	49.0	150	15000	webwar1	Western Bonelli's Warbler	0.1966
+113	Spectrogram 1	1	46.0	49.0	150	15000	cirbun1	Cirl Bunting	0.1268
+114	Spectrogram 1	1	46.0	49.0	150	15000	rebshr1	Red-backed Shrike	0.1122
+115	Spectrogram 1	1	47.0	50.0	150	15000	webwar1	Western Bonelli's Warbler	0.1879
+116	Spectrogram 1	1	48.0	51.0	150	15000	webwar1	Western Bonelli's Warbler	0.1105
+117	Spectrogram 1	1	49.0	52.0	150	15000	comnig1	Common Nightingale	0.2606
+118	Spectrogram 1	1	50.0	53.0	150	15000	comnig1	Common Nightingale	0.2701
+119	Spectrogram 1	1	50.0	53.0	150	15000	webwar1	Western Bonelli's Warbler	0.1353
+120	Spectrogram 1	1	51.0	54.0	150	15000	cirbun1	Cirl Bunting	0.7239
+121	Spectrogram 1	1	51.0	54.0	150	15000	comnig1	Common Nightingale	0.1229
+122	Spectrogram 1	1	52.0	55.0	150	15000	cirbun1	Cirl Bunting	0.5286
+123	Spectrogram 1	1	53.0	56.0	150	15000	cirbun1	Cirl Bunting	0.9107
+124	Spectrogram 1	1	54.0	57.0	150	15000	cirbun1	Cirl Bunting	0.8887
+125	Spectrogram 1	1	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.1197
+126	Spectrogram 1	1	54.0	57.0	150	15000	blared1	Black Redstart	0.1097
+127	Spectrogram 1	1	55.0	58.0	150	15000	webwar1	Western Bonelli's Warbler	0.1239
+128	Spectrogram 1	1	56.0	59.0	150	15000	webwar1	Western Bonelli's Warbler	0.1801
+129	Spectrogram 1	1	56.0	59.0	150	15000	cirbun1	Cirl Bunting	0.1241
+130	Spectrogram 1	1	56.0	59.0	150	15000	hawfin	Hawfinch	0.1006
+131	Spectrogram 1	1	57.0	60.0	150	15000	webwar1	Western Bonelli's Warbler	0.1117
+132	Spectrogram 1	1	58.0	61.0	150	15000	goldcr1	Goldcrest	0.1028
+133	Spectrogram 1	1	58.0	61.0	150	15000	eutkne1	Eurasian Thick-knee	0.1009
+134	Spectrogram 1	1	58.0	61.0	150	15000	sonthr1	Song Thrush	0.1003
+135	Spectrogram 1	1	59.0	62.0	150	15000	comswi	Common Swift	0.1361

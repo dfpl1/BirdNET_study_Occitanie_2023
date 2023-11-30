@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	12.0	15.0	150	15000	eursis	Eurasian Siskin	0.1042
+2	Spectrogram 1	1	13.0	16.0	150	15000	eursis	Eurasian Siskin	0.1144
+3	Spectrogram 1	1	14.0	17.0	150	15000	gretit1	Great Tit	0.1130
+4	Spectrogram 1	1	28.0	31.0	150	15000	eurrob1	European Robin	0.1538
+5	Spectrogram 1	1	28.0	31.0	150	15000	cirbun1	Cirl Bunting	0.1075
+6	Spectrogram 1	1	30.0	33.0	150	15000	eurrob1	European Robin	0.1450
+7	Spectrogram 1	1	30.0	33.0	150	15000	cirbun1	Cirl Bunting	0.1329
+8	Spectrogram 1	1	31.0	34.0	150	15000	cirbun1	Cirl Bunting	0.1591
+9	Spectrogram 1	1	32.0	35.0	150	15000	eurrob1	European Robin	0.1001
+10	Spectrogram 1	1	54.0	57.0	150	15000	comchi1	Common Chiffchaff	0.1898
+11	Spectrogram 1	1	55.0	58.0	150	15000	comchi1	Common Chiffchaff	0.5245

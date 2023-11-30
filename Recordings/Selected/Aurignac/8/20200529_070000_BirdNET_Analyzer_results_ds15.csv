@@ -1,0 +1,95 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	misthr1	Mistle Thrush	0.8605
+2	Spectrogram 1	1	6.0	9.0	150	15000	shttre1	Short-toed Treecreeper	0.3532
+3	Spectrogram 1	1	6.0	9.0	150	15000	comchi1	Common Chiffchaff	0.1940
+4	Spectrogram 1	1	6.0	9.0	150	15000	stodov1	Stock Dove	0.1328
+5	Spectrogram 1	1	9.0	12.0	150	15000	shttre1	Short-toed Treecreeper	0.3685
+6	Spectrogram 1	1	9.0	12.0	150	15000	blackc1	Eurasian Blackcap	0.1267
+7	Spectrogram 1	1	9.0	12.0	150	15000	eugori2	Eurasian Golden Oriole	0.1072
+8	Spectrogram 1	1	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.2146
+9	Spectrogram 1	1	18.0	21.0	150	15000	shttre1	Short-toed Treecreeper	0.6912
+10	Spectrogram 1	1	18.0	21.0	150	15000	comchi1	Common Chiffchaff	0.1844
+11	Spectrogram 1	1	18.0	21.0	150	15000	stodov1	Stock Dove	0.1840
+12	Spectrogram 1	1	18.0	21.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1395
+13	Spectrogram 1	1	18.0	21.0	150	15000	ibechi2	Iberian Chiffchaff	0.1256
+14	Spectrogram 1	1	18.0	21.0	150	15000	eugori2	Eurasian Golden Oriole	0.1164
+15	Spectrogram 1	1	18.0	21.0	150	15000	firecr1	Common Firecrest	0.1097
+16	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1070
+17	Spectrogram 1	1	21.0	24.0	150	15000	shttre1	Short-toed Treecreeper	0.4385
+18	Spectrogram 1	1	21.0	24.0	150	15000	misthr1	Mistle Thrush	0.2359
+19	Spectrogram 1	1	21.0	24.0	150	15000	comchi1	Common Chiffchaff	0.1455
+20	Spectrogram 1	1	21.0	24.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1341
+21	Spectrogram 1	1	21.0	24.0	150	15000	goldcr1	Goldcrest	0.1117
+22	Spectrogram 1	1	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.4275
+23	Spectrogram 1	1	24.0	27.0	150	15000	eugori2	Eurasian Golden Oriole	0.1772
+24	Spectrogram 1	1	27.0	30.0	150	15000	shttre1	Short-toed Treecreeper	0.7849
+25	Spectrogram 1	1	27.0	30.0	150	15000	misthr1	Mistle Thrush	0.1610
+26	Spectrogram 1	1	27.0	30.0	150	15000	eugori2	Eurasian Golden Oriole	0.1137
+27	Spectrogram 1	1	30.0	33.0	150	15000	comchi1	Common Chiffchaff	0.3883
+28	Spectrogram 1	1	30.0	33.0	150	15000	stodov1	Stock Dove	0.1831
+29	Spectrogram 1	1	30.0	33.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1399
+30	Spectrogram 1	1	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.1071
+31	Spectrogram 1	1	30.0	33.0	150	15000	ibechi2	Iberian Chiffchaff	0.1069
+32	Spectrogram 1	1	30.0	33.0	150	15000	comred2	Common Redstart	0.1009
+33	Spectrogram 1	1	33.0	36.0	150	15000	comchi1	Common Chiffchaff	0.3134
+34	Spectrogram 1	1	33.0	36.0	150	15000	ibechi2	Iberian Chiffchaff	0.2917
+35	Spectrogram 1	1	33.0	36.0	150	15000	blackc1	Eurasian Blackcap	0.1746
+36	Spectrogram 1	1	33.0	36.0	150	15000	misthr1	Mistle Thrush	0.1188
+37	Spectrogram 1	1	36.0	39.0	150	15000	eurbul	Eurasian Bullfinch	0.3040
+38	Spectrogram 1	1	36.0	39.0	150	15000	shttre1	Short-toed Treecreeper	0.2854
+39	Spectrogram 1	1	36.0	39.0	150	15000	comchi1	Common Chiffchaff	0.2561
+40	Spectrogram 1	1	36.0	39.0	150	15000	misthr1	Mistle Thrush	0.1817
+41	Spectrogram 1	1	36.0	39.0	150	15000	ibechi2	Iberian Chiffchaff	0.1400
+42	Spectrogram 1	1	36.0	39.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1062
+43	Spectrogram 1	1	36.0	39.0	150	15000	firecr1	Common Firecrest	0.1019
+44	Spectrogram 1	1	39.0	42.0	150	15000	misthr1	Mistle Thrush	0.6158
+45	Spectrogram 1	1	39.0	42.0	150	15000	comchi1	Common Chiffchaff	0.1257
+46	Spectrogram 1	1	39.0	42.0	150	15000	eutdov	European Turtle-Dove	0.1122
+47	Spectrogram 1	1	42.0	45.0	150	15000	blackc1	Eurasian Blackcap	0.3130
+48	Spectrogram 1	1	42.0	45.0	150	15000	stodov1	Stock Dove	0.2214
+49	Spectrogram 1	1	42.0	45.0	150	15000	eugori2	Eurasian Golden Oriole	0.2153
+50	Spectrogram 1	1	42.0	45.0	150	15000	comred2	Common Redstart	0.1440
+51	Spectrogram 1	1	42.0	45.0	150	15000	eutdov	European Turtle-Dove	0.1353
+52	Spectrogram 1	1	42.0	45.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1343
+53	Spectrogram 1	1	42.0	45.0	150	15000	comchi1	Common Chiffchaff	0.1282
+54	Spectrogram 1	1	42.0	45.0	150	15000	ibechi2	Iberian Chiffchaff	0.1242
+55	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1065
+56	Spectrogram 1	1	45.0	48.0	150	15000	comchi1	Common Chiffchaff	0.3372
+57	Spectrogram 1	1	45.0	48.0	150	15000	stodov1	Stock Dove	0.2446
+58	Spectrogram 1	1	45.0	48.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1627
+59	Spectrogram 1	1	45.0	48.0	150	15000	blakit1	Black Kite	0.1558
+60	Spectrogram 1	1	45.0	48.0	150	15000	cowpig1	Common Wood-Pigeon	0.1362
+61	Spectrogram 1	1	45.0	48.0	150	15000	ibechi2	Iberian Chiffchaff	0.1078
+62	Spectrogram 1	1	45.0	48.0	150	15000	shttre1	Short-toed Treecreeper	0.1003
+63	Spectrogram 1	1	48.0	51.0	150	15000	comchi1	Common Chiffchaff	0.4042
+64	Spectrogram 1	1	48.0	51.0	150	15000	blackc1	Eurasian Blackcap	0.2782
+65	Spectrogram 1	1	48.0	51.0	150	15000	stodov1	Stock Dove	0.2555
+66	Spectrogram 1	1	48.0	51.0	150	15000	ibechi2	Iberian Chiffchaff	0.1481
+67	Spectrogram 1	1	48.0	51.0	150	15000	cowpig1	Common Wood-Pigeon	0.1417
+68	Spectrogram 1	1	48.0	51.0	150	15000	eugori2	Eurasian Golden Oriole	0.1348
+69	Spectrogram 1	1	48.0	51.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1238
+70	Spectrogram 1	1	48.0	51.0	150	15000	blakit1	Black Kite	0.1011
+71	Spectrogram 1	1	51.0	54.0	150	15000	comchi1	Common Chiffchaff	0.2788
+72	Spectrogram 1	1	51.0	54.0	150	15000	shttre1	Short-toed Treecreeper	0.2121
+73	Spectrogram 1	1	51.0	54.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1591
+74	Spectrogram 1	1	51.0	54.0	150	15000	ibechi2	Iberian Chiffchaff	0.1338
+75	Spectrogram 1	1	51.0	54.0	150	15000	stodov1	Stock Dove	0.1208
+76	Spectrogram 1	1	51.0	54.0	150	15000	eugori2	Eurasian Golden Oriole	0.1144
+77	Spectrogram 1	1	51.0	54.0	150	15000	martit2	Marsh Tit	0.1099
+78	Spectrogram 1	1	54.0	57.0	150	15000	blackc1	Eurasian Blackcap	0.3402
+79	Spectrogram 1	1	54.0	57.0	150	15000	comchi1	Common Chiffchaff	0.2928
+80	Spectrogram 1	1	54.0	57.0	150	15000	eugori2	Eurasian Golden Oriole	0.1465
+81	Spectrogram 1	1	54.0	57.0	150	15000	ibechi2	Iberian Chiffchaff	0.1383
+82	Spectrogram 1	1	54.0	57.0	150	15000	stodov1	Stock Dove	0.1248
+83	Spectrogram 1	1	54.0	57.0	150	15000	eutdov	European Turtle-Dove	0.1207
+84	Spectrogram 1	1	54.0	57.0	150	15000	cowpig1	Common Wood-Pigeon	0.1163
+85	Spectrogram 1	1	54.0	57.0	150	15000	comred2	Common Redstart	0.1029
+86	Spectrogram 1	1	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.1024
+87	Spectrogram 1	1	54.0	57.0	150	15000	garwar1	Garden Warbler	0.1015
+88	Spectrogram 1	1	54.0	57.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1009
+89	Spectrogram 1	1	57.0	60.0	150	15000	misthr1	Mistle Thrush	0.3417
+90	Spectrogram 1	1	57.0	60.0	150	15000	comchi1	Common Chiffchaff	0.2341
+91	Spectrogram 1	1	57.0	60.0	150	15000	blackc1	Eurasian Blackcap	0.1465
+92	Spectrogram 1	1	57.0	60.0	150	15000	stodov1	Stock Dove	0.1307
+93	Spectrogram 1	1	57.0	60.0	150	15000	eugori2	Eurasian Golden Oriole	0.1254
+94	Spectrogram 1	1	57.0	60.0	150	15000	redkit1	Red Kite	0.1117

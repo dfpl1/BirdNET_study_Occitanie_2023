@@ -1,0 +1,185 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	stodov1	Stock Dove	0.1769
+2	Spectrogram 1	1	0	3.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1532
+3	Spectrogram 1	1	0	3.0	150	15000	firecr1	Common Firecrest	0.1467
+4	Spectrogram 1	1	0	3.0	150	15000	comred2	Common Redstart	0.1266
+5	Spectrogram 1	1	0	3.0	150	15000	cowpig1	Common Wood-Pigeon	0.1197
+6	Spectrogram 1	1	0	3.0	150	15000	comcha	Common Chaffinch	0.1148
+7	Spectrogram 1	1	0	3.0	150	15000	grswoo	Great Spotted Woodpecker	0.1123
+8	Spectrogram 1	1	0	3.0	150	15000	carcro1	Carrion Crow	0.1108
+9	Spectrogram 1	1	0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.1055
+10	Spectrogram 1	1	0	3.0	150	15000	combuz1	Common Buzzard	0.1030
+11	Spectrogram 1	1	0	3.0	150	15000	comchi1	Common Chiffchaff	0.1018
+12	Spectrogram 1	1	2.0	5.0	150	15000	firecr1	Common Firecrest	0.3496
+13	Spectrogram 1	1	2.0	5.0	150	15000	comchi1	Common Chiffchaff	0.3118
+14	Spectrogram 1	1	2.0	5.0	150	15000	cowpig1	Common Wood-Pigeon	0.2011
+15	Spectrogram 1	1	2.0	5.0	150	15000	stodov1	Stock Dove	0.1640
+16	Spectrogram 1	1	2.0	5.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1625
+17	Spectrogram 1	1	2.0	5.0	150	15000	shttre1	Short-toed Treecreeper	0.1513
+18	Spectrogram 1	1	2.0	5.0	150	15000	grswoo	Great Spotted Woodpecker	0.1325
+19	Spectrogram 1	1	4.0	7.0	150	15000	comchi1	Common Chiffchaff	0.4894
+20	Spectrogram 1	1	4.0	7.0	150	15000	combuz1	Common Buzzard	0.2208
+21	Spectrogram 1	1	4.0	7.0	150	15000	cowpig1	Common Wood-Pigeon	0.2097
+22	Spectrogram 1	1	4.0	7.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1248
+23	Spectrogram 1	1	4.0	7.0	150	15000	comcuc	Common Cuckoo	0.1178
+24	Spectrogram 1	1	4.0	7.0	150	15000	rinphe	Ring-necked Pheasant	0.1172
+25	Spectrogram 1	1	4.0	7.0	150	15000	stodov1	Stock Dove	0.1071
+26	Spectrogram 1	1	4.0	7.0	150	15000	shttre1	Short-toed Treecreeper	0.1037
+27	Spectrogram 1	1	4.0	7.0	150	15000	grswoo	Great Spotted Woodpecker	0.1035
+28	Spectrogram 1	1	4.0	7.0	150	15000	carcro1	Carrion Crow	0.1024
+29	Spectrogram 1	1	6.0	9.0	150	15000	comchi1	Common Chiffchaff	0.2821
+30	Spectrogram 1	1	6.0	9.0	150	15000	combuz1	Common Buzzard	0.2186
+31	Spectrogram 1	1	6.0	9.0	150	15000	carcro1	Carrion Crow	0.1536
+32	Spectrogram 1	1	6.0	9.0	150	15000	comcha	Common Chaffinch	0.1425
+33	Spectrogram 1	1	6.0	9.0	150	15000	cowpig1	Common Wood-Pigeon	0.1328
+34	Spectrogram 1	1	6.0	9.0	150	15000	eugori2	Eurasian Golden Oriole	0.1271
+35	Spectrogram 1	1	6.0	9.0	150	15000	stodov1	Stock Dove	0.1225
+36	Spectrogram 1	1	6.0	9.0	150	15000	comcuc	Common Cuckoo	0.1100
+37	Spectrogram 1	1	6.0	9.0	150	15000	grswoo	Great Spotted Woodpecker	0.1047
+38	Spectrogram 1	1	8.0	11.0	150	15000	comcha	Common Chaffinch	0.2331
+39	Spectrogram 1	1	8.0	11.0	150	15000	stodov1	Stock Dove	0.2044
+40	Spectrogram 1	1	8.0	11.0	150	15000	grswoo	Great Spotted Woodpecker	0.1469
+41	Spectrogram 1	1	8.0	11.0	150	15000	eugori2	Eurasian Golden Oriole	0.1339
+42	Spectrogram 1	1	8.0	11.0	150	15000	firecr1	Common Firecrest	0.1066
+43	Spectrogram 1	1	10.0	13.0	150	15000	webwar1	Western Bonelli's Warbler	0.1234
+44	Spectrogram 1	1	10.0	13.0	150	15000	comred2	Common Redstart	0.1225
+45	Spectrogram 1	1	10.0	13.0	150	15000	comcuc	Common Cuckoo	0.1198
+46	Spectrogram 1	1	10.0	13.0	150	15000	eurrob1	European Robin	0.1001
+47	Spectrogram 1	1	12.0	15.0	150	15000	eurrob1	European Robin	0.2605
+48	Spectrogram 1	1	12.0	15.0	150	15000	comcuc	Common Cuckoo	0.2441
+49	Spectrogram 1	1	12.0	15.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1313
+50	Spectrogram 1	1	14.0	17.0	150	15000	eugori2	Eurasian Golden Oriole	0.2615
+51	Spectrogram 1	1	14.0	17.0	150	15000	grswoo	Great Spotted Woodpecker	0.1352
+52	Spectrogram 1	1	14.0	17.0	150	15000	stodov1	Stock Dove	0.1013
+53	Spectrogram 1	1	16.0	19.0	150	15000	comcha	Common Chaffinch	0.2286
+54	Spectrogram 1	1	16.0	19.0	150	15000	firecr1	Common Firecrest	0.1620
+55	Spectrogram 1	1	16.0	19.0	150	15000	stodov1	Stock Dove	0.1596
+56	Spectrogram 1	1	16.0	19.0	150	15000	eugori2	Eurasian Golden Oriole	0.1563
+57	Spectrogram 1	1	16.0	19.0	150	15000	combuz1	Common Buzzard	0.1540
+58	Spectrogram 1	1	16.0	19.0	150	15000	grswoo	Great Spotted Woodpecker	0.1247
+59	Spectrogram 1	1	16.0	19.0	150	15000	cowpig1	Common Wood-Pigeon	0.1139
+60	Spectrogram 1	1	18.0	21.0	150	15000	comchi1	Common Chiffchaff	0.2400
+61	Spectrogram 1	1	18.0	21.0	150	15000	stodov1	Stock Dove	0.1875
+62	Spectrogram 1	1	18.0	21.0	150	15000	grswoo	Great Spotted Woodpecker	0.1511
+63	Spectrogram 1	1	18.0	21.0	150	15000	combuz1	Common Buzzard	0.1384
+64	Spectrogram 1	1	18.0	21.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1278
+65	Spectrogram 1	1	18.0	21.0	150	15000	comcha	Common Chaffinch	0.1271
+66	Spectrogram 1	1	18.0	21.0	150	15000	eugori2	Eurasian Golden Oriole	0.1177
+67	Spectrogram 1	1	18.0	21.0	150	15000	shttre1	Short-toed Treecreeper	0.1142
+68	Spectrogram 1	1	18.0	21.0	150	15000	firecr1	Common Firecrest	0.1058
+69	Spectrogram 1	1	18.0	21.0	150	15000	rinphe	Ring-necked Pheasant	0.1005
+70	Spectrogram 1	1	20.0	23.0	150	15000	comchi1	Common Chiffchaff	0.4764
+71	Spectrogram 1	1	20.0	23.0	150	15000	stodov1	Stock Dove	0.1491
+72	Spectrogram 1	1	20.0	23.0	150	15000	grswoo	Great Spotted Woodpecker	0.1443
+73	Spectrogram 1	1	20.0	23.0	150	15000	carcro1	Carrion Crow	0.1169
+74	Spectrogram 1	1	20.0	23.0	150	15000	combuz1	Common Buzzard	0.1011
+75	Spectrogram 1	1	22.0	25.0	150	15000	comchi1	Common Chiffchaff	0.4733
+76	Spectrogram 1	1	22.0	25.0	150	15000	stodov1	Stock Dove	0.2448
+77	Spectrogram 1	1	22.0	25.0	150	15000	eugori2	Eurasian Golden Oriole	0.2006
+78	Spectrogram 1	1	22.0	25.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1357
+79	Spectrogram 1	1	22.0	25.0	150	15000	combuz1	Common Buzzard	0.1256
+80	Spectrogram 1	1	22.0	25.0	150	15000	cowpig1	Common Wood-Pigeon	0.1217
+81	Spectrogram 1	1	24.0	27.0	150	15000	comchi1	Common Chiffchaff	0.4255
+82	Spectrogram 1	1	24.0	27.0	150	15000	stodov1	Stock Dove	0.2561
+83	Spectrogram 1	1	24.0	27.0	150	15000	eugori2	Eurasian Golden Oriole	0.2373
+84	Spectrogram 1	1	24.0	27.0	150	15000	cowpig1	Common Wood-Pigeon	0.2303
+85	Spectrogram 1	1	24.0	27.0	150	15000	combuz1	Common Buzzard	0.2263
+86	Spectrogram 1	1	24.0	27.0	150	15000	grswoo	Great Spotted Woodpecker	0.1560
+87	Spectrogram 1	1	24.0	27.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1376
+88	Spectrogram 1	1	24.0	27.0	150	15000	carcro1	Carrion Crow	0.1142
+89	Spectrogram 1	1	26.0	29.0	150	15000	comcha	Common Chaffinch	0.2705
+90	Spectrogram 1	1	26.0	29.0	150	15000	comchi1	Common Chiffchaff	0.1776
+91	Spectrogram 1	1	26.0	29.0	150	15000	firecr1	Common Firecrest	0.1684
+92	Spectrogram 1	1	26.0	29.0	150	15000	cowpig1	Common Wood-Pigeon	0.1612
+93	Spectrogram 1	1	26.0	29.0	150	15000	combuz1	Common Buzzard	0.1437
+94	Spectrogram 1	1	26.0	29.0	150	15000	stodov1	Stock Dove	0.1318
+95	Spectrogram 1	1	26.0	29.0	150	15000	grswoo	Great Spotted Woodpecker	0.1313
+96	Spectrogram 1	1	26.0	29.0	150	15000	eugori2	Eurasian Golden Oriole	0.1158
+97	Spectrogram 1	1	26.0	29.0	150	15000	carcro1	Carrion Crow	0.1093
+98	Spectrogram 1	1	28.0	31.0	150	15000	eugori2	Eurasian Golden Oriole	0.2685
+99	Spectrogram 1	1	28.0	31.0	150	15000	shttre1	Short-toed Treecreeper	0.2042
+100	Spectrogram 1	1	28.0	31.0	150	15000	combuz1	Common Buzzard	0.1762
+101	Spectrogram 1	1	28.0	31.0	150	15000	firecr1	Common Firecrest	0.1747
+102	Spectrogram 1	1	28.0	31.0	150	15000	cowpig1	Common Wood-Pigeon	0.1501
+103	Spectrogram 1	1	28.0	31.0	150	15000	grswoo	Great Spotted Woodpecker	0.1076
+104	Spectrogram 1	1	28.0	31.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1001
+105	Spectrogram 1	1	30.0	33.0	150	15000	eugori2	Eurasian Golden Oriole	0.3226
+106	Spectrogram 1	1	30.0	33.0	150	15000	shttre1	Short-toed Treecreeper	0.2659
+107	Spectrogram 1	1	30.0	33.0	150	15000	comchi1	Common Chiffchaff	0.2453
+108	Spectrogram 1	1	30.0	33.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1611
+109	Spectrogram 1	1	30.0	33.0	150	15000	stodov1	Stock Dove	0.1305
+110	Spectrogram 1	1	30.0	33.0	150	15000	combuz1	Common Buzzard	0.1295
+111	Spectrogram 1	1	32.0	35.0	150	15000	comcha	Common Chaffinch	0.3018
+112	Spectrogram 1	1	32.0	35.0	150	15000	comchi1	Common Chiffchaff	0.3012
+113	Spectrogram 1	1	32.0	35.0	150	15000	cowpig1	Common Wood-Pigeon	0.1701
+114	Spectrogram 1	1	32.0	35.0	150	15000	stodov1	Stock Dove	0.1389
+115	Spectrogram 1	1	32.0	35.0	150	15000	comred2	Common Redstart	0.1306
+116	Spectrogram 1	1	32.0	35.0	150	15000	shttre1	Short-toed Treecreeper	0.1117
+117	Spectrogram 1	1	32.0	35.0	150	15000	eugori2	Eurasian Golden Oriole	0.1067
+118	Spectrogram 1	1	32.0	35.0	150	15000	comcuc	Common Cuckoo	0.1037
+119	Spectrogram 1	1	34.0	37.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.4204
+120	Spectrogram 1	1	34.0	37.0	150	15000	comcha	Common Chaffinch	0.1552
+121	Spectrogram 1	1	34.0	37.0	150	15000	comchi1	Common Chiffchaff	0.1230
+122	Spectrogram 1	1	36.0	39.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.5950
+123	Spectrogram 1	1	36.0	39.0	150	15000	eugori2	Eurasian Golden Oriole	0.2226
+124	Spectrogram 1	1	36.0	39.0	150	15000	comchi1	Common Chiffchaff	0.1489
+125	Spectrogram 1	1	36.0	39.0	150	15000	grswoo	Great Spotted Woodpecker	0.1218
+126	Spectrogram 1	1	36.0	39.0	150	15000	stodov1	Stock Dove	0.1206
+127	Spectrogram 1	1	38.0	41.0	150	15000	firecr1	Common Firecrest	0.3924
+128	Spectrogram 1	1	38.0	41.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.3841
+129	Spectrogram 1	1	38.0	41.0	150	15000	grswoo	Great Spotted Woodpecker	0.1301
+130	Spectrogram 1	1	38.0	41.0	150	15000	cowpig1	Common Wood-Pigeon	0.1158
+131	Spectrogram 1	1	40.0	43.0	150	15000	shttre1	Short-toed Treecreeper	0.7504
+132	Spectrogram 1	1	40.0	43.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1074
+133	Spectrogram 1	1	42.0	45.0	150	15000	comcha	Common Chaffinch	0.2108
+134	Spectrogram 1	1	42.0	45.0	150	15000	shttre1	Short-toed Treecreeper	0.1949
+135	Spectrogram 1	1	42.0	45.0	150	15000	combuz1	Common Buzzard	0.1065
+136	Spectrogram 1	1	42.0	45.0	150	15000	stodov1	Stock Dove	0.1030
+137	Spectrogram 1	1	44.0	47.0	150	15000	comcha	Common Chaffinch	0.3004
+138	Spectrogram 1	1	44.0	47.0	150	15000	stodov1	Stock Dove	0.1766
+139	Spectrogram 1	1	44.0	47.0	150	15000	comchi1	Common Chiffchaff	0.1362
+140	Spectrogram 1	1	44.0	47.0	150	15000	eugori2	Eurasian Golden Oriole	0.1198
+141	Spectrogram 1	1	44.0	47.0	150	15000	grswoo	Great Spotted Woodpecker	0.1095
+142	Spectrogram 1	1	46.0	49.0	150	15000	comchi1	Common Chiffchaff	0.4778
+143	Spectrogram 1	1	46.0	49.0	150	15000	firecr1	Common Firecrest	0.4324
+144	Spectrogram 1	1	46.0	49.0	150	15000	cowpig1	Common Wood-Pigeon	0.1985
+145	Spectrogram 1	1	46.0	49.0	150	15000	stodov1	Stock Dove	0.1461
+146	Spectrogram 1	1	46.0	49.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1372
+147	Spectrogram 1	1	46.0	49.0	150	15000	grswoo	Great Spotted Woodpecker	0.1215
+148	Spectrogram 1	1	46.0	49.0	150	15000	combuz1	Common Buzzard	0.1032
+149	Spectrogram 1	1	48.0	51.0	150	15000	eugori2	Eurasian Golden Oriole	0.7032
+150	Spectrogram 1	1	48.0	51.0	150	15000	firecr1	Common Firecrest	0.3167
+151	Spectrogram 1	1	48.0	51.0	150	15000	cowpig1	Common Wood-Pigeon	0.1874
+152	Spectrogram 1	1	48.0	51.0	150	15000	comchi1	Common Chiffchaff	0.1320
+153	Spectrogram 1	1	48.0	51.0	150	15000	combuz1	Common Buzzard	0.1239
+154	Spectrogram 1	1	48.0	51.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1150
+155	Spectrogram 1	1	48.0	51.0	150	15000	comcuc	Common Cuckoo	0.1115
+156	Spectrogram 1	1	50.0	53.0	150	15000	eugori2	Eurasian Golden Oriole	0.2838
+157	Spectrogram 1	1	50.0	53.0	150	15000	comcuc	Common Cuckoo	0.1735
+158	Spectrogram 1	1	50.0	53.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1663
+159	Spectrogram 1	1	50.0	53.0	150	15000	eurjay1	Eurasian Jay	0.1006
+160	Spectrogram 1	1	52.0	55.0	150	15000	shttre1	Short-toed Treecreeper	0.5538
+161	Spectrogram 1	1	52.0	55.0	150	15000	comcuc	Common Cuckoo	0.4990
+162	Spectrogram 1	1	52.0	55.0	150	15000	cowpig1	Common Wood-Pigeon	0.1367
+163	Spectrogram 1	1	54.0	57.0	150	15000	comcuc	Common Cuckoo	0.3140
+164	Spectrogram 1	1	54.0	57.0	150	15000	eugori2	Eurasian Golden Oriole	0.2644
+165	Spectrogram 1	1	54.0	57.0	150	15000	shttre1	Short-toed Treecreeper	0.2542
+166	Spectrogram 1	1	54.0	57.0	150	15000	stodov1	Stock Dove	0.1809
+167	Spectrogram 1	1	54.0	57.0	150	15000	cowpig1	Common Wood-Pigeon	0.1128
+168	Spectrogram 1	1	56.0	59.0	150	15000	comcuc	Common Cuckoo	0.3299
+169	Spectrogram 1	1	56.0	59.0	150	15000	comcha	Common Chaffinch	0.2846
+170	Spectrogram 1	1	56.0	59.0	150	15000	eugori2	Eurasian Golden Oriole	0.1225
+171	Spectrogram 1	1	58.0	61.0	150	15000	comcha	Common Chaffinch	0.3345
+172	Spectrogram 1	1	58.0	61.0	150	15000	comcuc	Common Cuckoo	0.2342
+173	Spectrogram 1	1	58.0	61.0	150	15000	grswoo	Great Spotted Woodpecker	0.1789
+174	Spectrogram 1	1	58.0	61.0	150	15000	firecr1	Common Firecrest	0.1510
+175	Spectrogram 1	1	58.0	61.0	150	15000	stodov1	Stock Dove	0.1502
+176	Spectrogram 1	1	58.0	61.0	150	15000	cowpig1	Common Wood-Pigeon	0.1499
+177	Spectrogram 1	1	58.0	61.0	150	15000	eurnut2	Eurasian Nuthatch	0.1292
+178	Spectrogram 1	1	58.0	61.0	150	15000	misthr1	Mistle Thrush	0.1287
+179	Spectrogram 1	1	58.0	61.0	150	15000	webwar1	Western Bonelli's Warbler	0.1276
+180	Spectrogram 1	1	58.0	61.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1230
+181	Spectrogram 1	1	58.0	61.0	150	15000	eugori2	Eurasian Golden Oriole	0.1227
+182	Spectrogram 1	1	58.0	61.0	150	15000	eurbla	Eurasian Blackbird	0.1065
+183	Spectrogram 1	1	58.0	61.0	150	15000	shttre1	Short-toed Treecreeper	0.1053
+184	Spectrogram 1	1	58.0	61.0	150	15000	combuz1	Common Buzzard	0.1020

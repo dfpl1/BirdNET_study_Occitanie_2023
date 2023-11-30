@@ -1,0 +1,123 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	blackc1	Eurasian Blackcap	0.2833
+2	Spectrogram 1	1	0	3.0	150	15000	eurrob1	European Robin	0.2814
+3	Spectrogram 1	1	0	3.0	150	15000	comred2	Common Redstart	0.1762
+4	Spectrogram 1	1	2.0	5.0	150	15000	eurrob1	European Robin	0.5955
+5	Spectrogram 1	1	2.0	5.0	150	15000	comred2	Common Redstart	0.4494
+6	Spectrogram 1	1	2.0	5.0	150	15000	eupfly1	European Pied Flycatcher	0.1914
+7	Spectrogram 1	1	4.0	7.0	150	15000	comred2	Common Redstart	0.2076
+8	Spectrogram 1	1	4.0	7.0	150	15000	spofly1	Spotted Flycatcher	0.1653
+9	Spectrogram 1	1	4.0	7.0	150	15000	blackc1	Eurasian Blackcap	0.1419
+10	Spectrogram 1	1	4.0	7.0	150	15000	rebshr1	Red-backed Shrike	0.1299
+11	Spectrogram 1	1	4.0	7.0	150	15000	eupfly1	European Pied Flycatcher	0.1078
+12	Spectrogram 1	1	4.0	7.0	150	15000	eugori2	Eurasian Golden Oriole	0.1048
+13	Spectrogram 1	1	6.0	9.0	150	15000	comred2	Common Redstart	0.2450
+14	Spectrogram 1	1	6.0	9.0	150	15000	spofly1	Spotted Flycatcher	0.1677
+15	Spectrogram 1	1	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.1616
+16	Spectrogram 1	1	6.0	9.0	150	15000	rebshr1	Red-backed Shrike	0.1504
+17	Spectrogram 1	1	6.0	9.0	150	15000	sposta1	Spotless Starling	0.1366
+18	Spectrogram 1	1	6.0	9.0	150	15000	eugori2	Eurasian Golden Oriole	0.1267
+19	Spectrogram 1	1	6.0	9.0	150	15000	garwar1	Garden Warbler	0.1167
+20	Spectrogram 1	1	6.0	9.0	150	15000	eurwry	Eurasian Wryneck	0.1114
+21	Spectrogram 1	1	8.0	11.0	150	15000	eubeat1	European Bee-eater	0.6441
+22	Spectrogram 1	1	8.0	11.0	150	15000	woolar1	Wood Lark	0.1318
+23	Spectrogram 1	1	8.0	11.0	150	15000	melwar1	Melodious Warbler	0.1242
+24	Spectrogram 1	1	10.0	13.0	150	15000	garwar1	Garden Warbler	0.4980
+25	Spectrogram 1	1	10.0	13.0	150	15000	eubeat1	European Bee-eater	0.2925
+26	Spectrogram 1	1	10.0	13.0	150	15000	melwar1	Melodious Warbler	0.2787
+27	Spectrogram 1	1	10.0	13.0	150	15000	blackc1	Eurasian Blackcap	0.2640
+28	Spectrogram 1	1	10.0	13.0	150	15000	subwar6	Western Subalpine Warbler	0.1255
+29	Spectrogram 1	1	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.7055
+30	Spectrogram 1	1	12.0	15.0	150	15000	garwar1	Garden Warbler	0.1759
+31	Spectrogram 1	1	12.0	15.0	150	15000	eubeat1	European Bee-eater	0.1477
+32	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.1686
+33	Spectrogram 1	1	14.0	17.0	150	15000	eubeat1	European Bee-eater	0.1445
+34	Spectrogram 1	1	16.0	19.0	150	15000	eubeat1	European Bee-eater	0.1886
+35	Spectrogram 1	1	16.0	19.0	150	15000	yellow2	Yellowhammer	0.1598
+36	Spectrogram 1	1	16.0	19.0	150	15000	blutit	Eurasian Blue Tit	0.1453
+37	Spectrogram 1	1	18.0	21.0	150	15000	eubeat1	European Bee-eater	0.6978
+38	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1401
+39	Spectrogram 1	1	18.0	21.0	150	15000	cirbun1	Cirl Bunting	0.1333
+40	Spectrogram 1	1	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.1308
+41	Spectrogram 1	1	18.0	21.0	150	15000	comred2	Common Redstart	0.1207
+42	Spectrogram 1	1	18.0	21.0	150	15000	eurwry	Eurasian Wryneck	0.1167
+43	Spectrogram 1	1	18.0	21.0	150	15000	garwar1	Garden Warbler	0.1141
+44	Spectrogram 1	1	18.0	21.0	150	15000	eugori2	Eurasian Golden Oriole	0.1115
+45	Spectrogram 1	1	20.0	23.0	150	15000	eubeat1	European Bee-eater	0.8139
+46	Spectrogram 1	1	20.0	23.0	150	15000	wooshr1	Woodchat Shrike	0.2021
+47	Spectrogram 1	1	20.0	23.0	150	15000	eurwry	Eurasian Wryneck	0.1170
+48	Spectrogram 1	1	22.0	25.0	150	15000	eubeat1	European Bee-eater	0.8424
+49	Spectrogram 1	1	22.0	25.0	150	15000	wooshr1	Woodchat Shrike	0.2283
+50	Spectrogram 1	1	22.0	25.0	150	15000	sarwar1	Sardinian Warbler	0.1773
+51	Spectrogram 1	1	22.0	25.0	150	15000	blackc1	Eurasian Blackcap	0.1715
+52	Spectrogram 1	1	22.0	25.0	150	15000	comnig1	Common Nightingale	0.1444
+53	Spectrogram 1	1	22.0	25.0	150	15000	melwar1	Melodious Warbler	0.1223
+54	Spectrogram 1	1	22.0	25.0	150	15000	garwar1	Garden Warbler	0.1076
+55	Spectrogram 1	1	22.0	25.0	150	15000	rebshr1	Red-backed Shrike	0.1074
+56	Spectrogram 1	1	22.0	25.0	150	15000	subwar6	Western Subalpine Warbler	0.1016
+57	Spectrogram 1	1	24.0	27.0	150	15000	eubeat1	European Bee-eater	0.5771
+58	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.1340
+59	Spectrogram 1	1	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.1256
+60	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.2789
+61	Spectrogram 1	1	26.0	29.0	150	15000	garwar1	Garden Warbler	0.1966
+62	Spectrogram 1	1	26.0	29.0	150	15000	eubeat1	European Bee-eater	0.1486
+63	Spectrogram 1	1	26.0	29.0	150	15000	comnig1	Common Nightingale	0.1100
+64	Spectrogram 1	1	28.0	31.0	150	15000	blackc1	Eurasian Blackcap	0.3787
+65	Spectrogram 1	1	32.0	35.0	150	15000	eubeat1	European Bee-eater	0.9090
+66	Spectrogram 1	1	32.0	35.0	150	15000	eurwry	Eurasian Wryneck	0.1147
+67	Spectrogram 1	1	32.0	35.0	150	15000	cirbun1	Cirl Bunting	0.1108
+68	Spectrogram 1	1	34.0	37.0	150	15000	eubeat1	European Bee-eater	0.9061
+69	Spectrogram 1	1	34.0	37.0	150	15000	eurwry	Eurasian Wryneck	0.1328
+70	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.2089
+71	Spectrogram 1	1	36.0	39.0	150	15000	ibechi2	Iberian Chiffchaff	0.1527
+72	Spectrogram 1	1	36.0	39.0	150	15000	comred2	Common Redstart	0.1367
+73	Spectrogram 1	1	36.0	39.0	150	15000	eurwry	Eurasian Wryneck	0.1207
+74	Spectrogram 1	1	38.0	41.0	150	15000	blackc1	Eurasian Blackcap	0.3853
+75	Spectrogram 1	1	38.0	41.0	150	15000	eupfly1	European Pied Flycatcher	0.2004
+76	Spectrogram 1	1	38.0	41.0	150	15000	garwar1	Garden Warbler	0.1733
+77	Spectrogram 1	1	38.0	41.0	150	15000	eurbul	Eurasian Bullfinch	0.1644
+78	Spectrogram 1	1	38.0	41.0	150	15000	comred2	Common Redstart	0.1634
+79	Spectrogram 1	1	38.0	41.0	150	15000	sonthr1	Song Thrush	0.1285
+80	Spectrogram 1	1	38.0	41.0	150	15000	grewhi1	Greater Whitethroat	0.1028
+81	Spectrogram 1	1	40.0	43.0	150	15000	blackc1	Eurasian Blackcap	0.1053
+82	Spectrogram 1	1	44.0	47.0	150	15000	eubeat1	European Bee-eater	0.8246
+83	Spectrogram 1	1	44.0	47.0	150	15000	wooshr1	Woodchat Shrike	0.1255
+84	Spectrogram 1	1	46.0	49.0	150	15000	eubeat1	European Bee-eater	0.8578
+85	Spectrogram 1	1	46.0	49.0	150	15000	eugori2	Eurasian Golden Oriole	0.1027
+86	Spectrogram 1	1	46.0	49.0	150	15000	booeag1	Booted Eagle	0.1011
+87	Spectrogram 1	1	48.0	51.0	150	15000	eubeat1	European Bee-eater	0.8104
+88	Spectrogram 1	1	48.0	51.0	150	15000	garwar1	Garden Warbler	0.2266
+89	Spectrogram 1	1	48.0	51.0	150	15000	comred2	Common Redstart	0.2099
+90	Spectrogram 1	1	48.0	51.0	150	15000	spofly1	Spotted Flycatcher	0.1788
+91	Spectrogram 1	1	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.1687
+92	Spectrogram 1	1	48.0	51.0	150	15000	eugori2	Eurasian Golden Oriole	0.1586
+93	Spectrogram 1	1	48.0	51.0	150	15000	webwar1	Western Bonelli's Warbler	0.1469
+94	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.1191
+95	Spectrogram 1	1	48.0	51.0	150	15000	firecr1	Common Firecrest	0.1054
+96	Spectrogram 1	1	50.0	53.0	150	15000	blackc1	Eurasian Blackcap	0.3294
+97	Spectrogram 1	1	50.0	53.0	150	15000	garwar1	Garden Warbler	0.3055
+98	Spectrogram 1	1	50.0	53.0	150	15000	comnig1	Common Nightingale	0.2368
+99	Spectrogram 1	1	50.0	53.0	150	15000	eubeat1	European Bee-eater	0.1884
+100	Spectrogram 1	1	50.0	53.0	150	15000	melwar1	Melodious Warbler	0.1772
+101	Spectrogram 1	1	50.0	53.0	150	15000	cetwar1	Cetti's Warbler	0.1732
+102	Spectrogram 1	1	50.0	53.0	150	15000	rebshr1	Red-backed Shrike	0.1500
+103	Spectrogram 1	1	50.0	53.0	150	15000	comred2	Common Redstart	0.1199
+104	Spectrogram 1	1	50.0	53.0	150	15000	webwar1	Western Bonelli's Warbler	0.1130
+105	Spectrogram 1	1	50.0	53.0	150	15000	spofly1	Spotted Flycatcher	0.1113
+106	Spectrogram 1	1	50.0	53.0	150	15000	eugori2	Eurasian Golden Oriole	0.1081
+107	Spectrogram 1	1	52.0	55.0	150	15000	blackc1	Eurasian Blackcap	0.5549
+108	Spectrogram 1	1	52.0	55.0	150	15000	garwar1	Garden Warbler	0.1500
+109	Spectrogram 1	1	52.0	55.0	150	15000	eupfly1	European Pied Flycatcher	0.1120
+110	Spectrogram 1	1	54.0	57.0	150	15000	eurrob1	European Robin	0.2989
+111	Spectrogram 1	1	56.0	59.0	150	15000	eubeat1	European Bee-eater	0.4398
+112	Spectrogram 1	1	56.0	59.0	150	15000	wooshr1	Woodchat Shrike	0.2887
+113	Spectrogram 1	1	56.0	59.0	150	15000	webwar1	Western Bonelli's Warbler	0.1775
+114	Spectrogram 1	1	56.0	59.0	150	15000	eurwry	Eurasian Wryneck	0.1629
+115	Spectrogram 1	1	56.0	59.0	150	15000	sposta1	Spotless Starling	0.1221
+116	Spectrogram 1	1	58.0	61.0	150	15000	eubeat1	European Bee-eater	0.3204
+117	Spectrogram 1	1	58.0	61.0	150	15000	blackc1	Eurasian Blackcap	0.1979
+118	Spectrogram 1	1	58.0	61.0	150	15000	webwar1	Western Bonelli's Warbler	0.1490
+119	Spectrogram 1	1	58.0	61.0	150	15000	eurwry	Eurasian Wryneck	0.1360
+120	Spectrogram 1	1	58.0	61.0	150	15000	eugori2	Eurasian Golden Oriole	0.1325
+121	Spectrogram 1	1	58.0	61.0	150	15000	ibechi2	Iberian Chiffchaff	0.1232
+122	Spectrogram 1	1	58.0	61.0	150	15000	garwar1	Garden Warbler	0.1125

@@ -1,0 +1,70 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	gretit1	Great Tit	0.1672
+2	Spectrogram 1	1	2.0	5.0	150	15000	grnsan	Green Sandpiper	0.1082
+3	Spectrogram 1	1	4.0	7.0	150	15000	blared1	Black Redstart	0.1019
+4	Spectrogram 1	1	6.0	9.0	150	15000	reebun	Reed Bunting	0.2247
+5	Spectrogram 1	1	6.0	9.0	150	15000	gretit1	Great Tit	0.2241
+6	Spectrogram 1	1	6.0	9.0	150	15000	cirbun1	Cirl Bunting	0.1665
+7	Spectrogram 1	1	6.0	9.0	150	15000	shttre1	Short-toed Treecreeper	0.1422
+8	Spectrogram 1	1	6.0	9.0	150	15000	trepip	Tree Pipit	0.1385
+9	Spectrogram 1	1	6.0	9.0	150	15000	coatit2	Coal Tit	0.1259
+10	Spectrogram 1	1	6.0	9.0	150	15000	webwar1	Western Bonelli's Warbler	0.1156
+11	Spectrogram 1	1	6.0	9.0	150	15000	blutit	Eurasian Blue Tit	0.1007
+12	Spectrogram 1	1	8.0	11.0	150	15000	trepip	Tree Pipit	0.1421
+13	Spectrogram 1	1	8.0	11.0	150	15000	reebun	Reed Bunting	0.1124
+14	Spectrogram 1	1	10.0	13.0	150	15000	gretit1	Great Tit	0.1280
+15	Spectrogram 1	1	16.0	19.0	150	15000	tawpip1	Tawny Pipit	0.1089
+16	Spectrogram 1	1	18.0	21.0	150	15000	gretit1	Great Tit	0.2694
+17	Spectrogram 1	1	18.0	21.0	150	15000	carcro1	Carrion Crow	0.1604
+18	Spectrogram 1	1	20.0	23.0	150	15000	carcro1	Carrion Crow	0.3091
+19	Spectrogram 1	1	22.0	25.0	150	15000	comnig1	Common Nightingale	0.1264
+20	Spectrogram 1	1	22.0	25.0	150	15000	trepip	Tree Pipit	0.1139
+21	Spectrogram 1	1	24.0	27.0	150	15000	carcro1	Carrion Crow	0.5029
+22	Spectrogram 1	1	24.0	27.0	150	15000	eurjac	Eurasian Jackdaw	0.1350
+23	Spectrogram 1	1	26.0	29.0	150	15000	carcro1	Carrion Crow	0.4390
+24	Spectrogram 1	1	26.0	29.0	150	15000	eurjac	Eurasian Jackdaw	0.1146
+25	Spectrogram 1	1	28.0	31.0	150	15000	banswa	Bank Swallow	0.1309
+26	Spectrogram 1	1	30.0	33.0	150	15000	carcro1	Carrion Crow	0.4942
+27	Spectrogram 1	1	32.0	35.0	150	15000	carcro1	Carrion Crow	0.3756
+28	Spectrogram 1	1	32.0	35.0	150	15000	eurjac	Eurasian Jackdaw	0.1261
+29	Spectrogram 1	1	34.0	37.0	150	15000	carcro1	Carrion Crow	0.4376
+30	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.5931
+31	Spectrogram 1	1	36.0	39.0	150	15000	shttre1	Short-toed Treecreeper	0.1045
+32	Spectrogram 1	1	38.0	41.0	150	15000	carcro1	Carrion Crow	0.5905
+33	Spectrogram 1	1	38.0	41.0	150	15000	eurjac	Eurasian Jackdaw	0.1112
+34	Spectrogram 1	1	38.0	41.0	150	15000	rocbun1	Rock Bunting	0.1005
+35	Spectrogram 1	1	40.0	43.0	150	15000	carcro1	Carrion Crow	0.1202
+36	Spectrogram 1	1	40.0	43.0	150	15000	eurjay1	Eurasian Jay	0.1201
+37	Spectrogram 1	1	42.0	45.0	150	15000	carcro1	Carrion Crow	0.3665
+38	Spectrogram 1	1	42.0	45.0	150	15000	eurjac	Eurasian Jackdaw	0.1181
+39	Spectrogram 1	1	44.0	47.0	150	15000	sposta1	Spotless Starling	0.1129
+40	Spectrogram 1	1	44.0	47.0	150	15000	lottit1	Long-tailed Tit	0.1071
+41	Spectrogram 1	1	46.0	49.0	150	15000	misthr1	Mistle Thrush	0.1617
+42	Spectrogram 1	1	46.0	49.0	150	15000	leskes1	Lesser Kestrel	0.1584
+43	Spectrogram 1	1	46.0	49.0	150	15000	banswa	Bank Swallow	0.1250
+44	Spectrogram 1	1	46.0	49.0	150	15000	wooshr1	Woodchat Shrike	0.1172
+45	Spectrogram 1	1	46.0	49.0	150	15000	eurbul	Eurasian Bullfinch	0.1126
+46	Spectrogram 1	1	48.0	51.0	150	15000	rocbun1	Rock Bunting	0.1203
+47	Spectrogram 1	1	48.0	51.0	150	15000	cirbun1	Cirl Bunting	0.1127
+48	Spectrogram 1	1	48.0	51.0	150	15000	rerswa1	Red-rumped Swallow	0.1021
+49	Spectrogram 1	1	48.0	51.0	150	15000	eurgol	European Goldfinch	0.1011
+50	Spectrogram 1	1	50.0	53.0	150	15000	rocbun1	Rock Bunting	0.1113
+51	Spectrogram 1	1	52.0	55.0	150	15000	gretit1	Great Tit	0.2878
+52	Spectrogram 1	1	52.0	55.0	150	15000	martit2	Marsh Tit	0.2318
+53	Spectrogram 1	1	52.0	55.0	150	15000	shttre1	Short-toed Treecreeper	0.1111
+54	Spectrogram 1	1	52.0	55.0	150	15000	coatit2	Coal Tit	0.1041
+55	Spectrogram 1	1	54.0	57.0	150	15000	hawfin	Hawfinch	0.1627
+56	Spectrogram 1	1	54.0	57.0	150	15000	redkit1	Red Kite	0.1142
+57	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.1092
+58	Spectrogram 1	1	56.0	59.0	150	15000	webwar1	Western Bonelli's Warbler	0.1744
+59	Spectrogram 1	1	56.0	59.0	150	15000	redkit1	Red Kite	0.1689
+60	Spectrogram 1	1	56.0	59.0	150	15000	rocbun1	Rock Bunting	0.1618
+61	Spectrogram 1	1	56.0	59.0	150	15000	shttre1	Short-toed Treecreeper	0.1600
+62	Spectrogram 1	1	56.0	59.0	150	15000	cirbun1	Cirl Bunting	0.1492
+63	Spectrogram 1	1	56.0	59.0	150	15000	spaspa1	Spanish Sparrow	0.1428
+64	Spectrogram 1	1	56.0	59.0	150	15000	trepip	Tree Pipit	0.1377
+65	Spectrogram 1	1	56.0	59.0	150	15000	booeag1	Booted Eagle	0.1331
+66	Spectrogram 1	1	56.0	59.0	150	15000	blakit1	Black Kite	0.1285
+67	Spectrogram 1	1	56.0	59.0	150	15000	firecr1	Common Firecrest	0.1194
+68	Spectrogram 1	1	56.0	59.0	150	15000	hawfin	Hawfinch	0.1170
+69	Spectrogram 1	1	56.0	59.0	150	15000	wooshr1	Woodchat Shrike	0.1168

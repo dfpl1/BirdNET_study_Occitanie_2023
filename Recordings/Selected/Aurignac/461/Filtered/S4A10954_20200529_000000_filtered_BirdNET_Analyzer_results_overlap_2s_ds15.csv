@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	lottit1	Long-tailed Tit	0.1019
+2	Spectrogram 1	1	4.0	7.0	150	15000	blared1	Black Redstart	0.1006
+3	Spectrogram 1	1	7.0	10.0	150	15000	blared1	Black Redstart	0.1296
+4	Spectrogram 1	1	7.0	10.0	150	15000	grnsan	Green Sandpiper	0.1074
+5	Spectrogram 1	1	7.0	10.0	150	15000	lottit1	Long-tailed Tit	0.1043
+6	Spectrogram 1	1	9.0	12.0	150	15000	blared1	Black Redstart	0.1100
+7	Spectrogram 1	1	9.0	12.0	150	15000	lottit1	Long-tailed Tit	0.1059
+8	Spectrogram 1	1	26.0	29.0	150	15000	lottit1	Long-tailed Tit	0.1154
+9	Spectrogram 1	1	39.0	42.0	150	15000	lottit1	Long-tailed Tit	0.1060
+10	Spectrogram 1	1	43.0	46.0	150	15000	lottit1	Long-tailed Tit	0.1230
+11	Spectrogram 1	1	55.0	58.0	150	15000	blared1	Black Redstart	0.1102
+12	Spectrogram 1	1	56.0	59.0	150	15000	tawowl1	Tawny Owl	0.1131
+13	Spectrogram 1	1	57.0	60.0	150	15000	lottit1	Long-tailed Tit	0.1058
+14	Spectrogram 1	1	58.0	61.0	150	15000	tawowl1	Tawny Owl	0.1052
+15	Spectrogram 1	1	59.0	62.0	150	15000	goldcr1	Goldcrest	0.1504
+16	Spectrogram 1	1	59.0	62.0	150	15000	tawowl1	Tawny Owl	0.1064
+17	Spectrogram 1	1	59.0	62.0	150	15000	eurrob1	European Robin	0.1011

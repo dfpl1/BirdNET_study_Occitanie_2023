@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	blackc1	Eurasian Blackcap	0.5692
+2	Spectrogram 1	1	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.3491
+3	Spectrogram 1	1	7.0	10.0	150	15000	blackc1	Eurasian Blackcap	0.6591
+4	Spectrogram 1	1	8.0	11.0	150	15000	blackc1	Eurasian Blackcap	0.9634
+5	Spectrogram 1	1	9.0	12.0	150	15000	blackc1	Eurasian Blackcap	0.7479
+6	Spectrogram 1	1	13.0	16.0	150	15000	blackc1	Eurasian Blackcap	0.3122
+7	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.1442
+8	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.5472
+9	Spectrogram 1	1	19.0	22.0	150	15000	blackc1	Eurasian Blackcap	0.2830
+10	Spectrogram 1	1	20.0	23.0	150	15000	blackc1	Eurasian Blackcap	0.2674
+11	Spectrogram 1	1	21.0	24.0	150	15000	blackc1	Eurasian Blackcap	0.1151
+12	Spectrogram 1	1	22.0	25.0	150	15000	blackc1	Eurasian Blackcap	0.2193
+13	Spectrogram 1	1	24.0	27.0	150	15000	shttre1	Short-toed Treecreeper	0.5678
+14	Spectrogram 1	1	25.0	28.0	150	15000	shttre1	Short-toed Treecreeper	0.9839
+15	Spectrogram 1	1	26.0	29.0	150	15000	shttre1	Short-toed Treecreeper	0.9731
+16	Spectrogram 1	1	27.0	30.0	150	15000	shttre1	Short-toed Treecreeper	0.7844
+17	Spectrogram 1	1	35.0	38.0	150	15000	shttre1	Short-toed Treecreeper	0.7046
+18	Spectrogram 1	1	36.0	39.0	150	15000	blackc1	Eurasian Blackcap	0.5051
+19	Spectrogram 1	1	37.0	40.0	150	15000	blackc1	Eurasian Blackcap	0.6955
+20	Spectrogram 1	1	38.0	41.0	150	15000	blackc1	Eurasian Blackcap	0.8118
+21	Spectrogram 1	1	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.3420
+22	Spectrogram 1	1	39.0	42.0	150	15000	comcuc	Common Cuckoo	0.1388
+23	Spectrogram 1	1	45.0	48.0	150	15000	blackc1	Eurasian Blackcap	0.3059
+24	Spectrogram 1	1	47.0	50.0	150	15000	blackc1	Eurasian Blackcap	0.3343
+25	Spectrogram 1	1	56.0	59.0	150	15000	comcuc	Common Cuckoo	0.4942
+26	Spectrogram 1	1	58.0	61.0	150	15000	shttre1	Short-toed Treecreeper	0.2892

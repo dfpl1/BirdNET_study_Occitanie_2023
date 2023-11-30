@@ -1,0 +1,262 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	rebshr1	Red-backed Shrike	0.1432
+2	Spectrogram 1	1	0	3.0	150	15000	cowpig1	Common Wood-Pigeon	0.1184
+3	Spectrogram 1	1	0	3.0	150	15000	comcha	Common Chaffinch	0.1043
+4	Spectrogram 1	1	1.0	4.0	150	15000	webwar1	Western Bonelli's Warbler	0.1502
+5	Spectrogram 1	1	1.0	4.0	150	15000	comred2	Common Redstart	0.1289
+6	Spectrogram 1	1	2.0	5.0	150	15000	comred2	Common Redstart	0.4234
+7	Spectrogram 1	1	2.0	5.0	150	15000	webwar1	Western Bonelli's Warbler	0.2830
+8	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.1369
+9	Spectrogram 1	1	2.0	5.0	150	15000	rebshr1	Red-backed Shrike	0.1203
+10	Spectrogram 1	1	2.0	5.0	150	15000	comchi1	Common Chiffchaff	0.1127
+11	Spectrogram 1	1	2.0	5.0	150	15000	grewhi1	Greater Whitethroat	0.1056
+12	Spectrogram 1	1	3.0	6.0	150	15000	comred2	Common Redstart	0.1663
+13	Spectrogram 1	1	3.0	6.0	150	15000	webwar1	Western Bonelli's Warbler	0.1447
+14	Spectrogram 1	1	3.0	6.0	150	15000	trepip	Tree Pipit	0.1072
+15	Spectrogram 1	1	4.0	7.0	150	15000	comred2	Common Redstart	0.2572
+16	Spectrogram 1	1	4.0	7.0	150	15000	webwar1	Western Bonelli's Warbler	0.1624
+17	Spectrogram 1	1	4.0	7.0	150	15000	comchi1	Common Chiffchaff	0.1459
+18	Spectrogram 1	1	4.0	7.0	150	15000	cowpig1	Common Wood-Pigeon	0.1013
+19	Spectrogram 1	1	4.0	7.0	150	15000	trepip	Tree Pipit	0.1012
+20	Spectrogram 1	1	5.0	8.0	150	15000	comred2	Common Redstart	0.1647
+21	Spectrogram 1	1	5.0	8.0	150	15000	webwar1	Western Bonelli's Warbler	0.1091
+22	Spectrogram 1	1	5.0	8.0	150	15000	grewhi1	Greater Whitethroat	0.1002
+23	Spectrogram 1	1	6.0	9.0	150	15000	comred2	Common Redstart	0.1563
+24	Spectrogram 1	1	6.0	9.0	150	15000	webwar1	Western Bonelli's Warbler	0.1358
+25	Spectrogram 1	1	6.0	9.0	150	15000	rocpet1	Rock Sparrow	0.1188
+26	Spectrogram 1	1	6.0	9.0	150	15000	comchi1	Common Chiffchaff	0.1042
+27	Spectrogram 1	1	7.0	10.0	150	15000	comchi1	Common Chiffchaff	0.3294
+28	Spectrogram 1	1	7.0	10.0	150	15000	comred2	Common Redstart	0.3103
+29	Spectrogram 1	1	8.0	11.0	150	15000	comred2	Common Redstart	0.3520
+30	Spectrogram 1	1	8.0	11.0	150	15000	comchi1	Common Chiffchaff	0.3246
+31	Spectrogram 1	1	8.0	11.0	150	15000	grewhi1	Greater Whitethroat	0.1245
+32	Spectrogram 1	1	9.0	12.0	150	15000	comchi1	Common Chiffchaff	0.5151
+33	Spectrogram 1	1	9.0	12.0	150	15000	comred2	Common Redstart	0.1509
+34	Spectrogram 1	1	9.0	12.0	150	15000	webwar1	Western Bonelli's Warbler	0.1446
+35	Spectrogram 1	1	9.0	12.0	150	15000	trepip	Tree Pipit	0.1183
+36	Spectrogram 1	1	9.0	12.0	150	15000	combuz1	Common Buzzard	0.1042
+37	Spectrogram 1	1	9.0	12.0	150	15000	grewhi1	Greater Whitethroat	0.1002
+38	Spectrogram 1	1	10.0	13.0	150	15000	comchi1	Common Chiffchaff	0.1874
+39	Spectrogram 1	1	10.0	13.0	150	15000	grewhi1	Greater Whitethroat	0.1399
+40	Spectrogram 1	1	10.0	13.0	150	15000	eutdov	European Turtle-Dove	0.1052
+41	Spectrogram 1	1	10.0	13.0	150	15000	webwar1	Western Bonelli's Warbler	0.1048
+42	Spectrogram 1	1	10.0	13.0	150	15000	blackc1	Eurasian Blackcap	0.1046
+43	Spectrogram 1	1	10.0	13.0	150	15000	comqua1	Common Quail	0.1009
+44	Spectrogram 1	1	11.0	14.0	150	15000	comchi1	Common Chiffchaff	0.3578
+45	Spectrogram 1	1	11.0	14.0	150	15000	trepip	Tree Pipit	0.1804
+46	Spectrogram 1	1	11.0	14.0	150	15000	comred2	Common Redstart	0.1745
+47	Spectrogram 1	1	11.0	14.0	150	15000	yellow2	Yellowhammer	0.1217
+48	Spectrogram 1	1	11.0	14.0	150	15000	webwar1	Western Bonelli's Warbler	0.1202
+49	Spectrogram 1	1	11.0	14.0	150	15000	cowpig1	Common Wood-Pigeon	0.1198
+50	Spectrogram 1	1	11.0	14.0	150	15000	grewhi1	Greater Whitethroat	0.1143
+51	Spectrogram 1	1	11.0	14.0	150	15000	rebshr1	Red-backed Shrike	0.1134
+52	Spectrogram 1	1	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.2652
+53	Spectrogram 1	1	12.0	15.0	150	15000	comred2	Common Redstart	0.1885
+54	Spectrogram 1	1	12.0	15.0	150	15000	thelar1	Thekla's Lark	0.1439
+55	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.1322
+56	Spectrogram 1	1	12.0	15.0	150	15000	comqua1	Common Quail	0.1270
+57	Spectrogram 1	1	12.0	15.0	150	15000	yellow2	Yellowhammer	0.1250
+58	Spectrogram 1	1	12.0	15.0	150	15000	garwar1	Garden Warbler	0.1222
+59	Spectrogram 1	1	12.0	15.0	150	15000	eurhob	Eurasian Hobby	0.1178
+60	Spectrogram 1	1	12.0	15.0	150	15000	rebshr1	Red-backed Shrike	0.1168
+61	Spectrogram 1	1	12.0	15.0	150	15000	eutdov	European Turtle-Dove	0.1153
+62	Spectrogram 1	1	12.0	15.0	150	15000	stonec4	European Stonechat	0.1147
+63	Spectrogram 1	1	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.1146
+64	Spectrogram 1	1	12.0	15.0	150	15000	tawpip1	Tawny Pipit	0.1076
+65	Spectrogram 1	1	12.0	15.0	150	15000	webwar1	Western Bonelli's Warbler	0.1067
+66	Spectrogram 1	1	12.0	15.0	150	15000	comchi1	Common Chiffchaff	0.1008
+67	Spectrogram 1	1	13.0	16.0	150	15000	rocpet1	Rock Sparrow	0.1611
+68	Spectrogram 1	1	13.0	16.0	150	15000	comred2	Common Redstart	0.1568
+69	Spectrogram 1	1	14.0	17.0	150	15000	comred2	Common Redstart	0.5072
+70	Spectrogram 1	1	14.0	17.0	150	15000	webwar1	Western Bonelli's Warbler	0.2089
+71	Spectrogram 1	1	14.0	17.0	150	15000	comchi1	Common Chiffchaff	0.1696
+72	Spectrogram 1	1	14.0	17.0	150	15000	comcha	Common Chaffinch	0.1190
+73	Spectrogram 1	1	15.0	18.0	150	15000	comred2	Common Redstart	0.3940
+74	Spectrogram 1	1	15.0	18.0	150	15000	comchi1	Common Chiffchaff	0.2178
+75	Spectrogram 1	1	15.0	18.0	150	15000	comcha	Common Chaffinch	0.1629
+76	Spectrogram 1	1	15.0	18.0	150	15000	combuz1	Common Buzzard	0.1501
+77	Spectrogram 1	1	16.0	19.0	150	15000	comred2	Common Redstart	0.4891
+78	Spectrogram 1	1	16.0	19.0	150	15000	comchi1	Common Chiffchaff	0.2906
+79	Spectrogram 1	1	16.0	19.0	150	15000	comcha	Common Chaffinch	0.1839
+80	Spectrogram 1	1	16.0	19.0	150	15000	yellow2	Yellowhammer	0.1272
+81	Spectrogram 1	1	16.0	19.0	150	15000	combuz1	Common Buzzard	0.1127
+82	Spectrogram 1	1	16.0	19.0	150	15000	eugori2	Eurasian Golden Oriole	0.1070
+83	Spectrogram 1	1	17.0	20.0	150	15000	comred2	Common Redstart	0.4344
+84	Spectrogram 1	1	17.0	20.0	150	15000	comchi1	Common Chiffchaff	0.2873
+85	Spectrogram 1	1	17.0	20.0	150	15000	comcha	Common Chaffinch	0.2283
+86	Spectrogram 1	1	17.0	20.0	150	15000	webwar1	Western Bonelli's Warbler	0.1313
+87	Spectrogram 1	1	17.0	20.0	150	15000	trepip	Tree Pipit	0.1260
+88	Spectrogram 1	1	17.0	20.0	150	15000	yellow2	Yellowhammer	0.1153
+89	Spectrogram 1	1	17.0	20.0	150	15000	combuz1	Common Buzzard	0.1128
+90	Spectrogram 1	1	17.0	20.0	150	15000	gretit1	Great Tit	0.1096
+91	Spectrogram 1	1	17.0	20.0	150	15000	eutdov	European Turtle-Dove	0.1088
+92	Spectrogram 1	1	18.0	21.0	150	15000	comred2	Common Redstart	0.4568
+93	Spectrogram 1	1	18.0	21.0	150	15000	comchi1	Common Chiffchaff	0.4411
+94	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1752
+95	Spectrogram 1	1	18.0	21.0	150	15000	combuz1	Common Buzzard	0.1602
+96	Spectrogram 1	1	18.0	21.0	150	15000	yellow2	Yellowhammer	0.1388
+97	Spectrogram 1	1	18.0	21.0	150	15000	comcha	Common Chaffinch	0.1339
+98	Spectrogram 1	1	18.0	21.0	150	15000	stodov1	Stock Dove	0.1171
+99	Spectrogram 1	1	18.0	21.0	150	15000	gretit1	Great Tit	0.1155
+100	Spectrogram 1	1	18.0	21.0	150	15000	grewhi1	Greater Whitethroat	0.1075
+101	Spectrogram 1	1	18.0	21.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1069
+102	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.1021
+103	Spectrogram 1	1	18.0	21.0	150	15000	carcro1	Carrion Crow	0.1017
+104	Spectrogram 1	1	19.0	22.0	150	15000	comred2	Common Redstart	0.4732
+105	Spectrogram 1	1	19.0	22.0	150	15000	comchi1	Common Chiffchaff	0.2957
+106	Spectrogram 1	1	19.0	22.0	150	15000	combuz1	Common Buzzard	0.1429
+107	Spectrogram 1	1	19.0	22.0	150	15000	comcha	Common Chaffinch	0.1421
+108	Spectrogram 1	1	19.0	22.0	150	15000	webwar1	Western Bonelli's Warbler	0.1377
+109	Spectrogram 1	1	19.0	22.0	150	15000	stodov1	Stock Dove	0.1377
+110	Spectrogram 1	1	19.0	22.0	150	15000	yellow2	Yellowhammer	0.1226
+111	Spectrogram 1	1	19.0	22.0	150	15000	carcro1	Carrion Crow	0.1096
+112	Spectrogram 1	1	20.0	23.0	150	15000	comred2	Common Redstart	0.2637
+113	Spectrogram 1	1	20.0	23.0	150	15000	webwar1	Western Bonelli's Warbler	0.2024
+114	Spectrogram 1	1	21.0	24.0	150	15000	comred2	Common Redstart	0.2348
+115	Spectrogram 1	1	21.0	24.0	150	15000	comchi1	Common Chiffchaff	0.1342
+116	Spectrogram 1	1	21.0	24.0	150	15000	webwar1	Western Bonelli's Warbler	0.1120
+117	Spectrogram 1	1	22.0	25.0	150	15000	comred2	Common Redstart	0.5562
+118	Spectrogram 1	1	22.0	25.0	150	15000	comchi1	Common Chiffchaff	0.2221
+119	Spectrogram 1	1	22.0	25.0	150	15000	comcha	Common Chaffinch	0.1715
+120	Spectrogram 1	1	23.0	26.0	150	15000	comred2	Common Redstart	0.6037
+121	Spectrogram 1	1	23.0	26.0	150	15000	comchi1	Common Chiffchaff	0.3843
+122	Spectrogram 1	1	23.0	26.0	150	15000	comcha	Common Chaffinch	0.1326
+123	Spectrogram 1	1	24.0	27.0	150	15000	comred2	Common Redstart	0.6282
+124	Spectrogram 1	1	24.0	27.0	150	15000	comchi1	Common Chiffchaff	0.3607
+125	Spectrogram 1	1	24.0	27.0	150	15000	comcha	Common Chaffinch	0.1815
+126	Spectrogram 1	1	25.0	28.0	150	15000	comred2	Common Redstart	0.7114
+127	Spectrogram 1	1	25.0	28.0	150	15000	comchi1	Common Chiffchaff	0.3512
+128	Spectrogram 1	1	25.0	28.0	150	15000	comcha	Common Chaffinch	0.2183
+129	Spectrogram 1	1	26.0	29.0	150	15000	comred2	Common Redstart	0.7547
+130	Spectrogram 1	1	26.0	29.0	150	15000	comcha	Common Chaffinch	0.3471
+131	Spectrogram 1	1	26.0	29.0	150	15000	comchi1	Common Chiffchaff	0.2391
+132	Spectrogram 1	1	26.0	29.0	150	15000	trepip	Tree Pipit	0.1013
+133	Spectrogram 1	1	27.0	30.0	150	15000	comred2	Common Redstart	0.5456
+134	Spectrogram 1	1	27.0	30.0	150	15000	comchi1	Common Chiffchaff	0.2067
+135	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.1717
+136	Spectrogram 1	1	27.0	30.0	150	15000	webwar1	Western Bonelli's Warbler	0.1334
+137	Spectrogram 1	1	27.0	30.0	150	15000	comcha	Common Chaffinch	0.1204
+138	Spectrogram 1	1	27.0	30.0	150	15000	yellow2	Yellowhammer	0.1119
+139	Spectrogram 1	1	27.0	30.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1050
+140	Spectrogram 1	1	27.0	30.0	150	15000	eutdov	European Turtle-Dove	0.1039
+141	Spectrogram 1	1	28.0	31.0	150	15000	comred2	Common Redstart	0.4254
+142	Spectrogram 1	1	28.0	31.0	150	15000	comchi1	Common Chiffchaff	0.2202
+143	Spectrogram 1	1	28.0	31.0	150	15000	trepip	Tree Pipit	0.1302
+144	Spectrogram 1	1	28.0	31.0	150	15000	yellow2	Yellowhammer	0.1170
+145	Spectrogram 1	1	28.0	31.0	150	15000	eutdov	European Turtle-Dove	0.1148
+146	Spectrogram 1	1	28.0	31.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1054
+147	Spectrogram 1	1	29.0	32.0	150	15000	comred2	Common Redstart	0.5367
+148	Spectrogram 1	1	29.0	32.0	150	15000	comchi1	Common Chiffchaff	0.2861
+149	Spectrogram 1	1	29.0	32.0	150	15000	comcuc	Common Cuckoo	0.2138
+150	Spectrogram 1	1	29.0	32.0	150	15000	eutdov	European Turtle-Dove	0.1285
+151	Spectrogram 1	1	29.0	32.0	150	15000	webwar1	Western Bonelli's Warbler	0.1025
+152	Spectrogram 1	1	30.0	33.0	150	15000	comred2	Common Redstart	0.4316
+153	Spectrogram 1	1	30.0	33.0	150	15000	comcuc	Common Cuckoo	0.4241
+154	Spectrogram 1	1	30.0	33.0	150	15000	comchi1	Common Chiffchaff	0.3282
+155	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1210
+156	Spectrogram 1	1	30.0	33.0	150	15000	eutdov	European Turtle-Dove	0.1073
+157	Spectrogram 1	1	31.0	34.0	150	15000	comred2	Common Redstart	0.5991
+158	Spectrogram 1	1	31.0	34.0	150	15000	comcuc	Common Cuckoo	0.3352
+159	Spectrogram 1	1	31.0	34.0	150	15000	comchi1	Common Chiffchaff	0.2190
+160	Spectrogram 1	1	31.0	34.0	150	15000	webwar1	Western Bonelli's Warbler	0.1638
+161	Spectrogram 1	1	31.0	34.0	150	15000	eutdov	European Turtle-Dove	0.1236
+162	Spectrogram 1	1	31.0	34.0	150	15000	eucdov	Eurasian Collared-Dove	0.1169
+163	Spectrogram 1	1	32.0	35.0	150	15000	comred2	Common Redstart	0.3486
+164	Spectrogram 1	1	32.0	35.0	150	15000	comcuc	Common Cuckoo	0.2518
+165	Spectrogram 1	1	32.0	35.0	150	15000	webwar1	Western Bonelli's Warbler	0.2324
+166	Spectrogram 1	1	32.0	35.0	150	15000	eutdov	European Turtle-Dove	0.2274
+167	Spectrogram 1	1	32.0	35.0	150	15000	comchi1	Common Chiffchaff	0.1396
+168	Spectrogram 1	1	32.0	35.0	150	15000	cowpig1	Common Wood-Pigeon	0.1000
+169	Spectrogram 1	1	33.0	36.0	150	15000	comred2	Common Redstart	0.4072
+170	Spectrogram 1	1	33.0	36.0	150	15000	comcuc	Common Cuckoo	0.3564
+171	Spectrogram 1	1	33.0	36.0	150	15000	webwar1	Western Bonelli's Warbler	0.1777
+172	Spectrogram 1	1	33.0	36.0	150	15000	comchi1	Common Chiffchaff	0.1726
+173	Spectrogram 1	1	33.0	36.0	150	15000	eutdov	European Turtle-Dove	0.1238
+174	Spectrogram 1	1	34.0	37.0	150	15000	comred2	Common Redstart	0.3995
+175	Spectrogram 1	1	34.0	37.0	150	15000	comchi1	Common Chiffchaff	0.1455
+176	Spectrogram 1	1	34.0	37.0	150	15000	comcuc	Common Cuckoo	0.1295
+177	Spectrogram 1	1	34.0	37.0	150	15000	webwar1	Western Bonelli's Warbler	0.1133
+178	Spectrogram 1	1	35.0	38.0	150	15000	comred2	Common Redstart	0.5221
+179	Spectrogram 1	1	35.0	38.0	150	15000	comchi1	Common Chiffchaff	0.2838
+180	Spectrogram 1	1	35.0	38.0	150	15000	webwar1	Western Bonelli's Warbler	0.2682
+181	Spectrogram 1	1	35.0	38.0	150	15000	comcuc	Common Cuckoo	0.1041
+182	Spectrogram 1	1	35.0	38.0	150	15000	grnsan	Green Sandpiper	0.1018
+183	Spectrogram 1	1	36.0	39.0	150	15000	comred2	Common Redstart	0.6850
+184	Spectrogram 1	1	36.0	39.0	150	15000	comchi1	Common Chiffchaff	0.2304
+185	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.1369
+186	Spectrogram 1	1	36.0	39.0	150	15000	comcha	Common Chaffinch	0.1195
+187	Spectrogram 1	1	37.0	40.0	150	15000	comred2	Common Redstart	0.6561
+188	Spectrogram 1	1	37.0	40.0	150	15000	comchi1	Common Chiffchaff	0.1834
+189	Spectrogram 1	1	37.0	40.0	150	15000	webwar1	Western Bonelli's Warbler	0.1233
+190	Spectrogram 1	1	38.0	41.0	150	15000	comred2	Common Redstart	0.3789
+191	Spectrogram 1	1	38.0	41.0	150	15000	comcuc	Common Cuckoo	0.1876
+192	Spectrogram 1	1	38.0	41.0	150	15000	combuz1	Common Buzzard	0.1168
+193	Spectrogram 1	1	38.0	41.0	150	15000	trepip	Tree Pipit	0.1120
+194	Spectrogram 1	1	38.0	41.0	150	15000	webwar1	Western Bonelli's Warbler	0.1119
+195	Spectrogram 1	1	39.0	42.0	150	15000	comred2	Common Redstart	0.5652
+196	Spectrogram 1	1	39.0	42.0	150	15000	comcuc	Common Cuckoo	0.3135
+197	Spectrogram 1	1	39.0	42.0	150	15000	comchi1	Common Chiffchaff	0.1762
+198	Spectrogram 1	1	39.0	42.0	150	15000	webwar1	Western Bonelli's Warbler	0.1438
+199	Spectrogram 1	1	39.0	42.0	150	15000	grewhi1	Greater Whitethroat	0.1147
+200	Spectrogram 1	1	40.0	43.0	150	15000	comred2	Common Redstart	0.4387
+201	Spectrogram 1	1	40.0	43.0	150	15000	comchi1	Common Chiffchaff	0.1437
+202	Spectrogram 1	1	40.0	43.0	150	15000	comcuc	Common Cuckoo	0.1392
+203	Spectrogram 1	1	40.0	43.0	150	15000	combuz1	Common Buzzard	0.1227
+204	Spectrogram 1	1	40.0	43.0	150	15000	eurrol1	European Roller	0.1178
+205	Spectrogram 1	1	40.0	43.0	150	15000	webwar1	Western Bonelli's Warbler	0.1137
+206	Spectrogram 1	1	41.0	44.0	150	15000	comred2	Common Redstart	0.5625
+207	Spectrogram 1	1	41.0	44.0	150	15000	comchi1	Common Chiffchaff	0.1798
+208	Spectrogram 1	1	41.0	44.0	150	15000	combuz1	Common Buzzard	0.1607
+209	Spectrogram 1	1	41.0	44.0	150	15000	comcha	Common Chaffinch	0.1009
+210	Spectrogram 1	1	42.0	45.0	150	15000	comred2	Common Redstart	0.4571
+211	Spectrogram 1	1	42.0	45.0	150	15000	comcha	Common Chaffinch	0.1747
+212	Spectrogram 1	1	42.0	45.0	150	15000	comchi1	Common Chiffchaff	0.1495
+213	Spectrogram 1	1	42.0	45.0	150	15000	combuz1	Common Buzzard	0.1052
+214	Spectrogram 1	1	43.0	46.0	150	15000	comred2	Common Redstart	0.5515
+215	Spectrogram 1	1	43.0	46.0	150	15000	comchi1	Common Chiffchaff	0.3361
+216	Spectrogram 1	1	43.0	46.0	150	15000	comcha	Common Chaffinch	0.2446
+217	Spectrogram 1	1	44.0	47.0	150	15000	comchi1	Common Chiffchaff	0.6146
+218	Spectrogram 1	1	44.0	47.0	150	15000	comred2	Common Redstart	0.4455
+219	Spectrogram 1	1	45.0	48.0	150	15000	comred2	Common Redstart	0.7649
+220	Spectrogram 1	1	45.0	48.0	150	15000	comchi1	Common Chiffchaff	0.4919
+221	Spectrogram 1	1	46.0	49.0	150	15000	comred2	Common Redstart	0.6750
+222	Spectrogram 1	1	46.0	49.0	150	15000	comchi1	Common Chiffchaff	0.4500
+223	Spectrogram 1	1	47.0	50.0	150	15000	comred2	Common Redstart	0.6640
+224	Spectrogram 1	1	47.0	50.0	150	15000	comchi1	Common Chiffchaff	0.3096
+225	Spectrogram 1	1	48.0	51.0	150	15000	comred2	Common Redstart	0.6827
+226	Spectrogram 1	1	48.0	51.0	150	15000	comchi1	Common Chiffchaff	0.4092
+227	Spectrogram 1	1	49.0	52.0	150	15000	comred2	Common Redstart	0.6786
+228	Spectrogram 1	1	49.0	52.0	150	15000	comchi1	Common Chiffchaff	0.6223
+229	Spectrogram 1	1	50.0	53.0	150	15000	comred2	Common Redstart	0.7034
+230	Spectrogram 1	1	50.0	53.0	150	15000	comchi1	Common Chiffchaff	0.6038
+231	Spectrogram 1	1	50.0	53.0	150	15000	comcha	Common Chaffinch	0.1212
+232	Spectrogram 1	1	51.0	54.0	150	15000	comred2	Common Redstart	0.6813
+233	Spectrogram 1	1	51.0	54.0	150	15000	comchi1	Common Chiffchaff	0.5932
+234	Spectrogram 1	1	52.0	55.0	150	15000	comchi1	Common Chiffchaff	0.5629
+235	Spectrogram 1	1	52.0	55.0	150	15000	comred2	Common Redstart	0.4349
+236	Spectrogram 1	1	53.0	56.0	150	15000	grnsan	Green Sandpiper	0.1328
+237	Spectrogram 1	1	53.0	56.0	150	15000	comred2	Common Redstart	0.1145
+238	Spectrogram 1	1	53.0	56.0	150	15000	webwar1	Western Bonelli's Warbler	0.1130
+239	Spectrogram 1	1	53.0	56.0	150	15000	gretit1	Great Tit	0.1000
+240	Spectrogram 1	1	54.0	57.0	150	15000	comred2	Common Redstart	0.5716
+241	Spectrogram 1	1	54.0	57.0	150	15000	comchi1	Common Chiffchaff	0.3453
+242	Spectrogram 1	1	54.0	57.0	150	15000	gretit1	Great Tit	0.1576
+243	Spectrogram 1	1	54.0	57.0	150	15000	comcha	Common Chaffinch	0.1557
+244	Spectrogram 1	1	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.1142
+245	Spectrogram 1	1	55.0	58.0	150	15000	comred2	Common Redstart	0.6531
+246	Spectrogram 1	1	55.0	58.0	150	15000	comchi1	Common Chiffchaff	0.4957
+247	Spectrogram 1	1	55.0	58.0	150	15000	webwar1	Western Bonelli's Warbler	0.1859
+248	Spectrogram 1	1	55.0	58.0	150	15000	comcha	Common Chaffinch	0.1482
+249	Spectrogram 1	1	56.0	59.0	150	15000	comchi1	Common Chiffchaff	0.7601
+250	Spectrogram 1	1	56.0	59.0	150	15000	comred2	Common Redstart	0.5233
+251	Spectrogram 1	1	56.0	59.0	150	15000	comcuc	Common Cuckoo	0.1048
+252	Spectrogram 1	1	57.0	60.0	150	15000	comchi1	Common Chiffchaff	0.7130
+253	Spectrogram 1	1	57.0	60.0	150	15000	comred2	Common Redstart	0.5676
+254	Spectrogram 1	1	58.0	61.0	150	15000	comchi1	Common Chiffchaff	0.6485
+255	Spectrogram 1	1	58.0	61.0	150	15000	comred2	Common Redstart	0.4396
+256	Spectrogram 1	1	58.0	61.0	150	15000	comcha	Common Chaffinch	0.1333
+257	Spectrogram 1	1	59.0	62.0	150	15000	comchi1	Common Chiffchaff	0.6223
+258	Spectrogram 1	1	59.0	62.0	150	15000	comred2	Common Redstart	0.4034
+259	Spectrogram 1	1	59.0	62.0	150	15000	gretit1	Great Tit	0.1588
+260	Spectrogram 1	1	59.0	62.0	150	15000	sonthr1	Song Thrush	0.1450
+261	Spectrogram 1	1	59.0	62.0	150	15000	comcha	Common Chaffinch	0.1275

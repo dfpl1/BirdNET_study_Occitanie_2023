@@ -1,0 +1,45 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	eurgre1	European Greenfinch	0.1520
+2	Spectrogram 1	1	12.0	15.0	150	15000	webwar1	Western Bonelli's Warbler	0.2111
+3	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.1614
+4	Spectrogram 1	1	12.0	15.0	150	15000	comred2	Common Redstart	0.1578
+5	Spectrogram 1	1	12.0	15.0	150	15000	eupfly1	European Pied Flycatcher	0.1559
+6	Spectrogram 1	1	12.0	15.0	150	15000	blared1	Black Redstart	0.1539
+7	Spectrogram 1	1	12.0	15.0	150	15000	comcha	Common Chaffinch	0.1480
+8	Spectrogram 1	1	12.0	15.0	150	15000	firecr1	Common Firecrest	0.1211
+9	Spectrogram 1	1	12.0	15.0	150	15000	eurgre1	European Greenfinch	0.1122
+10	Spectrogram 1	1	12.0	15.0	150	15000	grywag	Gray Wagtail	0.1102
+11	Spectrogram 1	1	12.0	15.0	150	15000	shttre1	Short-toed Treecreeper	0.1074
+12	Spectrogram 1	1	14.0	17.0	150	15000	eupfly1	European Pied Flycatcher	0.1420
+13	Spectrogram 1	1	20.0	23.0	150	15000	comcha	Common Chaffinch	0.3588
+14	Spectrogram 1	1	20.0	23.0	150	15000	webwar1	Western Bonelli's Warbler	0.2348
+15	Spectrogram 1	1	20.0	23.0	150	15000	trepip	Tree Pipit	0.1874
+16	Spectrogram 1	1	20.0	23.0	150	15000	grywag	Gray Wagtail	0.1008
+17	Spectrogram 1	1	22.0	25.0	150	15000	comcha	Common Chaffinch	0.1952
+18	Spectrogram 1	1	22.0	25.0	150	15000	trepip	Tree Pipit	0.1639
+19	Spectrogram 1	1	22.0	25.0	150	15000	webwar1	Western Bonelli's Warbler	0.1305
+20	Spectrogram 1	1	30.0	33.0	150	15000	grywag	Gray Wagtail	0.1341
+21	Spectrogram 1	1	30.0	33.0	150	15000	comcha	Common Chaffinch	0.1076
+22	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1050
+23	Spectrogram 1	1	32.0	35.0	150	15000	comcha	Common Chaffinch	0.2796
+24	Spectrogram 1	1	32.0	35.0	150	15000	webwar1	Western Bonelli's Warbler	0.2421
+25	Spectrogram 1	1	32.0	35.0	150	15000	eupfly1	European Pied Flycatcher	0.1574
+26	Spectrogram 1	1	32.0	35.0	150	15000	firecr1	Common Firecrest	0.1274
+27	Spectrogram 1	1	32.0	35.0	150	15000	comred2	Common Redstart	0.1200
+28	Spectrogram 1	1	32.0	35.0	150	15000	grywag	Gray Wagtail	0.1133
+29	Spectrogram 1	1	32.0	35.0	150	15000	eugori2	Eurasian Golden Oriole	0.1018
+30	Spectrogram 1	1	40.0	43.0	150	15000	comcha	Common Chaffinch	0.2733
+31	Spectrogram 1	1	40.0	43.0	150	15000	webwar1	Western Bonelli's Warbler	0.2586
+32	Spectrogram 1	1	40.0	43.0	150	15000	shttre1	Short-toed Treecreeper	0.1276
+33	Spectrogram 1	1	40.0	43.0	150	15000	trepip	Tree Pipit	0.1263
+34	Spectrogram 1	1	40.0	43.0	150	15000	grywag	Gray Wagtail	0.1221
+35	Spectrogram 1	1	40.0	43.0	150	15000	firecr1	Common Firecrest	0.1078
+36	Spectrogram 1	1	42.0	45.0	150	15000	comcha	Common Chaffinch	0.2782
+37	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.2767
+38	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1731
+39	Spectrogram 1	1	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.1250
+40	Spectrogram 1	1	42.0	45.0	150	15000	comred2	Common Redstart	0.1149
+41	Spectrogram 1	1	42.0	45.0	150	15000	shttre1	Short-toed Treecreeper	0.1074
+42	Spectrogram 1	1	42.0	45.0	150	15000	firecr1	Common Firecrest	0.1035
+43	Spectrogram 1	1	48.0	51.0	150	15000	trepip	Tree Pipit	0.1072
+44	Spectrogram 1	1	50.0	53.0	150	15000	webwar1	Western Bonelli's Warbler	0.1332

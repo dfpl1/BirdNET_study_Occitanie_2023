@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	12.0	15.0	150	15000	comcuc	Common Cuckoo	0.2037
+2	Spectrogram 1	1	13.0	16.0	150	15000	comcuc	Common Cuckoo	0.3112
+3	Spectrogram 1	1	14.0	17.0	150	15000	comcuc	Common Cuckoo	0.1797
+4	Spectrogram 1	1	15.0	18.0	150	15000	comcuc	Common Cuckoo	0.1570
+5	Spectrogram 1	1	23.0	26.0	150	15000	comcuc	Common Cuckoo	0.2120
+6	Spectrogram 1	1	24.0	27.0	150	15000	comcuc	Common Cuckoo	0.1725
+7	Spectrogram 1	1	29.0	32.0	150	15000	comcuc	Common Cuckoo	0.2284
+8	Spectrogram 1	1	45.0	48.0	150	15000	litowl1	Little Owl	0.1112
+9	Spectrogram 1	1	46.0	49.0	150	15000	litowl1	Little Owl	0.1325
+10	Spectrogram 1	1	50.0	53.0	150	15000	comqua1	Common Quail	0.4045
+11	Spectrogram 1	1	51.0	54.0	150	15000	comqua1	Common Quail	0.5100
+12	Spectrogram 1	1	53.0	56.0	150	15000	comqua1	Common Quail	0.1467
+13	Spectrogram 1	1	53.0	56.0	150	15000	comcuc	Common Cuckoo	0.1373
+14	Spectrogram 1	1	54.0	57.0	150	15000	comcuc	Common Cuckoo	0.1982
+15	Spectrogram 1	1	56.0	59.0	150	15000	comcuc	Common Cuckoo	0.1976

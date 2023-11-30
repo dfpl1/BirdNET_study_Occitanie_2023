@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	22.0	25.0	150	15000	blutit	Eurasian Blue Tit	0.1575
+2	Spectrogram 1	1	26.0	29.0	150	15000	grewhi1	Greater Whitethroat	0.1264
+3	Spectrogram 1	1	40.0	43.0	150	15000	blackc1	Eurasian Blackcap	0.1259
+4	Spectrogram 1	1	50.0	53.0	150	15000	blackc1	Eurasian Blackcap	0.1018
+5	Spectrogram 1	1	52.0	55.0	150	15000	grewhi1	Greater Whitethroat	0.2036
+6	Spectrogram 1	1	52.0	55.0	150	15000	melwar1	Melodious Warbler	0.1427
+7	Spectrogram 1	1	52.0	55.0	150	15000	blackc1	Eurasian Blackcap	0.1315

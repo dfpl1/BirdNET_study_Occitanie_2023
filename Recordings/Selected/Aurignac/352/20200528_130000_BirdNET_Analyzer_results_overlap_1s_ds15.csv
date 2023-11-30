@@ -1,0 +1,49 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	8.0	11.0	150	15000	woolar1	Wood Lark	0.2750
+2	Spectrogram 1	1	8.0	11.0	150	15000	thelar1	Thekla's Lark	0.2534
+3	Spectrogram 1	1	8.0	11.0	150	15000	lirplo	Little Ringed Plover	0.1385
+4	Spectrogram 1	1	8.0	11.0	150	15000	comqua1	Common Quail	0.1251
+5	Spectrogram 1	1	8.0	11.0	150	15000	cirbun1	Cirl Bunting	0.1232
+6	Spectrogram 1	1	8.0	11.0	150	15000	crelar2	Crested Lark	0.1205
+7	Spectrogram 1	1	10.0	13.0	150	15000	norwhe	Northern Wheatear	0.1861
+8	Spectrogram 1	1	12.0	15.0	150	15000	skylar	Eurasian Skylark	0.1520
+9	Spectrogram 1	1	14.0	17.0	150	15000	comred1	Common Redshank	0.1194
+10	Spectrogram 1	1	14.0	17.0	150	15000	watrai1	Water Rail	0.1031
+11	Spectrogram 1	1	14.0	17.0	150	15000	sonthr1	Song Thrush	0.1030
+12	Spectrogram 1	1	16.0	19.0	150	15000	grewhi1	Greater Whitethroat	0.1402
+13	Spectrogram 1	1	16.0	19.0	150	15000	whinch1	Whinchat	0.1353
+14	Spectrogram 1	1	16.0	19.0	150	15000	sarwar1	Sardinian Warbler	0.1326
+15	Spectrogram 1	1	16.0	19.0	150	15000	woolar1	Wood Lark	0.1238
+16	Spectrogram 1	1	16.0	19.0	150	15000	thelar1	Thekla's Lark	0.1110
+17	Spectrogram 1	1	16.0	19.0	150	15000	cirbun1	Cirl Bunting	0.1110
+18	Spectrogram 1	1	16.0	19.0	150	15000	comqua1	Common Quail	0.1039
+19	Spectrogram 1	1	16.0	19.0	150	15000	subwar6	Western Subalpine Warbler	0.1003
+20	Spectrogram 1	1	18.0	21.0	150	15000	comred1	Common Redshank	0.1252
+21	Spectrogram 1	1	18.0	21.0	150	15000	lirplo	Little Ringed Plover	0.1014
+22	Spectrogram 1	1	22.0	25.0	150	15000	combuz1	Common Buzzard	0.3746
+23	Spectrogram 1	1	22.0	25.0	150	15000	euhbuz1	European Honey-buzzard	0.1477
+24	Spectrogram 1	1	24.0	27.0	150	15000	misthr1	Mistle Thrush	0.1229
+25	Spectrogram 1	1	26.0	29.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.2468
+26	Spectrogram 1	1	26.0	29.0	150	15000	thelar1	Thekla's Lark	0.1252
+27	Spectrogram 1	1	26.0	29.0	150	15000	norlap	Northern Lapwing	0.1251
+28	Spectrogram 1	1	28.0	31.0	150	15000	eugori2	Eurasian Golden Oriole	0.1122
+29	Spectrogram 1	1	30.0	33.0	150	15000	thelar1	Thekla's Lark	0.1817
+30	Spectrogram 1	1	30.0	33.0	150	15000	woolar1	Wood Lark	0.1406
+31	Spectrogram 1	1	30.0	33.0	150	15000	cirbun1	Cirl Bunting	0.1334
+32	Spectrogram 1	1	30.0	33.0	150	15000	comqua1	Common Quail	0.1198
+33	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1010
+34	Spectrogram 1	1	38.0	41.0	150	15000	eurnut2	Eurasian Nuthatch	0.1678
+35	Spectrogram 1	1	38.0	41.0	150	15000	blackc1	Eurasian Blackcap	0.1607
+36	Spectrogram 1	1	38.0	41.0	150	15000	woolar1	Wood Lark	0.1548
+37	Spectrogram 1	1	38.0	41.0	150	15000	sonthr1	Song Thrush	0.1038
+38	Spectrogram 1	1	42.0	45.0	150	15000	thelar1	Thekla's Lark	0.1263
+39	Spectrogram 1	1	46.0	49.0	150	15000	yellow2	Yellowhammer	0.1735
+40	Spectrogram 1	1	46.0	49.0	150	15000	cirbun1	Cirl Bunting	0.1160
+41	Spectrogram 1	1	54.0	57.0	150	15000	grewhi1	Greater Whitethroat	0.1138
+42	Spectrogram 1	1	54.0	57.0	150	15000	norlap	Northern Lapwing	0.1075
+43	Spectrogram 1	1	54.0	57.0	150	15000	cirbun1	Cirl Bunting	0.1072
+44	Spectrogram 1	1	56.0	59.0	150	15000	tawowl1	Tawny Owl	0.1542
+45	Spectrogram 1	1	56.0	59.0	150	15000	norlap	Northern Lapwing	0.1339
+46	Spectrogram 1	1	56.0	59.0	150	15000	eurcoo	Eurasian Coot	0.1316
+47	Spectrogram 1	1	56.0	59.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.1247
+48	Spectrogram 1	1	58.0	61.0	150	15000	mutswa	Mute Swan	0.1059

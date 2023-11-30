@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.285789	2.950351	1720.7	3470.9	Luscinia megarhynchos
+2	Spectrogram 1	1	7.052264	8.271070	1745.2	3306.1	Luscinia megarhynchos
+3	Spectrogram 1	1	11.515616	12.936155	1745.2	3346.7	Luscinia megarhynchos
+4	Spectrogram 1	1	16.390840	18.256874	1795.0	4665.6	Luscinia megarhynchos
+5	Spectrogram 1	1	22.274731	24.334093	1820.2	6559.3	Luscinia megarhynchos
+6	Spectrogram 1	1	32.294157	33.159930	1578.7	3642.4	Luscinia megarhynchos
+7	Spectrogram 1	1	37.749365	40.960288	1402.2	3555.8	Luscinia megarhynchos
+8	Spectrogram 1	1	43.053273	46.575202	1402.2	6202.6	Luscinia megarhynchos
+9	Spectrogram 1	1	51.248692	52.425471	1601.7	3470.9	Luscinia megarhynchos
+10	Spectrogram 1	1	56.006239	57.981545	1820.2	2675.5	Luscinia megarhynchos

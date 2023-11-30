@@ -1,0 +1,30 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	grnsan	Green Sandpiper	0.2383
+2	Spectrogram 1	1	0	3.0	150	15000	woolar1	Wood Lark	0.1149
+3	Spectrogram 1	1	0	3.0	150	15000	zitcis1	Zitting Cisticola	0.1140
+4	Spectrogram 1	1	2.0	5.0	150	15000	grnsan	Green Sandpiper	0.4061
+5	Spectrogram 1	1	2.0	5.0	150	15000	woolar1	Wood Lark	0.1620
+6	Spectrogram 1	1	2.0	5.0	150	15000	watpip1	Water Pipit	0.1190
+7	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.1059
+8	Spectrogram 1	1	4.0	7.0	150	15000	grnsan	Green Sandpiper	0.2125
+9	Spectrogram 1	1	6.0	9.0	150	15000	winwre4	Eurasian Wren	0.6290
+10	Spectrogram 1	1	6.0	9.0	150	15000	yellow2	Yellowhammer	0.1389
+11	Spectrogram 1	1	8.0	11.0	150	15000	winwre4	Eurasian Wren	0.4508
+12	Spectrogram 1	1	18.0	21.0	150	15000	winwre4	Eurasian Wren	0.5698
+13	Spectrogram 1	1	26.0	29.0	150	15000	cirbun1	Cirl Bunting	0.1990
+14	Spectrogram 1	1	26.0	29.0	150	15000	trepip	Tree Pipit	0.1707
+15	Spectrogram 1	1	26.0	29.0	150	15000	rocbun1	Rock Bunting	0.1247
+16	Spectrogram 1	1	28.0	31.0	150	15000	winwre4	Eurasian Wren	0.1747
+17	Spectrogram 1	1	28.0	31.0	150	15000	stonec4	European Stonechat	0.1500
+18	Spectrogram 1	1	28.0	31.0	150	15000	cirbun1	Cirl Bunting	0.1264
+19	Spectrogram 1	1	30.0	33.0	150	15000	winwre4	Eurasian Wren	0.1499
+20	Spectrogram 1	1	30.0	33.0	150	15000	blared1	Black Redstart	0.1231
+21	Spectrogram 1	1	30.0	33.0	150	15000	yellow2	Yellowhammer	0.1183
+22	Spectrogram 1	1	30.0	33.0	150	15000	reebun	Reed Bunting	0.1030
+23	Spectrogram 1	1	32.0	35.0	150	15000	barswa	Barn Swallow	0.1499
+24	Spectrogram 1	1	32.0	35.0	150	15000	thelar1	Thekla's Lark	0.1060
+25	Spectrogram 1	1	50.0	53.0	150	15000	dunnoc1	Dunnock	0.3311
+26	Spectrogram 1	1	50.0	53.0	150	15000	stonec4	European Stonechat	0.1696
+27	Spectrogram 1	1	52.0	55.0	150	15000	skylar	Eurasian Skylark	0.3447
+28	Spectrogram 1	1	52.0	55.0	150	15000	dunnoc1	Dunnock	0.2600
+29	Spectrogram 1	1	52.0	55.0	150	15000	stonec4	European Stonechat	0.2338

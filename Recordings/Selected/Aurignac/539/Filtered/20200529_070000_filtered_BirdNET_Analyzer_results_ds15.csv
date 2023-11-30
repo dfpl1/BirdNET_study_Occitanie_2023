@@ -1,0 +1,41 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	15.0	18.0	150	15000	eurcoo	Eurasian Coot	0.1117
+2	Spectrogram 1	1	18.0	21.0	150	15000	blared1	Black Redstart	0.1112
+3	Spectrogram 1	1	21.0	24.0	150	15000	eurcoo	Eurasian Coot	0.1775
+4	Spectrogram 1	1	36.0	39.0	150	15000	cirbun1	Cirl Bunting	0.1845
+5	Spectrogram 1	1	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.2283
+6	Spectrogram 1	1	39.0	42.0	150	15000	thelar1	Thekla's Lark	0.2091
+7	Spectrogram 1	1	39.0	42.0	150	15000	grewhi1	Greater Whitethroat	0.1476
+8	Spectrogram 1	1	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.1165
+9	Spectrogram 1	1	39.0	42.0	150	15000	woolar1	Wood Lark	0.1121
+10	Spectrogram 1	1	39.0	42.0	150	15000	comred2	Common Redstart	0.1049
+11	Spectrogram 1	1	39.0	42.0	150	15000	whinch1	Whinchat	0.1033
+12	Spectrogram 1	1	39.0	42.0	150	15000	cirbun1	Cirl Bunting	0.1019
+13	Spectrogram 1	1	42.0	45.0	150	15000	comkin1	Common Kingfisher	0.4114
+14	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1515
+15	Spectrogram 1	1	42.0	45.0	150	15000	dunnoc1	Dunnock	0.1203
+16	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1114
+17	Spectrogram 1	1	48.0	51.0	150	15000	comred2	Common Redstart	0.1826
+18	Spectrogram 1	1	48.0	51.0	150	15000	sarwar1	Sardinian Warbler	0.1395
+19	Spectrogram 1	1	48.0	51.0	150	15000	webwar1	Western Bonelli's Warbler	0.1185
+20	Spectrogram 1	1	48.0	51.0	150	15000	martit2	Marsh Tit	0.1137
+21	Spectrogram 1	1	48.0	51.0	150	15000	gretit1	Great Tit	0.1066
+22	Spectrogram 1	1	51.0	54.0	150	15000	blackc1	Eurasian Blackcap	0.2913
+23	Spectrogram 1	1	51.0	54.0	150	15000	thelar1	Thekla's Lark	0.2614
+24	Spectrogram 1	1	51.0	54.0	150	15000	cirbun1	Cirl Bunting	0.2467
+25	Spectrogram 1	1	51.0	54.0	150	15000	webwar1	Western Bonelli's Warbler	0.1916
+26	Spectrogram 1	1	51.0	54.0	150	15000	ibechi2	Iberian Chiffchaff	0.1424
+27	Spectrogram 1	1	51.0	54.0	150	15000	trepip	Tree Pipit	0.1381
+28	Spectrogram 1	1	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.1334
+29	Spectrogram 1	1	51.0	54.0	150	15000	redkit1	Red Kite	0.1311
+30	Spectrogram 1	1	51.0	54.0	150	15000	rocbun1	Rock Bunting	0.1010
+31	Spectrogram 1	1	54.0	57.0	150	15000	barswa	Barn Swallow	0.1866
+32	Spectrogram 1	1	57.0	60.0	150	15000	stonec4	European Stonechat	0.1435
+33	Spectrogram 1	1	57.0	60.0	150	15000	thelar1	Thekla's Lark	0.1223
+34	Spectrogram 1	1	57.0	60.0	150	15000	corbun1	Corn Bunting	0.1181
+35	Spectrogram 1	1	57.0	60.0	150	15000	lottit1	Long-tailed Tit	0.1153
+36	Spectrogram 1	1	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.1096
+37	Spectrogram 1	1	57.0	60.0	150	15000	cirbun1	Cirl Bunting	0.1084
+38	Spectrogram 1	1	57.0	60.0	150	15000	whinch1	Whinchat	0.1050
+39	Spectrogram 1	1	57.0	60.0	150	15000	eurser1	European Serin	0.1041
+40	Spectrogram 1	1	57.0	60.0	150	15000	webwar1	Western Bonelli's Warbler	0.1011

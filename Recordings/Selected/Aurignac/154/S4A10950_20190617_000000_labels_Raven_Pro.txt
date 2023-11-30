@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	0.622011	1223.3	3809.0	Luscinia megarhynchos
+2	Spectrogram 1	1	2.336745	5.312313	1832.8	3750.3	Luscinia megarhynchos
+3	Spectrogram 1	1	2.941946	3.160490	1109.5	1556.7	Otus scops
+4	Spectrogram 1	1	5.942730	12.398199	1086.1	1646.3	Otus scops
+5	Spectrogram 1	1	9.212493	13.062238	1414.7	3564.9	Luscinia megarhynchos
+6	Spectrogram 1	1	15.609123	17.265018	1610.8	3928.8	Luscinia megarhynchos
+7	Spectrogram 1	1	15.701584	17.954274	1077.9	1492.7	Otus scops
+8	Spectrogram 1	1	18.946130	24.451771	1580.7	5640.0	Luscinia megarhynchos
+9	Spectrogram 1	1	19.753063	19.963202	1040.3	1498.8	Otus scops
+10	Spectrogram 1	1	21.560259	21.761992	1248.7	1521.6	Otus scops
+11	Spectrogram 1	1	26.990250	37.135759	1464.2	4051.7	Luscinia megarhynchos
+12	Spectrogram 1	1	35.278131	37.001270	1498.8	2006.8	Unidentified bird
+13	Spectrogram 1	1	38.186454	38.724410	1580.7	3578.7	Coturnix coturnix
+14	Spectrogram 1	1	42.574156	45.818701	1436.0	3809.0	Luscinia megarhynchos
+15	Spectrogram 1	1	51.013337	59.906418	1408.2	3750.3	Luscinia megarhynchos
+16	Spectrogram 1	1	55.459877	59.940040	1054.7	1353.6	Otus scops

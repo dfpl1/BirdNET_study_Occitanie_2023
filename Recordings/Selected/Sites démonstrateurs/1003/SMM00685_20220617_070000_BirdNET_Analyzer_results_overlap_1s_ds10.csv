@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.1071
+2	Spectrogram 1	1	4.0	7.0	150	15000	blackc1	Eurasian Blackcap	0.1966
+3	Spectrogram 1	1	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.1379
+4	Spectrogram 1	1	16.0	19.0	150	15000	blackc1	Eurasian Blackcap	0.6083
+5	Spectrogram 1	1	28.0	31.0	150	15000	blackc1	Eurasian Blackcap	0.3872
+6	Spectrogram 1	1	32.0	35.0	150	15000	eutdov	European Turtle-Dove	0.7062
+7	Spectrogram 1	1	34.0	37.0	150	15000	eutdov	European Turtle-Dove	0.8704
+8	Spectrogram 1	1	36.0	39.0	150	15000	eutdov	European Turtle-Dove	0.9840
+9	Spectrogram 1	1	36.0	39.0	150	15000	blackc1	Eurasian Blackcap	0.2289
+10	Spectrogram 1	1	38.0	41.0	150	15000	eutdov	European Turtle-Dove	0.9714
+11	Spectrogram 1	1	38.0	41.0	150	15000	blackc1	Eurasian Blackcap	0.1631
+12	Spectrogram 1	1	40.0	43.0	150	15000	eutdov	European Turtle-Dove	0.9256
+13	Spectrogram 1	1	42.0	45.0	150	15000	eutdov	European Turtle-Dove	0.9720
+14	Spectrogram 1	1	44.0	47.0	150	15000	eutdov	European Turtle-Dove	0.8101
+15	Spectrogram 1	1	46.0	49.0	150	15000	eutdov	European Turtle-Dove	0.5299
+16	Spectrogram 1	1	54.0	57.0	150	15000	blackc1	Eurasian Blackcap	0.6923
+17	Spectrogram 1	1	56.0	59.0	150	15000	blackc1	Eurasian Blackcap	0.5004

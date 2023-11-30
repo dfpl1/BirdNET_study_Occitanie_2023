@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	comred1	Common Redshank	0.1160
+2	Spectrogram 1	1	5.0	8.0	150	15000	comred1	Common Redshank	0.1363
+3	Spectrogram 1	1	6.0	9.0	150	15000	comred1	Common Redshank	0.1865
+4	Spectrogram 1	1	10.0	13.0	150	15000	graher1	Gray Heron	0.1071
+5	Spectrogram 1	1	20.0	23.0	150	15000	sonthr1	Song Thrush	0.1870
+6	Spectrogram 1	1	20.0	23.0	150	15000	eurbla	Eurasian Blackbird	0.1762
+7	Spectrogram 1	1	21.0	24.0	150	15000	sonthr1	Song Thrush	0.1130
+8	Spectrogram 1	1	22.0	25.0	150	15000	sonthr1	Song Thrush	0.2061
+9	Spectrogram 1	1	22.0	25.0	150	15000	eubeat1	European Bee-eater	0.1509
+10	Spectrogram 1	1	22.0	25.0	150	15000	eurbla	Eurasian Blackbird	0.1106
+11	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.1676
+12	Spectrogram 1	1	31.0	34.0	150	15000	eurbla	Eurasian Blackbird	0.2856
+13	Spectrogram 1	1	31.0	34.0	150	15000	sonthr1	Song Thrush	0.2285
+14	Spectrogram 1	1	44.0	47.0	150	15000	sonthr1	Song Thrush	0.1102
+15	Spectrogram 1	1	59.0	62.0	150	15000	sonthr1	Song Thrush	0.1675
+16	Spectrogram 1	1	59.0	62.0	150	15000	goldcr1	Goldcrest	0.1652

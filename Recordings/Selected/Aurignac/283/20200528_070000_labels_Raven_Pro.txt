@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	2.546884	3.841340	2996.2	4211.4	Parus major
+2	Spectrogram 1	1	2.958757	3.387440	2604.6	8833.9	Unidentified bird
+3	Spectrogram 1	1	5.429991	7.447325	2229.1	5134.8	Curruca communis
+4	Spectrogram 1	1	6.900964	23.787732	416.2	 732.9	Streptopelia decaocto
+5	Spectrogram 1	1	7.791953	7.993686	2010.6	2750.0	Unidentified bird
+6	Spectrogram 1	1	8.724970	10.271593	 -1.0	19646.4	Unidentified bird
+7	Spectrogram 1	1	14.734945	15.743612	1765.6	7606.4	Curruca communis
+8	Spectrogram 1	1	16.441273	18.702368	1896.4	4986.0	Unidentified bird
+9	Spectrogram 1	1	23.106881	24.762776	1621.3	2358.1	Luscinia megarhynchos
+10	Spectrogram 1	1	24.964510	27.149955	1852.0	4937.2	Sylvia atricapilla
+11	Spectrogram 1	1	29.545539	29.999440	2662.0	3506.0	Luscinia megarhynchos
+12	Spectrogram 1	1	32.033585	33.496152	1682.1	9514.1	Curruca communis
+13	Spectrogram 1	1	33.538180	33.983675	2254.5	3542.4	Unidentified bird
+14	Spectrogram 1	1	34.202219	35.874925	2604.6	6055.0	Sylvia atricapilla
+15	Spectrogram 1	1	35.656381	55.417850	397.1	 603.4	Streptopelia decaocto
+16	Spectrogram 1	1	36.774320	38.043559	2204.0	6352.3	Curruca communis
+17	Spectrogram 1	1	38.043559	40.405522	1744.4	5497.5	Unidentified bird
+18	Spectrogram 1	1	38.598326	40.472766	649.1	1786.9	Corvus corone
+19	Spectrogram 1	1	40.472766	41.372161	1411.4	6726.4	Curruca communis
+20	Spectrogram 1	1	43.481956	45.263935	2204.0	5391.6	Curruca communis
+21	Spectrogram 1	1	45.297557	47.457785	2105.7	5185.3	Unidentified bird
+22	Spectrogram 1	1	47.533435	49.222953	1987.4	6172.4	Curruca communis
+23	Spectrogram 1	1	53.097915	54.821055	1322.4	6599.6	Curruca communis
+24	Spectrogram 1	1	58.696018	59.982068	2034.1	7053.3	Curruca communis

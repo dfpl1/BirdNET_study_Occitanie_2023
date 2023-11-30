@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	comnig1	Common Nightingale	0.4340
+2	Spectrogram 1	1	6.0	9.0	150	15000	comnig1	Common Nightingale	0.6370
+3	Spectrogram 1	1	6.0	9.0	150	15000	wooshr1	Woodchat Shrike	0.1254
+4	Spectrogram 1	1	6.0	9.0	150	15000	comqua1	Common Quail	0.1117
+5	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.2152
+6	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.1098
+7	Spectrogram 1	1	39.0	42.0	150	15000	eutkne1	Eurasian Thick-knee	0.1503
+8	Spectrogram 1	1	42.0	45.0	150	15000	comnig1	Common Nightingale	0.1403
+9	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.3981
+10	Spectrogram 1	1	57.0	60.0	150	15000	comnig1	Common Nightingale	0.5559
+11	Spectrogram 1	1	57.0	60.0	150	15000	eurlin1	Eurasian Linnet	0.1032

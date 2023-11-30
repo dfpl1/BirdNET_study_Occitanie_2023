@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.395804	1.768486	2901.4	6083.2	Unidentified bird
+2	Spectrogram 1	1	1.987442	3.174854	2944.7	6247.2	Anthus trivialis
+3	Spectrogram 1	1	8.227672	9.330870	2923.0	4183.9	Unidentified bird
+4	Spectrogram 1	1	10.930929	13.499445	3407.1	4331.9	Fringilla coelebs
+5	Spectrogram 1	1	16.236388	17.491171	2534.3	4154.8	Fringilla coelebs
+6	Spectrogram 1	1	18.257515	18.577527	2632.3	4012.0	Unidentified bird
+7	Spectrogram 1	1	19.882838	20.598654	2553.7	4012.0	Lullula arborea
+8	Spectrogram 1	1	21.196570	21.407105	3010.6	4125.9	Unidentified bird
+9	Spectrogram 1	1	23.032428	25.348302	2401.9	4213.1	Unidentified bird
+10	Spectrogram 1	1	25.929376	27.512593	3146.0	6543.8	Anthus trivialis
+11	Spectrogram 1	1	34.948656	35.597101	2365.0	4068.6	Unidentified bird
+12	Spectrogram 1	1	41.289942	42.671046	2136.0	4422.9	Unidentified bird
+13	Spectrogram 1	1	42.233135	45.559573	3634.0	4183.9	Unidentified bird
+14	Spectrogram 1	1	46.258546	46.435395	3582.5	4302.0	Fringilla coelebs
+15	Spectrogram 1	1	49.500771	51.597691	2753.9	4331.9	Unidentified bird
+16	Spectrogram 1	1	49.930261	50.982931	3928.3	4515.5	Fringilla coelebs
+17	Spectrogram 1	1	53.930408	54.570432	2401.9	3456.5	Unidentified bird
+18	Spectrogram 1	1	55.404147	59.454822	3608.2	4302.0	Unidentified bird

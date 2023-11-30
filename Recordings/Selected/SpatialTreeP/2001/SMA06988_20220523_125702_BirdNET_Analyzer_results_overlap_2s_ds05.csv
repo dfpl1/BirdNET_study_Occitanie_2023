@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	5.0	8.0	150	15000	dunnoc1	Dunnock	0.3467
+2	Spectrogram 1	1	5.0	8.0	150	15000	stonec4	European Stonechat	0.1033
+3	Spectrogram 1	1	6.0	9.0	150	15000	stonec4	European Stonechat	0.8305
+4	Spectrogram 1	1	7.0	10.0	150	15000	stonec4	European Stonechat	0.8915
+5	Spectrogram 1	1	12.0	15.0	150	15000	dunnoc1	Dunnock	0.1765
+6	Spectrogram 1	1	21.0	24.0	150	15000	coatit2	Coal Tit	0.1166
+7	Spectrogram 1	1	22.0	25.0	150	15000	coatit2	Coal Tit	0.1975
+8	Spectrogram 1	1	23.0	26.0	150	15000	coatit2	Coal Tit	0.1414
+9	Spectrogram 1	1	27.0	30.0	150	15000	dunnoc1	Dunnock	0.4646
+10	Spectrogram 1	1	28.0	31.0	150	15000	dunnoc1	Dunnock	0.1278
+11	Spectrogram 1	1	41.0	44.0	150	15000	coatit2	Coal Tit	0.2157
+12	Spectrogram 1	1	43.0	46.0	150	15000	coatit2	Coal Tit	0.2492
+13	Spectrogram 1	1	49.0	52.0	150	15000	dunnoc1	Dunnock	0.4928
+14	Spectrogram 1	1	50.0	53.0	150	15000	dunnoc1	Dunnock	0.6707
+15	Spectrogram 1	1	50.0	53.0	150	15000	stonec4	European Stonechat	0.2565
+16	Spectrogram 1	1	51.0	54.0	150	15000	stonec4	European Stonechat	0.6967
+17	Spectrogram 1	1	52.0	55.0	150	15000	stonec4	European Stonechat	0.1297
+18	Spectrogram 1	1	54.0	57.0	150	15000	dunnoc1	Dunnock	0.1878
+19	Spectrogram 1	1	55.0	58.0	150	15000	dunnoc1	Dunnock	0.2522
+20	Spectrogram 1	1	56.0	59.0	150	15000	dunnoc1	Dunnock	0.3570
+21	Spectrogram 1	1	57.0	60.0	150	15000	dunnoc1	Dunnock	0.3053
+22	Spectrogram 1	1	58.0	61.0	150	15000	stonec4	European Stonechat	0.2141
+23	Spectrogram 1	1	59.0	62.0	150	15000	coatit2	Coal Tit	0.3043

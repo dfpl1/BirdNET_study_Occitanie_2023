@@ -1,0 +1,56 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	misthr1	Mistle Thrush	0.1524
+2	Spectrogram 1	1	2.0	5.0	150	15000	sarwar1	Sardinian Warbler	0.1034
+3	Spectrogram 1	1	4.0	7.0	150	15000	blutit	Eurasian Blue Tit	0.1503
+4	Spectrogram 1	1	12.0	15.0	150	15000	cirbun1	Cirl Bunting	0.1456
+5	Spectrogram 1	1	12.0	15.0	150	15000	yellow2	Yellowhammer	0.1062
+6	Spectrogram 1	1	14.0	17.0	150	15000	mallar3	Mallard	0.1311
+7	Spectrogram 1	1	14.0	17.0	150	15000	commoo3	Eurasian Moorhen	0.1039
+8	Spectrogram 1	1	20.0	23.0	150	15000	comcha	Common Chaffinch	0.5468
+9	Spectrogram 1	1	20.0	23.0	150	15000	trepip	Tree Pipit	0.1501
+10	Spectrogram 1	1	20.0	23.0	150	15000	woolar1	Wood Lark	0.1396
+11	Spectrogram 1	1	20.0	23.0	150	15000	yellow2	Yellowhammer	0.1392
+12	Spectrogram 1	1	20.0	23.0	150	15000	grewhi1	Greater Whitethroat	0.1298
+13	Spectrogram 1	1	22.0	25.0	150	15000	comcha	Common Chaffinch	0.5403
+14	Spectrogram 1	1	22.0	25.0	150	15000	grewhi1	Greater Whitethroat	0.2360
+15	Spectrogram 1	1	22.0	25.0	150	15000	yellow2	Yellowhammer	0.1044
+16	Spectrogram 1	1	24.0	27.0	150	15000	norwhe	Northern Wheatear	0.3649
+17	Spectrogram 1	1	24.0	27.0	150	15000	burthr	Blue Rock-Thrush	0.2279
+18	Spectrogram 1	1	24.0	27.0	150	15000	comred2	Common Redstart	0.1121
+19	Spectrogram 1	1	26.0	29.0	150	15000	blared1	Black Redstart	0.9377
+20	Spectrogram 1	1	28.0	31.0	150	15000	blared1	Black Redstart	0.9777
+21	Spectrogram 1	1	30.0	33.0	150	15000	comcha	Common Chaffinch	0.5923
+22	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.3065
+23	Spectrogram 1	1	30.0	33.0	150	15000	yellow2	Yellowhammer	0.2388
+24	Spectrogram 1	1	32.0	35.0	150	15000	grewhi1	Greater Whitethroat	0.5718
+25	Spectrogram 1	1	32.0	35.0	150	15000	comcha	Common Chaffinch	0.5260
+26	Spectrogram 1	1	32.0	35.0	150	15000	garwar1	Garden Warbler	0.2119
+27	Spectrogram 1	1	32.0	35.0	150	15000	comred2	Common Redstart	0.1179
+28	Spectrogram 1	1	34.0	37.0	150	15000	norwhe	Northern Wheatear	0.2829
+29	Spectrogram 1	1	34.0	37.0	150	15000	crelar2	Crested Lark	0.2186
+30	Spectrogram 1	1	34.0	37.0	150	15000	blared1	Black Redstart	0.1348
+31	Spectrogram 1	1	34.0	37.0	150	15000	thelar1	Thekla's Lark	0.1046
+32	Spectrogram 1	1	36.0	39.0	150	15000	blared1	Black Redstart	0.9471
+33	Spectrogram 1	1	38.0	41.0	150	15000	comcha	Common Chaffinch	0.4066
+34	Spectrogram 1	1	38.0	41.0	150	15000	yellow2	Yellowhammer	0.1369
+35	Spectrogram 1	1	38.0	41.0	150	15000	trepip	Tree Pipit	0.1192
+36	Spectrogram 1	1	38.0	41.0	150	15000	grewhi1	Greater Whitethroat	0.1004
+37	Spectrogram 1	1	40.0	43.0	150	15000	comcha	Common Chaffinch	0.4533
+38	Spectrogram 1	1	40.0	43.0	150	15000	grewhi1	Greater Whitethroat	0.2219
+39	Spectrogram 1	1	44.0	47.0	150	15000	grewhi1	Greater Whitethroat	0.6338
+40	Spectrogram 1	1	44.0	47.0	150	15000	comcha	Common Chaffinch	0.2695
+41	Spectrogram 1	1	44.0	47.0	150	15000	trepip	Tree Pipit	0.2631
+42	Spectrogram 1	1	44.0	47.0	150	15000	yellow2	Yellowhammer	0.1927
+43	Spectrogram 1	1	46.0	49.0	150	15000	comcha	Common Chaffinch	0.7015
+44	Spectrogram 1	1	46.0	49.0	150	15000	grewhi1	Greater Whitethroat	0.2629
+45	Spectrogram 1	1	46.0	49.0	150	15000	yellow2	Yellowhammer	0.1628
+46	Spectrogram 1	1	46.0	49.0	150	15000	trepip	Tree Pipit	0.1130
+47	Spectrogram 1	1	54.0	57.0	150	15000	comcha	Common Chaffinch	0.5506
+48	Spectrogram 1	1	54.0	57.0	150	15000	grewhi1	Greater Whitethroat	0.3317
+49	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.1636
+50	Spectrogram 1	1	54.0	57.0	150	15000	yellow2	Yellowhammer	0.1356
+51	Spectrogram 1	1	56.0	59.0	150	15000	comcha	Common Chaffinch	0.6593
+52	Spectrogram 1	1	56.0	59.0	150	15000	grewhi1	Greater Whitethroat	0.3096
+53	Spectrogram 1	1	56.0	59.0	150	15000	yellow2	Yellowhammer	0.1957
+54	Spectrogram 1	1	58.0	61.0	150	15000	grewhi1	Greater Whitethroat	0.1168
+55	Spectrogram 1	1	58.0	61.0	150	15000	woolar1	Wood Lark	0.1111

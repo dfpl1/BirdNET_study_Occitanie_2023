@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	0.344628	1411.4	6389.5	Hippolais polyglotta
+2	Spectrogram 1	1	0.403467	14.028878	2136.0	6066.8	Passer domesticus
+3	Spectrogram 1	1	0.874178	2.983973	2248.2	4260.2	Sylvia atricapilla
+4	Spectrogram 1	1	4.227996	6.194897	2412.9	3646.8	Unidentified bird
+5	Spectrogram 1	1	7.405297	8.691348	2388.8	3714.8	Unidentified bird
+6	Spectrogram 1	1	11.574455	13.692655	2586.8	4108.5	Sylvia atricapilla
+7	Spectrogram 1	1	13.423678	36.597803	1038.8	24000.0	Hippolais polyglotta
+8	Spectrogram 1	1	36.816348	53.753549	2294.4	5004.2	Passer domesticus
+9	Spectrogram 1	1	40.876233	45.726240	2028.0	4377.1	Sylvia atricapilla
+10	Spectrogram 1	1	44.297295	44.641923	666.9	1253.6	Corvus corax
+11	Spectrogram 1	1	46.096085	46.835774	2716.9	5809.1	Unidentified bird
+12	Spectrogram 1	1	49.063247	50.929281	2437.2	4377.1	Sylvia atricapilla
+13	Spectrogram 1	1	49.138897	49.466714	666.9	1299.7	Corvus corax
+14	Spectrogram 1	1	53.215593	59.973663	1299.7	24000.0	Hippolais polyglotta
+15	Spectrogram 1	1	58.116034	58.511095	666.9	1564.2	Corvus corax

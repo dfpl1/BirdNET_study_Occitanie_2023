@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	5.0	8.0	150	15000	melwar1	Melodious Warbler	0.1337
+2	Spectrogram 1	1	8.0	11.0	150	15000	melwar1	Melodious Warbler	0.3823
+3	Spectrogram 1	1	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.7922
+4	Spectrogram 1	1	10.0	13.0	150	15000	melwar1	Melodious Warbler	0.8963
+5	Spectrogram 1	1	11.0	14.0	150	15000	melwar1	Melodious Warbler	0.9956
+6	Spectrogram 1	1	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9702
+7	Spectrogram 1	1	13.0	16.0	150	15000	melwar1	Melodious Warbler	0.9087
+8	Spectrogram 1	1	14.0	17.0	150	15000	grewhi1	Greater Whitethroat	0.1320
+9	Spectrogram 1	1	14.0	17.0	150	15000	melwar1	Melodious Warbler	0.1214
+10	Spectrogram 1	1	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.6370
+11	Spectrogram 1	1	25.0	28.0	150	15000	melwar1	Melodious Warbler	0.9369
+12	Spectrogram 1	1	26.0	29.0	150	15000	melwar1	Melodious Warbler	0.5399
+13	Spectrogram 1	1	26.0	29.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1570
+14	Spectrogram 1	1	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9955
+15	Spectrogram 1	1	28.0	31.0	150	15000	melwar1	Melodious Warbler	0.9850
+16	Spectrogram 1	1	29.0	32.0	150	15000	melwar1	Melodious Warbler	0.9836
+17	Spectrogram 1	1	29.0	32.0	150	15000	grewhi1	Greater Whitethroat	0.4519
+18	Spectrogram 1	1	58.0	61.0	150	15000	blackc1	Eurasian Blackcap	0.1105

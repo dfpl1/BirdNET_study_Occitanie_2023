@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	cirbun1	Cirl Bunting	0.1967
+2	Spectrogram 1	1	4.0	7.0	150	15000	blackc1	Eurasian Blackcap	0.1334
+3	Spectrogram 1	1	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.7698
+4	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.6237
+5	Spectrogram 1	1	16.0	19.0	150	15000	blackc1	Eurasian Blackcap	0.7389
+6	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.8652
+7	Spectrogram 1	1	20.0	23.0	150	15000	blackc1	Eurasian Blackcap	0.2571
+8	Spectrogram 1	1	28.0	31.0	150	15000	blackc1	Eurasian Blackcap	0.3412
+9	Spectrogram 1	1	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.4831
+10	Spectrogram 1	1	56.0	59.0	150	15000	cirbun1	Cirl Bunting	0.6180

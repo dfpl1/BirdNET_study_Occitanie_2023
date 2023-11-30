@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	blackc1	Eurasian Blackcap	0.1818
+2	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.3443
+3	Spectrogram 1	1	16.0	19.0	150	15000	blackc1	Eurasian Blackcap	0.6970
+4	Spectrogram 1	1	20.0	23.0	150	15000	garwar1	Garden Warbler	0.1153
+5	Spectrogram 1	1	22.0	25.0	150	15000	blackc1	Eurasian Blackcap	0.1311
+6	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.3316
+7	Spectrogram 1	1	52.0	55.0	150	15000	grewhi1	Greater Whitethroat	0.2155
+8	Spectrogram 1	1	54.0	57.0	150	15000	grewhi1	Greater Whitethroat	0.6472
+9	Spectrogram 1	1	56.0	59.0	150	15000	grewhi1	Greater Whitethroat	0.3613

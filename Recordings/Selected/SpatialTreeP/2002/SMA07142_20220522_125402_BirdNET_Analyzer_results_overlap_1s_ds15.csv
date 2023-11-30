@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	blared1	Black Redstart	0.6407
+2	Spectrogram 1	1	0	3.0	150	15000	burthr	Blue Rock-Thrush	0.1353
+3	Spectrogram 1	1	0	3.0	150	15000	comred2	Common Redstart	0.1128
+4	Spectrogram 1	1	0	3.0	150	15000	crelar2	Crested Lark	0.1093
+5	Spectrogram 1	1	4.0	7.0	150	15000	eurbul	Eurasian Bullfinch	0.1927
+6	Spectrogram 1	1	8.0	11.0	150	15000	pieavo1	Pied Avocet	0.1132
+7	Spectrogram 1	1	10.0	13.0	150	15000	grewhi1	Greater Whitethroat	0.1207
+8	Spectrogram 1	1	10.0	13.0	150	15000	misthr1	Mistle Thrush	0.1010
+9	Spectrogram 1	1	22.0	25.0	150	15000	burthr	Blue Rock-Thrush	0.1252
+10	Spectrogram 1	1	22.0	25.0	150	15000	misthr1	Mistle Thrush	0.1088
+11	Spectrogram 1	1	24.0	27.0	150	15000	burthr	Blue Rock-Thrush	0.1143
+12	Spectrogram 1	1	42.0	45.0	150	15000	blared1	Black Redstart	0.7361
+13	Spectrogram 1	1	48.0	51.0	150	15000	blackc1	Eurasian Blackcap	0.2330
+14	Spectrogram 1	1	48.0	51.0	150	15000	grewhi1	Greater Whitethroat	0.1285
+15	Spectrogram 1	1	48.0	51.0	150	15000	eurbul	Eurasian Bullfinch	0.1178
+16	Spectrogram 1	1	50.0	53.0	150	15000	blackc1	Eurasian Blackcap	0.2846
+17	Spectrogram 1	1	50.0	53.0	150	15000	webwar1	Western Bonelli's Warbler	0.2008
+18	Spectrogram 1	1	50.0	53.0	150	15000	grewhi1	Greater Whitethroat	0.1742
+19	Spectrogram 1	1	50.0	53.0	150	15000	cirbun1	Cirl Bunting	0.1542
+20	Spectrogram 1	1	50.0	53.0	150	15000	sarwar1	Sardinian Warbler	0.1204
+21	Spectrogram 1	1	50.0	53.0	150	15000	eurwry	Eurasian Wryneck	0.1191
+22	Spectrogram 1	1	54.0	57.0	150	15000	blared1	Black Redstart	0.8484
+23	Spectrogram 1	1	56.0	59.0	150	15000	cirbun1	Cirl Bunting	0.2624

@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	24.0	27.0	150	15000	tawowl1	Tawny Owl	0.3448
+2	Spectrogram 1	1	25.0	28.0	150	15000	tawowl1	Tawny Owl	0.3466
+3	Spectrogram 1	1	26.0	29.0	150	15000	tawowl1	Tawny Owl	0.8450
+4	Spectrogram 1	1	30.0	33.0	150	15000	tawowl1	Tawny Owl	0.4330
+5	Spectrogram 1	1	31.0	34.0	150	15000	tawowl1	Tawny Owl	0.5180
+6	Spectrogram 1	1	31.0	34.0	150	15000	eutkne1	Eurasian Thick-knee	0.1172
+7	Spectrogram 1	1	32.0	35.0	150	15000	tawowl1	Tawny Owl	0.3006

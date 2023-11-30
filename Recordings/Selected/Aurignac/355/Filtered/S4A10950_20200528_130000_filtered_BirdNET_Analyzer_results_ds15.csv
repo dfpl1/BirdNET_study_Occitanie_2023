@@ -1,0 +1,42 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	webwar1	Western Bonelli's Warbler	0.1424
+2	Spectrogram 1	1	0	3.0	150	15000	cirbun1	Cirl Bunting	0.1309
+3	Spectrogram 1	1	3.0	6.0	150	15000	webwar1	Western Bonelli's Warbler	0.3341
+4	Spectrogram 1	1	3.0	6.0	150	15000	comnig1	Common Nightingale	0.2407
+5	Spectrogram 1	1	3.0	6.0	150	15000	comred2	Common Redstart	0.1889
+6	Spectrogram 1	1	3.0	6.0	150	15000	cirbun1	Cirl Bunting	0.1796
+7	Spectrogram 1	1	3.0	6.0	150	15000	garwar1	Garden Warbler	0.1371
+8	Spectrogram 1	1	3.0	6.0	150	15000	trepip	Tree Pipit	0.1291
+9	Spectrogram 1	1	3.0	6.0	150	15000	eugori2	Eurasian Golden Oriole	0.1137
+10	Spectrogram 1	1	6.0	9.0	150	15000	woolar1	Wood Lark	0.2039
+11	Spectrogram 1	1	6.0	9.0	150	15000	cirbun1	Cirl Bunting	0.1486
+12	Spectrogram 1	1	6.0	9.0	150	15000	eurgre1	European Greenfinch	0.1447
+13	Spectrogram 1	1	6.0	9.0	150	15000	webwar1	Western Bonelli's Warbler	0.1035
+14	Spectrogram 1	1	6.0	9.0	150	15000	thelar1	Thekla's Lark	0.1004
+15	Spectrogram 1	1	12.0	15.0	150	15000	goldcr1	Goldcrest	0.1113
+16	Spectrogram 1	1	12.0	15.0	150	15000	cirbun1	Cirl Bunting	0.1090
+17	Spectrogram 1	1	18.0	21.0	150	15000	cirbun1	Cirl Bunting	0.3865
+18	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.1830
+19	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1368
+20	Spectrogram 1	1	21.0	24.0	150	15000	cirbun1	Cirl Bunting	0.1790
+21	Spectrogram 1	1	21.0	24.0	150	15000	trepip	Tree Pipit	0.1286
+22	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.2262
+23	Spectrogram 1	1	24.0	27.0	150	15000	webwar1	Western Bonelli's Warbler	0.1385
+24	Spectrogram 1	1	27.0	30.0	150	15000	cirbun1	Cirl Bunting	0.2750
+25	Spectrogram 1	1	27.0	30.0	150	15000	webwar1	Western Bonelli's Warbler	0.1576
+26	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.1477
+27	Spectrogram 1	1	30.0	33.0	150	15000	trepip	Tree Pipit	0.1195
+28	Spectrogram 1	1	33.0	36.0	150	15000	webwar1	Western Bonelli's Warbler	0.2347
+29	Spectrogram 1	1	33.0	36.0	150	15000	cirbun1	Cirl Bunting	0.1784
+30	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.1775
+31	Spectrogram 1	1	39.0	42.0	150	15000	cirbun1	Cirl Bunting	0.1427
+32	Spectrogram 1	1	39.0	42.0	150	15000	trepip	Tree Pipit	0.1251
+33	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1836
+34	Spectrogram 1	1	42.0	45.0	150	15000	comnig1	Common Nightingale	0.1254
+35	Spectrogram 1	1	45.0	48.0	150	15000	webwar1	Western Bonelli's Warbler	0.1089
+36	Spectrogram 1	1	48.0	51.0	150	15000	stonec4	European Stonechat	0.2963
+37	Spectrogram 1	1	51.0	54.0	150	15000	cirbun1	Cirl Bunting	0.2052
+38	Spectrogram 1	1	54.0	57.0	150	15000	stonec4	European Stonechat	0.3346
+39	Spectrogram 1	1	54.0	57.0	150	15000	dunnoc1	Dunnock	0.2857
+40	Spectrogram 1	1	57.0	60.0	150	15000	cirbun1	Cirl Bunting	0.2050
+41	Spectrogram 1	1	57.0	60.0	150	15000	webwar1	Western Bonelli's Warbler	0.1199

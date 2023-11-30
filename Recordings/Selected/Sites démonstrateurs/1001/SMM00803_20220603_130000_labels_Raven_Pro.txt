@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	5.845324	1437.3	7348.7	Hippolais polyglotta
+2	Spectrogram 1	1	4.505396	14.955036	6129.4	7935.8	Cisticola juncidis
+3	Spectrogram 1	1	5.602518	6.906475	1437.3	3496.5	Luscinia megarhynchos
+4	Spectrogram 1	1	6.636691	7.958633	2522.7	4019.0	Fringilla coelebs
+5	Spectrogram 1	1	7.625899	8.848921	4453.1	5893.1	Emberiza calandra
+6	Spectrogram 1	1	9.523381	12.320144	1268.7	3399.2	Luscinia megarhynchos
+7	Spectrogram 1	1	11.420863	21.600719	2357.0	6129.4	Hippolais polyglotta
+8	Spectrogram 1	1	11.690647	12.041367	5197.6	7588.3	Serinus serinus
+9	Spectrogram 1	1	14.289568	14.685252	5267.2	7491.6	Serinus serinus
+10	Spectrogram 1	1	17.616906	19.442446	1375.5	3447.5	Luscinia megarhynchos
+11	Spectrogram 1	1	22.607914	24.217626	1437.3	3991.4	Luscinia megarhynchos
+12	Spectrogram 1	1	24.604317	26.564748	2448.0	4606.5	Fringilla coelebs
+13	Spectrogram 1	1	26.276978	28.453237	1245.8	4732.6	Luscinia megarhynchos
+14	Spectrogram 1	1	27.625899	36.124101	2411.2	5337.7	Hippolais polyglotta
+15	Spectrogram 1	1	31.133094	32.365108	1189.5	2357.0	Luscinia megarhynchos
+16	Spectrogram 1	1	36.483813	37.473022	4483.5	7735.5	Emberiza calandra
+17	Spectrogram 1	1	37.473022	37.922662	5778.1	6979.7	Unidentified bird
+18	Spectrogram 1	1	38.732014	40.449640	1400.0	5163.1	Luscinia megarhynchos
+19	Spectrogram 1	1	41.303957	53.723022	1620.2	5665.1	Hippolais polyglotta
+20	Spectrogram 1	1	42.670863	44.397482	1647.6	4483.5	Sylvia atricapilla
+21	Spectrogram 1	1	53.866906	57.697842	1500.9	4333.6	Sylvia atricapilla
+22	Spectrogram 1	1	58.012590	59.964029	1909.1	5302.4	Hippolais polyglotta

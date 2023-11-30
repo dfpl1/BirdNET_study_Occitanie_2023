@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	2.420801	4.085102	1610.8	3053.0	Unidentified bird
+2	Spectrogram 1	1	6.858936	7.211970	1610.8	3255.1	Unidentified bird
+3	Spectrogram 1	1	7.422108	10.254782	1387.4	3401.9	Luscinia megarhynchos
+4	Spectrogram 1	1	13.659033	14.028878	1672.1	3413.7	Unidentified bird
+5	Spectrogram 1	1	14.062500	16.340406	1832.8	3152.7	Luscinia megarhynchos
+6	Spectrogram 1	1	18.870480	21.148386	1969.1	3360.1	Luscinia megarhynchos
+7	Spectrogram 1	1	21.518231	21.812425	2076.2	3523.0	Unidentified bird
+8	Spectrogram 1	1	25.628549	27.486178	1521.6	3468.0	Luscinia megarhynchos
+9	Spectrogram 1	1	30.831590	31.134190	1969.1	3203.6	Unidentified bird
+10	Spectrogram 1	1	31.462007	33.891213	1551.0	2465.0	Unidentified bird
+11	Spectrogram 1	1	37.362709	40.035677	1767.3	3255.1	Luscinia megarhynchos
+12	Spectrogram 1	1	43.591228	45.827107	1767.3	3203.6	Luscinia megarhynchos
+13	Spectrogram 1	1	49.483525	52.669232	1586.2	3296.7	Luscinia megarhynchos
+14	Spectrogram 1	1	56.594628	58.326173	1580.7	3203.6	Unidentified bird

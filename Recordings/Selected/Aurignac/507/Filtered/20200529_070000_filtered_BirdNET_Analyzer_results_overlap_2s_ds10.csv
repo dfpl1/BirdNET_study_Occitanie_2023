@@ -1,0 +1,29 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.2112
+2	Spectrogram 1	1	1.0	4.0	150	15000	eugori2	Eurasian Golden Oriole	0.2704
+3	Spectrogram 1	1	4.0	7.0	150	15000	stonec4	European Stonechat	0.5954
+4	Spectrogram 1	1	5.0	8.0	150	15000	stonec4	European Stonechat	0.5556
+5	Spectrogram 1	1	5.0	8.0	150	15000	whinch1	Whinchat	0.1244
+6	Spectrogram 1	1	6.0	9.0	150	15000	whinch1	Whinchat	0.4959
+7	Spectrogram 1	1	6.0	9.0	150	15000	stonec4	European Stonechat	0.4776
+8	Spectrogram 1	1	11.0	14.0	150	15000	cirbun1	Cirl Bunting	0.1101
+9	Spectrogram 1	1	12.0	15.0	150	15000	cirbun1	Cirl Bunting	0.1601
+10	Spectrogram 1	1	12.0	15.0	150	15000	webwar1	Western Bonelli's Warbler	0.1115
+11	Spectrogram 1	1	13.0	16.0	150	15000	webwar1	Western Bonelli's Warbler	0.1877
+12	Spectrogram 1	1	13.0	16.0	150	15000	cirbun1	Cirl Bunting	0.1822
+13	Spectrogram 1	1	14.0	17.0	150	15000	webwar1	Western Bonelli's Warbler	0.1452
+14	Spectrogram 1	1	14.0	17.0	150	15000	cirbun1	Cirl Bunting	0.1237
+15	Spectrogram 1	1	16.0	19.0	150	15000	comnig1	Common Nightingale	0.1610
+16	Spectrogram 1	1	24.0	27.0	150	15000	webwar1	Western Bonelli's Warbler	0.1535
+17	Spectrogram 1	1	24.0	27.0	150	15000	cirbun1	Cirl Bunting	0.1053
+18	Spectrogram 1	1	25.0	28.0	150	15000	webwar1	Western Bonelli's Warbler	0.1123
+19	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1714
+20	Spectrogram 1	1	37.0	40.0	150	15000	comnig1	Common Nightingale	0.2141
+21	Spectrogram 1	1	37.0	40.0	150	15000	webwar1	Western Bonelli's Warbler	0.1200
+22	Spectrogram 1	1	38.0	41.0	150	15000	comnig1	Common Nightingale	0.3265
+23	Spectrogram 1	1	39.0	42.0	150	15000	comnig1	Common Nightingale	0.1289
+24	Spectrogram 1	1	55.0	58.0	150	15000	webwar1	Western Bonelli's Warbler	0.1010
+25	Spectrogram 1	1	56.0	59.0	150	15000	webwar1	Western Bonelli's Warbler	0.1427
+26	Spectrogram 1	1	56.0	59.0	150	15000	cirbun1	Cirl Bunting	0.1333
+27	Spectrogram 1	1	57.0	60.0	150	15000	cirbun1	Cirl Bunting	0.1747
+28	Spectrogram 1	1	57.0	60.0	150	15000	webwar1	Western Bonelli's Warbler	0.1575

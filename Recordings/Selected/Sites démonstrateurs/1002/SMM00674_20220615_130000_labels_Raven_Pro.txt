@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.449640	4.703237	1344.2	3767.6	Turdus merula
+2	Spectrogram 1	1	2.122302	13.318345	1194.8	14464.0	Sylvia atricapilla
+3	Spectrogram 1	1	6.393885	7.419065	1590.7	8488.4	Parus major
+4	Spectrogram 1	1	15.827338	16.627698	1223.8	8419.0	Parus major
+5	Spectrogram 1	1	18.408273	21.196043	1505.4	7376.1	Sylvia atricapilla
+6	Spectrogram 1	1	23.129496	29.658273	1715.8	4825.5	Sylvia atricapilla
+7	Spectrogram 1	1	29.154676	30.611511	1375.5	3051.9	Turdus merula
+8	Spectrogram 1	1	30.908273	31.294964	2597.7	3870.5	Unidentified bird
+9	Spectrogram 1	1	31.501799	33.318345	2069.4	4083.4	Fringilla coelebs
+10	Spectrogram 1	1	35.341727	39.100719	1391.3	2523.4	Turdus merula
+11	Spectrogram 1	1	35.827338	36.564748	3441.0	4579.5	Erithacus rubecula
+12	Spectrogram 1	1	36.564748	39.163669	2333.5	4619.8	Sylvia atricapilla
+13	Spectrogram 1	1	43.750000	45.548561	1625.8	4306.3	Fringilla coelebs
+14	Spectrogram 1	1	44.163669	47.562950	1867.0	4156.6	Sylvia atricapilla
+15	Spectrogram 1	1	45.386691	49.208633	1328.8	2857.8	Turdus merula
+16	Spectrogram 1	1	47.666367	54.599820	3080.5	4660.3	Unidentified bird
+17	Spectrogram 1	1	50.107914	51.070144	3441.0	4382.9	Erithacus rubecula
+18	Spectrogram 1	1	50.674460	53.318345	1344.2	3109.3	Turdus merula
+19	Spectrogram 1	1	56.776079	57.765288	1522.2	9364.7	Parus major
+20	Spectrogram 1	1	59.667266	60.000000	2622.8	3975.7	Unidentified bird

@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	35.0	38.0	150	15000	comnig1	Common Nightingale	0.1508
+2	Spectrogram 1	1	41.0	44.0	150	15000	commoo3	Eurasian Moorhen	0.2269
+3	Spectrogram 1	1	53.0	56.0	150	15000	commoo3	Eurasian Moorhen	0.1075
+4	Spectrogram 1	1	54.0	57.0	150	15000	commoo3	Eurasian Moorhen	0.2116

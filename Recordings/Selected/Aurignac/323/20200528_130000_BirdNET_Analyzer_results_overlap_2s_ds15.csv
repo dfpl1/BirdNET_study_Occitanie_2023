@@ -1,0 +1,107 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	thelar1	Thekla's Lark	0.1373
+2	Spectrogram 1	1	2.0	5.0	150	15000	mutswa	Mute Swan	0.1058
+3	Spectrogram 1	1	3.0	6.0	150	15000	comnig1	Common Nightingale	0.2320
+4	Spectrogram 1	1	5.0	8.0	150	15000	mutswa	Mute Swan	0.1217
+5	Spectrogram 1	1	8.0	11.0	150	15000	blackc1	Eurasian Blackcap	0.1538
+6	Spectrogram 1	1	19.0	22.0	150	15000	blackc1	Eurasian Blackcap	0.1001
+7	Spectrogram 1	1	21.0	24.0	150	15000	blackc1	Eurasian Blackcap	0.1253
+8	Spectrogram 1	1	21.0	24.0	150	15000	comred1	Common Redshank	0.1023
+9	Spectrogram 1	1	21.0	24.0	150	15000	mutswa	Mute Swan	0.1002
+10	Spectrogram 1	1	22.0	25.0	150	15000	comnig1	Common Nightingale	0.1059
+11	Spectrogram 1	1	22.0	25.0	150	15000	comred1	Common Redshank	0.1013
+12	Spectrogram 1	1	22.0	25.0	150	15000	grecor	Great Cormorant	0.1006
+13	Spectrogram 1	1	23.0	26.0	150	15000	comnig1	Common Nightingale	0.2247
+14	Spectrogram 1	1	23.0	26.0	150	15000	mutswa	Mute Swan	0.1090
+15	Spectrogram 1	1	24.0	27.0	150	15000	blutit	Eurasian Blue Tit	0.1712
+16	Spectrogram 1	1	24.0	27.0	150	15000	coatit2	Coal Tit	0.1266
+17	Spectrogram 1	1	24.0	27.0	150	15000	gretit1	Great Tit	0.1037
+18	Spectrogram 1	1	25.0	28.0	150	15000	blutit	Eurasian Blue Tit	0.4459
+19	Spectrogram 1	1	25.0	28.0	150	15000	gretit1	Great Tit	0.1541
+20	Spectrogram 1	1	25.0	28.0	150	15000	martit2	Marsh Tit	0.1290
+21	Spectrogram 1	1	26.0	29.0	150	15000	blutit	Eurasian Blue Tit	0.2909
+22	Spectrogram 1	1	26.0	29.0	150	15000	coatit2	Coal Tit	0.1964
+23	Spectrogram 1	1	26.0	29.0	150	15000	gretit1	Great Tit	0.1219
+24	Spectrogram 1	1	27.0	30.0	150	15000	blackc1	Eurasian Blackcap	0.2355
+25	Spectrogram 1	1	30.0	33.0	150	15000	comsan	Common Sandpiper	0.1496
+26	Spectrogram 1	1	31.0	34.0	150	15000	blutit	Eurasian Blue Tit	0.1394
+27	Spectrogram 1	1	32.0	35.0	150	15000	blutit	Eurasian Blue Tit	0.3376
+28	Spectrogram 1	1	32.0	35.0	150	15000	gretit1	Great Tit	0.1449
+29	Spectrogram 1	1	32.0	35.0	150	15000	sonthr1	Song Thrush	0.1245
+30	Spectrogram 1	1	33.0	36.0	150	15000	blutit	Eurasian Blue Tit	0.1614
+31	Spectrogram 1	1	34.0	37.0	150	15000	grnsan	Green Sandpiper	0.1892
+32	Spectrogram 1	1	35.0	38.0	150	15000	gretit1	Great Tit	0.1216
+33	Spectrogram 1	1	35.0	38.0	150	15000	grnsan	Green Sandpiper	0.1083
+34	Spectrogram 1	1	36.0	39.0	150	15000	dunnoc1	Dunnock	0.1637
+35	Spectrogram 1	1	36.0	39.0	150	15000	grnsan	Green Sandpiper	0.1486
+36	Spectrogram 1	1	36.0	39.0	150	15000	thelar1	Thekla's Lark	0.1362
+37	Spectrogram 1	1	36.0	39.0	150	15000	relpar1	Red-legged Partridge	0.1308
+38	Spectrogram 1	1	36.0	39.0	150	15000	stonec4	European Stonechat	0.1094
+39	Spectrogram 1	1	36.0	39.0	150	15000	reebun	Reed Bunting	0.1088
+40	Spectrogram 1	1	36.0	39.0	150	15000	mutswa	Mute Swan	0.1002
+41	Spectrogram 1	1	37.0	40.0	150	15000	eurgol	European Goldfinch	0.2751
+42	Spectrogram 1	1	37.0	40.0	150	15000	dunnoc1	Dunnock	0.2593
+43	Spectrogram 1	1	37.0	40.0	150	15000	comkin1	Common Kingfisher	0.1056
+44	Spectrogram 1	1	38.0	41.0	150	15000	eurgol	European Goldfinch	0.2062
+45	Spectrogram 1	1	38.0	41.0	150	15000	grecor	Great Cormorant	0.1422
+46	Spectrogram 1	1	38.0	41.0	150	15000	blackc1	Eurasian Blackcap	0.1148
+47	Spectrogram 1	1	38.0	41.0	150	15000	dunnoc1	Dunnock	0.1019
+48	Spectrogram 1	1	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.3355
+49	Spectrogram 1	1	39.0	42.0	150	15000	grecor	Great Cormorant	0.1526
+50	Spectrogram 1	1	39.0	42.0	150	15000	yellow2	Yellowhammer	0.1344
+51	Spectrogram 1	1	39.0	42.0	150	15000	mutswa	Mute Swan	0.1251
+52	Spectrogram 1	1	39.0	42.0	150	15000	dunnoc1	Dunnock	0.1128
+53	Spectrogram 1	1	39.0	42.0	150	15000	cirbun1	Cirl Bunting	0.1096
+54	Spectrogram 1	1	39.0	42.0	150	15000	eurgol	European Goldfinch	0.1060
+55	Spectrogram 1	1	39.0	42.0	150	15000	eugori2	Eurasian Golden Oriole	0.1038
+56	Spectrogram 1	1	39.0	42.0	150	15000	relpar1	Red-legged Partridge	0.1021
+57	Spectrogram 1	1	40.0	43.0	150	15000	blackc1	Eurasian Blackcap	0.3382
+58	Spectrogram 1	1	40.0	43.0	150	15000	yellow2	Yellowhammer	0.1020
+59	Spectrogram 1	1	40.0	43.0	150	15000	comsan	Common Sandpiper	0.1018
+60	Spectrogram 1	1	42.0	45.0	150	15000	blackc1	Eurasian Blackcap	0.2237
+61	Spectrogram 1	1	42.0	45.0	150	15000	dunnoc1	Dunnock	0.1108
+62	Spectrogram 1	1	42.0	45.0	150	15000	yellow2	Yellowhammer	0.1075
+63	Spectrogram 1	1	43.0	46.0	150	15000	blackc1	Eurasian Blackcap	0.1289
+64	Spectrogram 1	1	43.0	46.0	150	15000	eurgol	European Goldfinch	0.1204
+65	Spectrogram 1	1	43.0	46.0	150	15000	grecor	Great Cormorant	0.1201
+66	Spectrogram 1	1	43.0	46.0	150	15000	dunnoc1	Dunnock	0.1200
+67	Spectrogram 1	1	43.0	46.0	150	15000	comkin1	Common Kingfisher	0.1152
+68	Spectrogram 1	1	43.0	46.0	150	15000	mutswa	Mute Swan	0.1093
+69	Spectrogram 1	1	43.0	46.0	150	15000	relpar1	Red-legged Partridge	0.1038
+70	Spectrogram 1	1	44.0	47.0	150	15000	comkin1	Common Kingfisher	0.4507
+71	Spectrogram 1	1	44.0	47.0	150	15000	dunnoc1	Dunnock	0.3294
+72	Spectrogram 1	1	44.0	47.0	150	15000	trepip	Tree Pipit	0.1917
+73	Spectrogram 1	1	44.0	47.0	150	15000	blackc1	Eurasian Blackcap	0.1865
+74	Spectrogram 1	1	45.0	48.0	150	15000	dunnoc1	Dunnock	0.3317
+75	Spectrogram 1	1	45.0	48.0	150	15000	comkin1	Common Kingfisher	0.3268
+76	Spectrogram 1	1	45.0	48.0	150	15000	winwre4	Eurasian Wren	0.1688
+77	Spectrogram 1	1	45.0	48.0	150	15000	blutit	Eurasian Blue Tit	0.1447
+78	Spectrogram 1	1	45.0	48.0	150	15000	sonthr1	Song Thrush	0.1111
+79	Spectrogram 1	1	46.0	49.0	150	15000	dunnoc1	Dunnock	0.3324
+80	Spectrogram 1	1	46.0	49.0	150	15000	blutit	Eurasian Blue Tit	0.2225
+81	Spectrogram 1	1	46.0	49.0	150	15000	comkin1	Common Kingfisher	0.1799
+82	Spectrogram 1	1	46.0	49.0	150	15000	winwre4	Eurasian Wren	0.1304
+83	Spectrogram 1	1	46.0	49.0	150	15000	gretit1	Great Tit	0.1101
+84	Spectrogram 1	1	47.0	50.0	150	15000	blutit	Eurasian Blue Tit	0.3776
+85	Spectrogram 1	1	47.0	50.0	150	15000	comkin1	Common Kingfisher	0.1103
+86	Spectrogram 1	1	51.0	54.0	150	15000	dunnoc1	Dunnock	0.2062
+87	Spectrogram 1	1	51.0	54.0	150	15000	yellow2	Yellowhammer	0.1364
+88	Spectrogram 1	1	51.0	54.0	150	15000	grywag	Gray Wagtail	0.1018
+89	Spectrogram 1	1	51.0	54.0	150	15000	comkin1	Common Kingfisher	0.1007
+90	Spectrogram 1	1	52.0	55.0	150	15000	grywag	Gray Wagtail	0.1709
+91	Spectrogram 1	1	52.0	55.0	150	15000	comkin1	Common Kingfisher	0.1136
+92	Spectrogram 1	1	52.0	55.0	150	15000	blackc1	Eurasian Blackcap	0.1046
+93	Spectrogram 1	1	55.0	58.0	150	15000	barswa	Barn Swallow	0.1464
+94	Spectrogram 1	1	55.0	58.0	150	15000	blared1	Black Redstart	0.1076
+95	Spectrogram 1	1	55.0	58.0	150	15000	watpip1	Water Pipit	0.1057
+96	Spectrogram 1	1	55.0	58.0	150	15000	thelar1	Thekla's Lark	0.1043
+97	Spectrogram 1	1	56.0	59.0	150	15000	eurgol	European Goldfinch	0.1229
+98	Spectrogram 1	1	56.0	59.0	150	15000	blared1	Black Redstart	0.1110
+99	Spectrogram 1	1	57.0	60.0	150	15000	whiwag	White Wagtail	0.1880
+100	Spectrogram 1	1	57.0	60.0	150	15000	eurser1	European Serin	0.1303
+101	Spectrogram 1	1	57.0	60.0	150	15000	grywag	Gray Wagtail	0.1214
+102	Spectrogram 1	1	58.0	61.0	150	15000	hawfin	Hawfinch	0.2108
+103	Spectrogram 1	1	58.0	61.0	150	15000	grywag	Gray Wagtail	0.1646
+104	Spectrogram 1	1	58.0	61.0	150	15000	martit2	Marsh Tit	0.1262
+105	Spectrogram 1	1	58.0	61.0	150	15000	yellow2	Yellowhammer	0.1127
+106	Spectrogram 1	1	58.0	61.0	150	15000	eurrob1	European Robin	0.1047

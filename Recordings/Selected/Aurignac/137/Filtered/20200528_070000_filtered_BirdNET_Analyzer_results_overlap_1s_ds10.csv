@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.2182
+2	Spectrogram 1	1	6.0	9.0	150	15000	webwar1	Western Bonelli's Warbler	0.1305
+3	Spectrogram 1	1	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.1272
+4	Spectrogram 1	1	6.0	9.0	150	15000	cirbun1	Cirl Bunting	0.1131
+5	Spectrogram 1	1	8.0	11.0	150	15000	blackc1	Eurasian Blackcap	0.1881
+6	Spectrogram 1	1	12.0	15.0	150	15000	comcha	Common Chaffinch	0.2963
+7	Spectrogram 1	1	20.0	23.0	150	15000	blackc1	Eurasian Blackcap	0.2270
+8	Spectrogram 1	1	20.0	23.0	150	15000	garwar1	Garden Warbler	0.1039
+9	Spectrogram 1	1	22.0	25.0	150	15000	cirbun1	Cirl Bunting	0.1231
+10	Spectrogram 1	1	22.0	25.0	150	15000	webwar1	Western Bonelli's Warbler	0.1109
+11	Spectrogram 1	1	22.0	25.0	150	15000	eugori2	Eurasian Golden Oriole	0.1003
+12	Spectrogram 1	1	26.0	29.0	150	15000	webwar1	Western Bonelli's Warbler	0.1719
+13	Spectrogram 1	1	28.0	31.0	150	15000	webwar1	Western Bonelli's Warbler	0.2138
+14	Spectrogram 1	1	28.0	31.0	150	15000	blackc1	Eurasian Blackcap	0.1104
+15	Spectrogram 1	1	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.3416
+16	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.2263
+17	Spectrogram 1	1	32.0	35.0	150	15000	redkit1	Red Kite	0.1002
+18	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.1418
+19	Spectrogram 1	1	50.0	53.0	150	15000	blackc1	Eurasian Blackcap	0.1692
+20	Spectrogram 1	1	50.0	53.0	150	15000	webwar1	Western Bonelli's Warbler	0.1047
+21	Spectrogram 1	1	56.0	59.0	150	15000	webwar1	Western Bonelli's Warbler	0.1709

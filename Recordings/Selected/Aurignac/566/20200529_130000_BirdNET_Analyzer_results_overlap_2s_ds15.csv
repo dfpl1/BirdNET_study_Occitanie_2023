@@ -1,0 +1,187 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eurbla	Eurasian Blackbird	0.2621
+2	Spectrogram 1	1	0	3.0	150	15000	blutit	Eurasian Blue Tit	0.2448
+3	Spectrogram 1	1	0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.1546
+4	Spectrogram 1	1	0	3.0	150	15000	coatit2	Coal Tit	0.1388
+5	Spectrogram 1	1	0	3.0	150	15000	grswoo	Great Spotted Woodpecker	0.1065
+6	Spectrogram 1	1	1.0	4.0	150	15000	blutit	Eurasian Blue Tit	0.5556
+7	Spectrogram 1	1	1.0	4.0	150	15000	eurbla	Eurasian Blackbird	0.3006
+8	Spectrogram 1	1	1.0	4.0	150	15000	eugori2	Eurasian Golden Oriole	0.1877
+9	Spectrogram 1	1	1.0	4.0	150	15000	coatit2	Coal Tit	0.1637
+10	Spectrogram 1	1	1.0	4.0	150	15000	grswoo	Great Spotted Woodpecker	0.1255
+11	Spectrogram 1	1	1.0	4.0	150	15000	rocbun1	Rock Bunting	0.1172
+12	Spectrogram 1	1	1.0	4.0	150	15000	hawfin	Hawfinch	0.1021
+13	Spectrogram 1	1	1.0	4.0	150	15000	eurser1	European Serin	0.1021
+14	Spectrogram 1	1	2.0	5.0	150	15000	blutit	Eurasian Blue Tit	0.5592
+15	Spectrogram 1	1	2.0	5.0	150	15000	cretit2	Crested Tit	0.2252
+16	Spectrogram 1	1	3.0	6.0	150	15000	blutit	Eurasian Blue Tit	0.7191
+17	Spectrogram 1	1	3.0	6.0	150	15000	cretit2	Crested Tit	0.5340
+18	Spectrogram 1	1	3.0	6.0	150	15000	coatit2	Coal Tit	0.1401
+19	Spectrogram 1	1	4.0	7.0	150	15000	cretit2	Crested Tit	0.6557
+20	Spectrogram 1	1	4.0	7.0	150	15000	blutit	Eurasian Blue Tit	0.3253
+21	Spectrogram 1	1	5.0	8.0	150	15000	cretit2	Crested Tit	0.7455
+22	Spectrogram 1	1	5.0	8.0	150	15000	blutit	Eurasian Blue Tit	0.2365
+23	Spectrogram 1	1	5.0	8.0	150	15000	coatit2	Coal Tit	0.2184
+24	Spectrogram 1	1	6.0	9.0	150	15000	cretit2	Crested Tit	0.6712
+25	Spectrogram 1	1	6.0	9.0	150	15000	blutit	Eurasian Blue Tit	0.2696
+26	Spectrogram 1	1	6.0	9.0	150	15000	coatit2	Coal Tit	0.1664
+27	Spectrogram 1	1	7.0	10.0	150	15000	blutit	Eurasian Blue Tit	0.6392
+28	Spectrogram 1	1	7.0	10.0	150	15000	cretit2	Crested Tit	0.3853
+29	Spectrogram 1	1	7.0	10.0	150	15000	coatit2	Coal Tit	0.1597
+30	Spectrogram 1	1	7.0	10.0	150	15000	gretit1	Great Tit	0.1473
+31	Spectrogram 1	1	7.0	10.0	150	15000	rocbun1	Rock Bunting	0.1059
+32	Spectrogram 1	1	7.0	10.0	150	15000	grswoo	Great Spotted Woodpecker	0.1005
+33	Spectrogram 1	1	8.0	11.0	150	15000	blutit	Eurasian Blue Tit	0.3533
+34	Spectrogram 1	1	8.0	11.0	150	15000	cretit2	Crested Tit	0.2115
+35	Spectrogram 1	1	8.0	11.0	150	15000	gretit1	Great Tit	0.1263
+36	Spectrogram 1	1	8.0	11.0	150	15000	eurgol	European Goldfinch	0.1124
+37	Spectrogram 1	1	8.0	11.0	150	15000	cowpig1	Common Wood-Pigeon	0.1096
+38	Spectrogram 1	1	9.0	12.0	150	15000	blutit	Eurasian Blue Tit	0.5862
+39	Spectrogram 1	1	9.0	12.0	150	15000	cretit2	Crested Tit	0.3629
+40	Spectrogram 1	1	9.0	12.0	150	15000	coatit2	Coal Tit	0.2277
+41	Spectrogram 1	1	9.0	12.0	150	15000	gretit1	Great Tit	0.1214
+42	Spectrogram 1	1	9.0	12.0	150	15000	rocpet1	Rock Sparrow	0.1024
+43	Spectrogram 1	1	10.0	13.0	150	15000	blutit	Eurasian Blue Tit	0.5214
+44	Spectrogram 1	1	10.0	13.0	150	15000	coatit2	Coal Tit	0.2596
+45	Spectrogram 1	1	10.0	13.0	150	15000	cretit2	Crested Tit	0.1523
+46	Spectrogram 1	1	10.0	13.0	150	15000	melwar1	Melodious Warbler	0.1207
+47	Spectrogram 1	1	10.0	13.0	150	15000	darwar1	Dartford Warbler	0.1165
+48	Spectrogram 1	1	10.0	13.0	150	15000	comcha	Common Chaffinch	0.1116
+49	Spectrogram 1	1	10.0	13.0	150	15000	cirbun1	Cirl Bunting	0.1114
+50	Spectrogram 1	1	10.0	13.0	150	15000	eurbla	Eurasian Blackbird	0.1099
+51	Spectrogram 1	1	10.0	13.0	150	15000	grswoo	Great Spotted Woodpecker	0.1002
+52	Spectrogram 1	1	11.0	14.0	150	15000	blutit	Eurasian Blue Tit	0.3615
+53	Spectrogram 1	1	11.0	14.0	150	15000	coatit2	Coal Tit	0.1982
+54	Spectrogram 1	1	11.0	14.0	150	15000	cretit2	Crested Tit	0.1915
+55	Spectrogram 1	1	11.0	14.0	150	15000	rocpet1	Rock Sparrow	0.1232
+56	Spectrogram 1	1	11.0	14.0	150	15000	comchi1	Common Chiffchaff	0.1108
+57	Spectrogram 1	1	12.0	15.0	150	15000	blutit	Eurasian Blue Tit	0.5886
+58	Spectrogram 1	1	12.0	15.0	150	15000	cretit2	Crested Tit	0.2714
+59	Spectrogram 1	1	12.0	15.0	150	15000	rocbun1	Rock Bunting	0.2016
+60	Spectrogram 1	1	12.0	15.0	150	15000	coatit2	Coal Tit	0.1853
+61	Spectrogram 1	1	12.0	15.0	150	15000	eurrob1	European Robin	0.1249
+62	Spectrogram 1	1	12.0	15.0	150	15000	gretit1	Great Tit	0.1155
+63	Spectrogram 1	1	12.0	15.0	150	15000	cirbun1	Cirl Bunting	0.1025
+64	Spectrogram 1	1	13.0	16.0	150	15000	blutit	Eurasian Blue Tit	0.4486
+65	Spectrogram 1	1	13.0	16.0	150	15000	cretit2	Crested Tit	0.3724
+66	Spectrogram 1	1	13.0	16.0	150	15000	coatit2	Coal Tit	0.1189
+67	Spectrogram 1	1	13.0	16.0	150	15000	gretit1	Great Tit	0.1135
+68	Spectrogram 1	1	14.0	17.0	150	15000	blutit	Eurasian Blue Tit	0.4473
+69	Spectrogram 1	1	14.0	17.0	150	15000	cretit2	Crested Tit	0.3059
+70	Spectrogram 1	1	14.0	17.0	150	15000	rocbun1	Rock Bunting	0.1304
+71	Spectrogram 1	1	14.0	17.0	150	15000	eurrob1	European Robin	0.1171
+72	Spectrogram 1	1	14.0	17.0	150	15000	coatit2	Coal Tit	0.1108
+73	Spectrogram 1	1	15.0	18.0	150	15000	cretit2	Crested Tit	0.7351
+74	Spectrogram 1	1	15.0	18.0	150	15000	blutit	Eurasian Blue Tit	0.1801
+75	Spectrogram 1	1	15.0	18.0	150	15000	coatit2	Coal Tit	0.1145
+76	Spectrogram 1	1	15.0	18.0	150	15000	martit2	Marsh Tit	0.1050
+77	Spectrogram 1	1	15.0	18.0	150	15000	goldcr1	Goldcrest	0.1006
+78	Spectrogram 1	1	16.0	19.0	150	15000	coatit2	Coal Tit	0.2665
+79	Spectrogram 1	1	16.0	19.0	150	15000	blutit	Eurasian Blue Tit	0.1939
+80	Spectrogram 1	1	16.0	19.0	150	15000	cretit2	Crested Tit	0.1554
+81	Spectrogram 1	1	16.0	19.0	150	15000	gretit1	Great Tit	0.1338
+82	Spectrogram 1	1	16.0	19.0	150	15000	eurrob1	European Robin	0.1316
+83	Spectrogram 1	1	16.0	19.0	150	15000	eurnut2	Eurasian Nuthatch	0.1181
+84	Spectrogram 1	1	17.0	20.0	150	15000	coatit2	Coal Tit	0.2238
+85	Spectrogram 1	1	17.0	20.0	150	15000	blutit	Eurasian Blue Tit	0.1805
+86	Spectrogram 1	1	17.0	20.0	150	15000	eurrob1	European Robin	0.1495
+87	Spectrogram 1	1	17.0	20.0	150	15000	eurbla	Eurasian Blackbird	0.1212
+88	Spectrogram 1	1	18.0	21.0	150	15000	eurbla	Eurasian Blackbird	0.3920
+89	Spectrogram 1	1	18.0	21.0	150	15000	blutit	Eurasian Blue Tit	0.2232
+90	Spectrogram 1	1	18.0	21.0	150	15000	eurrob1	European Robin	0.2198
+91	Spectrogram 1	1	18.0	21.0	150	15000	coatit2	Coal Tit	0.1998
+92	Spectrogram 1	1	18.0	21.0	150	15000	misthr1	Mistle Thrush	0.1335
+93	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1207
+94	Spectrogram 1	1	18.0	21.0	150	15000	darwar1	Dartford Warbler	0.1203
+95	Spectrogram 1	1	18.0	21.0	150	15000	sposta1	Spotless Starling	0.1077
+96	Spectrogram 1	1	18.0	21.0	150	15000	cowpig1	Common Wood-Pigeon	0.1057
+97	Spectrogram 1	1	18.0	21.0	150	15000	cirbun1	Cirl Bunting	0.1031
+98	Spectrogram 1	1	19.0	22.0	150	15000	eurbla	Eurasian Blackbird	0.2999
+99	Spectrogram 1	1	19.0	22.0	150	15000	blutit	Eurasian Blue Tit	0.1451
+100	Spectrogram 1	1	19.0	22.0	150	15000	cowpig1	Common Wood-Pigeon	0.1382
+101	Spectrogram 1	1	19.0	22.0	150	15000	comchi1	Common Chiffchaff	0.1121
+102	Spectrogram 1	1	19.0	22.0	150	15000	misthr1	Mistle Thrush	0.1059
+103	Spectrogram 1	1	19.0	22.0	150	15000	firecr1	Common Firecrest	0.1036
+104	Spectrogram 1	1	20.0	23.0	150	15000	rebshr1	Red-backed Shrike	0.1337
+105	Spectrogram 1	1	20.0	23.0	150	15000	misthr1	Mistle Thrush	0.1191
+106	Spectrogram 1	1	20.0	23.0	150	15000	darwar1	Dartford Warbler	0.1009
+107	Spectrogram 1	1	21.0	24.0	150	15000	cretit2	Crested Tit	0.1178
+108	Spectrogram 1	1	22.0	25.0	150	15000	cretit2	Crested Tit	0.3372
+109	Spectrogram 1	1	22.0	25.0	150	15000	blutit	Eurasian Blue Tit	0.3289
+110	Spectrogram 1	1	22.0	25.0	150	15000	cirbun1	Cirl Bunting	0.1225
+111	Spectrogram 1	1	23.0	26.0	150	15000	cretit2	Crested Tit	0.5235
+112	Spectrogram 1	1	23.0	26.0	150	15000	blutit	Eurasian Blue Tit	0.2009
+113	Spectrogram 1	1	23.0	26.0	150	15000	rocpet1	Rock Sparrow	0.1571
+114	Spectrogram 1	1	24.0	27.0	150	15000	rocpet1	Rock Sparrow	0.2206
+115	Spectrogram 1	1	24.0	27.0	150	15000	cretit2	Crested Tit	0.1409
+116	Spectrogram 1	1	28.0	31.0	150	15000	cretit2	Crested Tit	0.1026
+117	Spectrogram 1	1	29.0	32.0	150	15000	cretit2	Crested Tit	0.4096
+118	Spectrogram 1	1	30.0	33.0	150	15000	cretit2	Crested Tit	0.6885
+119	Spectrogram 1	1	30.0	33.0	150	15000	eurbla	Eurasian Blackbird	0.2650
+120	Spectrogram 1	1	30.0	33.0	150	15000	blutit	Eurasian Blue Tit	0.1651
+121	Spectrogram 1	1	31.0	34.0	150	15000	eurbla	Eurasian Blackbird	0.1953
+122	Spectrogram 1	1	31.0	34.0	150	15000	eugori2	Eurasian Golden Oriole	0.1570
+123	Spectrogram 1	1	31.0	34.0	150	15000	rebshr1	Red-backed Shrike	0.1217
+124	Spectrogram 1	1	32.0	35.0	150	15000	eurbla	Eurasian Blackbird	0.1361
+125	Spectrogram 1	1	34.0	37.0	150	15000	cretit2	Crested Tit	0.2063
+126	Spectrogram 1	1	34.0	37.0	150	15000	rebshr1	Red-backed Shrike	0.1063
+127	Spectrogram 1	1	36.0	39.0	150	15000	cretit2	Crested Tit	0.1125
+128	Spectrogram 1	1	39.0	42.0	150	15000	eugori2	Eurasian Golden Oriole	0.1222
+129	Spectrogram 1	1	40.0	43.0	150	15000	eurbla	Eurasian Blackbird	0.1226
+130	Spectrogram 1	1	44.0	47.0	150	15000	blutit	Eurasian Blue Tit	0.1955
+131	Spectrogram 1	1	44.0	47.0	150	15000	cretit2	Crested Tit	0.1365
+132	Spectrogram 1	1	45.0	48.0	150	15000	cretit2	Crested Tit	0.3559
+133	Spectrogram 1	1	45.0	48.0	150	15000	blutit	Eurasian Blue Tit	0.2587
+134	Spectrogram 1	1	45.0	48.0	150	15000	coatit2	Coal Tit	0.1294
+135	Spectrogram 1	1	46.0	49.0	150	15000	blutit	Eurasian Blue Tit	0.3839
+136	Spectrogram 1	1	46.0	49.0	150	15000	cretit2	Crested Tit	0.3157
+137	Spectrogram 1	1	46.0	49.0	150	15000	coatit2	Coal Tit	0.1201
+138	Spectrogram 1	1	47.0	50.0	150	15000	cretit2	Crested Tit	0.3891
+139	Spectrogram 1	1	47.0	50.0	150	15000	blutit	Eurasian Blue Tit	0.3641
+140	Spectrogram 1	1	47.0	50.0	150	15000	coatit2	Coal Tit	0.1728
+141	Spectrogram 1	1	50.0	53.0	150	15000	blutit	Eurasian Blue Tit	0.4640
+142	Spectrogram 1	1	50.0	53.0	150	15000	eurbla	Eurasian Blackbird	0.2111
+143	Spectrogram 1	1	50.0	53.0	150	15000	goldcr1	Goldcrest	0.1612
+144	Spectrogram 1	1	50.0	53.0	150	15000	coatit2	Coal Tit	0.1570
+145	Spectrogram 1	1	50.0	53.0	150	15000	grswoo	Great Spotted Woodpecker	0.1176
+146	Spectrogram 1	1	50.0	53.0	150	15000	trepip	Tree Pipit	0.1026
+147	Spectrogram 1	1	50.0	53.0	150	15000	webwar1	Western Bonelli's Warbler	0.1004
+148	Spectrogram 1	1	51.0	54.0	150	15000	blutit	Eurasian Blue Tit	0.6165
+149	Spectrogram 1	1	51.0	54.0	150	15000	eurbla	Eurasian Blackbird	0.2499
+150	Spectrogram 1	1	51.0	54.0	150	15000	coatit2	Coal Tit	0.1748
+151	Spectrogram 1	1	51.0	54.0	150	15000	goldcr1	Goldcrest	0.1388
+152	Spectrogram 1	1	51.0	54.0	150	15000	gretit1	Great Tit	0.1293
+153	Spectrogram 1	1	51.0	54.0	150	15000	firecr1	Common Firecrest	0.1102
+154	Spectrogram 1	1	52.0	55.0	150	15000	blutit	Eurasian Blue Tit	0.2782
+155	Spectrogram 1	1	52.0	55.0	150	15000	eurbla	Eurasian Blackbird	0.1635
+156	Spectrogram 1	1	52.0	55.0	150	15000	rocbun1	Rock Bunting	0.1501
+157	Spectrogram 1	1	52.0	55.0	150	15000	goldcr1	Goldcrest	0.1382
+158	Spectrogram 1	1	52.0	55.0	150	15000	blackc1	Eurasian Blackcap	0.1240
+159	Spectrogram 1	1	52.0	55.0	150	15000	trepip	Tree Pipit	0.1116
+160	Spectrogram 1	1	53.0	56.0	150	15000	blutit	Eurasian Blue Tit	0.4764
+161	Spectrogram 1	1	53.0	56.0	150	15000	eurgol	European Goldfinch	0.2100
+162	Spectrogram 1	1	53.0	56.0	150	15000	coatit2	Coal Tit	0.2087
+163	Spectrogram 1	1	53.0	56.0	150	15000	rocbun1	Rock Bunting	0.2076
+164	Spectrogram 1	1	53.0	56.0	150	15000	eurrob1	European Robin	0.1278
+165	Spectrogram 1	1	54.0	57.0	150	15000	blutit	Eurasian Blue Tit	0.5497
+166	Spectrogram 1	1	54.0	57.0	150	15000	cretit2	Crested Tit	0.2617
+167	Spectrogram 1	1	54.0	57.0	150	15000	coatit2	Coal Tit	0.1502
+168	Spectrogram 1	1	55.0	58.0	150	15000	blutit	Eurasian Blue Tit	0.4461
+169	Spectrogram 1	1	55.0	58.0	150	15000	cretit2	Crested Tit	0.2723
+170	Spectrogram 1	1	55.0	58.0	150	15000	coatit2	Coal Tit	0.1003
+171	Spectrogram 1	1	56.0	59.0	150	15000	cretit2	Crested Tit	0.1810
+172	Spectrogram 1	1	56.0	59.0	150	15000	blutit	Eurasian Blue Tit	0.1768
+173	Spectrogram 1	1	57.0	60.0	150	15000	blutit	Eurasian Blue Tit	0.4788
+174	Spectrogram 1	1	57.0	60.0	150	15000	cretit2	Crested Tit	0.3982
+175	Spectrogram 1	1	57.0	60.0	150	15000	coatit2	Coal Tit	0.1709
+176	Spectrogram 1	1	58.0	61.0	150	15000	blutit	Eurasian Blue Tit	0.4802
+177	Spectrogram 1	1	58.0	61.0	150	15000	cretit2	Crested Tit	0.4260
+178	Spectrogram 1	1	58.0	61.0	150	15000	coatit2	Coal Tit	0.1531
+179	Spectrogram 1	1	58.0	61.0	150	15000	goldcr1	Goldcrest	0.1321
+180	Spectrogram 1	1	58.0	61.0	150	15000	rocbun1	Rock Bunting	0.1074
+181	Spectrogram 1	1	59.0	62.0	150	15000	cretit2	Crested Tit	0.4414
+182	Spectrogram 1	1	59.0	62.0	150	15000	alpswi1	Alpine Swift	0.1532
+183	Spectrogram 1	1	59.0	62.0	150	15000	blutit	Eurasian Blue Tit	0.1273
+184	Spectrogram 1	1	59.0	62.0	150	15000	eurkes	Eurasian Kestrel	0.1104
+185	Spectrogram 1	1	59.0	62.0	150	15000	rebshr1	Red-backed Shrike	0.1052
+186	Spectrogram 1	1	59.0	62.0	150	15000	eurrob1	European Robin	0.1013

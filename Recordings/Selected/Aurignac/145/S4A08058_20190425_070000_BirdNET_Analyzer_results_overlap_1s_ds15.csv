@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	12.0	15.0	150	15000	eurbul	Eurasian Bullfinch	0.1088
+2	Spectrogram 1	1	14.0	17.0	150	15000	dunnoc1	Dunnock	0.1015
+3	Spectrogram 1	1	24.0	27.0	150	15000	comchi1	Common Chiffchaff	0.1662
+4	Spectrogram 1	1	24.0	27.0	150	15000	reebun	Reed Bunting	0.1361
+5	Spectrogram 1	1	24.0	27.0	150	15000	skylar	Eurasian Skylark	0.1259
+6	Spectrogram 1	1	24.0	27.0	150	15000	dunnoc1	Dunnock	0.1025
+7	Spectrogram 1	1	26.0	29.0	150	15000	comchi1	Common Chiffchaff	0.1783
+8	Spectrogram 1	1	26.0	29.0	150	15000	trepip	Tree Pipit	0.1347
+9	Spectrogram 1	1	28.0	31.0	150	15000	dunnoc1	Dunnock	0.1547
+10	Spectrogram 1	1	28.0	31.0	150	15000	eurbul	Eurasian Bullfinch	0.1217
+11	Spectrogram 1	1	40.0	43.0	150	15000	winwre4	Eurasian Wren	0.1056
+12	Spectrogram 1	1	42.0	45.0	150	15000	eurbul	Eurasian Bullfinch	0.1315

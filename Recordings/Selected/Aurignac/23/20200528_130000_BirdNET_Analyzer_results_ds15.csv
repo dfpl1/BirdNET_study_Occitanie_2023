@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eurbla	Eurasian Blackbird	0.2088
+2	Spectrogram 1	1	0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.1062
+3	Spectrogram 1	1	12.0	15.0	150	15000	eurbla	Eurasian Blackbird	0.1628
+4	Spectrogram 1	1	24.0	27.0	150	15000	skylar	Eurasian Skylark	0.1588
+5	Spectrogram 1	1	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.2256
+6	Spectrogram 1	1	48.0	51.0	150	15000	eurbla	Eurasian Blackbird	0.2275
+7	Spectrogram 1	1	48.0	51.0	150	15000	eurrob1	European Robin	0.1638
+8	Spectrogram 1	1	48.0	51.0	150	15000	eugori2	Eurasian Golden Oriole	0.1630
+9	Spectrogram 1	1	48.0	51.0	150	15000	firecr1	Common Firecrest	0.1427
+10	Spectrogram 1	1	48.0	51.0	150	15000	cowpig1	Common Wood-Pigeon	0.1333
+11	Spectrogram 1	1	48.0	51.0	150	15000	ibechi2	Iberian Chiffchaff	0.1312
+12	Spectrogram 1	1	48.0	51.0	150	15000	goldcr1	Goldcrest	0.1131
+13	Spectrogram 1	1	48.0	51.0	150	15000	sonthr1	Song Thrush	0.1048
+14	Spectrogram 1	1	48.0	51.0	150	15000	webwar1	Western Bonelli's Warbler	0.1046
+15	Spectrogram 1	1	48.0	51.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1044
+16	Spectrogram 1	1	51.0	54.0	150	15000	blackc1	Eurasian Blackcap	0.1609
+17	Spectrogram 1	1	51.0	54.0	150	15000	goldcr1	Goldcrest	0.1105
+18	Spectrogram 1	1	51.0	54.0	150	15000	webwar1	Western Bonelli's Warbler	0.1013

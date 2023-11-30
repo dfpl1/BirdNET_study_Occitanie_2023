@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	18.0	21.0	150	15000	lirplo	Little Ringed Plover	0.1094
+2	Spectrogram 1	1	50.0	53.0	150	15000	gretit1	Great Tit	0.1400
+3	Spectrogram 1	1	51.0	54.0	150	15000	gretit1	Great Tit	0.1651
+4	Spectrogram 1	1	59.0	62.0	150	15000	eurrob1	European Robin	0.1000

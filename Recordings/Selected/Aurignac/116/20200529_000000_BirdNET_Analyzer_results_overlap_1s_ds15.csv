@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	comnig1	Common Nightingale	0.2979
+2	Spectrogram 1	1	10.0	13.0	150	15000	comnig1	Common Nightingale	0.1118
+3	Spectrogram 1	1	14.0	17.0	150	15000	comnig1	Common Nightingale	0.6777
+4	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.1699
+5	Spectrogram 1	1	14.0	17.0	150	15000	garwar1	Garden Warbler	0.1170
+6	Spectrogram 1	1	16.0	19.0	150	15000	comnig1	Common Nightingale	0.1642
+7	Spectrogram 1	1	18.0	21.0	150	15000	eurnut2	Eurasian Nuthatch	0.1197
+8	Spectrogram 1	1	22.0	25.0	150	15000	comnig1	Common Nightingale	0.1584
+9	Spectrogram 1	1	22.0	25.0	150	15000	sonthr1	Song Thrush	0.1294
+10	Spectrogram 1	1	22.0	25.0	150	15000	blackc1	Eurasian Blackcap	0.1002
+11	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.1455
+12	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.1082
+13	Spectrogram 1	1	44.0	47.0	150	15000	comnig1	Common Nightingale	0.1275
+14	Spectrogram 1	1	52.0	55.0	150	15000	tawowl1	Tawny Owl	0.1089

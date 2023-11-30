@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	comcuc	Common Cuckoo	0.1320
+2	Spectrogram 1	1	2.0	5.0	150	15000	comcuc	Common Cuckoo	0.1317
+3	Spectrogram 1	1	22.0	25.0	150	15000	comcuc	Common Cuckoo	0.5627
+4	Spectrogram 1	1	28.0	31.0	150	15000	comcuc	Common Cuckoo	0.1072
+5	Spectrogram 1	1	30.0	33.0	150	15000	comcuc	Common Cuckoo	0.4562
+6	Spectrogram 1	1	36.0	39.0	150	15000	blutit	Eurasian Blue Tit	0.2321
+7	Spectrogram 1	1	40.0	43.0	150	15000	blutit	Eurasian Blue Tit	0.1074
+8	Spectrogram 1	1	42.0	45.0	150	15000	blutit	Eurasian Blue Tit	0.1185
+9	Spectrogram 1	1	52.0	55.0	150	15000	grewhi1	Greater Whitethroat	0.2143
+10	Spectrogram 1	1	52.0	55.0	150	15000	melwar1	Melodious Warbler	0.1361

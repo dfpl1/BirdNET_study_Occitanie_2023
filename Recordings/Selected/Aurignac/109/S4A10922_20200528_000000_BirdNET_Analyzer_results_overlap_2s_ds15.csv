@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	1.0	4.0	150	15000	bcnher	Black-crowned Night-Heron	0.1007
+2	Spectrogram 1	1	4.0	7.0	150	15000	litowl1	Little Owl	0.1455
+3	Spectrogram 1	1	4.0	7.0	150	15000	bcnher	Black-crowned Night-Heron	0.1112
+4	Spectrogram 1	1	9.0	12.0	150	15000	litowl1	Little Owl	0.1037
+5	Spectrogram 1	1	13.0	16.0	150	15000	litowl1	Little Owl	0.1713
+6	Spectrogram 1	1	15.0	18.0	150	15000	litowl1	Little Owl	0.1051
+7	Spectrogram 1	1	26.0	29.0	150	15000	litowl1	Little Owl	0.1012
+8	Spectrogram 1	1	27.0	30.0	150	15000	eurmag1	Eurasian Magpie	0.1055
+9	Spectrogram 1	1	27.0	30.0	150	15000	litowl1	Little Owl	0.1054
+10	Spectrogram 1	1	35.0	38.0	150	15000	litowl1	Little Owl	0.1090
+11	Spectrogram 1	1	41.0	44.0	150	15000	bcnher	Black-crowned Night-Heron	0.1280
+12	Spectrogram 1	1	43.0	46.0	150	15000	bcnher	Black-crowned Night-Heron	0.1025
+13	Spectrogram 1	1	52.0	55.0	150	15000	bcnher	Black-crowned Night-Heron	0.1006
+14	Spectrogram 1	1	54.0	57.0	150	15000	bcnher	Black-crowned Night-Heron	0.1223
+15	Spectrogram 1	1	56.0	59.0	150	15000	mallar3	Mallard	0.1110

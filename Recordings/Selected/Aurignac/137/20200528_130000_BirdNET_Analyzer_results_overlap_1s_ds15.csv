@@ -1,0 +1,55 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	reebun	Reed Bunting	0.1091
+2	Spectrogram 1	1	0	3.0	150	15000	grewhi1	Greater Whitethroat	0.1048
+3	Spectrogram 1	1	2.0	5.0	150	15000	skylar	Eurasian Skylark	0.1540
+4	Spectrogram 1	1	2.0	5.0	150	15000	melwar1	Melodious Warbler	0.1159
+5	Spectrogram 1	1	2.0	5.0	150	15000	grewhi1	Greater Whitethroat	0.1052
+6	Spectrogram 1	1	2.0	5.0	150	15000	lirplo	Little Ringed Plover	0.1039
+7	Spectrogram 1	1	2.0	5.0	150	15000	thelar1	Thekla's Lark	0.1029
+8	Spectrogram 1	1	4.0	7.0	150	15000	comqua1	Common Quail	0.1500
+9	Spectrogram 1	1	16.0	19.0	150	15000	blackc1	Eurasian Blackcap	0.6511
+10	Spectrogram 1	1	16.0	19.0	150	15000	webwar1	Western Bonelli's Warbler	0.1328
+11	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.3833
+12	Spectrogram 1	1	18.0	21.0	150	15000	grswoo	Great Spotted Woodpecker	0.1829
+13	Spectrogram 1	1	18.0	21.0	150	15000	sarwar1	Sardinian Warbler	0.1138
+14	Spectrogram 1	1	18.0	21.0	150	15000	grewhi1	Greater Whitethroat	0.1039
+15	Spectrogram 1	1	22.0	25.0	150	15000	yellow2	Yellowhammer	0.2250
+16	Spectrogram 1	1	22.0	25.0	150	15000	mutswa	Mute Swan	0.1104
+17	Spectrogram 1	1	24.0	27.0	150	15000	skylar	Eurasian Skylark	0.2562
+18	Spectrogram 1	1	24.0	27.0	150	15000	comsan	Common Sandpiper	0.1379
+19	Spectrogram 1	1	24.0	27.0	150	15000	yellow2	Yellowhammer	0.1079
+20	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.3226
+21	Spectrogram 1	1	26.0	29.0	150	15000	lirplo	Little Ringed Plover	0.1596
+22	Spectrogram 1	1	26.0	29.0	150	15000	eurbul	Eurasian Bullfinch	0.1383
+23	Spectrogram 1	1	28.0	31.0	150	15000	blackc1	Eurasian Blackcap	0.2857
+24	Spectrogram 1	1	28.0	31.0	150	15000	thelar1	Thekla's Lark	0.1122
+25	Spectrogram 1	1	32.0	35.0	150	15000	yellow2	Yellowhammer	0.2137
+26	Spectrogram 1	1	34.0	37.0	150	15000	yellow2	Yellowhammer	0.3678
+27	Spectrogram 1	1	36.0	39.0	150	15000	blackc1	Eurasian Blackcap	0.2940
+28	Spectrogram 1	1	36.0	39.0	150	15000	garwar1	Garden Warbler	0.1322
+29	Spectrogram 1	1	36.0	39.0	150	15000	thelar1	Thekla's Lark	0.1255
+30	Spectrogram 1	1	36.0	39.0	150	15000	sarwar1	Sardinian Warbler	0.1165
+31	Spectrogram 1	1	36.0	39.0	150	15000	grewhi1	Greater Whitethroat	0.1108
+32	Spectrogram 1	1	38.0	41.0	150	15000	blackc1	Eurasian Blackcap	0.5110
+33	Spectrogram 1	1	38.0	41.0	150	15000	webwar1	Western Bonelli's Warbler	0.1050
+34	Spectrogram 1	1	44.0	47.0	150	15000	yellow2	Yellowhammer	0.2880
+35	Spectrogram 1	1	46.0	49.0	150	15000	eurbla	Eurasian Blackbird	0.2029
+36	Spectrogram 1	1	46.0	49.0	150	15000	garwar1	Garden Warbler	0.1481
+37	Spectrogram 1	1	46.0	49.0	150	15000	yellow2	Yellowhammer	0.1377
+38	Spectrogram 1	1	46.0	49.0	150	15000	blackc1	Eurasian Blackcap	0.1019
+39	Spectrogram 1	1	46.0	49.0	150	15000	cowpig1	Common Wood-Pigeon	0.1003
+40	Spectrogram 1	1	48.0	51.0	150	15000	blackc1	Eurasian Blackcap	0.2333
+41	Spectrogram 1	1	48.0	51.0	150	15000	garwar1	Garden Warbler	0.1199
+42	Spectrogram 1	1	50.0	53.0	150	15000	blackc1	Eurasian Blackcap	0.1420
+43	Spectrogram 1	1	50.0	53.0	150	15000	thelar1	Thekla's Lark	0.1312
+44	Spectrogram 1	1	50.0	53.0	150	15000	comred2	Common Redstart	0.1305
+45	Spectrogram 1	1	50.0	53.0	150	15000	grewhi1	Greater Whitethroat	0.1287
+46	Spectrogram 1	1	50.0	53.0	150	15000	skylar	Eurasian Skylark	0.1038
+47	Spectrogram 1	1	52.0	55.0	150	15000	yellow2	Yellowhammer	0.3755
+48	Spectrogram 1	1	54.0	57.0	150	15000	yellow2	Yellowhammer	0.5104
+49	Spectrogram 1	1	54.0	57.0	150	15000	garwar1	Garden Warbler	0.1350
+50	Spectrogram 1	1	54.0	57.0	150	15000	grewhi1	Greater Whitethroat	0.1040
+51	Spectrogram 1	1	56.0	59.0	150	15000	skylar	Eurasian Skylark	0.1703
+52	Spectrogram 1	1	56.0	59.0	150	15000	eurbla	Eurasian Blackbird	0.1166
+53	Spectrogram 1	1	56.0	59.0	150	15000	yellow2	Yellowhammer	0.1026
+54	Spectrogram 1	1	56.0	59.0	150	15000	thelar1	Thekla's Lark	0.1005

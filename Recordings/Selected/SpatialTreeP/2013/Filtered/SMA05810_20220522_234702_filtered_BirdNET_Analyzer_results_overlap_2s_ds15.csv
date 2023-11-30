@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	7.0	10.0	150	15000	tawowl1	Tawny Owl	0.1114
+2	Spectrogram 1	1	9.0	12.0	150	15000	tawowl1	Tawny Owl	0.1051
+3	Spectrogram 1	1	12.0	15.0	150	15000	mallar3	Mallard	0.1021
+4	Spectrogram 1	1	15.0	18.0	150	15000	mallar3	Mallard	0.1122
+5	Spectrogram 1	1	21.0	24.0	150	15000	hawfin	Hawfinch	0.1166
+6	Spectrogram 1	1	24.0	27.0	150	15000	cohmar1	Common House-Martin	0.1031
+7	Spectrogram 1	1	25.0	28.0	150	15000	sarwar1	Sardinian Warbler	0.1311
+8	Spectrogram 1	1	38.0	41.0	150	15000	eurrob1	European Robin	0.1020
+9	Spectrogram 1	1	49.0	52.0	150	15000	goldcr1	Goldcrest	0.1176
+10	Spectrogram 1	1	51.0	54.0	150	15000	eurcoo	Eurasian Coot	0.1046
+11	Spectrogram 1	1	56.0	59.0	150	15000	eurrob1	European Robin	0.1166
+12	Spectrogram 1	1	57.0	60.0	150	15000	tawowl1	Tawny Owl	0.1118
+13	Spectrogram 1	1	57.0	60.0	150	15000	eurcoo	Eurasian Coot	0.1031
+14	Spectrogram 1	1	59.0	62.0	150	15000	goldcr1	Goldcrest	0.1208
+15	Spectrogram 1	1	59.0	62.0	150	15000	misthr1	Mistle Thrush	0.1045

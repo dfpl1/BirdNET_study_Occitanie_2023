@@ -1,0 +1,44 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	melwar1	Melodious Warbler	0.6381
+2	Spectrogram 1	1	0	3.0	150	15000	subwar6	Western Subalpine Warbler	0.2730
+3	Spectrogram 1	1	0	3.0	150	15000	darwar1	Dartford Warbler	0.1609
+4	Spectrogram 1	1	2.0	5.0	150	15000	melwar1	Melodious Warbler	0.6958
+5	Spectrogram 1	1	2.0	5.0	150	15000	subwar6	Western Subalpine Warbler	0.2511
+6	Spectrogram 1	1	2.0	5.0	150	15000	sarwar1	Sardinian Warbler	0.1472
+7	Spectrogram 1	1	2.0	5.0	150	15000	stonec4	European Stonechat	0.1236
+8	Spectrogram 1	1	2.0	5.0	150	15000	darwar1	Dartford Warbler	0.1015
+9	Spectrogram 1	1	4.0	7.0	150	15000	melwar1	Melodious Warbler	0.5113
+10	Spectrogram 1	1	4.0	7.0	150	15000	subwar6	Western Subalpine Warbler	0.3511
+11	Spectrogram 1	1	4.0	7.0	150	15000	grewhi1	Greater Whitethroat	0.1441
+12	Spectrogram 1	1	4.0	7.0	150	15000	rocbun1	Rock Bunting	0.1400
+13	Spectrogram 1	1	4.0	7.0	150	15000	comnig1	Common Nightingale	0.1091
+14	Spectrogram 1	1	4.0	7.0	150	15000	thelar1	Thekla's Lark	0.1021
+15	Spectrogram 1	1	4.0	7.0	150	15000	wooshr1	Woodchat Shrike	0.1011
+16	Spectrogram 1	1	4.0	7.0	150	15000	zitcis1	Zitting Cisticola	0.1005
+17	Spectrogram 1	1	8.0	11.0	150	15000	zitcis1	Zitting Cisticola	0.1413
+18	Spectrogram 1	1	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.1647
+19	Spectrogram 1	1	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.1131
+20	Spectrogram 1	1	32.0	35.0	150	15000	melwar1	Melodious Warbler	0.1465
+21	Spectrogram 1	1	34.0	37.0	150	15000	melwar1	Melodious Warbler	0.5316
+22	Spectrogram 1	1	34.0	37.0	150	15000	thelar1	Thekla's Lark	0.3761
+23	Spectrogram 1	1	34.0	37.0	150	15000	darwar1	Dartford Warbler	0.3261
+24	Spectrogram 1	1	34.0	37.0	150	15000	sarwar1	Sardinian Warbler	0.1786
+25	Spectrogram 1	1	34.0	37.0	150	15000	crelar2	Crested Lark	0.1571
+26	Spectrogram 1	1	34.0	37.0	150	15000	wooshr1	Woodchat Shrike	0.1183
+27	Spectrogram 1	1	36.0	39.0	150	15000	yellow2	Yellowhammer	0.1025
+28	Spectrogram 1	1	38.0	41.0	150	15000	thelar1	Thekla's Lark	0.1626
+29	Spectrogram 1	1	38.0	41.0	150	15000	woolar1	Wood Lark	0.1093
+30	Spectrogram 1	1	40.0	43.0	150	15000	garwar1	Garden Warbler	0.1983
+31	Spectrogram 1	1	40.0	43.0	150	15000	melwar1	Melodious Warbler	0.1714
+32	Spectrogram 1	1	42.0	45.0	150	15000	blackc1	Eurasian Blackcap	0.4281
+33	Spectrogram 1	1	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.2395
+34	Spectrogram 1	1	42.0	45.0	150	15000	garwar1	Garden Warbler	0.1724
+35	Spectrogram 1	1	44.0	47.0	150	15000	melwar1	Melodious Warbler	0.1714
+36	Spectrogram 1	1	44.0	47.0	150	15000	blackc1	Eurasian Blackcap	0.1635
+37	Spectrogram 1	1	44.0	47.0	150	15000	blared1	Black Redstart	0.1545
+38	Spectrogram 1	1	46.0	49.0	150	15000	melwar1	Melodious Warbler	0.4283
+39	Spectrogram 1	1	46.0	49.0	150	15000	stonec4	European Stonechat	0.1423
+40	Spectrogram 1	1	46.0	49.0	150	15000	blared1	Black Redstart	0.1289
+41	Spectrogram 1	1	46.0	49.0	150	15000	darwar1	Dartford Warbler	0.1077
+42	Spectrogram 1	1	48.0	51.0	150	15000	eaywag1	Western Yellow Wagtail	0.1076
+43	Spectrogram 1	1	56.0	59.0	150	15000	blackc1	Eurasian Blackcap	0.2205

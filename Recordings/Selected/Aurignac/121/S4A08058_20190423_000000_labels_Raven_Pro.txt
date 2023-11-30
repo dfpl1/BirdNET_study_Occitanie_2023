@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	19.63539	20.98868	732.2	3564.9	Luscinia megarhynchos
+2	Spectrogram 1	1	19.66901	19.90436	1133.2	1616.1	Otus scops
+3	Spectrogram 1	1	22.82950	23.16572	1017.9	1586.2	Otus scops

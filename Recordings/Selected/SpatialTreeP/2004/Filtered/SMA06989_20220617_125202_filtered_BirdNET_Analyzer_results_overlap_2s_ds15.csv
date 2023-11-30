@@ -1,0 +1,40 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	watpip1	Water Pipit	0.6515
+2	Spectrogram 1	1	1.0	4.0	150	15000	watpip1	Water Pipit	0.4910
+3	Spectrogram 1	1	2.0	5.0	150	15000	watpip1	Water Pipit	0.4230
+4	Spectrogram 1	1	3.0	6.0	150	15000	watpip1	Water Pipit	0.5345
+5	Spectrogram 1	1	4.0	7.0	150	15000	watpip1	Water Pipit	0.3882
+6	Spectrogram 1	1	5.0	8.0	150	15000	watpip1	Water Pipit	0.3984
+7	Spectrogram 1	1	5.0	8.0	150	15000	trepip	Tree Pipit	0.1884
+8	Spectrogram 1	1	5.0	8.0	150	15000	grywag	Gray Wagtail	0.1071
+9	Spectrogram 1	1	6.0	9.0	150	15000	grywag	Gray Wagtail	0.1821
+10	Spectrogram 1	1	6.0	9.0	150	15000	goldcr1	Goldcrest	0.1389
+11	Spectrogram 1	1	9.0	12.0	150	15000	eurbul	Eurasian Bullfinch	0.1509
+12	Spectrogram 1	1	10.0	13.0	150	15000	lirplo	Little Ringed Plover	0.1567
+13	Spectrogram 1	1	14.0	17.0	150	15000	goldcr1	Goldcrest	0.1013
+14	Spectrogram 1	1	17.0	20.0	150	15000	goldcr1	Goldcrest	0.1051
+15	Spectrogram 1	1	19.0	22.0	150	15000	rinphe	Ring-necked Pheasant	0.1393
+16	Spectrogram 1	1	19.0	22.0	150	15000	comrav	Common Raven	0.1284
+17	Spectrogram 1	1	20.0	23.0	150	15000	rinphe	Ring-necked Pheasant	0.2150
+18	Spectrogram 1	1	21.0	24.0	150	15000	rinphe	Ring-necked Pheasant	0.1561
+19	Spectrogram 1	1	32.0	35.0	150	15000	graher1	Gray Heron	0.1129
+20	Spectrogram 1	1	32.0	35.0	150	15000	litegr	Little Egret	0.1105
+21	Spectrogram 1	1	33.0	36.0	150	15000	watpip1	Water Pipit	0.2301
+22	Spectrogram 1	1	33.0	36.0	150	15000	trepip	Tree Pipit	0.1214
+23	Spectrogram 1	1	35.0	38.0	150	15000	goldcr1	Goldcrest	0.1265
+24	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.3597
+25	Spectrogram 1	1	37.0	40.0	150	15000	carcro1	Carrion Crow	0.5041
+26	Spectrogram 1	1	38.0	41.0	150	15000	carcro1	Carrion Crow	0.4470
+27	Spectrogram 1	1	38.0	41.0	150	15000	comshe	Common Shelduck	0.1043
+28	Spectrogram 1	1	39.0	42.0	150	15000	carcro1	Carrion Crow	0.4243
+29	Spectrogram 1	1	39.0	42.0	150	15000	comshe	Common Shelduck	0.1074
+30	Spectrogram 1	1	44.0	47.0	150	15000	goldcr1	Goldcrest	0.1050
+31	Spectrogram 1	1	46.0	49.0	150	15000	carcro1	Carrion Crow	0.2405
+32	Spectrogram 1	1	46.0	49.0	150	15000	eurbla	Eurasian Blackbird	0.1095
+33	Spectrogram 1	1	47.0	50.0	150	15000	carcro1	Carrion Crow	0.1023
+34	Spectrogram 1	1	48.0	51.0	150	15000	carcro1	Carrion Crow	0.2268
+35	Spectrogram 1	1	59.0	62.0	150	15000	goldcr1	Goldcrest	0.1978
+36	Spectrogram 1	1	59.0	62.0	150	15000	sonthr1	Song Thrush	0.1716
+37	Spectrogram 1	1	59.0	62.0	150	15000	eurrob1	European Robin	0.1551
+38	Spectrogram 1	1	59.0	62.0	150	15000	eurbla	Eurasian Blackbird	0.1025
+39	Spectrogram 1	1	59.0	62.0	150	15000	misthr1	Mistle Thrush	0.1005

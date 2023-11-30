@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	59.948446	1165.6	12000.0	Turdus merula
+2	Spectrogram 1	1	1.933279	2.689779	1610.8	2679.4	Luscinia megarhynchos
+3	Spectrogram 1	1	2.572101	3.967424	1829.0	6396.4	Curruca communis
+4	Spectrogram 1	1	3.698446	5.883891	366.3	1408.2	Corvus corone
+5	Spectrogram 1	1	4.917252	5.791430	4466.1	10426.5	Emberiza calandra
+6	Spectrogram 1	1	6.850530	8.077742	2225.6	5640.0	Curruca communis
+7	Spectrogram 1	1	11.515616	13.574978	2149.9	5808.4	Unidentified bird
+8	Spectrogram 1	1	12.112410	13.574978	2111.3	5599.9	Curruca communis
+9	Spectrogram 1	1	14.020472	15.180439	4675.3	9047.9	Emberiza calandra
+10	Spectrogram 1	1	17.298640	18.618313	676.2	9309.2	Curruca communis
+11	Spectrogram 1	1	22.434437	23.812948	2264.1	5942.2	Curruca communis
+12	Spectrogram 1	1	27.805589	29.259750	1966.4	7400.0	Curruca communis
+13	Spectrogram 1	1	31.403168	34.639308	443.6	 870.9	Cuculus canorus
+14	Spectrogram 1	1	32.016774	32.529513	298.7	3102.6	Corvus corone
+15	Spectrogram 1	1	34.042513	35.572325	1829.0	7507.8	Curruca communis
+16	Spectrogram 1	1	36.354042	37.925882	1101.3	3203.6	Luscinia megarhynchos
+17	Spectrogram 1	1	36.597803	37.152570	413.7	 956.2	Cuculus canorus
+18	Spectrogram 1	1	37.379520	38.396593	2592.0	6069.5	Curruca communis
+19	Spectrogram 1	1	42.901973	44.532651	1551.0	8214.6	Curruca communis
+20	Spectrogram 1	1	48.088202	49.475120	1641.2	9870.8	Curruca communis
+21	Spectrogram 1	1	49.962642	51.341154	4604.6	8668.6	Emberiza calandra
+22	Spectrogram 1	1	56.628250	59.973663	325.2	 760.5	Streptopelia decaocto

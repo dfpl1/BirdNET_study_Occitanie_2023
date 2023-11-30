@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	webwar1	Western Bonelli's Warbler	0.1124
+2	Spectrogram 1	1	2.0	5.0	150	15000	cirbun1	Cirl Bunting	0.1053
+3	Spectrogram 1	1	4.0	7.0	150	15000	yellow2	Yellowhammer	0.1256
+4	Spectrogram 1	1	4.0	7.0	150	15000	winwre4	Eurasian Wren	0.1175
+5	Spectrogram 1	1	28.0	31.0	150	15000	woolar1	Wood Lark	0.3570
+6	Spectrogram 1	1	54.0	57.0	150	15000	yellow2	Yellowhammer	0.1024

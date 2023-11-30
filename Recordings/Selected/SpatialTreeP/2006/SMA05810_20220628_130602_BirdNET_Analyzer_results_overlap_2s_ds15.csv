@@ -1,0 +1,57 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	3.0	6.0	150	15000	comchi1	Common Chiffchaff	0.5449
+2	Spectrogram 1	1	3.0	6.0	150	15000	winwre4	Eurasian Wren	0.1672
+3	Spectrogram 1	1	3.0	6.0	150	15000	trepip	Tree Pipit	0.1558
+4	Spectrogram 1	1	3.0	6.0	150	15000	cowpig1	Common Wood-Pigeon	0.1015
+5	Spectrogram 1	1	4.0	7.0	150	15000	comchi1	Common Chiffchaff	0.5717
+6	Spectrogram 1	1	4.0	7.0	150	15000	trepip	Tree Pipit	0.1874
+7	Spectrogram 1	1	4.0	7.0	150	15000	grewhi1	Greater Whitethroat	0.1210
+8	Spectrogram 1	1	4.0	7.0	150	15000	cowpig1	Common Wood-Pigeon	0.1165
+9	Spectrogram 1	1	4.0	7.0	150	15000	yellow2	Yellowhammer	0.1001
+10	Spectrogram 1	1	5.0	8.0	150	15000	comchi1	Common Chiffchaff	0.4243
+11	Spectrogram 1	1	5.0	8.0	150	15000	trepip	Tree Pipit	0.1589
+12	Spectrogram 1	1	5.0	8.0	150	15000	grewhi1	Greater Whitethroat	0.1298
+13	Spectrogram 1	1	5.0	8.0	150	15000	eutdov	European Turtle-Dove	0.1203
+14	Spectrogram 1	1	5.0	8.0	150	15000	cowpig1	Common Wood-Pigeon	0.1155
+15	Spectrogram 1	1	5.0	8.0	150	15000	carcro1	Carrion Crow	0.1019
+16	Spectrogram 1	1	10.0	13.0	150	15000	tawowl1	Tawny Owl	0.1033
+17	Spectrogram 1	1	11.0	14.0	150	15000	litowl1	Little Owl	0.1201
+18	Spectrogram 1	1	12.0	15.0	150	15000	comchi1	Common Chiffchaff	0.1564
+19	Spectrogram 1	1	12.0	15.0	150	15000	carcro1	Carrion Crow	0.1098
+20	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.1088
+21	Spectrogram 1	1	13.0	16.0	150	15000	corbun1	Corn Bunting	0.1128
+22	Spectrogram 1	1	13.0	16.0	150	15000	trepip	Tree Pipit	0.1024
+23	Spectrogram 1	1	13.0	16.0	150	15000	comqua1	Common Quail	0.1018
+24	Spectrogram 1	1	13.0	16.0	150	15000	comchi1	Common Chiffchaff	0.1014
+25	Spectrogram 1	1	14.0	17.0	150	15000	comqua1	Common Quail	0.1052
+26	Spectrogram 1	1	21.0	24.0	150	15000	eurrol1	European Roller	0.1200
+27	Spectrogram 1	1	26.0	29.0	150	15000	dunnoc1	Dunnock	0.1326
+28	Spectrogram 1	1	26.0	29.0	150	15000	trepip	Tree Pipit	0.1145
+29	Spectrogram 1	1	26.0	29.0	150	15000	comqua1	Common Quail	0.1113
+30	Spectrogram 1	1	26.0	29.0	150	15000	gretit1	Great Tit	0.1096
+31	Spectrogram 1	1	26.0	29.0	150	15000	thelar1	Thekla's Lark	0.1054
+32	Spectrogram 1	1	27.0	30.0	150	15000	comchi1	Common Chiffchaff	0.3549
+33	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.1535
+34	Spectrogram 1	1	27.0	30.0	150	15000	grewhi1	Greater Whitethroat	0.1067
+35	Spectrogram 1	1	27.0	30.0	150	15000	dunnoc1	Dunnock	0.1057
+36	Spectrogram 1	1	27.0	30.0	150	15000	eupfly1	European Pied Flycatcher	0.1045
+37	Spectrogram 1	1	28.0	31.0	150	15000	comchi1	Common Chiffchaff	0.1737
+38	Spectrogram 1	1	28.0	31.0	150	15000	eurrob1	European Robin	0.1125
+39	Spectrogram 1	1	28.0	31.0	150	15000	grewhi1	Greater Whitethroat	0.1091
+40	Spectrogram 1	1	28.0	31.0	150	15000	trepip	Tree Pipit	0.1088
+41	Spectrogram 1	1	28.0	31.0	150	15000	comqua1	Common Quail	0.1050
+42	Spectrogram 1	1	28.0	31.0	150	15000	eurlin1	Eurasian Linnet	0.1045
+43	Spectrogram 1	1	34.0	37.0	150	15000	banswa	Bank Swallow	0.1062
+44	Spectrogram 1	1	36.0	39.0	150	15000	banswa	Bank Swallow	0.1026
+45	Spectrogram 1	1	41.0	44.0	150	15000	tawowl1	Tawny Owl	0.1074
+46	Spectrogram 1	1	45.0	48.0	150	15000	trepip	Tree Pipit	0.1156
+47	Spectrogram 1	1	46.0	49.0	150	15000	tawowl1	Tawny Owl	0.1222
+48	Spectrogram 1	1	47.0	50.0	150	15000	blared1	Black Redstart	0.1561
+49	Spectrogram 1	1	47.0	50.0	150	15000	sarwar1	Sardinian Warbler	0.1013
+50	Spectrogram 1	1	48.0	51.0	150	15000	tawowl1	Tawny Owl	0.1070
+51	Spectrogram 1	1	48.0	51.0	150	15000	brnowl	Barn Owl	0.1004
+52	Spectrogram 1	1	49.0	52.0	150	15000	banswa	Bank Swallow	0.1111
+53	Spectrogram 1	1	55.0	58.0	150	15000	mallar3	Mallard	0.1050
+54	Spectrogram 1	1	56.0	59.0	150	15000	tawowl1	Tawny Owl	0.1049
+55	Spectrogram 1	1	58.0	61.0	150	15000	tawowl1	Tawny Owl	0.1360
+56	Spectrogram 1	1	59.0	62.0	150	15000	stonec4	European Stonechat	0.1536

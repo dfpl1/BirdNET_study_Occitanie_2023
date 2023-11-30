@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	6.0	9.0	150	15000	comcha	Common Chaffinch	0.1878
+2	Spectrogram 1	1	12.0	15.0	150	15000	grswoo	Great Spotted Woodpecker	0.2034
+3	Spectrogram 1	1	21.0	24.0	150	15000	grswoo	Great Spotted Woodpecker	0.2858
+4	Spectrogram 1	1	24.0	27.0	150	15000	comcha	Common Chaffinch	0.4894
+5	Spectrogram 1	1	30.0	33.0	150	15000	grswoo	Great Spotted Woodpecker	0.2388
+6	Spectrogram 1	1	45.0	48.0	150	15000	misthr1	Mistle Thrush	0.1013
+7	Spectrogram 1	1	48.0	51.0	150	15000	comcha	Common Chaffinch	0.1217
+8	Spectrogram 1	1	57.0	60.0	150	15000	eupfly1	European Pied Flycatcher	0.1372

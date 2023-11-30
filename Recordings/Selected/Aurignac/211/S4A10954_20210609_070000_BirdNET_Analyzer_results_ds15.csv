@@ -1,0 +1,38 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	corbun1	Corn Bunting	0.2579
+2	Spectrogram 1	1	0	3.0	150	15000	skylar	Eurasian Skylark	0.1829
+3	Spectrogram 1	1	0	3.0	150	15000	comqua1	Common Quail	0.1572
+4	Spectrogram 1	1	3.0	6.0	150	15000	corbun1	Corn Bunting	0.3294
+5	Spectrogram 1	1	3.0	6.0	150	15000	comqua1	Common Quail	0.1906
+6	Spectrogram 1	1	3.0	6.0	150	15000	callar1	Calandra Lark	0.1542
+7	Spectrogram 1	1	3.0	6.0	150	15000	whinch1	Whinchat	0.1042
+8	Spectrogram 1	1	3.0	6.0	150	15000	trepip	Tree Pipit	0.1040
+9	Spectrogram 1	1	6.0	9.0	150	15000	litowl1	Little Owl	0.1850
+10	Spectrogram 1	1	6.0	9.0	150	15000	corbun1	Corn Bunting	0.1065
+11	Spectrogram 1	1	9.0	12.0	150	15000	corbun1	Corn Bunting	0.1352
+12	Spectrogram 1	1	9.0	12.0	150	15000	skylar	Eurasian Skylark	0.1205
+13	Spectrogram 1	1	9.0	12.0	150	15000	comqua1	Common Quail	0.1006
+14	Spectrogram 1	1	12.0	15.0	150	15000	corbun1	Corn Bunting	0.2733
+15	Spectrogram 1	1	12.0	15.0	150	15000	litowl1	Little Owl	0.1378
+16	Spectrogram 1	1	12.0	15.0	150	15000	comqua1	Common Quail	0.1167
+17	Spectrogram 1	1	15.0	18.0	150	15000	eurgri1	Eurasian Griffon	0.1613
+18	Spectrogram 1	1	15.0	18.0	150	15000	corbun1	Corn Bunting	0.1124
+19	Spectrogram 1	1	18.0	21.0	150	15000	litowl1	Little Owl	0.1035
+20	Spectrogram 1	1	21.0	24.0	150	15000	corbun1	Corn Bunting	0.1124
+21	Spectrogram 1	1	21.0	24.0	150	15000	litowl1	Little Owl	0.1045
+22	Spectrogram 1	1	24.0	27.0	150	15000	corbun1	Corn Bunting	0.1461
+23	Spectrogram 1	1	24.0	27.0	150	15000	comqua1	Common Quail	0.1079
+24	Spectrogram 1	1	27.0	30.0	150	15000	litowl1	Little Owl	0.1181
+25	Spectrogram 1	1	27.0	30.0	150	15000	lirplo	Little Ringed Plover	0.1089
+26	Spectrogram 1	1	30.0	33.0	150	15000	comqua1	Common Quail	0.1848
+27	Spectrogram 1	1	30.0	33.0	150	15000	carcro1	Carrion Crow	0.1183
+28	Spectrogram 1	1	30.0	33.0	150	15000	corbun1	Corn Bunting	0.1077
+29	Spectrogram 1	1	39.0	42.0	150	15000	litowl1	Little Owl	0.1310
+30	Spectrogram 1	1	39.0	42.0	150	15000	corbun1	Corn Bunting	0.1087
+31	Spectrogram 1	1	42.0	45.0	150	15000	comqua1	Common Quail	0.1096
+32	Spectrogram 1	1	45.0	48.0	150	15000	litowl1	Little Owl	0.1161
+33	Spectrogram 1	1	48.0	51.0	150	15000	corbun1	Corn Bunting	0.2567
+34	Spectrogram 1	1	48.0	51.0	150	15000	litowl1	Little Owl	0.2228
+35	Spectrogram 1	1	48.0	51.0	150	15000	trepip	Tree Pipit	0.1501
+36	Spectrogram 1	1	48.0	51.0	150	15000	comqua1	Common Quail	0.1417
+37	Spectrogram 1	1	54.0	57.0	150	15000	litowl1	Little Owl	0.1452

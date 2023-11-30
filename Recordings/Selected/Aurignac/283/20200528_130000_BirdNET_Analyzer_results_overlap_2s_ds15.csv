@@ -1,0 +1,71 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	grewhi1	Greater Whitethroat	0.1070
+2	Spectrogram 1	1	1.0	4.0	150	15000	rerswa1	Red-rumped Swallow	0.1433
+3	Spectrogram 1	1	2.0	5.0	150	15000	norlap	Northern Lapwing	0.1093
+4	Spectrogram 1	1	4.0	7.0	150	15000	thelar1	Thekla's Lark	0.2526
+5	Spectrogram 1	1	4.0	7.0	150	15000	skylar	Eurasian Skylark	0.2252
+6	Spectrogram 1	1	4.0	7.0	150	15000	crelar2	Crested Lark	0.1473
+7	Spectrogram 1	1	5.0	8.0	150	15000	comred2	Common Redstart	0.1106
+8	Spectrogram 1	1	5.0	8.0	150	15000	thelar1	Thekla's Lark	0.1054
+9	Spectrogram 1	1	5.0	8.0	150	15000	skylar	Eurasian Skylark	0.1027
+10	Spectrogram 1	1	8.0	11.0	150	15000	commoo3	Eurasian Moorhen	0.1067
+11	Spectrogram 1	1	9.0	12.0	150	15000	commoo3	Eurasian Moorhen	0.1007
+12	Spectrogram 1	1	14.0	17.0	150	15000	blackc1	Eurasian Blackcap	0.1139
+13	Spectrogram 1	1	15.0	18.0	150	15000	goldcr1	Goldcrest	0.1110
+14	Spectrogram 1	1	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.1066
+15	Spectrogram 1	1	15.0	18.0	150	15000	woolar1	Wood Lark	0.1025
+16	Spectrogram 1	1	17.0	20.0	150	15000	garwar1	Garden Warbler	0.1282
+17	Spectrogram 1	1	17.0	20.0	150	15000	eurrob1	European Robin	0.1021
+18	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.1196
+19	Spectrogram 1	1	18.0	21.0	150	15000	garwar1	Garden Warbler	0.1067
+20	Spectrogram 1	1	19.0	22.0	150	15000	skylar	Eurasian Skylark	0.2018
+21	Spectrogram 1	1	21.0	24.0	150	15000	skylar	Eurasian Skylark	0.1419
+22	Spectrogram 1	1	21.0	24.0	150	15000	eurrob1	European Robin	0.1265
+23	Spectrogram 1	1	23.0	26.0	150	15000	relpar1	Red-legged Partridge	0.1426
+24	Spectrogram 1	1	24.0	27.0	150	15000	relpar1	Red-legged Partridge	0.1754
+25	Spectrogram 1	1	24.0	27.0	150	15000	grewhi1	Greater Whitethroat	0.1356
+26	Spectrogram 1	1	26.0	29.0	150	15000	commoo3	Eurasian Moorhen	0.1233
+27	Spectrogram 1	1	26.0	29.0	150	15000	eurbla	Eurasian Blackbird	0.1106
+28	Spectrogram 1	1	28.0	31.0	150	15000	grewhi1	Greater Whitethroat	0.3460
+29	Spectrogram 1	1	28.0	31.0	150	15000	comred2	Common Redstart	0.1789
+30	Spectrogram 1	1	28.0	31.0	150	15000	eurrob1	European Robin	0.1177
+31	Spectrogram 1	1	28.0	31.0	150	15000	blackc1	Eurasian Blackcap	0.1042
+32	Spectrogram 1	1	28.0	31.0	150	15000	skylar	Eurasian Skylark	0.1011
+33	Spectrogram 1	1	28.0	31.0	150	15000	thelar1	Thekla's Lark	0.1000
+34	Spectrogram 1	1	29.0	32.0	150	15000	grewhi1	Greater Whitethroat	0.1737
+35	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.2259
+36	Spectrogram 1	1	35.0	38.0	150	15000	blackc1	Eurasian Blackcap	0.2233
+37	Spectrogram 1	1	35.0	38.0	150	15000	grecor	Great Cormorant	0.1051
+38	Spectrogram 1	1	35.0	38.0	150	15000	cirbun1	Cirl Bunting	0.1017
+39	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.1864
+40	Spectrogram 1	1	36.0	39.0	150	15000	litegr	Little Egret	0.1442
+41	Spectrogram 1	1	36.0	39.0	150	15000	eurgri1	Eurasian Griffon	0.1312
+42	Spectrogram 1	1	36.0	39.0	150	15000	graher1	Gray Heron	0.1141
+43	Spectrogram 1	1	36.0	39.0	150	15000	grecor	Great Cormorant	0.1072
+44	Spectrogram 1	1	36.0	39.0	150	15000	grewhi1	Greater Whitethroat	0.1041
+45	Spectrogram 1	1	37.0	40.0	150	15000	carcro1	Carrion Crow	0.1685
+46	Spectrogram 1	1	37.0	40.0	150	15000	grecor	Great Cormorant	0.1370
+47	Spectrogram 1	1	37.0	40.0	150	15000	watrai1	Water Rail	0.1205
+48	Spectrogram 1	1	37.0	40.0	150	15000	litegr	Little Egret	0.1142
+49	Spectrogram 1	1	38.0	41.0	150	15000	carcro1	Carrion Crow	0.1875
+50	Spectrogram 1	1	42.0	45.0	150	15000	grewhi1	Greater Whitethroat	0.1126
+51	Spectrogram 1	1	42.0	45.0	150	15000	norwhe	Northern Wheatear	0.1090
+52	Spectrogram 1	1	42.0	45.0	150	15000	eurrob1	European Robin	0.1004
+53	Spectrogram 1	1	45.0	48.0	150	15000	eurcoo	Eurasian Coot	0.1088
+54	Spectrogram 1	1	47.0	50.0	150	15000	comred2	Common Redstart	0.1963
+55	Spectrogram 1	1	47.0	50.0	150	15000	relpar1	Red-legged Partridge	0.1293
+56	Spectrogram 1	1	47.0	50.0	150	15000	grewhi1	Greater Whitethroat	0.1143
+57	Spectrogram 1	1	47.0	50.0	150	15000	goldcr1	Goldcrest	0.1101
+58	Spectrogram 1	1	47.0	50.0	150	15000	mallar3	Mallard	0.1045
+59	Spectrogram 1	1	48.0	51.0	150	15000	reebun	Reed Bunting	0.1060
+60	Spectrogram 1	1	51.0	54.0	150	15000	litgre1	Little Grebe	0.1481
+61	Spectrogram 1	1	51.0	54.0	150	15000	commoo3	Eurasian Moorhen	0.1138
+62	Spectrogram 1	1	52.0	55.0	150	15000	mallar3	Mallard	0.1171
+63	Spectrogram 1	1	54.0	57.0	150	15000	eubeat1	European Bee-eater	0.1583
+64	Spectrogram 1	1	56.0	59.0	150	15000	mallar3	Mallard	0.1355
+65	Spectrogram 1	1	57.0	60.0	150	15000	litegr	Little Egret	0.1836
+66	Spectrogram 1	1	57.0	60.0	150	15000	graher1	Gray Heron	0.1392
+67	Spectrogram 1	1	57.0	60.0	150	15000	lirplo	Little Ringed Plover	0.1239
+68	Spectrogram 1	1	57.0	60.0	150	15000	watrai1	Water Rail	0.1110
+69	Spectrogram 1	1	57.0	60.0	150	15000	grecor	Great Cormorant	0.1001
+70	Spectrogram 1	1	59.0	62.0	150	15000	carcro1	Carrion Crow	0.1017

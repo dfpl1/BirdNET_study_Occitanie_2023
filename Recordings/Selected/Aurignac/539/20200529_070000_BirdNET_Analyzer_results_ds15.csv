@@ -1,0 +1,29 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	21.0	24.0	150	15000	eurcoo	Eurasian Coot	0.1765
+2	Spectrogram 1	1	36.0	39.0	150	15000	cirbun1	Cirl Bunting	0.1924
+3	Spectrogram 1	1	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.3664
+4	Spectrogram 1	1	39.0	42.0	150	15000	thelar1	Thekla's Lark	0.1467
+5	Spectrogram 1	1	39.0	42.0	150	15000	garwar1	Garden Warbler	0.1443
+6	Spectrogram 1	1	39.0	42.0	150	15000	grewhi1	Greater Whitethroat	0.1354
+7	Spectrogram 1	1	39.0	42.0	150	15000	sarwar1	Sardinian Warbler	0.1256
+8	Spectrogram 1	1	39.0	42.0	150	15000	comred2	Common Redstart	0.1222
+9	Spectrogram 1	1	42.0	45.0	150	15000	comkin1	Common Kingfisher	0.3107
+10	Spectrogram 1	1	42.0	45.0	150	15000	dunnoc1	Dunnock	0.1093
+11	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1046
+12	Spectrogram 1	1	45.0	48.0	150	15000	grrwar1	Great Reed Warbler	0.1124
+13	Spectrogram 1	1	48.0	51.0	150	15000	blared1	Black Redstart	0.1119
+14	Spectrogram 1	1	48.0	51.0	150	15000	comred2	Common Redstart	0.1066
+15	Spectrogram 1	1	51.0	54.0	150	15000	blackc1	Eurasian Blackcap	0.4190
+16	Spectrogram 1	1	51.0	54.0	150	15000	cirbun1	Cirl Bunting	0.2206
+17	Spectrogram 1	1	51.0	54.0	150	15000	ibechi2	Iberian Chiffchaff	0.1511
+18	Spectrogram 1	1	51.0	54.0	150	15000	webwar1	Western Bonelli's Warbler	0.1426
+19	Spectrogram 1	1	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.1366
+20	Spectrogram 1	1	51.0	54.0	150	15000	garwar1	Garden Warbler	0.1303
+21	Spectrogram 1	1	51.0	54.0	150	15000	grewhi1	Greater Whitethroat	0.1104
+22	Spectrogram 1	1	54.0	57.0	150	15000	barswa	Barn Swallow	0.1953
+23	Spectrogram 1	1	54.0	57.0	150	15000	comnig1	Common Nightingale	0.1042
+24	Spectrogram 1	1	54.0	57.0	150	15000	eurbla	Eurasian Blackbird	0.1018
+25	Spectrogram 1	1	57.0	60.0	150	15000	lottit1	Long-tailed Tit	0.1197
+26	Spectrogram 1	1	57.0	60.0	150	15000	trepip	Tree Pipit	0.1056
+27	Spectrogram 1	1	57.0	60.0	150	15000	eurser1	European Serin	0.1056
+28	Spectrogram 1	1	57.0	60.0	150	15000	hawfin	Hawfinch	0.1011

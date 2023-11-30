@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	38.0	41.0	150	15000	woolar1	Wood Lark	0.3251
+2	Spectrogram 1	1	38.0	41.0	150	15000	thelar1	Thekla's Lark	0.1566
+3	Spectrogram 1	1	42.0	45.0	150	15000	comkin1	Common Kingfisher	0.1689
+4	Spectrogram 1	1	44.0	47.0	150	15000	grrwar1	Great Reed Warbler	0.1475
+5	Spectrogram 1	1	50.0	53.0	150	15000	blackc1	Eurasian Blackcap	0.1739
+6	Spectrogram 1	1	52.0	55.0	150	15000	blackc1	Eurasian Blackcap	0.1583

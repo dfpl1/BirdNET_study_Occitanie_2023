@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	corbun1	Corn Bunting	0.2560
+2	Spectrogram 1	1	2.0	5.0	150	15000	corbun1	Corn Bunting	0.1284
+3	Spectrogram 1	1	4.0	7.0	150	15000	lirplo	Little Ringed Plover	0.5408
+4	Spectrogram 1	1	8.0	11.0	150	15000	alpswi1	Alpine Swift	0.1382
+5	Spectrogram 1	1	20.0	23.0	150	15000	corbun1	Corn Bunting	0.6702
+6	Spectrogram 1	1	22.0	25.0	150	15000	corbun1	Corn Bunting	0.6487
+7	Spectrogram 1	1	24.0	27.0	150	15000	corbun1	Corn Bunting	0.4227
+8	Spectrogram 1	1	28.0	31.0	150	15000	woolar1	Wood Lark	0.2409
+9	Spectrogram 1	1	30.0	33.0	150	15000	corbun1	Corn Bunting	0.5179
+10	Spectrogram 1	1	38.0	41.0	150	15000	corbun1	Corn Bunting	0.4411
+11	Spectrogram 1	1	40.0	43.0	150	15000	corbun1	Corn Bunting	0.7635
+12	Spectrogram 1	1	48.0	51.0	150	15000	corbun1	Corn Bunting	0.1209
+13	Spectrogram 1	1	50.0	53.0	150	15000	corbun1	Corn Bunting	0.4300
+14	Spectrogram 1	1	52.0	55.0	150	15000	corbun1	Corn Bunting	0.5969
+15	Spectrogram 1	1	56.0	59.0	150	15000	corbun1	Corn Bunting	0.4858

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eutdov	European Turtle-Dove	0.1786
+2	Spectrogram 1	1	2.0	5.0	150	15000	comqua1	Common Quail	0.1390
+3	Spectrogram 1	1	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.1012
+4	Spectrogram 1	1	42.0	45.0	150	15000	spofly1	Spotted Flycatcher	0.1123
+5	Spectrogram 1	1	44.0	47.0	150	15000	melwar1	Melodious Warbler	0.1123
+6	Spectrogram 1	1	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.1619

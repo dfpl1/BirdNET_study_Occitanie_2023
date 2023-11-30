@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.00000	6.278952	1856.4	8354.3	Troglodytes troglodytes
+2	Spectrogram 1	1	11.54083	28.007322	344.6	 685.0	Streptopelia decaocto
+3	Spectrogram 1	1	12.43182	17.576024	3146.5	7758.3	Troglodytes troglodytes
+4	Spectrogram 1	1	13.63382	13.810333	1530.9	5679.1	Unidentified bird
+5	Spectrogram 1	1	17.61805	21.753586	2036.5	7201.5	Hirundo rustica
+6	Spectrogram 1	1	24.97292	32.218507	2345.6	11541.3	Troglodytes troglodytes
+7	Spectrogram 1	1	31.57128	31.966340	6128.7	8898.6	Unidentified bird
+8	Spectrogram 1	1	35.77406	40.632472	3299.2	9182.8	Troglodytes troglodytes
+9	Spectrogram 1	1	43.71731	44.952929	3581.0	5259.2	Unidentified bird
+10	Spectrogram 1	1	45.00336	53.097915	2893.3	9575.0	Troglodytes troglodytes
+11	Spectrogram 1	1	51.56810	51.862298	6262.8	8354.3	Unidentified bird
+12	Spectrogram 1	1	54.80424	56.636656	841.5	3035.9	Unidentified bird
+13	Spectrogram 1	1	56.88882	59.990474	3299.2	7841.0	Troglodytes troglodytes

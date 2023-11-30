@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	45.0	48.0	150	15000	comqua1	Common Quail	0.1130
+2	Spectrogram 1	1	48.0	51.0	150	15000	euhbuz1	European Honey-buzzard	0.1070
+3	Spectrogram 1	1	48.0	51.0	150	15000	comqua1	Common Quail	0.1064

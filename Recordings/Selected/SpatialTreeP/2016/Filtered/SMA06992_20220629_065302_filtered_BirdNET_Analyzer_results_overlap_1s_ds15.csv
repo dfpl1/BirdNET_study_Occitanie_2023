@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	14.0	17.0	150	15000	cirbun1	Cirl Bunting	0.1781
+2	Spectrogram 1	1	18.0	21.0	150	15000	goldcr1	Goldcrest	0.1072
+3	Spectrogram 1	1	22.0	25.0	150	15000	reebun	Reed Bunting	0.1201
+4	Spectrogram 1	1	22.0	25.0	150	15000	eaywag1	Western Yellow Wagtail	0.1200
+5	Spectrogram 1	1	38.0	41.0	150	15000	stonec4	European Stonechat	0.1281
+6	Spectrogram 1	1	40.0	43.0	150	15000	yellow2	Yellowhammer	0.1093
+7	Spectrogram 1	1	40.0	43.0	150	15000	reebun	Reed Bunting	0.1063
+8	Spectrogram 1	1	40.0	43.0	150	15000	trepip	Tree Pipit	0.1043
+9	Spectrogram 1	1	52.0	55.0	150	15000	cirbun1	Cirl Bunting	0.1236
+10	Spectrogram 1	1	52.0	55.0	150	15000	blared1	Black Redstart	0.1012
+11	Spectrogram 1	1	54.0	57.0	150	15000	cirbun1	Cirl Bunting	0.2080
+12	Spectrogram 1	1	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.1254
+13	Spectrogram 1	1	54.0	57.0	150	15000	martit2	Marsh Tit	0.1239
+14	Spectrogram 1	1	56.0	59.0	150	15000	eurcrm1	Eurasian Crag-Martin	0.1013

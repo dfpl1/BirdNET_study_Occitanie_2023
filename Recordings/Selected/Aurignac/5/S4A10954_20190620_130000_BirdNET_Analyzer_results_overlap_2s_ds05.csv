@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	hawfin	Hawfinch	0.6419
+2	Spectrogram 1	1	1.0	4.0	150	15000	eurrob1	European Robin	0.4329
+3	Spectrogram 1	1	2.0	5.0	150	15000	eurrob1	European Robin	0.7730
+4	Spectrogram 1	1	3.0	6.0	150	15000	eurrob1	European Robin	0.8780
+5	Spectrogram 1	1	4.0	7.0	150	15000	eurrob1	European Robin	0.4632
+6	Spectrogram 1	1	5.0	8.0	150	15000	eurrob1	European Robin	0.1314
+7	Spectrogram 1	1	8.0	11.0	150	15000	eurrob1	European Robin	0.3280
+8	Spectrogram 1	1	11.0	14.0	150	15000	hawfin	Hawfinch	0.4929
+9	Spectrogram 1	1	15.0	18.0	150	15000	comnig1	Common Nightingale	0.1355
+10	Spectrogram 1	1	16.0	19.0	150	15000	comnig1	Common Nightingale	0.1999
+11	Spectrogram 1	1	22.0	25.0	150	15000	comnig1	Common Nightingale	0.7290
+12	Spectrogram 1	1	23.0	26.0	150	15000	comnig1	Common Nightingale	0.5014
+13	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.4566
+14	Spectrogram 1	1	31.0	34.0	150	15000	comchi1	Common Chiffchaff	0.2109
+15	Spectrogram 1	1	37.0	40.0	150	15000	eurrob1	European Robin	0.1140
+16	Spectrogram 1	1	46.0	49.0	150	15000	eutdov	European Turtle-Dove	0.9367
+17	Spectrogram 1	1	47.0	50.0	150	15000	eutdov	European Turtle-Dove	0.1939
+18	Spectrogram 1	1	48.0	51.0	150	15000	eutdov	European Turtle-Dove	0.8528
+19	Spectrogram 1	1	49.0	52.0	150	15000	eutdov	European Turtle-Dove	0.1749
+20	Spectrogram 1	1	50.0	53.0	150	15000	eutdov	European Turtle-Dove	0.6707
+21	Spectrogram 1	1	51.0	54.0	150	15000	cirbun1	Cirl Bunting	0.1819
+22	Spectrogram 1	1	52.0	55.0	150	15000	cirbun1	Cirl Bunting	0.1619
+23	Spectrogram 1	1	53.0	56.0	150	15000	cirbun1	Cirl Bunting	0.9664
+24	Spectrogram 1	1	53.0	56.0	150	15000	hoopoe	Eurasian Hoopoe	0.1205
+25	Spectrogram 1	1	54.0	57.0	150	15000	cirbun1	Cirl Bunting	0.9680

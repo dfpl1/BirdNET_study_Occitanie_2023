@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	40.0	43.0	150	15000	comqua1	Common Quail	0.1440
+2	Spectrogram 1	1	42.0	45.0	150	15000	comqua1	Common Quail	0.1589
+3	Spectrogram 1	1	42.0	45.0	150	15000	comnig1	Common Nightingale	0.1124
+4	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1120
+5	Spectrogram 1	1	52.0	55.0	150	15000	eubeat1	European Bee-eater	0.1453

@@ -1,0 +1,178 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	woolar1	Wood Lark	0.2428
+2	Spectrogram 1	1	0	3.0	150	15000	whinch1	Whinchat	0.1637
+3	Spectrogram 1	1	0	3.0	150	15000	yellow2	Yellowhammer	0.1365
+4	Spectrogram 1	1	0	3.0	150	15000	thelar1	Thekla's Lark	0.1262
+5	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.1219
+6	Spectrogram 1	1	0	3.0	150	15000	comqua1	Common Quail	0.1181
+7	Spectrogram 1	1	0	3.0	150	15000	lirplo	Little Ringed Plover	0.1076
+8	Spectrogram 1	1	1.0	4.0	150	15000	thelar1	Thekla's Lark	0.1578
+9	Spectrogram 1	1	1.0	4.0	150	15000	eurlin1	Eurasian Linnet	0.1180
+10	Spectrogram 1	1	4.0	7.0	150	15000	thelar1	Thekla's Lark	0.1505
+11	Spectrogram 1	1	4.0	7.0	150	15000	blackc1	Eurasian Blackcap	0.1253
+12	Spectrogram 1	1	4.0	7.0	150	15000	trepip	Tree Pipit	0.1058
+13	Spectrogram 1	1	5.0	8.0	150	15000	thelar1	Thekla's Lark	0.1933
+14	Spectrogram 1	1	5.0	8.0	150	15000	trepip	Tree Pipit	0.1230
+15	Spectrogram 1	1	5.0	8.0	150	15000	comqua1	Common Quail	0.1177
+16	Spectrogram 1	1	5.0	8.0	150	15000	blackc1	Eurasian Blackcap	0.1102
+17	Spectrogram 1	1	5.0	8.0	150	15000	whinch1	Whinchat	0.1048
+18	Spectrogram 1	1	6.0	9.0	150	15000	thelar1	Thekla's Lark	0.2691
+19	Spectrogram 1	1	6.0	9.0	150	15000	grewhi1	Greater Whitethroat	0.1275
+20	Spectrogram 1	1	6.0	9.0	150	15000	crelar2	Crested Lark	0.1056
+21	Spectrogram 1	1	7.0	10.0	150	15000	thelar1	Thekla's Lark	0.2786
+22	Spectrogram 1	1	7.0	10.0	150	15000	crelar2	Crested Lark	0.1442
+23	Spectrogram 1	1	7.0	10.0	150	15000	woolar1	Wood Lark	0.1157
+24	Spectrogram 1	1	8.0	11.0	150	15000	thelar1	Thekla's Lark	0.2458
+25	Spectrogram 1	1	8.0	11.0	150	15000	eutkne1	Eurasian Thick-knee	0.2292
+26	Spectrogram 1	1	8.0	11.0	150	15000	eurbul	Eurasian Bullfinch	0.1233
+27	Spectrogram 1	1	8.0	11.0	150	15000	woolar1	Wood Lark	0.1217
+28	Spectrogram 1	1	9.0	12.0	150	15000	eurbul	Eurasian Bullfinch	0.1873
+29	Spectrogram 1	1	10.0	13.0	150	15000	eurbul	Eurasian Bullfinch	0.1129
+30	Spectrogram 1	1	12.0	15.0	150	15000	watpip1	Water Pipit	0.2003
+31	Spectrogram 1	1	13.0	16.0	150	15000	watpip1	Water Pipit	0.2665
+32	Spectrogram 1	1	14.0	17.0	150	15000	watpip1	Water Pipit	0.2433
+33	Spectrogram 1	1	14.0	17.0	150	15000	woolar1	Wood Lark	0.1661
+34	Spectrogram 1	1	15.0	18.0	150	15000	watpip1	Water Pipit	0.4635
+35	Spectrogram 1	1	15.0	18.0	150	15000	woolar1	Wood Lark	0.1086
+36	Spectrogram 1	1	15.0	18.0	150	15000	trepip	Tree Pipit	0.1028
+37	Spectrogram 1	1	16.0	19.0	150	15000	watpip1	Water Pipit	0.5436
+38	Spectrogram 1	1	17.0	20.0	150	15000	watpip1	Water Pipit	0.6491
+39	Spectrogram 1	1	18.0	21.0	150	15000	watpip1	Water Pipit	0.6886
+40	Spectrogram 1	1	19.0	22.0	150	15000	watpip1	Water Pipit	0.4457
+41	Spectrogram 1	1	20.0	23.0	150	15000	watpip1	Water Pipit	0.1266
+42	Spectrogram 1	1	21.0	24.0	150	15000	thelar1	Thekla's Lark	0.1821
+43	Spectrogram 1	1	22.0	25.0	150	15000	thelar1	Thekla's Lark	0.2951
+44	Spectrogram 1	1	22.0	25.0	150	15000	blackc1	Eurasian Blackcap	0.1836
+45	Spectrogram 1	1	22.0	25.0	150	15000	woolar1	Wood Lark	0.1319
+46	Spectrogram 1	1	22.0	25.0	150	15000	trepip	Tree Pipit	0.1073
+47	Spectrogram 1	1	23.0	26.0	150	15000	thelar1	Thekla's Lark	0.2445
+48	Spectrogram 1	1	23.0	26.0	150	15000	blackc1	Eurasian Blackcap	0.2129
+49	Spectrogram 1	1	23.0	26.0	150	15000	woolar1	Wood Lark	0.1788
+50	Spectrogram 1	1	23.0	26.0	150	15000	grewhi1	Greater Whitethroat	0.1099
+51	Spectrogram 1	1	23.0	26.0	150	15000	whinch1	Whinchat	0.1085
+52	Spectrogram 1	1	23.0	26.0	150	15000	comqua1	Common Quail	0.1068
+53	Spectrogram 1	1	23.0	26.0	150	15000	cirbun1	Cirl Bunting	0.1043
+54	Spectrogram 1	1	23.0	26.0	150	15000	trepip	Tree Pipit	0.1012
+55	Spectrogram 1	1	24.0	27.0	150	15000	whinch1	Whinchat	0.2961
+56	Spectrogram 1	1	24.0	27.0	150	15000	thelar1	Thekla's Lark	0.2115
+57	Spectrogram 1	1	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.1661
+58	Spectrogram 1	1	24.0	27.0	150	15000	woolar1	Wood Lark	0.1483
+59	Spectrogram 1	1	24.0	27.0	150	15000	comqua1	Common Quail	0.1482
+60	Spectrogram 1	1	24.0	27.0	150	15000	sarwar1	Sardinian Warbler	0.1101
+61	Spectrogram 1	1	24.0	27.0	150	15000	grewhi1	Greater Whitethroat	0.1065
+62	Spectrogram 1	1	24.0	27.0	150	15000	corbun1	Corn Bunting	0.1050
+63	Spectrogram 1	1	25.0	28.0	150	15000	whinch1	Whinchat	0.3655
+64	Spectrogram 1	1	25.0	28.0	150	15000	thelar1	Thekla's Lark	0.1827
+65	Spectrogram 1	1	25.0	28.0	150	15000	blackc1	Eurasian Blackcap	0.1562
+66	Spectrogram 1	1	25.0	28.0	150	15000	stonec4	European Stonechat	0.1495
+67	Spectrogram 1	1	25.0	28.0	150	15000	grewhi1	Greater Whitethroat	0.1360
+68	Spectrogram 1	1	25.0	28.0	150	15000	comqua1	Common Quail	0.1205
+69	Spectrogram 1	1	25.0	28.0	150	15000	woolar1	Wood Lark	0.1088
+70	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.2277
+71	Spectrogram 1	1	26.0	29.0	150	15000	whinch1	Whinchat	0.1801
+72	Spectrogram 1	1	26.0	29.0	150	15000	thelar1	Thekla's Lark	0.1760
+73	Spectrogram 1	1	26.0	29.0	150	15000	comswi	Common Swift	0.1404
+74	Spectrogram 1	1	26.0	29.0	150	15000	grewhi1	Greater Whitethroat	0.1356
+75	Spectrogram 1	1	26.0	29.0	150	15000	stonec4	European Stonechat	0.1206
+76	Spectrogram 1	1	26.0	29.0	150	15000	woolar1	Wood Lark	0.1195
+77	Spectrogram 1	1	27.0	30.0	150	15000	woolar1	Wood Lark	0.3479
+78	Spectrogram 1	1	27.0	30.0	150	15000	thelar1	Thekla's Lark	0.2343
+79	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.1541
+80	Spectrogram 1	1	27.0	30.0	150	15000	stonec4	European Stonechat	0.1304
+81	Spectrogram 1	1	27.0	30.0	150	15000	sonthr1	Song Thrush	0.1248
+82	Spectrogram 1	1	27.0	30.0	150	15000	wlwwar	Willow Warbler	0.1040
+83	Spectrogram 1	1	27.0	30.0	150	15000	dunnoc1	Dunnock	0.1031
+84	Spectrogram 1	1	27.0	30.0	150	15000	burthr	Blue Rock-Thrush	0.1029
+85	Spectrogram 1	1	28.0	31.0	150	15000	trepip	Tree Pipit	0.2437
+86	Spectrogram 1	1	28.0	31.0	150	15000	woolar1	Wood Lark	0.1982
+87	Spectrogram 1	1	28.0	31.0	150	15000	winwre4	Eurasian Wren	0.1410
+88	Spectrogram 1	1	28.0	31.0	150	15000	comcuc	Common Cuckoo	0.1313
+89	Spectrogram 1	1	28.0	31.0	150	15000	sonthr1	Song Thrush	0.1200
+90	Spectrogram 1	1	28.0	31.0	150	15000	wlwwar	Willow Warbler	0.1187
+91	Spectrogram 1	1	28.0	31.0	150	15000	thelar1	Thekla's Lark	0.1137
+92	Spectrogram 1	1	28.0	31.0	150	15000	norlap	Northern Lapwing	0.1072
+93	Spectrogram 1	1	28.0	31.0	150	15000	stonec4	European Stonechat	0.1028
+94	Spectrogram 1	1	28.0	31.0	150	15000	yellow2	Yellowhammer	0.1025
+95	Spectrogram 1	1	29.0	32.0	150	15000	trepip	Tree Pipit	0.2103
+96	Spectrogram 1	1	29.0	32.0	150	15000	norlap	Northern Lapwing	0.1377
+97	Spectrogram 1	1	29.0	32.0	150	15000	woolar1	Wood Lark	0.1298
+98	Spectrogram 1	1	29.0	32.0	150	15000	winwre4	Eurasian Wren	0.1288
+99	Spectrogram 1	1	29.0	32.0	150	15000	sonthr1	Song Thrush	0.1158
+100	Spectrogram 1	1	29.0	32.0	150	15000	eurbla	Eurasian Blackbird	0.1062
+101	Spectrogram 1	1	31.0	34.0	150	15000	woolar1	Wood Lark	0.1293
+102	Spectrogram 1	1	32.0	35.0	150	15000	thelar1	Thekla's Lark	0.2146
+103	Spectrogram 1	1	32.0	35.0	150	15000	woolar1	Wood Lark	0.1607
+104	Spectrogram 1	1	33.0	36.0	150	15000	thelar1	Thekla's Lark	0.3209
+105	Spectrogram 1	1	33.0	36.0	150	15000	woolar1	Wood Lark	0.1657
+106	Spectrogram 1	1	33.0	36.0	150	15000	lirplo	Little Ringed Plover	0.1111
+107	Spectrogram 1	1	33.0	36.0	150	15000	whinch1	Whinchat	0.1099
+108	Spectrogram 1	1	34.0	37.0	150	15000	thelar1	Thekla's Lark	0.2481
+109	Spectrogram 1	1	34.0	37.0	150	15000	woolar1	Wood Lark	0.1995
+110	Spectrogram 1	1	34.0	37.0	150	15000	blackc1	Eurasian Blackcap	0.1590
+111	Spectrogram 1	1	34.0	37.0	150	15000	whinch1	Whinchat	0.1488
+112	Spectrogram 1	1	34.0	37.0	150	15000	sarwar1	Sardinian Warbler	0.1275
+113	Spectrogram 1	1	34.0	37.0	150	15000	comswi	Common Swift	0.1213
+114	Spectrogram 1	1	34.0	37.0	150	15000	stonec4	European Stonechat	0.1137
+115	Spectrogram 1	1	34.0	37.0	150	15000	comqua1	Common Quail	0.1071
+116	Spectrogram 1	1	35.0	38.0	150	15000	thelar1	Thekla's Lark	0.3117
+117	Spectrogram 1	1	35.0	38.0	150	15000	lirplo	Little Ringed Plover	0.1013
+118	Spectrogram 1	1	36.0	39.0	150	15000	thelar1	Thekla's Lark	0.2167
+119	Spectrogram 1	1	36.0	39.0	150	15000	wlwwar	Willow Warbler	0.2003
+120	Spectrogram 1	1	37.0	40.0	150	15000	wlwwar	Willow Warbler	0.1957
+121	Spectrogram 1	1	37.0	40.0	150	15000	grewhi1	Greater Whitethroat	0.1468
+122	Spectrogram 1	1	37.0	40.0	150	15000	thelar1	Thekla's Lark	0.1423
+123	Spectrogram 1	1	39.0	42.0	150	15000	watpip1	Water Pipit	0.1311
+124	Spectrogram 1	1	39.0	42.0	150	15000	burthr	Blue Rock-Thrush	0.1005
+125	Spectrogram 1	1	40.0	43.0	150	15000	whinch1	Whinchat	0.1062
+126	Spectrogram 1	1	41.0	44.0	150	15000	whinch1	Whinchat	0.1157
+127	Spectrogram 1	1	41.0	44.0	150	15000	lirplo	Little Ringed Plover	0.1041
+128	Spectrogram 1	1	42.0	45.0	150	15000	thelar1	Thekla's Lark	0.1621
+129	Spectrogram 1	1	42.0	45.0	150	15000	whinch1	Whinchat	0.1333
+130	Spectrogram 1	1	42.0	45.0	150	15000	woolar1	Wood Lark	0.1220
+131	Spectrogram 1	1	42.0	45.0	150	15000	burthr	Blue Rock-Thrush	0.1200
+132	Spectrogram 1	1	42.0	45.0	150	15000	comswi	Common Swift	0.1168
+133	Spectrogram 1	1	42.0	45.0	150	15000	blackc1	Eurasian Blackcap	0.1158
+134	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1151
+135	Spectrogram 1	1	43.0	46.0	150	15000	thelar1	Thekla's Lark	0.2225
+136	Spectrogram 1	1	43.0	46.0	150	15000	norlap	Northern Lapwing	0.1125
+137	Spectrogram 1	1	44.0	47.0	150	15000	crelar2	Crested Lark	0.1269
+138	Spectrogram 1	1	45.0	48.0	150	15000	watpip1	Water Pipit	0.1814
+139	Spectrogram 1	1	45.0	48.0	150	15000	trepip	Tree Pipit	0.1021
+140	Spectrogram 1	1	46.0	49.0	150	15000	watpip1	Water Pipit	0.2747
+141	Spectrogram 1	1	47.0	50.0	150	15000	watpip1	Water Pipit	0.2079
+142	Spectrogram 1	1	47.0	50.0	150	15000	trepip	Tree Pipit	0.1280
+143	Spectrogram 1	1	47.0	50.0	150	15000	eaywag1	Western Yellow Wagtail	0.1271
+144	Spectrogram 1	1	47.0	50.0	150	15000	sonthr1	Song Thrush	0.1106
+145	Spectrogram 1	1	48.0	51.0	150	15000	watpip1	Water Pipit	0.3070
+146	Spectrogram 1	1	49.0	52.0	150	15000	watpip1	Water Pipit	0.4102
+147	Spectrogram 1	1	49.0	52.0	150	15000	eaywag1	Western Yellow Wagtail	0.1174
+148	Spectrogram 1	1	50.0	53.0	150	15000	watpip1	Water Pipit	0.4031
+149	Spectrogram 1	1	51.0	54.0	150	15000	watpip1	Water Pipit	0.4582
+150	Spectrogram 1	1	52.0	55.0	150	15000	watpip1	Water Pipit	0.4341
+151	Spectrogram 1	1	52.0	55.0	150	15000	trepip	Tree Pipit	0.1055
+152	Spectrogram 1	1	53.0	56.0	150	15000	watpip1	Water Pipit	0.2816
+153	Spectrogram 1	1	53.0	56.0	150	15000	whinch1	Whinchat	0.1654
+154	Spectrogram 1	1	53.0	56.0	150	15000	trepip	Tree Pipit	0.1554
+155	Spectrogram 1	1	53.0	56.0	150	15000	burthr	Blue Rock-Thrush	0.1380
+156	Spectrogram 1	1	53.0	56.0	150	15000	eaywag1	Western Yellow Wagtail	0.1050
+157	Spectrogram 1	1	54.0	57.0	150	15000	watpip1	Water Pipit	0.1996
+158	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.1315
+159	Spectrogram 1	1	55.0	58.0	150	15000	burthr	Blue Rock-Thrush	0.1367
+160	Spectrogram 1	1	55.0	58.0	150	15000	trepip	Tree Pipit	0.1086
+161	Spectrogram 1	1	55.0	58.0	150	15000	eaywag1	Western Yellow Wagtail	0.1084
+162	Spectrogram 1	1	55.0	58.0	150	15000	grywag	Gray Wagtail	0.1045
+163	Spectrogram 1	1	56.0	59.0	150	15000	crelar2	Crested Lark	0.1065
+164	Spectrogram 1	1	56.0	59.0	150	15000	burthr	Blue Rock-Thrush	0.1008
+165	Spectrogram 1	1	56.0	59.0	150	15000	eaywag1	Western Yellow Wagtail	0.1007
+166	Spectrogram 1	1	57.0	60.0	150	15000	dunnoc1	Dunnock	0.3164
+167	Spectrogram 1	1	57.0	60.0	150	15000	stonec4	European Stonechat	0.2700
+168	Spectrogram 1	1	57.0	60.0	150	15000	thelar1	Thekla's Lark	0.1296
+169	Spectrogram 1	1	57.0	60.0	150	15000	norwhe	Northern Wheatear	0.1163
+170	Spectrogram 1	1	58.0	61.0	150	15000	corbun1	Corn Bunting	0.1987
+171	Spectrogram 1	1	58.0	61.0	150	15000	skylar	Eurasian Skylark	0.1816
+172	Spectrogram 1	1	58.0	61.0	150	15000	comqua1	Common Quail	0.1670
+173	Spectrogram 1	1	58.0	61.0	150	15000	stonec4	European Stonechat	0.1580
+174	Spectrogram 1	1	58.0	61.0	150	15000	callar1	Calandra Lark	0.1471
+175	Spectrogram 1	1	58.0	61.0	150	15000	thelar1	Thekla's Lark	0.1204
+176	Spectrogram 1	1	58.0	61.0	150	15000	whinch1	Whinchat	0.1108
+177	Spectrogram 1	1	58.0	61.0	150	15000	trepip	Tree Pipit	0.1011

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.9320
+2	Spectrogram 1	1	2.0	5.0	150	15000	eugori2	Eurasian Golden Oriole	0.2524
+3	Spectrogram 1	1	8.0	11.0	150	15000	eugori2	Eurasian Golden Oriole	0.9991
+4	Spectrogram 1	1	10.0	13.0	150	15000	eugori2	Eurasian Golden Oriole	0.9961
+5	Spectrogram 1	1	16.0	19.0	150	15000	blackc1	Eurasian Blackcap	0.2276
+6	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.7043
+7	Spectrogram 1	1	20.0	23.0	150	15000	blackc1	Eurasian Blackcap	0.8793
+8	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.4147
+9	Spectrogram 1	1	28.0	31.0	150	15000	blackc1	Eurasian Blackcap	0.4564
+10	Spectrogram 1	1	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.1481
+11	Spectrogram 1	1	32.0	35.0	150	15000	blackc1	Eurasian Blackcap	0.3933
+12	Spectrogram 1	1	34.0	37.0	150	15000	blackc1	Eurasian Blackcap	0.2236
+13	Spectrogram 1	1	38.0	41.0	150	15000	blackc1	Eurasian Blackcap	0.2272
+14	Spectrogram 1	1	40.0	43.0	150	15000	blackc1	Eurasian Blackcap	0.3822
+15	Spectrogram 1	1	46.0	49.0	150	15000	blackc1	Eurasian Blackcap	0.1010
+16	Spectrogram 1	1	48.0	51.0	150	15000	blackc1	Eurasian Blackcap	0.5577
+17	Spectrogram 1	1	52.0	55.0	150	15000	blackc1	Eurasian Blackcap	0.2328
+18	Spectrogram 1	1	54.0	57.0	150	15000	eugori2	Eurasian Golden Oriole	0.9524

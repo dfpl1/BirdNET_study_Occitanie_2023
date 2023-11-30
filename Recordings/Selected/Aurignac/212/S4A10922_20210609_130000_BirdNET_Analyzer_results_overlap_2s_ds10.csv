@@ -1,0 +1,38 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	houspa	House Sparrow	0.1537
+2	Spectrogram 1	1	3.0	6.0	150	15000	houspa	House Sparrow	0.2663
+3	Spectrogram 1	1	4.0	7.0	150	15000	houspa	House Sparrow	0.2470
+4	Spectrogram 1	1	6.0	9.0	150	15000	houspa	House Sparrow	0.1051
+5	Spectrogram 1	1	7.0	10.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1291
+6	Spectrogram 1	1	8.0	11.0	150	15000	houspa	House Sparrow	0.1444
+7	Spectrogram 1	1	8.0	11.0	150	15000	spaspa1	Spanish Sparrow	0.1360
+8	Spectrogram 1	1	9.0	12.0	150	15000	houspa	House Sparrow	0.1474
+9	Spectrogram 1	1	14.0	17.0	150	15000	houspa	House Sparrow	0.1669
+10	Spectrogram 1	1	15.0	18.0	150	15000	houspa	House Sparrow	0.1585
+11	Spectrogram 1	1	16.0	19.0	150	15000	houspa	House Sparrow	0.2118
+12	Spectrogram 1	1	18.0	21.0	150	15000	houspa	House Sparrow	0.1903
+13	Spectrogram 1	1	19.0	22.0	150	15000	houspa	House Sparrow	0.1887
+14	Spectrogram 1	1	20.0	23.0	150	15000	houspa	House Sparrow	0.2272
+15	Spectrogram 1	1	21.0	24.0	150	15000	houspa	House Sparrow	0.1532
+16	Spectrogram 1	1	23.0	26.0	150	15000	houspa	House Sparrow	0.2592
+17	Spectrogram 1	1	25.0	28.0	150	15000	houspa	House Sparrow	0.1800
+18	Spectrogram 1	1	26.0	29.0	150	15000	houspa	House Sparrow	0.1595
+19	Spectrogram 1	1	27.0	30.0	150	15000	houspa	House Sparrow	0.1621
+20	Spectrogram 1	1	28.0	31.0	150	15000	houspa	House Sparrow	0.3137
+21	Spectrogram 1	1	29.0	32.0	150	15000	houspa	House Sparrow	0.1981
+22	Spectrogram 1	1	30.0	33.0	150	15000	houspa	House Sparrow	0.1808
+23	Spectrogram 1	1	31.0	34.0	150	15000	houspa	House Sparrow	0.1365
+24	Spectrogram 1	1	32.0	35.0	150	15000	houspa	House Sparrow	0.1592
+25	Spectrogram 1	1	33.0	36.0	150	15000	houspa	House Sparrow	0.1644
+26	Spectrogram 1	1	35.0	38.0	150	15000	houspa	House Sparrow	0.1776
+27	Spectrogram 1	1	36.0	39.0	150	15000	houspa	House Sparrow	0.1714
+28	Spectrogram 1	1	37.0	40.0	150	15000	houspa	House Sparrow	0.1871
+29	Spectrogram 1	1	40.0	43.0	150	15000	houspa	House Sparrow	0.1581
+30	Spectrogram 1	1	40.0	43.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1102
+31	Spectrogram 1	1	41.0	44.0	150	15000	houspa	House Sparrow	0.1123
+32	Spectrogram 1	1	44.0	47.0	150	15000	houspa	House Sparrow	0.1868
+33	Spectrogram 1	1	45.0	48.0	150	15000	houspa	House Sparrow	0.2312
+34	Spectrogram 1	1	50.0	53.0	150	15000	houspa	House Sparrow	0.1918
+35	Spectrogram 1	1	51.0	54.0	150	15000	houspa	House Sparrow	0.1630
+36	Spectrogram 1	1	52.0	55.0	150	15000	houspa	House Sparrow	0.2350
+37	Spectrogram 1	1	53.0	56.0	150	15000	houspa	House Sparrow	0.1192

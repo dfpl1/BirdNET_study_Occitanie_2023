@@ -1,0 +1,116 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	grcgre1	Great Crested Grebe	0.3355
+2	Spectrogram 1	1	0	3.0	150	15000	eurbla	Eurasian Blackbird	0.1709
+3	Spectrogram 1	1	0	3.0	150	15000	relpar1	Red-legged Partridge	0.1707
+4	Spectrogram 1	1	0	3.0	150	15000	yellow2	Yellowhammer	0.1365
+5	Spectrogram 1	1	0	3.0	150	15000	carcro1	Carrion Crow	0.1240
+6	Spectrogram 1	1	0	3.0	150	15000	reebun	Reed Bunting	0.1222
+7	Spectrogram 1	1	0	3.0	150	15000	grrwar1	Great Reed Warbler	0.1156
+8	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.1071
+9	Spectrogram 1	1	0	3.0	150	15000	rinphe	Ring-necked Pheasant	0.1001
+10	Spectrogram 1	1	3.0	6.0	150	15000	eurbla	Eurasian Blackbird	0.3502
+11	Spectrogram 1	1	3.0	6.0	150	15000	litowl1	Little Owl	0.1675
+12	Spectrogram 1	1	3.0	6.0	150	15000	yellow2	Yellowhammer	0.1052
+13	Spectrogram 1	1	6.0	9.0	150	15000	relpar1	Red-legged Partridge	0.1956
+14	Spectrogram 1	1	6.0	9.0	150	15000	grcgre1	Great Crested Grebe	0.1921
+15	Spectrogram 1	1	6.0	9.0	150	15000	trepip	Tree Pipit	0.1917
+16	Spectrogram 1	1	6.0	9.0	150	15000	comcuc	Common Cuckoo	0.1578
+17	Spectrogram 1	1	6.0	9.0	150	15000	eugori2	Eurasian Golden Oriole	0.1058
+18	Spectrogram 1	1	9.0	12.0	150	15000	eurbla	Eurasian Blackbird	0.5531
+19	Spectrogram 1	1	9.0	12.0	150	15000	comcuc	Common Cuckoo	0.1042
+20	Spectrogram 1	1	12.0	15.0	150	15000	eurbla	Eurasian Blackbird	0.3997
+21	Spectrogram 1	1	12.0	15.0	150	15000	relpar1	Red-legged Partridge	0.1530
+22	Spectrogram 1	1	12.0	15.0	150	15000	cetwar1	Cetti's Warbler	0.1198
+23	Spectrogram 1	1	12.0	15.0	150	15000	comcuc	Common Cuckoo	0.1187
+24	Spectrogram 1	1	12.0	15.0	150	15000	sonthr1	Song Thrush	0.1051
+25	Spectrogram 1	1	15.0	18.0	150	15000	eurbla	Eurasian Blackbird	0.4135
+26	Spectrogram 1	1	15.0	18.0	150	15000	relpar1	Red-legged Partridge	0.1485
+27	Spectrogram 1	1	15.0	18.0	150	15000	combuz1	Common Buzzard	0.1225
+28	Spectrogram 1	1	15.0	18.0	150	15000	cowpig1	Common Wood-Pigeon	0.1197
+29	Spectrogram 1	1	15.0	18.0	150	15000	sonthr1	Song Thrush	0.1188
+30	Spectrogram 1	1	15.0	18.0	150	15000	carcro1	Carrion Crow	0.1147
+31	Spectrogram 1	1	15.0	18.0	150	15000	comcuc	Common Cuckoo	0.1051
+32	Spectrogram 1	1	18.0	21.0	150	15000	eurbla	Eurasian Blackbird	0.5457
+33	Spectrogram 1	1	18.0	21.0	150	15000	eurrob1	European Robin	0.2462
+34	Spectrogram 1	1	18.0	21.0	150	15000	yellow2	Yellowhammer	0.2289
+35	Spectrogram 1	1	18.0	21.0	150	15000	comcuc	Common Cuckoo	0.2092
+36	Spectrogram 1	1	18.0	21.0	150	15000	sonthr1	Song Thrush	0.1712
+37	Spectrogram 1	1	18.0	21.0	150	15000	relpar1	Red-legged Partridge	0.1683
+38	Spectrogram 1	1	18.0	21.0	150	15000	cetwar1	Cetti's Warbler	0.1675
+39	Spectrogram 1	1	18.0	21.0	150	15000	cowpig1	Common Wood-Pigeon	0.1352
+40	Spectrogram 1	1	18.0	21.0	150	15000	blutit	Eurasian Blue Tit	0.1293
+41	Spectrogram 1	1	21.0	24.0	150	15000	eurbla	Eurasian Blackbird	0.3655
+42	Spectrogram 1	1	21.0	24.0	150	15000	relpar1	Red-legged Partridge	0.1623
+43	Spectrogram 1	1	21.0	24.0	150	15000	comcuc	Common Cuckoo	0.1436
+44	Spectrogram 1	1	21.0	24.0	150	15000	grrwar1	Great Reed Warbler	0.1344
+45	Spectrogram 1	1	21.0	24.0	150	15000	yellow2	Yellowhammer	0.1231
+46	Spectrogram 1	1	21.0	24.0	150	15000	comcha	Common Chaffinch	0.1087
+47	Spectrogram 1	1	24.0	27.0	150	15000	eurbla	Eurasian Blackbird	0.2159
+48	Spectrogram 1	1	24.0	27.0	150	15000	relpar1	Red-legged Partridge	0.1857
+49	Spectrogram 1	1	24.0	27.0	150	15000	cowpig1	Common Wood-Pigeon	0.1851
+50	Spectrogram 1	1	24.0	27.0	150	15000	winwre4	Eurasian Wren	0.1255
+51	Spectrogram 1	1	24.0	27.0	150	15000	dunnoc1	Dunnock	0.1019
+52	Spectrogram 1	1	27.0	30.0	150	15000	eurbla	Eurasian Blackbird	0.2720
+53	Spectrogram 1	1	27.0	30.0	150	15000	shttre1	Short-toed Treecreeper	0.2561
+54	Spectrogram 1	1	27.0	30.0	150	15000	cowpig1	Common Wood-Pigeon	0.2274
+55	Spectrogram 1	1	27.0	30.0	150	15000	eutdov	European Turtle-Dove	0.1898
+56	Spectrogram 1	1	27.0	30.0	150	15000	cetwar1	Cetti's Warbler	0.1458
+57	Spectrogram 1	1	27.0	30.0	150	15000	comcuc	Common Cuckoo	0.1447
+58	Spectrogram 1	1	27.0	30.0	150	15000	sonthr1	Song Thrush	0.1351
+59	Spectrogram 1	1	27.0	30.0	150	15000	dunnoc1	Dunnock	0.1307
+60	Spectrogram 1	1	27.0	30.0	150	15000	gretit1	Great Tit	0.1277
+61	Spectrogram 1	1	27.0	30.0	150	15000	relpar1	Red-legged Partridge	0.1170
+62	Spectrogram 1	1	27.0	30.0	150	15000	yellow2	Yellowhammer	0.1084
+63	Spectrogram 1	1	27.0	30.0	150	15000	eurrob1	European Robin	0.1062
+64	Spectrogram 1	1	30.0	33.0	150	15000	eurbla	Eurasian Blackbird	0.2324
+65	Spectrogram 1	1	30.0	33.0	150	15000	relpar1	Red-legged Partridge	0.2271
+66	Spectrogram 1	1	30.0	33.0	150	15000	yellow2	Yellowhammer	0.1694
+67	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.1404
+68	Spectrogram 1	1	30.0	33.0	150	15000	comcuc	Common Cuckoo	0.1396
+69	Spectrogram 1	1	30.0	33.0	150	15000	cowpig1	Common Wood-Pigeon	0.1297
+70	Spectrogram 1	1	30.0	33.0	150	15000	norlap	Northern Lapwing	0.1179
+71	Spectrogram 1	1	30.0	33.0	150	15000	carcro1	Carrion Crow	0.1111
+72	Spectrogram 1	1	30.0	33.0	150	15000	eutdov	European Turtle-Dove	0.1089
+73	Spectrogram 1	1	30.0	33.0	150	15000	corbun1	Corn Bunting	0.1071
+74	Spectrogram 1	1	30.0	33.0	150	15000	combuz1	Common Buzzard	0.1000
+75	Spectrogram 1	1	33.0	36.0	150	15000	eutdov	European Turtle-Dove	0.4310
+76	Spectrogram 1	1	33.0	36.0	150	15000	blackc1	Eurasian Blackcap	0.2063
+77	Spectrogram 1	1	33.0	36.0	150	15000	yellow2	Yellowhammer	0.1799
+78	Spectrogram 1	1	33.0	36.0	150	15000	carcro1	Carrion Crow	0.1292
+79	Spectrogram 1	1	33.0	36.0	150	15000	eurrob1	European Robin	0.1281
+80	Spectrogram 1	1	33.0	36.0	150	15000	rebshr1	Red-backed Shrike	0.1023
+81	Spectrogram 1	1	36.0	39.0	150	15000	eutdov	European Turtle-Dove	0.4522
+82	Spectrogram 1	1	36.0	39.0	150	15000	blackc1	Eurasian Blackcap	0.3742
+83	Spectrogram 1	1	36.0	39.0	150	15000	rebshr1	Red-backed Shrike	0.1424
+84	Spectrogram 1	1	36.0	39.0	150	15000	cowpig1	Common Wood-Pigeon	0.1413
+85	Spectrogram 1	1	39.0	42.0	150	15000	relpar1	Red-legged Partridge	0.4764
+86	Spectrogram 1	1	39.0	42.0	150	15000	carcro1	Carrion Crow	0.1424
+87	Spectrogram 1	1	39.0	42.0	150	15000	grcgre1	Great Crested Grebe	0.1300
+88	Spectrogram 1	1	39.0	42.0	150	15000	cowpig1	Common Wood-Pigeon	0.1251
+89	Spectrogram 1	1	39.0	42.0	150	15000	cetwar1	Cetti's Warbler	0.1227
+90	Spectrogram 1	1	39.0	42.0	150	15000	yellow2	Yellowhammer	0.1153
+91	Spectrogram 1	1	39.0	42.0	150	15000	cohmar1	Common House-Martin	0.1068
+92	Spectrogram 1	1	42.0	45.0	150	15000	blackc1	Eurasian Blackcap	0.1603
+93	Spectrogram 1	1	42.0	45.0	150	15000	eurbla	Eurasian Blackbird	0.1579
+94	Spectrogram 1	1	42.0	45.0	150	15000	relpar1	Red-legged Partridge	0.1439
+95	Spectrogram 1	1	42.0	45.0	150	15000	grrwar1	Great Reed Warbler	0.1372
+96	Spectrogram 1	1	42.0	45.0	150	15000	norlap	Northern Lapwing	0.1140
+97	Spectrogram 1	1	42.0	45.0	150	15000	grcgre1	Great Crested Grebe	0.1126
+98	Spectrogram 1	1	42.0	45.0	150	15000	carcro1	Carrion Crow	0.1112
+99	Spectrogram 1	1	45.0	48.0	150	15000	eurbla	Eurasian Blackbird	0.3444
+100	Spectrogram 1	1	45.0	48.0	150	15000	blackc1	Eurasian Blackcap	0.1406
+101	Spectrogram 1	1	45.0	48.0	150	15000	eurbul	Eurasian Bullfinch	0.1078
+102	Spectrogram 1	1	48.0	51.0	150	15000	eurbla	Eurasian Blackbird	0.3133
+103	Spectrogram 1	1	48.0	51.0	150	15000	relpar1	Red-legged Partridge	0.2329
+104	Spectrogram 1	1	48.0	51.0	150	15000	shttre1	Short-toed Treecreeper	0.1948
+105	Spectrogram 1	1	51.0	54.0	150	15000	eurbla	Eurasian Blackbird	0.5183
+106	Spectrogram 1	1	51.0	54.0	150	15000	litowl1	Little Owl	0.1155
+107	Spectrogram 1	1	51.0	54.0	150	15000	cowpig1	Common Wood-Pigeon	0.1132
+108	Spectrogram 1	1	54.0	57.0	150	15000	eurbla	Eurasian Blackbird	0.2623
+109	Spectrogram 1	1	54.0	57.0	150	15000	relpar1	Red-legged Partridge	0.1801
+110	Spectrogram 1	1	54.0	57.0	150	15000	shttre1	Short-toed Treecreeper	0.1512
+111	Spectrogram 1	1	57.0	60.0	150	15000	eurbla	Eurasian Blackbird	0.4471
+112	Spectrogram 1	1	57.0	60.0	150	15000	shttre1	Short-toed Treecreeper	0.1568
+113	Spectrogram 1	1	57.0	60.0	150	15000	sonthr1	Song Thrush	0.1459
+114	Spectrogram 1	1	57.0	60.0	150	15000	misthr1	Mistle Thrush	0.1073
+115	Spectrogram 1	1	57.0	60.0	150	15000	blackc1	Eurasian Blackcap	0.1036

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.00000	18.39977	2338.9	10267.4	Erithacus rubecula
+2	Spectrogram 1	1	16.23113	16.94561	2229.5	5325.5	Unidentified bird
+3	Spectrogram 1	1	22.52690	25.06538	2124.1	11542.7	Erithacus rubecula
+4	Spectrogram 1	1	27.84762	29.15048	5474.6	8887.6	Regulus ignicapilla
+5	Spectrogram 1	1	30.57102	33.23558	1594.2	10816.9	Erithacus rubecula
+6	Spectrogram 1	1	36.46331	41.06115	2229.5	10538.8	Erithacus rubecula
+7	Spectrogram 1	1	43.44833	56.98128	2302.0	11247.1	Erithacus rubecula
+8	Spectrogram 1	1	58.80529	59.98207	2124.1	10538.8	Erithacus rubecula

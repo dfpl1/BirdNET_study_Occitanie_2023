@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	grcgre1	Great Crested Grebe	0.1141
+2	Spectrogram 1	1	3.0	6.0	150	15000	eurbla	Eurasian Blackbird	0.1353
+3	Spectrogram 1	1	9.0	12.0	150	15000	eurbla	Eurasian Blackbird	0.6547
+4	Spectrogram 1	1	12.0	15.0	150	15000	eurbla	Eurasian Blackbird	0.2278
+5	Spectrogram 1	1	15.0	18.0	150	15000	eurbla	Eurasian Blackbird	0.2595
+6	Spectrogram 1	1	18.0	21.0	150	15000	eurbla	Eurasian Blackbird	0.6341
+7	Spectrogram 1	1	21.0	24.0	150	15000	eurbla	Eurasian Blackbird	0.1604
+8	Spectrogram 1	1	33.0	36.0	150	15000	eutdov	European Turtle-Dove	0.3029
+9	Spectrogram 1	1	36.0	39.0	150	15000	eutdov	European Turtle-Dove	0.3600
+10	Spectrogram 1	1	36.0	39.0	150	15000	blackc1	Eurasian Blackcap	0.1762
+11	Spectrogram 1	1	39.0	42.0	150	15000	relpar1	Red-legged Partridge	0.4297
+12	Spectrogram 1	1	45.0	48.0	150	15000	eurbla	Eurasian Blackbird	0.1266
+13	Spectrogram 1	1	51.0	54.0	150	15000	eurbla	Eurasian Blackbird	0.5546
+14	Spectrogram 1	1	57.0	60.0	150	15000	eurbla	Eurasian Blackbird	0.3460

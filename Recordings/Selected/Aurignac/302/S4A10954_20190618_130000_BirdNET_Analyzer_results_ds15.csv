@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	comchi1	Common Chiffchaff	0.1484
+2	Spectrogram 1	1	0	3.0	150	15000	rebshr1	Red-backed Shrike	0.1051
+3	Spectrogram 1	1	0	3.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1018
+4	Spectrogram 1	1	9.0	12.0	150	15000	trepip	Tree Pipit	0.2773
+5	Spectrogram 1	1	9.0	12.0	150	15000	woolar1	Wood Lark	0.1021
+6	Spectrogram 1	1	15.0	18.0	150	15000	comchi1	Common Chiffchaff	0.3912
+7	Spectrogram 1	1	15.0	18.0	150	15000	comnig1	Common Nightingale	0.1049
+8	Spectrogram 1	1	18.0	21.0	150	15000	comchi1	Common Chiffchaff	0.5947
+9	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.1638
+10	Spectrogram 1	1	18.0	21.0	150	15000	comnig1	Common Nightingale	0.1271
+11	Spectrogram 1	1	18.0	21.0	150	15000	litowl1	Little Owl	0.1249
+12	Spectrogram 1	1	18.0	21.0	150	15000	comcha	Common Chaffinch	0.1060
+13	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.4185
+14	Spectrogram 1	1	27.0	30.0	150	15000	comchi1	Common Chiffchaff	0.4020
+15	Spectrogram 1	1	27.0	30.0	150	15000	yellow2	Yellowhammer	0.1770
+16	Spectrogram 1	1	27.0	30.0	150	15000	cirbun1	Cirl Bunting	0.1769
+17	Spectrogram 1	1	30.0	33.0	150	15000	comchi1	Common Chiffchaff	0.6688
+18	Spectrogram 1	1	30.0	33.0	150	15000	trepip	Tree Pipit	0.1752
+19	Spectrogram 1	1	36.0	39.0	150	15000	trepip	Tree Pipit	0.2781
+20	Spectrogram 1	1	39.0	42.0	150	15000	comchi1	Common Chiffchaff	0.3037
+21	Spectrogram 1	1	39.0	42.0	150	15000	litowl1	Little Owl	0.1435
+22	Spectrogram 1	1	39.0	42.0	150	15000	trepip	Tree Pipit	0.1238
+23	Spectrogram 1	1	42.0	45.0	150	15000	blackc1	Eurasian Blackcap	0.2549
+24	Spectrogram 1	1	42.0	45.0	150	15000	eurrob1	European Robin	0.1295
+25	Spectrogram 1	1	45.0	48.0	150	15000	trepip	Tree Pipit	0.4910
+26	Spectrogram 1	1	45.0	48.0	150	15000	comchi1	Common Chiffchaff	0.4767
+27	Spectrogram 1	1	45.0	48.0	150	15000	cirbun1	Cirl Bunting	0.1691
+28	Spectrogram 1	1	45.0	48.0	150	15000	martit2	Marsh Tit	0.1269
+29	Spectrogram 1	1	45.0	48.0	150	15000	comcha	Common Chaffinch	0.1008
+30	Spectrogram 1	1	48.0	51.0	150	15000	trepip	Tree Pipit	0.3970
+31	Spectrogram 1	1	48.0	51.0	150	15000	comchi1	Common Chiffchaff	0.2751
+32	Spectrogram 1	1	51.0	54.0	150	15000	blackc1	Eurasian Blackcap	0.1978
+33	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.5454
+34	Spectrogram 1	1	57.0	60.0	150	15000	trepip	Tree Pipit	0.5111

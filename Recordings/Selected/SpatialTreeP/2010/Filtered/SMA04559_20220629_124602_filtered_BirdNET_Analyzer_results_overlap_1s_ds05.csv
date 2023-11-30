@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.1635
+2	Spectrogram 1	1	0	3.0	150	15000	comcha	Common Chaffinch	0.1274
+3	Spectrogram 1	1	0	3.0	150	15000	martit2	Marsh Tit	0.1014
+4	Spectrogram 1	1	10.0	13.0	150	15000	trepip	Tree Pipit	0.3802
+5	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.5006
+6	Spectrogram 1	1	18.0	21.0	150	15000	comcha	Common Chaffinch	0.8561
+7	Spectrogram 1	1	20.0	23.0	150	15000	trepip	Tree Pipit	0.9690
+8	Spectrogram 1	1	22.0	25.0	150	15000	trepip	Tree Pipit	0.9992
+9	Spectrogram 1	1	24.0	27.0	150	15000	trepip	Tree Pipit	0.9976
+10	Spectrogram 1	1	26.0	29.0	150	15000	trepip	Tree Pipit	0.7508
+11	Spectrogram 1	1	28.0	31.0	150	15000	trepip	Tree Pipit	0.9028
+12	Spectrogram 1	1	30.0	33.0	150	15000	eurgre1	European Greenfinch	0.1141
+13	Spectrogram 1	1	34.0	37.0	150	15000	trepip	Tree Pipit	0.9240
+14	Spectrogram 1	1	36.0	39.0	150	15000	trepip	Tree Pipit	0.9996
+15	Spectrogram 1	1	38.0	41.0	150	15000	shttre1	Short-toed Treecreeper	0.1108
+16	Spectrogram 1	1	38.0	41.0	150	15000	coatit2	Coal Tit	0.1038
+17	Spectrogram 1	1	40.0	43.0	150	15000	comcha	Common Chaffinch	0.7223
+18	Spectrogram 1	1	44.0	47.0	150	15000	trepip	Tree Pipit	0.9999
+19	Spectrogram 1	1	46.0	49.0	150	15000	trepip	Tree Pipit	0.9992
+20	Spectrogram 1	1	52.0	55.0	150	15000	trepip	Tree Pipit	0.9985
+21	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.9990
+22	Spectrogram 1	1	56.0	59.0	150	15000	dunnoc1	Dunnock	0.2192

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.6125
+2	Spectrogram 1	1	9.0	12.0	150	15000	eugori2	Eurasian Golden Oriole	0.9802
+3	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.1126
+4	Spectrogram 1	1	18.0	21.0	150	15000	eugori2	Eurasian Golden Oriole	0.1021
+5	Spectrogram 1	1	27.0	30.0	150	15000	blackc1	Eurasian Blackcap	0.1703
+6	Spectrogram 1	1	30.0	33.0	150	15000	woolar1	Wood Lark	0.1017
+7	Spectrogram 1	1	30.0	33.0	150	15000	cirbun1	Cirl Bunting	0.1015
+8	Spectrogram 1	1	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.1858
+9	Spectrogram 1	1	45.0	48.0	150	15000	blackc1	Eurasian Blackcap	0.2356
+10	Spectrogram 1	1	48.0	51.0	150	15000	blackc1	Eurasian Blackcap	0.2615
+11	Spectrogram 1	1	48.0	51.0	150	15000	webwar1	Western Bonelli's Warbler	0.1682
+12	Spectrogram 1	1	54.0	57.0	150	15000	eugori2	Eurasian Golden Oriole	0.8967

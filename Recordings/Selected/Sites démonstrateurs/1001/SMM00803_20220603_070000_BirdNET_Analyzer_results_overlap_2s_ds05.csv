@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	27.0	30.0	150	15000	skylar	Eurasian Skylark	0.1126
+2	Spectrogram 1	1	35.0	38.0	150	15000	melwar1	Melodious Warbler	0.6570
+3	Spectrogram 1	1	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.1320
+4	Spectrogram 1	1	47.0	50.0	150	15000	melwar1	Melodious Warbler	0.1027

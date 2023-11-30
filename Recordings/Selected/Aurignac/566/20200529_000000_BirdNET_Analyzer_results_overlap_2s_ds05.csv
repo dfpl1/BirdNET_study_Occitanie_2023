@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	3.0	6.0	150	15000	comnig1	Common Nightingale	0.8635
+2	Spectrogram 1	1	4.0	7.0	150	15000	comnig1	Common Nightingale	0.5605
+3	Spectrogram 1	1	7.0	10.0	150	15000	comnig1	Common Nightingale	0.9050
+4	Spectrogram 1	1	8.0	11.0	150	15000	comnig1	Common Nightingale	0.8601
+5	Spectrogram 1	1	9.0	12.0	150	15000	comnig1	Common Nightingale	0.8914
+6	Spectrogram 1	1	12.0	15.0	150	15000	comnig1	Common Nightingale	0.9352
+7	Spectrogram 1	1	13.0	16.0	150	15000	comnig1	Common Nightingale	0.9059
+8	Spectrogram 1	1	14.0	17.0	150	15000	comnig1	Common Nightingale	0.7093
+9	Spectrogram 1	1	18.0	21.0	150	15000	comnig1	Common Nightingale	0.3836
+10	Spectrogram 1	1	19.0	22.0	150	15000	comnig1	Common Nightingale	0.6847
+11	Spectrogram 1	1	29.0	32.0	150	15000	comnig1	Common Nightingale	0.3388
+12	Spectrogram 1	1	34.0	37.0	150	15000	comnig1	Common Nightingale	0.8833
+13	Spectrogram 1	1	35.0	38.0	150	15000	comnig1	Common Nightingale	0.4183
+14	Spectrogram 1	1	45.0	48.0	150	15000	comnig1	Common Nightingale	0.2643
+15	Spectrogram 1	1	46.0	49.0	150	15000	comnig1	Common Nightingale	0.8002
+16	Spectrogram 1	1	47.0	50.0	150	15000	comnig1	Common Nightingale	0.8262
+17	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.9759
+18	Spectrogram 1	1	51.0	54.0	150	15000	comnig1	Common Nightingale	0.3951
+19	Spectrogram 1	1	52.0	55.0	150	15000	comnig1	Common Nightingale	0.7199
+20	Spectrogram 1	1	53.0	56.0	150	15000	comnig1	Common Nightingale	0.7644
+21	Spectrogram 1	1	57.0	60.0	150	15000	comnig1	Common Nightingale	0.9119
+22	Spectrogram 1	1	58.0	61.0	150	15000	comnig1	Common Nightingale	0.9859

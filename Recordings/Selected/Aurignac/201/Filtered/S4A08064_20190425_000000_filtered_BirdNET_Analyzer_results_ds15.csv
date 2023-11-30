@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	15.0	18.0	150	15000	meapip1	Meadow Pipit	0.1040
+2	Spectrogram 1	1	33.0	36.0	150	15000	meapip1	Meadow Pipit	0.1211
+3	Spectrogram 1	1	33.0	36.0	150	15000	eursis	Eurasian Siskin	0.1095
+4	Spectrogram 1	1	33.0	36.0	150	15000	goldcr1	Goldcrest	0.1002
+5	Spectrogram 1	1	36.0	39.0	150	15000	whtdip1	White-throated Dipper	0.1105
+6	Spectrogram 1	1	39.0	42.0	150	15000	goldcr1	Goldcrest	0.1148
+7	Spectrogram 1	1	39.0	42.0	150	15000	eursis	Eurasian Siskin	0.1007
+8	Spectrogram 1	1	42.0	45.0	150	15000	meapip1	Meadow Pipit	0.1992
+9	Spectrogram 1	1	42.0	45.0	150	15000	reebun	Reed Bunting	0.1140
+10	Spectrogram 1	1	45.0	48.0	150	15000	meapip1	Meadow Pipit	0.1009
+11	Spectrogram 1	1	51.0	54.0	150	15000	goldcr1	Goldcrest	0.1088
+12	Spectrogram 1	1	54.0	57.0	150	15000	goldcr1	Goldcrest	0.2452
+13	Spectrogram 1	1	54.0	57.0	150	15000	eurrob1	European Robin	0.1652
+14	Spectrogram 1	1	54.0	57.0	150	15000	sonthr1	Song Thrush	0.1527
+15	Spectrogram 1	1	54.0	57.0	150	15000	hawfin	Hawfinch	0.1325
+16	Spectrogram 1	1	54.0	57.0	150	15000	eurbul	Eurasian Bullfinch	0.1047
+17	Spectrogram 1	1	57.0	60.0	150	15000	goldcr1	Goldcrest	0.1996
+18	Spectrogram 1	1	57.0	60.0	150	15000	sonthr1	Song Thrush	0.1370
+19	Spectrogram 1	1	57.0	60.0	150	15000	eurrob1	European Robin	0.1363
+20	Spectrogram 1	1	57.0	60.0	150	15000	hawfin	Hawfinch	0.1061

@@ -1,0 +1,175 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	firecr1	Common Firecrest	0.3081
+2	Spectrogram 1	1	0	3.0	150	15000	comcha	Common Chaffinch	0.1906
+3	Spectrogram 1	1	0	3.0	150	15000	eupfly1	European Pied Flycatcher	0.1434
+4	Spectrogram 1	1	0	3.0	150	15000	goldcr1	Goldcrest	0.1385
+5	Spectrogram 1	1	2.0	5.0	150	15000	grswoo	Great Spotted Woodpecker	0.2882
+6	Spectrogram 1	1	4.0	7.0	150	15000	grswoo	Great Spotted Woodpecker	0.3744
+7	Spectrogram 1	1	6.0	9.0	150	15000	comcha	Common Chaffinch	0.3803
+8	Spectrogram 1	1	6.0	9.0	150	15000	eupfly1	European Pied Flycatcher	0.2996
+9	Spectrogram 1	1	6.0	9.0	150	15000	misthr1	Mistle Thrush	0.1827
+10	Spectrogram 1	1	6.0	9.0	150	15000	firecr1	Common Firecrest	0.1611
+11	Spectrogram 1	1	6.0	9.0	150	15000	comred2	Common Redstart	0.1571
+12	Spectrogram 1	1	6.0	9.0	150	15000	webwar1	Western Bonelli's Warbler	0.1488
+13	Spectrogram 1	1	6.0	9.0	150	15000	goldcr1	Goldcrest	0.1213
+14	Spectrogram 1	1	6.0	9.0	150	15000	shttre1	Short-toed Treecreeper	0.1172
+15	Spectrogram 1	1	6.0	9.0	150	15000	stodov1	Stock Dove	0.1089
+16	Spectrogram 1	1	6.0	9.0	150	15000	eurbul	Eurasian Bullfinch	0.1061
+17	Spectrogram 1	1	6.0	9.0	150	15000	eugori2	Eurasian Golden Oriole	0.1055
+18	Spectrogram 1	1	8.0	11.0	150	15000	comcha	Common Chaffinch	0.2881
+19	Spectrogram 1	1	8.0	11.0	150	15000	eupfly1	European Pied Flycatcher	0.1902
+20	Spectrogram 1	1	8.0	11.0	150	15000	eugori2	Eurasian Golden Oriole	0.1641
+21	Spectrogram 1	1	8.0	11.0	150	15000	firecr1	Common Firecrest	0.1144
+22	Spectrogram 1	1	10.0	13.0	150	15000	grswoo	Great Spotted Woodpecker	0.1872
+23	Spectrogram 1	1	10.0	13.0	150	15000	eupfly1	European Pied Flycatcher	0.1491
+24	Spectrogram 1	1	10.0	13.0	150	15000	martit2	Marsh Tit	0.1485
+25	Spectrogram 1	1	10.0	13.0	150	15000	trepip	Tree Pipit	0.1179
+26	Spectrogram 1	1	12.0	15.0	150	15000	grswoo	Great Spotted Woodpecker	0.3882
+27	Spectrogram 1	1	12.0	15.0	150	15000	eugori2	Eurasian Golden Oriole	0.1611
+28	Spectrogram 1	1	12.0	15.0	150	15000	eupfly1	European Pied Flycatcher	0.1281
+29	Spectrogram 1	1	12.0	15.0	150	15000	webwar1	Western Bonelli's Warbler	0.1189
+30	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.1111
+31	Spectrogram 1	1	12.0	15.0	150	15000	eurwry	Eurasian Wryneck	0.1092
+32	Spectrogram 1	1	12.0	15.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1020
+33	Spectrogram 1	1	14.0	17.0	150	15000	eupfly1	European Pied Flycatcher	0.1900
+34	Spectrogram 1	1	14.0	17.0	150	15000	firecr1	Common Firecrest	0.1411
+35	Spectrogram 1	1	14.0	17.0	150	15000	comred2	Common Redstart	0.1365
+36	Spectrogram 1	1	14.0	17.0	150	15000	trepip	Tree Pipit	0.1205
+37	Spectrogram 1	1	16.0	19.0	150	15000	comcha	Common Chaffinch	0.1934
+38	Spectrogram 1	1	16.0	19.0	150	15000	eupfly1	European Pied Flycatcher	0.1598
+39	Spectrogram 1	1	16.0	19.0	150	15000	firecr1	Common Firecrest	0.1409
+40	Spectrogram 1	1	16.0	19.0	150	15000	eugori2	Eurasian Golden Oriole	0.1376
+41	Spectrogram 1	1	16.0	19.0	150	15000	webwar1	Western Bonelli's Warbler	0.1211
+42	Spectrogram 1	1	16.0	19.0	150	15000	misthr1	Mistle Thrush	0.1139
+43	Spectrogram 1	1	16.0	19.0	150	15000	shttre1	Short-toed Treecreeper	0.1007
+44	Spectrogram 1	1	18.0	21.0	150	15000	grswoo	Great Spotted Woodpecker	0.1932
+45	Spectrogram 1	1	18.0	21.0	150	15000	eupfly1	European Pied Flycatcher	0.1708
+46	Spectrogram 1	1	20.0	23.0	150	15000	grswoo	Great Spotted Woodpecker	0.4421
+47	Spectrogram 1	1	20.0	23.0	150	15000	eupfly1	European Pied Flycatcher	0.1589
+48	Spectrogram 1	1	22.0	25.0	150	15000	trepip	Tree Pipit	0.2479
+49	Spectrogram 1	1	22.0	25.0	150	15000	cirbun1	Cirl Bunting	0.2225
+50	Spectrogram 1	1	22.0	25.0	150	15000	eupfly1	European Pied Flycatcher	0.1879
+51	Spectrogram 1	1	22.0	25.0	150	15000	eugori2	Eurasian Golden Oriole	0.1240
+52	Spectrogram 1	1	22.0	25.0	150	15000	yellow2	Yellowhammer	0.1214
+53	Spectrogram 1	1	22.0	25.0	150	15000	webwar1	Western Bonelli's Warbler	0.1194
+54	Spectrogram 1	1	22.0	25.0	150	15000	blared1	Black Redstart	0.1126
+55	Spectrogram 1	1	22.0	25.0	150	15000	comred2	Common Redstart	0.1122
+56	Spectrogram 1	1	24.0	27.0	150	15000	comcha	Common Chaffinch	0.4965
+57	Spectrogram 1	1	24.0	27.0	150	15000	eugori2	Eurasian Golden Oriole	0.1431
+58	Spectrogram 1	1	24.0	27.0	150	15000	eupfly1	European Pied Flycatcher	0.1404
+59	Spectrogram 1	1	24.0	27.0	150	15000	grswoo	Great Spotted Woodpecker	0.1242
+60	Spectrogram 1	1	24.0	27.0	150	15000	firecr1	Common Firecrest	0.1168
+61	Spectrogram 1	1	26.0	29.0	150	15000	eupfly1	European Pied Flycatcher	0.3959
+62	Spectrogram 1	1	26.0	29.0	150	15000	comcha	Common Chaffinch	0.2257
+63	Spectrogram 1	1	26.0	29.0	150	15000	comred2	Common Redstart	0.1726
+64	Spectrogram 1	1	26.0	29.0	150	15000	martit2	Marsh Tit	0.1223
+65	Spectrogram 1	1	26.0	29.0	150	15000	trepip	Tree Pipit	0.1167
+66	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.1095
+67	Spectrogram 1	1	26.0	29.0	150	15000	firecr1	Common Firecrest	0.1088
+68	Spectrogram 1	1	26.0	29.0	150	15000	misthr1	Mistle Thrush	0.1057
+69	Spectrogram 1	1	28.0	31.0	150	15000	grswoo	Great Spotted Woodpecker	0.4687
+70	Spectrogram 1	1	28.0	31.0	150	15000	eupfly1	European Pied Flycatcher	0.1079
+71	Spectrogram 1	1	28.0	31.0	150	15000	eugori2	Eurasian Golden Oriole	0.1073
+72	Spectrogram 1	1	30.0	33.0	150	15000	grswoo	Great Spotted Woodpecker	0.4046
+73	Spectrogram 1	1	30.0	33.0	150	15000	eugori2	Eurasian Golden Oriole	0.1141
+74	Spectrogram 1	1	32.0	35.0	150	15000	comcha	Common Chaffinch	0.2815
+75	Spectrogram 1	1	32.0	35.0	150	15000	eupfly1	European Pied Flycatcher	0.2031
+76	Spectrogram 1	1	32.0	35.0	150	15000	eugori2	Eurasian Golden Oriole	0.1962
+77	Spectrogram 1	1	32.0	35.0	150	15000	misthr1	Mistle Thrush	0.1400
+78	Spectrogram 1	1	32.0	35.0	150	15000	comred2	Common Redstart	0.1350
+79	Spectrogram 1	1	32.0	35.0	150	15000	firecr1	Common Firecrest	0.1263
+80	Spectrogram 1	1	32.0	35.0	150	15000	stodov1	Stock Dove	0.1189
+81	Spectrogram 1	1	32.0	35.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1180
+82	Spectrogram 1	1	32.0	35.0	150	15000	shttre1	Short-toed Treecreeper	0.1100
+83	Spectrogram 1	1	32.0	35.0	150	15000	webwar1	Western Bonelli's Warbler	0.1088
+84	Spectrogram 1	1	34.0	37.0	150	15000	misthr1	Mistle Thrush	0.2064
+85	Spectrogram 1	1	34.0	37.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1370
+86	Spectrogram 1	1	34.0	37.0	150	15000	trepip	Tree Pipit	0.1333
+87	Spectrogram 1	1	34.0	37.0	150	15000	stodov1	Stock Dove	0.1206
+88	Spectrogram 1	1	34.0	37.0	150	15000	blutit	Eurasian Blue Tit	0.1166
+89	Spectrogram 1	1	34.0	37.0	150	15000	eugori2	Eurasian Golden Oriole	0.1161
+90	Spectrogram 1	1	34.0	37.0	150	15000	webwar1	Western Bonelli's Warbler	0.1139
+91	Spectrogram 1	1	34.0	37.0	150	15000	comred2	Common Redstart	0.1034
+92	Spectrogram 1	1	36.0	39.0	150	15000	combuz1	Common Buzzard	0.1622
+93	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.1352
+94	Spectrogram 1	1	36.0	39.0	150	15000	grswoo	Great Spotted Woodpecker	0.1195
+95	Spectrogram 1	1	36.0	39.0	150	15000	eurwry	Eurasian Wryneck	0.1037
+96	Spectrogram 1	1	38.0	41.0	150	15000	eupfly1	European Pied Flycatcher	0.1847
+97	Spectrogram 1	1	38.0	41.0	150	15000	comcha	Common Chaffinch	0.1600
+98	Spectrogram 1	1	38.0	41.0	150	15000	misthr1	Mistle Thrush	0.1166
+99	Spectrogram 1	1	38.0	41.0	150	15000	firecr1	Common Firecrest	0.1161
+100	Spectrogram 1	1	38.0	41.0	150	15000	webwar1	Western Bonelli's Warbler	0.1082
+101	Spectrogram 1	1	38.0	41.0	150	15000	stodov1	Stock Dove	0.1073
+102	Spectrogram 1	1	40.0	43.0	150	15000	eupfly1	European Pied Flycatcher	0.2292
+103	Spectrogram 1	1	40.0	43.0	150	15000	comcha	Common Chaffinch	0.1880
+104	Spectrogram 1	1	40.0	43.0	150	15000	eugori2	Eurasian Golden Oriole	0.1306
+105	Spectrogram 1	1	40.0	43.0	150	15000	firecr1	Common Firecrest	0.1189
+106	Spectrogram 1	1	40.0	43.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1073
+107	Spectrogram 1	1	40.0	43.0	150	15000	comred2	Common Redstart	0.1046
+108	Spectrogram 1	1	42.0	45.0	150	15000	grswoo	Great Spotted Woodpecker	0.1394
+109	Spectrogram 1	1	42.0	45.0	150	15000	eugori2	Eurasian Golden Oriole	0.1355
+110	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1343
+111	Spectrogram 1	1	42.0	45.0	150	15000	firecr1	Common Firecrest	0.1282
+112	Spectrogram 1	1	42.0	45.0	150	15000	eupfly1	European Pied Flycatcher	0.1176
+113	Spectrogram 1	1	42.0	45.0	150	15000	redkit1	Red Kite	0.1056
+114	Spectrogram 1	1	42.0	45.0	150	15000	blackc1	Eurasian Blackcap	0.1039
+115	Spectrogram 1	1	42.0	45.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1007
+116	Spectrogram 1	1	44.0	47.0	150	15000	eupfly1	European Pied Flycatcher	0.1712
+117	Spectrogram 1	1	44.0	47.0	150	15000	trepip	Tree Pipit	0.1619
+118	Spectrogram 1	1	44.0	47.0	150	15000	misthr1	Mistle Thrush	0.1456
+119	Spectrogram 1	1	44.0	47.0	150	15000	firecr1	Common Firecrest	0.1196
+120	Spectrogram 1	1	44.0	47.0	150	15000	grswoo	Great Spotted Woodpecker	0.1023
+121	Spectrogram 1	1	46.0	49.0	150	15000	misthr1	Mistle Thrush	0.2215
+122	Spectrogram 1	1	46.0	49.0	150	15000	webwar1	Western Bonelli's Warbler	0.2181
+123	Spectrogram 1	1	46.0	49.0	150	15000	eupfly1	European Pied Flycatcher	0.2131
+124	Spectrogram 1	1	46.0	49.0	150	15000	firecr1	Common Firecrest	0.1764
+125	Spectrogram 1	1	46.0	49.0	150	15000	eugori2	Eurasian Golden Oriole	0.1529
+126	Spectrogram 1	1	46.0	49.0	150	15000	comred2	Common Redstart	0.1449
+127	Spectrogram 1	1	46.0	49.0	150	15000	trepip	Tree Pipit	0.1330
+128	Spectrogram 1	1	46.0	49.0	150	15000	stodov1	Stock Dove	0.1250
+129	Spectrogram 1	1	46.0	49.0	150	15000	shttre1	Short-toed Treecreeper	0.1189
+130	Spectrogram 1	1	46.0	49.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1160
+131	Spectrogram 1	1	46.0	49.0	150	15000	eurnut2	Eurasian Nuthatch	0.1121
+132	Spectrogram 1	1	46.0	49.0	150	15000	comcha	Common Chaffinch	0.1110
+133	Spectrogram 1	1	46.0	49.0	150	15000	goldcr1	Goldcrest	0.1091
+134	Spectrogram 1	1	48.0	51.0	150	15000	comcha	Common Chaffinch	0.3410
+135	Spectrogram 1	1	48.0	51.0	150	15000	eugori2	Eurasian Golden Oriole	0.1644
+136	Spectrogram 1	1	48.0	51.0	150	15000	eupfly1	European Pied Flycatcher	0.1488
+137	Spectrogram 1	1	48.0	51.0	150	15000	firecr1	Common Firecrest	0.1322
+138	Spectrogram 1	1	50.0	53.0	150	15000	sonthr1	Song Thrush	0.1208
+139	Spectrogram 1	1	50.0	53.0	150	15000	dunnoc1	Dunnock	0.1046
+140	Spectrogram 1	1	50.0	53.0	150	15000	eupfly1	European Pied Flycatcher	0.1045
+141	Spectrogram 1	1	52.0	55.0	150	15000	sonthr1	Song Thrush	0.1252
+142	Spectrogram 1	1	52.0	55.0	150	15000	eupfly1	European Pied Flycatcher	0.1209
+143	Spectrogram 1	1	52.0	55.0	150	15000	martit2	Marsh Tit	0.1206
+144	Spectrogram 1	1	52.0	55.0	150	15000	redkit1	Red Kite	0.1120
+145	Spectrogram 1	1	52.0	55.0	150	15000	eurnut2	Eurasian Nuthatch	0.1036
+146	Spectrogram 1	1	52.0	55.0	150	15000	combuz1	Common Buzzard	0.1035
+147	Spectrogram 1	1	52.0	55.0	150	15000	stodov1	Stock Dove	0.1025
+148	Spectrogram 1	1	52.0	55.0	150	15000	firecr1	Common Firecrest	0.1024
+149	Spectrogram 1	1	54.0	57.0	150	15000	eupfly1	European Pied Flycatcher	0.2965
+150	Spectrogram 1	1	54.0	57.0	150	15000	comred2	Common Redstart	0.1924
+151	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.1749
+152	Spectrogram 1	1	54.0	57.0	150	15000	martit2	Marsh Tit	0.1459
+153	Spectrogram 1	1	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.1292
+154	Spectrogram 1	1	54.0	57.0	150	15000	firecr1	Common Firecrest	0.1141
+155	Spectrogram 1	1	54.0	57.0	150	15000	shttre1	Short-toed Treecreeper	0.1002
+156	Spectrogram 1	1	56.0	59.0	150	15000	comcha	Common Chaffinch	0.2713
+157	Spectrogram 1	1	56.0	59.0	150	15000	eupfly1	European Pied Flycatcher	0.2080
+158	Spectrogram 1	1	56.0	59.0	150	15000	firecr1	Common Firecrest	0.1357
+159	Spectrogram 1	1	56.0	59.0	150	15000	eugori2	Eurasian Golden Oriole	0.1287
+160	Spectrogram 1	1	56.0	59.0	150	15000	shttre1	Short-toed Treecreeper	0.1160
+161	Spectrogram 1	1	56.0	59.0	150	15000	comred2	Common Redstart	0.1098
+162	Spectrogram 1	1	56.0	59.0	150	15000	webwar1	Western Bonelli's Warbler	0.1076
+163	Spectrogram 1	1	58.0	61.0	150	15000	comcha	Common Chaffinch	0.2406
+164	Spectrogram 1	1	58.0	61.0	150	15000	eupfly1	European Pied Flycatcher	0.1960
+165	Spectrogram 1	1	58.0	61.0	150	15000	shttre1	Short-toed Treecreeper	0.1584
+166	Spectrogram 1	1	58.0	61.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1432
+167	Spectrogram 1	1	58.0	61.0	150	15000	eugori2	Eurasian Golden Oriole	0.1402
+168	Spectrogram 1	1	58.0	61.0	150	15000	firecr1	Common Firecrest	0.1295
+169	Spectrogram 1	1	58.0	61.0	150	15000	webwar1	Western Bonelli's Warbler	0.1272
+170	Spectrogram 1	1	58.0	61.0	150	15000	martit2	Marsh Tit	0.1150
+171	Spectrogram 1	1	58.0	61.0	150	15000	comred2	Common Redstart	0.1146
+172	Spectrogram 1	1	58.0	61.0	150	15000	stodov1	Stock Dove	0.1121
+173	Spectrogram 1	1	58.0	61.0	150	15000	misthr1	Mistle Thrush	0.1046
+174	Spectrogram 1	1	58.0	61.0	150	15000	goldcr1	Goldcrest	0.1043

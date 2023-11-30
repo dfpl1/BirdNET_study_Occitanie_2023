@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	lottit1	Long-tailed Tit	0.3974
+2	Spectrogram 1	1	4.0	7.0	150	15000	lottit1	Long-tailed Tit	0.8363
+3	Spectrogram 1	1	10.0	13.0	150	15000	eupfly1	European Pied Flycatcher	0.1012
+4	Spectrogram 1	1	16.0	19.0	150	15000	eurtre1	Eurasian Treecreeper	0.2483
+5	Spectrogram 1	1	18.0	21.0	150	15000	eurtre1	Eurasian Treecreeper	0.3059

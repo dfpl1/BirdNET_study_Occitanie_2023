@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.1280
+2	Spectrogram 1	1	36.0	39.0	150	15000	grewhi1	Greater Whitethroat	0.1124
+3	Spectrogram 1	1	39.0	42.0	150	15000	grewhi1	Greater Whitethroat	0.1548
+4	Spectrogram 1	1	42.0	45.0	150	15000	grewhi1	Greater Whitethroat	0.1738
+5	Spectrogram 1	1	51.0	54.0	150	15000	comnig1	Common Nightingale	0.5349

@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	9.0	12.0	150	15000	trepip	Tree Pipit	0.2413
+2	Spectrogram 1	1	15.0	18.0	150	15000	comchi1	Common Chiffchaff	0.1533
+3	Spectrogram 1	1	18.0	21.0	150	15000	comchi1	Common Chiffchaff	0.3237
+4	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.4404
+5	Spectrogram 1	1	27.0	30.0	150	15000	comchi1	Common Chiffchaff	0.1343
+6	Spectrogram 1	1	27.0	30.0	150	15000	cirbun1	Cirl Bunting	0.1197
+7	Spectrogram 1	1	30.0	33.0	150	15000	comchi1	Common Chiffchaff	0.7033
+8	Spectrogram 1	1	39.0	42.0	150	15000	comchi1	Common Chiffchaff	0.1058
+9	Spectrogram 1	1	42.0	45.0	150	15000	cirbun1	Cirl Bunting	0.1040
+10	Spectrogram 1	1	45.0	48.0	150	15000	trepip	Tree Pipit	0.2982
+11	Spectrogram 1	1	45.0	48.0	150	15000	cirbun1	Cirl Bunting	0.1160
+12	Spectrogram 1	1	48.0	51.0	150	15000	trepip	Tree Pipit	0.2174
+13	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.7327
+14	Spectrogram 1	1	57.0	60.0	150	15000	trepip	Tree Pipit	0.9500

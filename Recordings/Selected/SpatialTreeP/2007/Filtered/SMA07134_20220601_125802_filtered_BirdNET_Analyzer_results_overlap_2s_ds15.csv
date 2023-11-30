@@ -1,0 +1,357 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	comqua1	Common Quail	0.2908
+2	Spectrogram 1	1	0	3.0	150	15000	rebshr1	Red-backed Shrike	0.2230
+3	Spectrogram 1	1	0	3.0	150	15000	thelar1	Thekla's Lark	0.1820
+4	Spectrogram 1	1	0	3.0	150	15000	wooshr1	Woodchat Shrike	0.1629
+5	Spectrogram 1	1	0	3.0	150	15000	tawpip1	Tawny Pipit	0.1236
+6	Spectrogram 1	1	0	3.0	150	15000	yellow2	Yellowhammer	0.1195
+7	Spectrogram 1	1	0	3.0	150	15000	whinch1	Whinchat	0.1065
+8	Spectrogram 1	1	0	3.0	150	15000	whiwag	White Wagtail	0.1054
+9	Spectrogram 1	1	1.0	4.0	150	15000	thelar1	Thekla's Lark	0.2375
+10	Spectrogram 1	1	1.0	4.0	150	15000	comqua1	Common Quail	0.2357
+11	Spectrogram 1	1	1.0	4.0	150	15000	rebshr1	Red-backed Shrike	0.1986
+12	Spectrogram 1	1	1.0	4.0	150	15000	grywag	Gray Wagtail	0.1715
+13	Spectrogram 1	1	1.0	4.0	150	15000	tawpip1	Tawny Pipit	0.1612
+14	Spectrogram 1	1	1.0	4.0	150	15000	norwhe	Northern Wheatear	0.1601
+15	Spectrogram 1	1	1.0	4.0	150	15000	whinch1	Whinchat	0.1562
+16	Spectrogram 1	1	1.0	4.0	150	15000	eaywag1	Western Yellow Wagtail	0.1394
+17	Spectrogram 1	1	1.0	4.0	150	15000	trepip	Tree Pipit	0.1290
+18	Spectrogram 1	1	1.0	4.0	150	15000	yellow2	Yellowhammer	0.1260
+19	Spectrogram 1	1	1.0	4.0	150	15000	whiwag	White Wagtail	0.1207
+20	Spectrogram 1	1	1.0	4.0	150	15000	crelar2	Crested Lark	0.1123
+21	Spectrogram 1	1	1.0	4.0	150	15000	stonec4	European Stonechat	0.1116
+22	Spectrogram 1	1	1.0	4.0	150	15000	wooshr1	Woodchat Shrike	0.1094
+23	Spectrogram 1	1	2.0	5.0	150	15000	thelar1	Thekla's Lark	0.2134
+24	Spectrogram 1	1	2.0	5.0	150	15000	comqua1	Common Quail	0.1916
+25	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.1814
+26	Spectrogram 1	1	2.0	5.0	150	15000	rebshr1	Red-backed Shrike	0.1813
+27	Spectrogram 1	1	2.0	5.0	150	15000	whinch1	Whinchat	0.1606
+28	Spectrogram 1	1	2.0	5.0	150	15000	stonec4	European Stonechat	0.1394
+29	Spectrogram 1	1	2.0	5.0	150	15000	yellow2	Yellowhammer	0.1381
+30	Spectrogram 1	1	2.0	5.0	150	15000	tawpip1	Tawny Pipit	0.1278
+31	Spectrogram 1	1	2.0	5.0	150	15000	norwhe	Northern Wheatear	0.1219
+32	Spectrogram 1	1	2.0	5.0	150	15000	grewhi1	Greater Whitethroat	0.1172
+33	Spectrogram 1	1	2.0	5.0	150	15000	webwar1	Western Bonelli's Warbler	0.1080
+34	Spectrogram 1	1	2.0	5.0	150	15000	grywag	Gray Wagtail	0.1060
+35	Spectrogram 1	1	3.0	6.0	150	15000	rebshr1	Red-backed Shrike	0.2078
+36	Spectrogram 1	1	3.0	6.0	150	15000	webwar1	Western Bonelli's Warbler	0.1919
+37	Spectrogram 1	1	3.0	6.0	150	15000	comqua1	Common Quail	0.1631
+38	Spectrogram 1	1	3.0	6.0	150	15000	thelar1	Thekla's Lark	0.1267
+39	Spectrogram 1	1	3.0	6.0	150	15000	trepip	Tree Pipit	0.1255
+40	Spectrogram 1	1	4.0	7.0	150	15000	rebshr1	Red-backed Shrike	0.2061
+41	Spectrogram 1	1	4.0	7.0	150	15000	comqua1	Common Quail	0.1769
+42	Spectrogram 1	1	4.0	7.0	150	15000	webwar1	Western Bonelli's Warbler	0.1758
+43	Spectrogram 1	1	4.0	7.0	150	15000	thelar1	Thekla's Lark	0.1380
+44	Spectrogram 1	1	4.0	7.0	150	15000	trepip	Tree Pipit	0.1179
+45	Spectrogram 1	1	5.0	8.0	150	15000	rebshr1	Red-backed Shrike	0.2379
+46	Spectrogram 1	1	5.0	8.0	150	15000	comqua1	Common Quail	0.2110
+47	Spectrogram 1	1	5.0	8.0	150	15000	thelar1	Thekla's Lark	0.1581
+48	Spectrogram 1	1	5.0	8.0	150	15000	webwar1	Western Bonelli's Warbler	0.1553
+49	Spectrogram 1	1	5.0	8.0	150	15000	yellow2	Yellowhammer	0.1226
+50	Spectrogram 1	1	5.0	8.0	150	15000	grewhi1	Greater Whitethroat	0.1213
+51	Spectrogram 1	1	6.0	9.0	150	15000	rebshr1	Red-backed Shrike	0.2263
+52	Spectrogram 1	1	6.0	9.0	150	15000	comqua1	Common Quail	0.2124
+53	Spectrogram 1	1	6.0	9.0	150	15000	webwar1	Western Bonelli's Warbler	0.1705
+54	Spectrogram 1	1	6.0	9.0	150	15000	thelar1	Thekla's Lark	0.1695
+55	Spectrogram 1	1	6.0	9.0	150	15000	whinch1	Whinchat	0.1487
+56	Spectrogram 1	1	6.0	9.0	150	15000	yellow2	Yellowhammer	0.1365
+57	Spectrogram 1	1	6.0	9.0	150	15000	grewhi1	Greater Whitethroat	0.1316
+58	Spectrogram 1	1	7.0	10.0	150	15000	rebshr1	Red-backed Shrike	0.2788
+59	Spectrogram 1	1	7.0	10.0	150	15000	comqua1	Common Quail	0.2451
+60	Spectrogram 1	1	7.0	10.0	150	15000	thelar1	Thekla's Lark	0.1664
+61	Spectrogram 1	1	7.0	10.0	150	15000	webwar1	Western Bonelli's Warbler	0.1535
+62	Spectrogram 1	1	7.0	10.0	150	15000	whinch1	Whinchat	0.1431
+63	Spectrogram 1	1	7.0	10.0	150	15000	grewhi1	Greater Whitethroat	0.1309
+64	Spectrogram 1	1	7.0	10.0	150	15000	melwar1	Melodious Warbler	0.1186
+65	Spectrogram 1	1	7.0	10.0	150	15000	stonec4	European Stonechat	0.1164
+66	Spectrogram 1	1	7.0	10.0	150	15000	yellow2	Yellowhammer	0.1127
+67	Spectrogram 1	1	7.0	10.0	150	15000	tawpip1	Tawny Pipit	0.1012
+68	Spectrogram 1	1	8.0	11.0	150	15000	rebshr1	Red-backed Shrike	0.2723
+69	Spectrogram 1	1	8.0	11.0	150	15000	comqua1	Common Quail	0.2309
+70	Spectrogram 1	1	8.0	11.0	150	15000	webwar1	Western Bonelli's Warbler	0.1403
+71	Spectrogram 1	1	8.0	11.0	150	15000	thelar1	Thekla's Lark	0.1378
+72	Spectrogram 1	1	8.0	11.0	150	15000	grewhi1	Greater Whitethroat	0.1196
+73	Spectrogram 1	1	8.0	11.0	150	15000	melwar1	Melodious Warbler	0.1123
+74	Spectrogram 1	1	8.0	11.0	150	15000	whinch1	Whinchat	0.1098
+75	Spectrogram 1	1	8.0	11.0	150	15000	yellow2	Yellowhammer	0.1047
+76	Spectrogram 1	1	9.0	12.0	150	15000	rebshr1	Red-backed Shrike	0.2591
+77	Spectrogram 1	1	9.0	12.0	150	15000	comqua1	Common Quail	0.1960
+78	Spectrogram 1	1	9.0	12.0	150	15000	webwar1	Western Bonelli's Warbler	0.1666
+79	Spectrogram 1	1	9.0	12.0	150	15000	thelar1	Thekla's Lark	0.1402
+80	Spectrogram 1	1	9.0	12.0	150	15000	yellow2	Yellowhammer	0.1254
+81	Spectrogram 1	1	9.0	12.0	150	15000	grewhi1	Greater Whitethroat	0.1059
+82	Spectrogram 1	1	9.0	12.0	150	15000	whinch1	Whinchat	0.1053
+83	Spectrogram 1	1	9.0	12.0	150	15000	trepip	Tree Pipit	0.1021
+84	Spectrogram 1	1	10.0	13.0	150	15000	rebshr1	Red-backed Shrike	0.2104
+85	Spectrogram 1	1	10.0	13.0	150	15000	comqua1	Common Quail	0.1668
+86	Spectrogram 1	1	10.0	13.0	150	15000	webwar1	Western Bonelli's Warbler	0.1412
+87	Spectrogram 1	1	10.0	13.0	150	15000	yellow2	Yellowhammer	0.1330
+88	Spectrogram 1	1	10.0	13.0	150	15000	thelar1	Thekla's Lark	0.1252
+89	Spectrogram 1	1	10.0	13.0	150	15000	grewhi1	Greater Whitethroat	0.1054
+90	Spectrogram 1	1	11.0	14.0	150	15000	rebshr1	Red-backed Shrike	0.1433
+91	Spectrogram 1	1	11.0	14.0	150	15000	comqua1	Common Quail	0.1105
+92	Spectrogram 1	1	11.0	14.0	150	15000	yellow2	Yellowhammer	0.1000
+93	Spectrogram 1	1	12.0	15.0	150	15000	rebshr1	Red-backed Shrike	0.2060
+94	Spectrogram 1	1	12.0	15.0	150	15000	webwar1	Western Bonelli's Warbler	0.1904
+95	Spectrogram 1	1	12.0	15.0	150	15000	thelar1	Thekla's Lark	0.1651
+96	Spectrogram 1	1	12.0	15.0	150	15000	comqua1	Common Quail	0.1450
+97	Spectrogram 1	1	12.0	15.0	150	15000	yellow2	Yellowhammer	0.1164
+98	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.1081
+99	Spectrogram 1	1	12.0	15.0	150	15000	norwhe	Northern Wheatear	0.1054
+100	Spectrogram 1	1	13.0	16.0	150	15000	rebshr1	Red-backed Shrike	0.1778
+101	Spectrogram 1	1	13.0	16.0	150	15000	comqua1	Common Quail	0.1773
+102	Spectrogram 1	1	13.0	16.0	150	15000	webwar1	Western Bonelli's Warbler	0.1685
+103	Spectrogram 1	1	13.0	16.0	150	15000	grewhi1	Greater Whitethroat	0.1124
+104	Spectrogram 1	1	13.0	16.0	150	15000	trepip	Tree Pipit	0.1010
+105	Spectrogram 1	1	13.0	16.0	150	15000	yellow2	Yellowhammer	0.1002
+106	Spectrogram 1	1	14.0	17.0	150	15000	rebshr1	Red-backed Shrike	0.1968
+107	Spectrogram 1	1	14.0	17.0	150	15000	webwar1	Western Bonelli's Warbler	0.1795
+108	Spectrogram 1	1	14.0	17.0	150	15000	comqua1	Common Quail	0.1786
+109	Spectrogram 1	1	15.0	18.0	150	15000	comqua1	Common Quail	0.2198
+110	Spectrogram 1	1	15.0	18.0	150	15000	webwar1	Western Bonelli's Warbler	0.1981
+111	Spectrogram 1	1	15.0	18.0	150	15000	thelar1	Thekla's Lark	0.1912
+112	Spectrogram 1	1	15.0	18.0	150	15000	rebshr1	Red-backed Shrike	0.1754
+113	Spectrogram 1	1	15.0	18.0	150	15000	whinch1	Whinchat	0.1406
+114	Spectrogram 1	1	15.0	18.0	150	15000	trepip	Tree Pipit	0.1254
+115	Spectrogram 1	1	15.0	18.0	150	15000	grewhi1	Greater Whitethroat	0.1210
+116	Spectrogram 1	1	15.0	18.0	150	15000	yellow2	Yellowhammer	0.1188
+117	Spectrogram 1	1	15.0	18.0	150	15000	cirbun1	Cirl Bunting	0.1007
+118	Spectrogram 1	1	16.0	19.0	150	15000	rebshr1	Red-backed Shrike	0.2525
+119	Spectrogram 1	1	16.0	19.0	150	15000	comqua1	Common Quail	0.2268
+120	Spectrogram 1	1	16.0	19.0	150	15000	webwar1	Western Bonelli's Warbler	0.2000
+121	Spectrogram 1	1	16.0	19.0	150	15000	yellow2	Yellowhammer	0.1717
+122	Spectrogram 1	1	16.0	19.0	150	15000	thelar1	Thekla's Lark	0.1636
+123	Spectrogram 1	1	16.0	19.0	150	15000	trepip	Tree Pipit	0.1593
+124	Spectrogram 1	1	16.0	19.0	150	15000	whinch1	Whinchat	0.1571
+125	Spectrogram 1	1	16.0	19.0	150	15000	tawpip1	Tawny Pipit	0.1316
+126	Spectrogram 1	1	16.0	19.0	150	15000	subwar6	Western Subalpine Warbler	0.1289
+127	Spectrogram 1	1	16.0	19.0	150	15000	norwhe	Northern Wheatear	0.1216
+128	Spectrogram 1	1	17.0	20.0	150	15000	comqua1	Common Quail	0.2022
+129	Spectrogram 1	1	17.0	20.0	150	15000	rebshr1	Red-backed Shrike	0.1947
+130	Spectrogram 1	1	17.0	20.0	150	15000	webwar1	Western Bonelli's Warbler	0.1922
+131	Spectrogram 1	1	17.0	20.0	150	15000	thelar1	Thekla's Lark	0.1584
+132	Spectrogram 1	1	17.0	20.0	150	15000	yellow2	Yellowhammer	0.1326
+133	Spectrogram 1	1	17.0	20.0	150	15000	trepip	Tree Pipit	0.1259
+134	Spectrogram 1	1	17.0	20.0	150	15000	subwar6	Western Subalpine Warbler	0.1254
+135	Spectrogram 1	1	17.0	20.0	150	15000	whinch1	Whinchat	0.1082
+136	Spectrogram 1	1	17.0	20.0	150	15000	ibechi2	Iberian Chiffchaff	0.1021
+137	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.2184
+138	Spectrogram 1	1	18.0	21.0	150	15000	rebshr1	Red-backed Shrike	0.1913
+139	Spectrogram 1	1	18.0	21.0	150	15000	comqua1	Common Quail	0.1443
+140	Spectrogram 1	1	18.0	21.0	150	15000	thelar1	Thekla's Lark	0.1397
+141	Spectrogram 1	1	18.0	21.0	150	15000	grewhi1	Greater Whitethroat	0.1328
+142	Spectrogram 1	1	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.1290
+143	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.1178
+144	Spectrogram 1	1	18.0	21.0	150	15000	wooshr1	Woodchat Shrike	0.1014
+145	Spectrogram 1	1	19.0	22.0	150	15000	webwar1	Western Bonelli's Warbler	0.2731
+146	Spectrogram 1	1	19.0	22.0	150	15000	rebshr1	Red-backed Shrike	0.2575
+147	Spectrogram 1	1	19.0	22.0	150	15000	thelar1	Thekla's Lark	0.1280
+148	Spectrogram 1	1	19.0	22.0	150	15000	melwar1	Melodious Warbler	0.1070
+149	Spectrogram 1	1	19.0	22.0	150	15000	grewhi1	Greater Whitethroat	0.1063
+150	Spectrogram 1	1	19.0	22.0	150	15000	comqua1	Common Quail	0.1058
+151	Spectrogram 1	1	19.0	22.0	150	15000	grywag	Gray Wagtail	0.1050
+152	Spectrogram 1	1	19.0	22.0	150	15000	trepip	Tree Pipit	0.1049
+153	Spectrogram 1	1	19.0	22.0	150	15000	yellow2	Yellowhammer	0.1018
+154	Spectrogram 1	1	20.0	23.0	150	15000	webwar1	Western Bonelli's Warbler	0.2139
+155	Spectrogram 1	1	20.0	23.0	150	15000	rebshr1	Red-backed Shrike	0.1514
+156	Spectrogram 1	1	20.0	23.0	150	15000	melwar1	Melodious Warbler	0.1041
+157	Spectrogram 1	1	21.0	24.0	150	15000	rebshr1	Red-backed Shrike	0.2526
+158	Spectrogram 1	1	21.0	24.0	150	15000	webwar1	Western Bonelli's Warbler	0.2166
+159	Spectrogram 1	1	21.0	24.0	150	15000	comqua1	Common Quail	0.1282
+160	Spectrogram 1	1	21.0	24.0	150	15000	subwar6	Western Subalpine Warbler	0.1210
+161	Spectrogram 1	1	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.1190
+162	Spectrogram 1	1	21.0	24.0	150	15000	grewhi1	Greater Whitethroat	0.1177
+163	Spectrogram 1	1	21.0	24.0	150	15000	thelar1	Thekla's Lark	0.1093
+164	Spectrogram 1	1	21.0	24.0	150	15000	yellow2	Yellowhammer	0.1015
+165	Spectrogram 1	1	22.0	25.0	150	15000	rebshr1	Red-backed Shrike	0.2082
+166	Spectrogram 1	1	22.0	25.0	150	15000	subwar6	Western Subalpine Warbler	0.1552
+167	Spectrogram 1	1	22.0	25.0	150	15000	webwar1	Western Bonelli's Warbler	0.1529
+168	Spectrogram 1	1	22.0	25.0	150	15000	grewhi1	Greater Whitethroat	0.1341
+169	Spectrogram 1	1	22.0	25.0	150	15000	thelar1	Thekla's Lark	0.1261
+170	Spectrogram 1	1	22.0	25.0	150	15000	comqua1	Common Quail	0.1236
+171	Spectrogram 1	1	22.0	25.0	150	15000	melwar1	Melodious Warbler	0.1090
+172	Spectrogram 1	1	23.0	26.0	150	15000	webwar1	Western Bonelli's Warbler	0.2025
+173	Spectrogram 1	1	23.0	26.0	150	15000	rebshr1	Red-backed Shrike	0.2004
+174	Spectrogram 1	1	23.0	26.0	150	15000	comqua1	Common Quail	0.1496
+175	Spectrogram 1	1	23.0	26.0	150	15000	thelar1	Thekla's Lark	0.1437
+176	Spectrogram 1	1	23.0	26.0	150	15000	subwar6	Western Subalpine Warbler	0.1170
+177	Spectrogram 1	1	23.0	26.0	150	15000	yellow2	Yellowhammer	0.1071
+178	Spectrogram 1	1	23.0	26.0	150	15000	grewhi1	Greater Whitethroat	0.1031
+179	Spectrogram 1	1	24.0	27.0	150	15000	rebshr1	Red-backed Shrike	0.2225
+180	Spectrogram 1	1	24.0	27.0	150	15000	thelar1	Thekla's Lark	0.2137
+181	Spectrogram 1	1	24.0	27.0	150	15000	comqua1	Common Quail	0.1674
+182	Spectrogram 1	1	24.0	27.0	150	15000	webwar1	Western Bonelli's Warbler	0.1454
+183	Spectrogram 1	1	24.0	27.0	150	15000	grewhi1	Greater Whitethroat	0.1181
+184	Spectrogram 1	1	24.0	27.0	150	15000	yellow2	Yellowhammer	0.1181
+185	Spectrogram 1	1	24.0	27.0	150	15000	subwar6	Western Subalpine Warbler	0.1162
+186	Spectrogram 1	1	24.0	27.0	150	15000	trepip	Tree Pipit	0.1058
+187	Spectrogram 1	1	24.0	27.0	150	15000	whinch1	Whinchat	0.1033
+188	Spectrogram 1	1	25.0	28.0	150	15000	rebshr1	Red-backed Shrike	0.1921
+189	Spectrogram 1	1	25.0	28.0	150	15000	webwar1	Western Bonelli's Warbler	0.1754
+190	Spectrogram 1	1	25.0	28.0	150	15000	comqua1	Common Quail	0.1607
+191	Spectrogram 1	1	25.0	28.0	150	15000	thelar1	Thekla's Lark	0.1330
+192	Spectrogram 1	1	25.0	28.0	150	15000	yellow2	Yellowhammer	0.1148
+193	Spectrogram 1	1	25.0	28.0	150	15000	grywag	Gray Wagtail	0.1093
+194	Spectrogram 1	1	25.0	28.0	150	15000	trepip	Tree Pipit	0.1009
+195	Spectrogram 1	1	26.0	29.0	150	15000	rebshr1	Red-backed Shrike	0.1886
+196	Spectrogram 1	1	26.0	29.0	150	15000	comqua1	Common Quail	0.1438
+197	Spectrogram 1	1	26.0	29.0	150	15000	thelar1	Thekla's Lark	0.1414
+198	Spectrogram 1	1	26.0	29.0	150	15000	webwar1	Western Bonelli's Warbler	0.1306
+199	Spectrogram 1	1	26.0	29.0	150	15000	trepip	Tree Pipit	0.1221
+200	Spectrogram 1	1	26.0	29.0	150	15000	yellow2	Yellowhammer	0.1185
+201	Spectrogram 1	1	27.0	30.0	150	15000	rebshr1	Red-backed Shrike	0.2088
+202	Spectrogram 1	1	27.0	30.0	150	15000	webwar1	Western Bonelli's Warbler	0.1756
+203	Spectrogram 1	1	27.0	30.0	150	15000	comqua1	Common Quail	0.1522
+204	Spectrogram 1	1	27.0	30.0	150	15000	subwar6	Western Subalpine Warbler	0.1144
+205	Spectrogram 1	1	27.0	30.0	150	15000	thelar1	Thekla's Lark	0.1106
+206	Spectrogram 1	1	27.0	30.0	150	15000	yellow2	Yellowhammer	0.1099
+207	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.1004
+208	Spectrogram 1	1	28.0	31.0	150	15000	rebshr1	Red-backed Shrike	0.1597
+209	Spectrogram 1	1	28.0	31.0	150	15000	comqua1	Common Quail	0.1234
+210	Spectrogram 1	1	28.0	31.0	150	15000	webwar1	Western Bonelli's Warbler	0.1167
+211	Spectrogram 1	1	28.0	31.0	150	15000	subwar6	Western Subalpine Warbler	0.1019
+212	Spectrogram 1	1	29.0	32.0	150	15000	rebshr1	Red-backed Shrike	0.2122
+213	Spectrogram 1	1	29.0	32.0	150	15000	webwar1	Western Bonelli's Warbler	0.1567
+214	Spectrogram 1	1	29.0	32.0	150	15000	comqua1	Common Quail	0.1359
+215	Spectrogram 1	1	29.0	32.0	150	15000	yellow2	Yellowhammer	0.1314
+216	Spectrogram 1	1	29.0	32.0	150	15000	subwar6	Western Subalpine Warbler	0.1223
+217	Spectrogram 1	1	29.0	32.0	150	15000	thelar1	Thekla's Lark	0.1054
+218	Spectrogram 1	1	29.0	32.0	150	15000	grywag	Gray Wagtail	0.1001
+219	Spectrogram 1	1	30.0	33.0	150	15000	rebshr1	Red-backed Shrike	0.1769
+220	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1212
+221	Spectrogram 1	1	30.0	33.0	150	15000	comqua1	Common Quail	0.1195
+222	Spectrogram 1	1	30.0	33.0	150	15000	thelar1	Thekla's Lark	0.1156
+223	Spectrogram 1	1	30.0	33.0	150	15000	yellow2	Yellowhammer	0.1010
+224	Spectrogram 1	1	31.0	34.0	150	15000	rebshr1	Red-backed Shrike	0.1626
+225	Spectrogram 1	1	31.0	34.0	150	15000	comqua1	Common Quail	0.1401
+226	Spectrogram 1	1	32.0	35.0	150	15000	webwar1	Western Bonelli's Warbler	0.1473
+227	Spectrogram 1	1	32.0	35.0	150	15000	rebshr1	Red-backed Shrike	0.1471
+228	Spectrogram 1	1	32.0	35.0	150	15000	comqua1	Common Quail	0.1297
+229	Spectrogram 1	1	33.0	36.0	150	15000	rebshr1	Red-backed Shrike	0.1570
+230	Spectrogram 1	1	33.0	36.0	150	15000	comqua1	Common Quail	0.1448
+231	Spectrogram 1	1	33.0	36.0	150	15000	thelar1	Thekla's Lark	0.1394
+232	Spectrogram 1	1	33.0	36.0	150	15000	webwar1	Western Bonelli's Warbler	0.1128
+233	Spectrogram 1	1	34.0	37.0	150	15000	comqua1	Common Quail	0.1364
+234	Spectrogram 1	1	34.0	37.0	150	15000	rebshr1	Red-backed Shrike	0.1319
+235	Spectrogram 1	1	34.0	37.0	150	15000	yellow2	Yellowhammer	0.1003
+236	Spectrogram 1	1	35.0	38.0	150	15000	rebshr1	Red-backed Shrike	0.1411
+237	Spectrogram 1	1	35.0	38.0	150	15000	webwar1	Western Bonelli's Warbler	0.1296
+238	Spectrogram 1	1	35.0	38.0	150	15000	comqua1	Common Quail	0.1275
+239	Spectrogram 1	1	35.0	38.0	150	15000	thelar1	Thekla's Lark	0.1174
+240	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.1346
+241	Spectrogram 1	1	36.0	39.0	150	15000	rebshr1	Red-backed Shrike	0.1255
+242	Spectrogram 1	1	36.0	39.0	150	15000	grywag	Gray Wagtail	0.1200
+243	Spectrogram 1	1	36.0	39.0	150	15000	comqua1	Common Quail	0.1045
+244	Spectrogram 1	1	37.0	40.0	150	15000	webwar1	Western Bonelli's Warbler	0.1376
+245	Spectrogram 1	1	37.0	40.0	150	15000	grywag	Gray Wagtail	0.1364
+246	Spectrogram 1	1	38.0	41.0	150	15000	webwar1	Western Bonelli's Warbler	0.1834
+247	Spectrogram 1	1	38.0	41.0	150	15000	rebshr1	Red-backed Shrike	0.1448
+248	Spectrogram 1	1	38.0	41.0	150	15000	comqua1	Common Quail	0.1136
+249	Spectrogram 1	1	38.0	41.0	150	15000	thelar1	Thekla's Lark	0.1040
+250	Spectrogram 1	1	38.0	41.0	150	15000	melwar1	Melodious Warbler	0.1024
+251	Spectrogram 1	1	39.0	42.0	150	15000	thelar1	Thekla's Lark	0.1341
+252	Spectrogram 1	1	39.0	42.0	150	15000	rebshr1	Red-backed Shrike	0.1298
+253	Spectrogram 1	1	39.0	42.0	150	15000	subwar6	Western Subalpine Warbler	0.1278
+254	Spectrogram 1	1	39.0	42.0	150	15000	webwar1	Western Bonelli's Warbler	0.1174
+255	Spectrogram 1	1	40.0	43.0	150	15000	rebshr1	Red-backed Shrike	0.2462
+256	Spectrogram 1	1	40.0	43.0	150	15000	webwar1	Western Bonelli's Warbler	0.1726
+257	Spectrogram 1	1	40.0	43.0	150	15000	grewhi1	Greater Whitethroat	0.1506
+258	Spectrogram 1	1	40.0	43.0	150	15000	comqua1	Common Quail	0.1434
+259	Spectrogram 1	1	40.0	43.0	150	15000	subwar6	Western Subalpine Warbler	0.1434
+260	Spectrogram 1	1	40.0	43.0	150	15000	thelar1	Thekla's Lark	0.1350
+261	Spectrogram 1	1	40.0	43.0	150	15000	wooshr1	Woodchat Shrike	0.1253
+262	Spectrogram 1	1	40.0	43.0	150	15000	yellow2	Yellowhammer	0.1143
+263	Spectrogram 1	1	40.0	43.0	150	15000	melwar1	Melodious Warbler	0.1134
+264	Spectrogram 1	1	40.0	43.0	150	15000	norwhe	Northern Wheatear	0.1013
+265	Spectrogram 1	1	41.0	44.0	150	15000	rebshr1	Red-backed Shrike	0.2762
+266	Spectrogram 1	1	41.0	44.0	150	15000	webwar1	Western Bonelli's Warbler	0.2310
+267	Spectrogram 1	1	41.0	44.0	150	15000	comqua1	Common Quail	0.2215
+268	Spectrogram 1	1	41.0	44.0	150	15000	grewhi1	Greater Whitethroat	0.1620
+269	Spectrogram 1	1	41.0	44.0	150	15000	thelar1	Thekla's Lark	0.1587
+270	Spectrogram 1	1	41.0	44.0	150	15000	subwar6	Western Subalpine Warbler	0.1579
+271	Spectrogram 1	1	41.0	44.0	150	15000	whinch1	Whinchat	0.1537
+272	Spectrogram 1	1	41.0	44.0	150	15000	yellow2	Yellowhammer	0.1494
+273	Spectrogram 1	1	41.0	44.0	150	15000	melwar1	Melodious Warbler	0.1313
+274	Spectrogram 1	1	41.0	44.0	150	15000	tawpip1	Tawny Pipit	0.1161
+275	Spectrogram 1	1	41.0	44.0	150	15000	wooshr1	Woodchat Shrike	0.1138
+276	Spectrogram 1	1	41.0	44.0	150	15000	trepip	Tree Pipit	0.1138
+277	Spectrogram 1	1	41.0	44.0	150	15000	cirbun1	Cirl Bunting	0.1070
+278	Spectrogram 1	1	41.0	44.0	150	15000	norwhe	Northern Wheatear	0.1031
+279	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.2877
+280	Spectrogram 1	1	42.0	45.0	150	15000	rebshr1	Red-backed Shrike	0.2069
+281	Spectrogram 1	1	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.1678
+282	Spectrogram 1	1	42.0	45.0	150	15000	comqua1	Common Quail	0.1554
+283	Spectrogram 1	1	42.0	45.0	150	15000	thelar1	Thekla's Lark	0.1473
+284	Spectrogram 1	1	42.0	45.0	150	15000	grewhi1	Greater Whitethroat	0.1316
+285	Spectrogram 1	1	42.0	45.0	150	15000	yellow2	Yellowhammer	0.1197
+286	Spectrogram 1	1	42.0	45.0	150	15000	comred2	Common Redstart	0.1122
+287	Spectrogram 1	1	42.0	45.0	150	15000	subwar6	Western Subalpine Warbler	0.1017
+288	Spectrogram 1	1	43.0	46.0	150	15000	rebshr1	Red-backed Shrike	0.2356
+289	Spectrogram 1	1	43.0	46.0	150	15000	webwar1	Western Bonelli's Warbler	0.2335
+290	Spectrogram 1	1	43.0	46.0	150	15000	comqua1	Common Quail	0.1694
+291	Spectrogram 1	1	43.0	46.0	150	15000	thelar1	Thekla's Lark	0.1417
+292	Spectrogram 1	1	43.0	46.0	150	15000	grewhi1	Greater Whitethroat	0.1329
+293	Spectrogram 1	1	43.0	46.0	150	15000	yellow2	Yellowhammer	0.1268
+294	Spectrogram 1	1	43.0	46.0	150	15000	melwar1	Melodious Warbler	0.1155
+295	Spectrogram 1	1	43.0	46.0	150	15000	subwar6	Western Subalpine Warbler	0.1048
+296	Spectrogram 1	1	44.0	47.0	150	15000	webwar1	Western Bonelli's Warbler	0.1810
+297	Spectrogram 1	1	44.0	47.0	150	15000	rebshr1	Red-backed Shrike	0.1606
+298	Spectrogram 1	1	44.0	47.0	150	15000	thelar1	Thekla's Lark	0.1439
+299	Spectrogram 1	1	44.0	47.0	150	15000	comqua1	Common Quail	0.1414
+300	Spectrogram 1	1	44.0	47.0	150	15000	subwar6	Western Subalpine Warbler	0.1170
+301	Spectrogram 1	1	44.0	47.0	150	15000	yellow2	Yellowhammer	0.1054
+302	Spectrogram 1	1	45.0	48.0	150	15000	rebshr1	Red-backed Shrike	0.1361
+303	Spectrogram 1	1	45.0	48.0	150	15000	comqua1	Common Quail	0.1309
+304	Spectrogram 1	1	45.0	48.0	150	15000	thelar1	Thekla's Lark	0.1160
+305	Spectrogram 1	1	46.0	49.0	150	15000	webwar1	Western Bonelli's Warbler	0.1810
+306	Spectrogram 1	1	46.0	49.0	150	15000	rebshr1	Red-backed Shrike	0.1805
+307	Spectrogram 1	1	46.0	49.0	150	15000	comqua1	Common Quail	0.1565
+308	Spectrogram 1	1	46.0	49.0	150	15000	subwar6	Western Subalpine Warbler	0.1045
+309	Spectrogram 1	1	46.0	49.0	150	15000	thelar1	Thekla's Lark	0.1035
+310	Spectrogram 1	1	46.0	49.0	150	15000	grywag	Gray Wagtail	0.1010
+311	Spectrogram 1	1	47.0	50.0	150	15000	rebshr1	Red-backed Shrike	0.1928
+312	Spectrogram 1	1	47.0	50.0	150	15000	webwar1	Western Bonelli's Warbler	0.1555
+313	Spectrogram 1	1	47.0	50.0	150	15000	comqua1	Common Quail	0.1227
+314	Spectrogram 1	1	47.0	50.0	150	15000	thelar1	Thekla's Lark	0.1150
+315	Spectrogram 1	1	47.0	50.0	150	15000	subwar6	Western Subalpine Warbler	0.1139
+316	Spectrogram 1	1	47.0	50.0	150	15000	yellow2	Yellowhammer	0.1065
+317	Spectrogram 1	1	48.0	51.0	150	15000	rebshr1	Red-backed Shrike	0.2170
+318	Spectrogram 1	1	48.0	51.0	150	15000	thelar1	Thekla's Lark	0.1972
+319	Spectrogram 1	1	48.0	51.0	150	15000	webwar1	Western Bonelli's Warbler	0.1611
+320	Spectrogram 1	1	48.0	51.0	150	15000	comqua1	Common Quail	0.1589
+321	Spectrogram 1	1	48.0	51.0	150	15000	whinch1	Whinchat	0.1548
+322	Spectrogram 1	1	48.0	51.0	150	15000	subwar6	Western Subalpine Warbler	0.1436
+323	Spectrogram 1	1	48.0	51.0	150	15000	norwhe	Northern Wheatear	0.1344
+324	Spectrogram 1	1	48.0	51.0	150	15000	trepip	Tree Pipit	0.1120
+325	Spectrogram 1	1	48.0	51.0	150	15000	eurgre1	European Greenfinch	0.1089
+326	Spectrogram 1	1	48.0	51.0	150	15000	yellow2	Yellowhammer	0.1057
+327	Spectrogram 1	1	49.0	52.0	150	15000	rebshr1	Red-backed Shrike	0.1888
+328	Spectrogram 1	1	49.0	52.0	150	15000	comqua1	Common Quail	0.1614
+329	Spectrogram 1	1	49.0	52.0	150	15000	thelar1	Thekla's Lark	0.1402
+330	Spectrogram 1	1	49.0	52.0	150	15000	eurgre1	European Greenfinch	0.1357
+331	Spectrogram 1	1	49.0	52.0	150	15000	webwar1	Western Bonelli's Warbler	0.1171
+332	Spectrogram 1	1	49.0	52.0	150	15000	grywag	Gray Wagtail	0.1066
+333	Spectrogram 1	1	49.0	52.0	150	15000	yellow2	Yellowhammer	0.1064
+334	Spectrogram 1	1	49.0	52.0	150	15000	norwhe	Northern Wheatear	0.1030
+335	Spectrogram 1	1	50.0	53.0	150	15000	comqua1	Common Quail	0.1595
+336	Spectrogram 1	1	50.0	53.0	150	15000	rebshr1	Red-backed Shrike	0.1399
+337	Spectrogram 1	1	50.0	53.0	150	15000	thelar1	Thekla's Lark	0.1262
+338	Spectrogram 1	1	50.0	53.0	150	15000	norwhe	Northern Wheatear	0.1241
+339	Spectrogram 1	1	51.0	54.0	150	15000	rebshr1	Red-backed Shrike	0.1276
+340	Spectrogram 1	1	51.0	54.0	150	15000	webwar1	Western Bonelli's Warbler	0.1258
+341	Spectrogram 1	1	55.0	58.0	150	15000	webwar1	Western Bonelli's Warbler	0.1326
+342	Spectrogram 1	1	55.0	58.0	150	15000	comqua1	Common Quail	0.1207
+343	Spectrogram 1	1	56.0	59.0	150	15000	comqua1	Common Quail	0.1176
+344	Spectrogram 1	1	57.0	60.0	150	15000	webwar1	Western Bonelli's Warbler	0.1774
+345	Spectrogram 1	1	57.0	60.0	150	15000	rebshr1	Red-backed Shrike	0.1530
+346	Spectrogram 1	1	57.0	60.0	150	15000	comqua1	Common Quail	0.1435
+347	Spectrogram 1	1	57.0	60.0	150	15000	grywag	Gray Wagtail	0.1083
+348	Spectrogram 1	1	57.0	60.0	150	15000	trepip	Tree Pipit	0.1053
+349	Spectrogram 1	1	57.0	60.0	150	15000	thelar1	Thekla's Lark	0.1006
+350	Spectrogram 1	1	58.0	61.0	150	15000	webwar1	Western Bonelli's Warbler	0.1120
+351	Spectrogram 1	1	58.0	61.0	150	15000	yellow2	Yellowhammer	0.1068
+352	Spectrogram 1	1	59.0	62.0	150	15000	yellow2	Yellowhammer	0.1328
+353	Spectrogram 1	1	59.0	62.0	150	15000	eurrob1	European Robin	0.1065
+354	Spectrogram 1	1	59.0	62.0	150	15000	goldcr1	Goldcrest	0.1033
+355	Spectrogram 1	1	59.0	62.0	150	15000	webwar1	Western Bonelli's Warbler	0.1010
+356	Spectrogram 1	1	59.0	62.0	150	15000	sonthr1	Song Thrush	0.1004

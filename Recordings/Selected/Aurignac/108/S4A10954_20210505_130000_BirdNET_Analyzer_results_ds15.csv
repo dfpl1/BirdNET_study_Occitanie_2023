@@ -1,0 +1,52 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	comnig1	Common Nightingale	0.8002
+2	Spectrogram 1	1	3.0	6.0	150	15000	comnig1	Common Nightingale	0.4579
+3	Spectrogram 1	1	3.0	6.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1527
+4	Spectrogram 1	1	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.1388
+5	Spectrogram 1	1	3.0	6.0	150	15000	cirbun1	Cirl Bunting	0.1221
+6	Spectrogram 1	1	3.0	6.0	150	15000	comcuc	Common Cuckoo	0.1062
+7	Spectrogram 1	1	3.0	6.0	150	15000	grrwar1	Great Reed Warbler	0.1048
+8	Spectrogram 1	1	6.0	9.0	150	15000	comnig1	Common Nightingale	0.2574
+9	Spectrogram 1	1	9.0	12.0	150	15000	comnig1	Common Nightingale	0.9041
+10	Spectrogram 1	1	12.0	15.0	150	15000	comnig1	Common Nightingale	0.9603
+11	Spectrogram 1	1	12.0	15.0	150	15000	comred2	Common Redstart	0.1292
+12	Spectrogram 1	1	15.0	18.0	150	15000	comnig1	Common Nightingale	0.6304
+13	Spectrogram 1	1	15.0	18.0	150	15000	comred2	Common Redstart	0.1279
+14	Spectrogram 1	1	18.0	21.0	150	15000	comnig1	Common Nightingale	0.6589
+15	Spectrogram 1	1	18.0	21.0	150	15000	comred2	Common Redstart	0.3719
+16	Spectrogram 1	1	18.0	21.0	150	15000	comcha	Common Chaffinch	0.1824
+17	Spectrogram 1	1	21.0	24.0	150	15000	comnig1	Common Nightingale	0.7478
+18	Spectrogram 1	1	21.0	24.0	150	15000	comred2	Common Redstart	0.1364
+19	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.8795
+20	Spectrogram 1	1	24.0	27.0	150	15000	comred2	Common Redstart	0.2120
+21	Spectrogram 1	1	27.0	30.0	150	15000	comnig1	Common Nightingale	0.7029
+22	Spectrogram 1	1	27.0	30.0	150	15000	comred2	Common Redstart	0.2148
+23	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.8776
+24	Spectrogram 1	1	33.0	36.0	150	15000	comnig1	Common Nightingale	0.9272
+25	Spectrogram 1	1	33.0	36.0	150	15000	comred2	Common Redstart	0.2233
+26	Spectrogram 1	1	36.0	39.0	150	15000	comnig1	Common Nightingale	0.7749
+27	Spectrogram 1	1	36.0	39.0	150	15000	comred2	Common Redstart	0.3376
+28	Spectrogram 1	1	36.0	39.0	150	15000	comcha	Common Chaffinch	0.1442
+29	Spectrogram 1	1	39.0	42.0	150	15000	comnig1	Common Nightingale	0.4747
+30	Spectrogram 1	1	39.0	42.0	150	15000	comred2	Common Redstart	0.1605
+31	Spectrogram 1	1	39.0	42.0	150	15000	garwar1	Garden Warbler	0.1284
+32	Spectrogram 1	1	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.1255
+33	Spectrogram 1	1	39.0	42.0	150	15000	eugori2	Eurasian Golden Oriole	0.1195
+34	Spectrogram 1	1	39.0	42.0	150	15000	grewhi1	Greater Whitethroat	0.1072
+35	Spectrogram 1	1	42.0	45.0	150	15000	comnig1	Common Nightingale	0.7587
+36	Spectrogram 1	1	42.0	45.0	150	15000	comred2	Common Redstart	0.3123
+37	Spectrogram 1	1	42.0	45.0	150	15000	comcha	Common Chaffinch	0.1287
+38	Spectrogram 1	1	42.0	45.0	150	15000	grewhi1	Greater Whitethroat	0.1242
+39	Spectrogram 1	1	45.0	48.0	150	15000	comnig1	Common Nightingale	0.8617
+40	Spectrogram 1	1	45.0	48.0	150	15000	comred2	Common Redstart	0.1124
+41	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.7612
+42	Spectrogram 1	1	48.0	51.0	150	15000	comred2	Common Redstart	0.1350
+43	Spectrogram 1	1	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.1071
+44	Spectrogram 1	1	51.0	54.0	150	15000	comnig1	Common Nightingale	0.8556
+45	Spectrogram 1	1	51.0	54.0	150	15000	grrwar1	Great Reed Warbler	0.1077
+46	Spectrogram 1	1	54.0	57.0	150	15000	comnig1	Common Nightingale	0.8788
+47	Spectrogram 1	1	54.0	57.0	150	15000	comred2	Common Redstart	0.4052
+48	Spectrogram 1	1	54.0	57.0	150	15000	comcha	Common Chaffinch	0.1722
+49	Spectrogram 1	1	57.0	60.0	150	15000	comnig1	Common Nightingale	0.8418
+50	Spectrogram 1	1	57.0	60.0	150	15000	comred2	Common Redstart	0.1735
+51	Spectrogram 1	1	57.0	60.0	150	15000	comcha	Common Chaffinch	0.1245

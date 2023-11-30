@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	cirbun1	Cirl Bunting	0.1715
+2	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.1543
+3	Spectrogram 1	1	10.0	13.0	150	15000	cirbun1	Cirl Bunting	0.1067
+4	Spectrogram 1	1	10.0	13.0	150	15000	webwar1	Western Bonelli's Warbler	0.1050
+5	Spectrogram 1	1	20.0	23.0	150	15000	whinch1	Whinchat	0.1586
+6	Spectrogram 1	1	22.0	25.0	150	15000	webwar1	Western Bonelli's Warbler	0.1676
+7	Spectrogram 1	1	22.0	25.0	150	15000	eugori2	Eurasian Golden Oriole	0.1041
+8	Spectrogram 1	1	24.0	27.0	150	15000	webwar1	Western Bonelli's Warbler	0.1182
+9	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1393
+10	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.1009
+11	Spectrogram 1	1	38.0	41.0	150	15000	whinch1	Whinchat	0.1340
+12	Spectrogram 1	1	38.0	41.0	150	15000	cirbun1	Cirl Bunting	0.1048
+13	Spectrogram 1	1	40.0	43.0	150	15000	woolar1	Wood Lark	0.2619
+14	Spectrogram 1	1	40.0	43.0	150	15000	webwar1	Western Bonelli's Warbler	0.1464
+15	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1937
+16	Spectrogram 1	1	44.0	47.0	150	15000	webwar1	Western Bonelli's Warbler	0.1450

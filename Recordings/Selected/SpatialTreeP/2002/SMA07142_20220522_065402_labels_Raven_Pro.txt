@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.084214	4.657014	2322.2	8057.3	Phoenicurus ochruros
+2	Spectrogram 1	1	6.442343	6.686562	2824.8	3854.7	Periparus ater
+3	Spectrogram 1	1	7.604491	8.682425	2779.9	4094.4	Unidentified bird
+4	Spectrogram 1	1	9.069808	9.524561	2824.8	4646.2	Periparus ater
+5	Spectrogram 1	1	13.095219	13.836299	2870.2	7003.7	Fringilla coelebs
+6	Spectrogram 1	1	13.971041	16.918518	1874.8	2939.5	Pyrrhocorax graculus
+7	Spectrogram 1	1	17.305901	18.644897	2563.8	5036.7	Fringilla coelebs
+8	Spectrogram 1	1	21.171306	23.537709	1793.6	7409.0	Fringilla coelebs
+9	Spectrogram 1	1	23.908249	24.657751	3082.2	5073.6	Periparus ater
+10	Spectrogram 1	1	23.908249	24.236682	1565.0	2691.8	Pyrrhocorax pyrrhocorax
+11	Spectrogram 1	1	25.988326	29.558984	1924.8	10472.1	Phoenicurus ochruros
+12	Spectrogram 1	1	27.773655	28.102088	1699.5	2420.6	Pyrrhocorax pyrrhocorax
+13	Spectrogram 1	1	30.325328	30.729553	1746.1	2605.9	Pyrrhocorax pyrrhocorax
+14	Spectrogram 1	1	30.561126	32.700152	1992.9	7945.7	Fringilla coelebs
+15	Spectrogram 1	1	35.083398	35.748686	3180.4	5416.4	Unidentified bird
+16	Spectrogram 1	1	36.523451	37.643492	2302.9	12000.0	Phoenicurus ochruros
+17	Spectrogram 1	1	39.083545	41.315206	2045.2	8001.3	Fringilla coelebs
+18	Spectrogram 1	1	42.578411	45.450096	1891.4	2986.5	Unidentified bird
+19	Spectrogram 1	1	44.001621	44.936392	3058.0	5495.3	Periparus ater
+20	Spectrogram 1	1	45.795372	48.043875	1858.3	7357.2	Fringilla coelebs
+21	Spectrogram 1	1	48.178617	48.439679	2757.6	3544.7	Unidentified bird
+22	Spectrogram 1	1	52.557726	53.340913	3058.0	5223.5	Unidentified bird
+23	Spectrogram 1	1	53.340913	54.393583	2522.3	4578.1	Fringilla coelebs
+24	Spectrogram 1	1	55.538888	57.753707	1924.8	7461.1	Fringilla coelebs
+25	Spectrogram 1	1	58.722164	59.564300	2916.3	4750.0	Periparus ater

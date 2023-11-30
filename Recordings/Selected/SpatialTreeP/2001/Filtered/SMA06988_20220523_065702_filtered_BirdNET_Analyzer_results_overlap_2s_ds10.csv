@@ -1,0 +1,65 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	stonec4	European Stonechat	0.2533
+2	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.1839
+3	Spectrogram 1	1	1.0	4.0	150	15000	trepip	Tree Pipit	0.4653
+4	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.3674
+5	Spectrogram 1	1	4.0	7.0	150	15000	trepip	Tree Pipit	0.6846
+6	Spectrogram 1	1	5.0	8.0	150	15000	trepip	Tree Pipit	0.9940
+7	Spectrogram 1	1	6.0	9.0	150	15000	trepip	Tree Pipit	0.9817
+8	Spectrogram 1	1	7.0	10.0	150	15000	trepip	Tree Pipit	0.5577
+9	Spectrogram 1	1	7.0	10.0	150	15000	stonec4	European Stonechat	0.1185
+10	Spectrogram 1	1	8.0	11.0	150	15000	dunnoc1	Dunnock	0.8909
+11	Spectrogram 1	1	8.0	11.0	150	15000	stonec4	European Stonechat	0.1737
+12	Spectrogram 1	1	9.0	12.0	150	15000	dunnoc1	Dunnock	0.9562
+13	Spectrogram 1	1	10.0	13.0	150	15000	dunnoc1	Dunnock	0.9364
+14	Spectrogram 1	1	11.0	14.0	150	15000	dunnoc1	Dunnock	0.8759
+15	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.6137
+16	Spectrogram 1	1	13.0	16.0	150	15000	dunnoc1	Dunnock	0.7781
+17	Spectrogram 1	1	14.0	17.0	150	15000	dunnoc1	Dunnock	0.9831
+18	Spectrogram 1	1	15.0	18.0	150	15000	dunnoc1	Dunnock	0.9904
+19	Spectrogram 1	1	16.0	19.0	150	15000	dunnoc1	Dunnock	0.9600
+20	Spectrogram 1	1	17.0	20.0	150	15000	dunnoc1	Dunnock	0.4036
+21	Spectrogram 1	1	17.0	20.0	150	15000	stonec4	European Stonechat	0.1807
+22	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.8527
+23	Spectrogram 1	1	18.0	21.0	150	15000	watpip1	Water Pipit	0.1655
+24	Spectrogram 1	1	19.0	22.0	150	15000	dunnoc1	Dunnock	0.5701
+25	Spectrogram 1	1	20.0	23.0	150	15000	dunnoc1	Dunnock	0.5368
+26	Spectrogram 1	1	21.0	24.0	150	15000	dunnoc1	Dunnock	0.9502
+27	Spectrogram 1	1	22.0	25.0	150	15000	dunnoc1	Dunnock	0.9390
+28	Spectrogram 1	1	23.0	26.0	150	15000	dunnoc1	Dunnock	0.8060
+29	Spectrogram 1	1	23.0	26.0	150	15000	stonec4	European Stonechat	0.1333
+30	Spectrogram 1	1	25.0	28.0	150	15000	dunnoc1	Dunnock	0.9627
+31	Spectrogram 1	1	26.0	29.0	150	15000	dunnoc1	Dunnock	0.9708
+32	Spectrogram 1	1	27.0	30.0	150	15000	dunnoc1	Dunnock	0.9919
+33	Spectrogram 1	1	28.0	31.0	150	15000	dunnoc1	Dunnock	0.9575
+34	Spectrogram 1	1	29.0	32.0	150	15000	dunnoc1	Dunnock	0.9538
+35	Spectrogram 1	1	30.0	33.0	150	15000	trepip	Tree Pipit	0.2752
+36	Spectrogram 1	1	31.0	34.0	150	15000	trepip	Tree Pipit	0.7829
+37	Spectrogram 1	1	31.0	34.0	150	15000	watpip1	Water Pipit	0.2704
+38	Spectrogram 1	1	32.0	35.0	150	15000	trepip	Tree Pipit	0.9454
+39	Spectrogram 1	1	32.0	35.0	150	15000	watpip1	Water Pipit	0.2966
+40	Spectrogram 1	1	33.0	36.0	150	15000	trepip	Tree Pipit	0.9827
+41	Spectrogram 1	1	34.0	37.0	150	15000	trepip	Tree Pipit	0.5737
+42	Spectrogram 1	1	37.0	40.0	150	15000	trepip	Tree Pipit	0.1724
+43	Spectrogram 1	1	38.0	41.0	150	15000	trepip	Tree Pipit	0.4381
+44	Spectrogram 1	1	38.0	41.0	150	15000	stonec4	European Stonechat	0.3434
+45	Spectrogram 1	1	39.0	42.0	150	15000	trepip	Tree Pipit	0.4886
+46	Spectrogram 1	1	40.0	43.0	150	15000	stonec4	European Stonechat	0.1575
+47	Spectrogram 1	1	43.0	46.0	150	15000	dunnoc1	Dunnock	0.2442
+48	Spectrogram 1	1	44.0	47.0	150	15000	dunnoc1	Dunnock	0.9227
+49	Spectrogram 1	1	45.0	48.0	150	15000	dunnoc1	Dunnock	0.9832
+50	Spectrogram 1	1	46.0	49.0	150	15000	dunnoc1	Dunnock	0.9860
+51	Spectrogram 1	1	47.0	50.0	150	15000	dunnoc1	Dunnock	0.9879
+52	Spectrogram 1	1	48.0	51.0	150	15000	dunnoc1	Dunnock	0.9379
+53	Spectrogram 1	1	49.0	52.0	150	15000	dunnoc1	Dunnock	0.6221
+54	Spectrogram 1	1	50.0	53.0	150	15000	trepip	Tree Pipit	0.1485
+55	Spectrogram 1	1	51.0	54.0	150	15000	trepip	Tree Pipit	0.8573
+56	Spectrogram 1	1	53.0	56.0	150	15000	dunnoc1	Dunnock	0.2657
+57	Spectrogram 1	1	54.0	57.0	150	15000	dunnoc1	Dunnock	0.7515
+58	Spectrogram 1	1	54.0	57.0	150	15000	stonec4	European Stonechat	0.2986
+59	Spectrogram 1	1	55.0	58.0	150	15000	stonec4	European Stonechat	0.7440
+60	Spectrogram 1	1	55.0	58.0	150	15000	dunnoc1	Dunnock	0.3959
+61	Spectrogram 1	1	56.0	59.0	150	15000	stonec4	European Stonechat	0.1138
+62	Spectrogram 1	1	57.0	60.0	150	15000	dunnoc1	Dunnock	0.3758
+63	Spectrogram 1	1	58.0	61.0	150	15000	dunnoc1	Dunnock	0.6329
+64	Spectrogram 1	1	59.0	62.0	150	15000	dunnoc1	Dunnock	0.6524

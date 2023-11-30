@@ -1,0 +1,41 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	stonec4	European Stonechat	0.2344
+2	Spectrogram 1	1	4.0	7.0	150	15000	thelar1	Thekla's Lark	0.1077
+3	Spectrogram 1	1	9.0	12.0	150	15000	stonec4	European Stonechat	0.1150
+4	Spectrogram 1	1	10.0	13.0	150	15000	stonec4	European Stonechat	0.1930
+5	Spectrogram 1	1	11.0	14.0	150	15000	stonec4	European Stonechat	0.1707
+6	Spectrogram 1	1	15.0	18.0	150	15000	stonec4	European Stonechat	0.3068
+7	Spectrogram 1	1	15.0	18.0	150	15000	skylar	Eurasian Skylark	0.1472
+8	Spectrogram 1	1	16.0	19.0	150	15000	stonec4	European Stonechat	0.8891
+9	Spectrogram 1	1	17.0	20.0	150	15000	stonec4	European Stonechat	0.7405
+10	Spectrogram 1	1	18.0	21.0	150	15000	stonec4	European Stonechat	0.1280
+11	Spectrogram 1	1	19.0	22.0	150	15000	stonec4	European Stonechat	0.1348
+12	Spectrogram 1	1	20.0	23.0	150	15000	stonec4	European Stonechat	0.1229
+13	Spectrogram 1	1	21.0	24.0	150	15000	stonec4	European Stonechat	0.3620
+14	Spectrogram 1	1	22.0	25.0	150	15000	stonec4	European Stonechat	0.6530
+15	Spectrogram 1	1	23.0	26.0	150	15000	stonec4	European Stonechat	0.7486
+16	Spectrogram 1	1	24.0	27.0	150	15000	stonec4	European Stonechat	0.9441
+17	Spectrogram 1	1	25.0	28.0	150	15000	stonec4	European Stonechat	0.7682
+18	Spectrogram 1	1	26.0	29.0	150	15000	stonec4	European Stonechat	0.1183
+19	Spectrogram 1	1	28.0	31.0	150	15000	stonec4	European Stonechat	0.5933
+20	Spectrogram 1	1	29.0	32.0	150	15000	stonec4	European Stonechat	0.3602
+21	Spectrogram 1	1	32.0	35.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9591
+22	Spectrogram 1	1	33.0	36.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9418
+23	Spectrogram 1	1	34.0	37.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.8333
+24	Spectrogram 1	1	34.0	37.0	150	15000	comred1	Common Redshank	0.1079
+25	Spectrogram 1	1	35.0	38.0	150	15000	stonec4	European Stonechat	0.3672
+26	Spectrogram 1	1	36.0	39.0	150	15000	stonec4	European Stonechat	0.3289
+27	Spectrogram 1	1	37.0	40.0	150	15000	stonec4	European Stonechat	0.4286
+28	Spectrogram 1	1	41.0	44.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.5246
+29	Spectrogram 1	1	42.0	45.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9639
+30	Spectrogram 1	1	43.0	46.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.4101
+31	Spectrogram 1	1	45.0	48.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.6137
+32	Spectrogram 1	1	46.0	49.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9986
+33	Spectrogram 1	1	47.0	50.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9986
+34	Spectrogram 1	1	48.0	51.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.8618
+35	Spectrogram 1	1	49.0	52.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.8178
+36	Spectrogram 1	1	50.0	53.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9597
+37	Spectrogram 1	1	51.0	54.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9600
+38	Spectrogram 1	1	53.0	56.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9789
+39	Spectrogram 1	1	54.0	57.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9974
+40	Spectrogram 1	1	55.0	58.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.9933

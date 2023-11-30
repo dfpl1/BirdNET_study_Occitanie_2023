@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	3.191697	9.255078	3612.1	5822.5	Phylloscopus collybita
+2	Spectrogram 1	1	7.756075	9.718253	2357.9	3958.0	Unidentified bird
+3	Spectrogram 1	1	9.970894	12.008864	1957.7	4547.8	Sylvia atricapilla
+4	Spectrogram 1	1	13.389967	14.611065	3405.5	5048.9	Unidentified bird
+5	Spectrogram 1	1	19.065966	19.284921	2906.1	3821.1	Unidentified bird
+6	Spectrogram 1	1	19.369135	23.925092	3110.0	6150.6	Phylloscopus collybita
+7	Spectrogram 1	1	20.110215	21.541846	2124.1	3579.2	Sylvia atricapilla
+8	Spectrogram 1	1	28.329465	29.617933	3961.4	4831.4	Unidentified bird
+9	Spectrogram 1	1	29.862153	30.156901	3086.8	3739.0	Unidentified bird
+10	Spectrogram 1	1	30.788503	32.725416	2283.7	4471.8	Sylvia atricapilla
+11	Spectrogram 1	1	32.203292	39.479349	3475.8	5666.2	Phylloscopus collybita
+12	Spectrogram 1	1	32.767523	40.127794	4018.7	4831.4	Periparus ater
+13	Spectrogram 1	1	33.129642	35.630786	2414.2	3228.3	Unidentified bird
+14	Spectrogram 1	1	39.740412	39.967788	2928.2	3579.2	Unidentified bird
+15	Spectrogram 1	1	41.146779	43.285805	2283.7	3793.6	Sylvia atricapilla
+16	Spectrogram 1	1	41.896280	42.258399	3631.8	5744.5	Unidentified bird
+17	Spectrogram 1	1	45.045870	52.658782	3904.8	4865.3	Periparus ater
+18	Spectrogram 1	1	51.311364	54.856758	3180.5	7088.8	Phylloscopus collybita
+19	Spectrogram 1	1	54.334633	56.162069	2039.1	3848.8	Sylvia atricapilla
+20	Spectrogram 1	1	57.029470	57.332639	3933.0	4535.4	Periparus ater

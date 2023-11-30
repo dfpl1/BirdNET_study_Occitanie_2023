@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	9.0	12.0	150	15000	cowpig1	Common Wood-Pigeon	0.2412
+2	Spectrogram 1	1	9.0	12.0	150	15000	comcuc	Common Cuckoo	0.1104
+3	Spectrogram 1	1	12.0	15.0	150	15000	grswoo	Great Spotted Woodpecker	0.1510
+4	Spectrogram 1	1	36.0	39.0	150	15000	cowpig1	Common Wood-Pigeon	0.1292
+5	Spectrogram 1	1	42.0	45.0	150	15000	cowpig1	Common Wood-Pigeon	0.4529
+6	Spectrogram 1	1	51.0	54.0	150	15000	sonthr1	Song Thrush	0.2765
+7	Spectrogram 1	1	51.0	54.0	150	15000	cowpig1	Common Wood-Pigeon	0.1277
+8	Spectrogram 1	1	57.0	60.0	150	15000	relpar1	Red-legged Partridge	0.1230

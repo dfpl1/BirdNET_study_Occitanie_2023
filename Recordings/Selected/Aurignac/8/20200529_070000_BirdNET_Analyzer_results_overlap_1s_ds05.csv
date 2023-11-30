@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	misthr1	Mistle Thrush	0.9958
+2	Spectrogram 1	1	4.0	7.0	150	15000	shttre1	Short-toed Treecreeper	0.8380
+3	Spectrogram 1	1	6.0	9.0	150	15000	shttre1	Short-toed Treecreeper	0.1400
+4	Spectrogram 1	1	8.0	11.0	150	15000	shttre1	Short-toed Treecreeper	0.1293
+5	Spectrogram 1	1	10.0	13.0	150	15000	shttre1	Short-toed Treecreeper	0.4423
+6	Spectrogram 1	1	16.0	19.0	150	15000	blackc1	Eurasian Blackcap	0.1058
+7	Spectrogram 1	1	18.0	21.0	150	15000	shttre1	Short-toed Treecreeper	0.9181
+8	Spectrogram 1	1	20.0	23.0	150	15000	shttre1	Short-toed Treecreeper	0.3531
+9	Spectrogram 1	1	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.2939
+10	Spectrogram 1	1	26.0	29.0	150	15000	shttre1	Short-toed Treecreeper	0.7941
+11	Spectrogram 1	1	28.0	31.0	150	15000	shttre1	Short-toed Treecreeper	0.6681
+12	Spectrogram 1	1	30.0	33.0	150	15000	comchi1	Common Chiffchaff	0.2037
+13	Spectrogram 1	1	32.0	35.0	150	15000	blackc1	Eurasian Blackcap	0.1195
+14	Spectrogram 1	1	38.0	41.0	150	15000	misthr1	Mistle Thrush	0.9818
+15	Spectrogram 1	1	48.0	51.0	150	15000	comchi1	Common Chiffchaff	0.2379
+16	Spectrogram 1	1	52.0	55.0	150	15000	comchi1	Common Chiffchaff	0.1537
+17	Spectrogram 1	1	54.0	57.0	150	15000	blackc1	Eurasian Blackcap	0.1206
+18	Spectrogram 1	1	58.0	61.0	150	15000	comchi1	Common Chiffchaff	0.4259

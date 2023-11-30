@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	garwar1	Garden Warbler	0.3255
+2	Spectrogram 1	1	2.0	5.0	150	15000	comnig1	Common Nightingale	0.1768
+3	Spectrogram 1	1	3.0	6.0	150	15000	comnig1	Common Nightingale	0.3766
+4	Spectrogram 1	1	4.0	7.0	150	15000	comnig1	Common Nightingale	0.4906
+5	Spectrogram 1	1	15.0	18.0	150	15000	comnig1	Common Nightingale	0.2365
+6	Spectrogram 1	1	16.0	19.0	150	15000	comnig1	Common Nightingale	0.3682
+7	Spectrogram 1	1	17.0	20.0	150	15000	comnig1	Common Nightingale	0.1356
+8	Spectrogram 1	1	22.0	25.0	150	15000	comnig1	Common Nightingale	0.3487
+9	Spectrogram 1	1	28.0	31.0	150	15000	comnig1	Common Nightingale	0.1481
+10	Spectrogram 1	1	29.0	32.0	150	15000	comnig1	Common Nightingale	0.5917
+11	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.9698
+12	Spectrogram 1	1	31.0	34.0	150	15000	comnig1	Common Nightingale	0.4124
+13	Spectrogram 1	1	34.0	37.0	150	15000	comnig1	Common Nightingale	0.1085
+14	Spectrogram 1	1	35.0	38.0	150	15000	comnig1	Common Nightingale	0.3601
+15	Spectrogram 1	1	36.0	39.0	150	15000	comnig1	Common Nightingale	0.4986
+16	Spectrogram 1	1	40.0	43.0	150	15000	comnig1	Common Nightingale	0.6543
+17	Spectrogram 1	1	41.0	44.0	150	15000	comnig1	Common Nightingale	0.7128
+18	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.1987

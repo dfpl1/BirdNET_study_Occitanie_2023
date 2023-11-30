@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	7.0	10.0	150	15000	mallar3	Mallard	0.1003
+2	Spectrogram 1	1	10.0	13.0	150	15000	comqua1	Common Quail	0.1037
+3	Spectrogram 1	1	17.0	20.0	150	15000	mallar3	Mallard	0.1564
+4	Spectrogram 1	1	18.0	21.0	150	15000	mallar3	Mallard	0.1115
+5	Spectrogram 1	1	19.0	22.0	150	15000	mallar3	Mallard	0.2076
+6	Spectrogram 1	1	19.0	22.0	150	15000	comqua1	Common Quail	0.1146
+7	Spectrogram 1	1	20.0	23.0	150	15000	mallar3	Mallard	0.2088
+8	Spectrogram 1	1	27.0	30.0	150	15000	mallar3	Mallard	0.1044
+9	Spectrogram 1	1	35.0	38.0	150	15000	mallar3	Mallard	0.1121
+10	Spectrogram 1	1	57.0	60.0	150	15000	comqua1	Common Quail	0.1409

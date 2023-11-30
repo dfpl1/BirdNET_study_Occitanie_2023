@@ -1,0 +1,148 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	corbun1	Corn Bunting	0.7018
+2	Spectrogram 1	1	0	3.0	150	15000	wooshr1	Woodchat Shrike	0.2517
+3	Spectrogram 1	1	0	3.0	150	15000	comqua1	Common Quail	0.2142
+4	Spectrogram 1	1	0	3.0	150	15000	thelar1	Thekla's Lark	0.1567
+5	Spectrogram 1	1	0	3.0	150	15000	sarwar1	Sardinian Warbler	0.1220
+6	Spectrogram 1	1	3.0	6.0	150	15000	eutdov	European Turtle-Dove	0.1731
+7	Spectrogram 1	1	3.0	6.0	150	15000	eugori2	Eurasian Golden Oriole	0.1610
+8	Spectrogram 1	1	3.0	6.0	150	15000	webwar1	Western Bonelli's Warbler	0.1373
+9	Spectrogram 1	1	3.0	6.0	150	15000	eurgol	European Goldfinch	0.1319
+10	Spectrogram 1	1	3.0	6.0	150	15000	cirbun1	Cirl Bunting	0.1256
+11	Spectrogram 1	1	3.0	6.0	150	15000	thelar1	Thekla's Lark	0.1212
+12	Spectrogram 1	1	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.1175
+13	Spectrogram 1	1	3.0	6.0	150	15000	redkit1	Red Kite	0.1136
+14	Spectrogram 1	1	3.0	6.0	150	15000	comqua1	Common Quail	0.1079
+15	Spectrogram 1	1	3.0	6.0	150	15000	rebshr1	Red-backed Shrike	0.1001
+16	Spectrogram 1	1	6.0	9.0	150	15000	corbun1	Corn Bunting	0.4476
+17	Spectrogram 1	1	6.0	9.0	150	15000	wooshr1	Woodchat Shrike	0.3971
+18	Spectrogram 1	1	6.0	9.0	150	15000	callar1	Calandra Lark	0.2702
+19	Spectrogram 1	1	6.0	9.0	150	15000	thelar1	Thekla's Lark	0.2207
+20	Spectrogram 1	1	6.0	9.0	150	15000	eurser1	European Serin	0.1448
+21	Spectrogram 1	1	6.0	9.0	150	15000	eurlin1	Eurasian Linnet	0.1375
+22	Spectrogram 1	1	6.0	9.0	150	15000	sposta1	Spotless Starling	0.1091
+23	Spectrogram 1	1	6.0	9.0	150	15000	comswi	Common Swift	0.1003
+24	Spectrogram 1	1	9.0	12.0	150	15000	corbun1	Corn Bunting	0.3535
+25	Spectrogram 1	1	9.0	12.0	150	15000	callar1	Calandra Lark	0.2462
+26	Spectrogram 1	1	9.0	12.0	150	15000	cowpig1	Common Wood-Pigeon	0.2062
+27	Spectrogram 1	1	9.0	12.0	150	15000	eucdov	Eurasian Collared-Dove	0.1851
+28	Spectrogram 1	1	9.0	12.0	150	15000	skylar	Eurasian Skylark	0.1785
+29	Spectrogram 1	1	9.0	12.0	150	15000	eurser1	European Serin	0.1746
+30	Spectrogram 1	1	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.1524
+31	Spectrogram 1	1	9.0	12.0	150	15000	blared1	Black Redstart	0.1245
+32	Spectrogram 1	1	9.0	12.0	150	15000	redkit1	Red Kite	0.1202
+33	Spectrogram 1	1	9.0	12.0	150	15000	eurgre1	European Greenfinch	0.1177
+34	Spectrogram 1	1	9.0	12.0	150	15000	thelar1	Thekla's Lark	0.1165
+35	Spectrogram 1	1	9.0	12.0	150	15000	sposta1	Spotless Starling	0.1140
+36	Spectrogram 1	1	9.0	12.0	150	15000	wooshr1	Woodchat Shrike	0.1109
+37	Spectrogram 1	1	9.0	12.0	150	15000	dunnoc1	Dunnock	0.1101
+38	Spectrogram 1	1	9.0	12.0	150	15000	eurlin1	Eurasian Linnet	0.1094
+39	Spectrogram 1	1	9.0	12.0	150	15000	stonec4	European Stonechat	0.1061
+40	Spectrogram 1	1	9.0	12.0	150	15000	eurhob	Eurasian Hobby	0.1053
+41	Spectrogram 1	1	9.0	12.0	150	15000	comqua1	Common Quail	0.1015
+42	Spectrogram 1	1	12.0	15.0	150	15000	corbun1	Corn Bunting	0.2136
+43	Spectrogram 1	1	12.0	15.0	150	15000	skylar	Eurasian Skylark	0.1503
+44	Spectrogram 1	1	12.0	15.0	150	15000	whinch1	Whinchat	0.1436
+45	Spectrogram 1	1	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.1433
+46	Spectrogram 1	1	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.1279
+47	Spectrogram 1	1	12.0	15.0	150	15000	garwar1	Garden Warbler	0.1024
+48	Spectrogram 1	1	12.0	15.0	150	15000	misthr1	Mistle Thrush	0.1008
+49	Spectrogram 1	1	15.0	18.0	150	15000	corbun1	Corn Bunting	0.1310
+50	Spectrogram 1	1	15.0	18.0	150	15000	eurser1	European Serin	0.1209
+51	Spectrogram 1	1	18.0	21.0	150	15000	corbun1	Corn Bunting	0.4807
+52	Spectrogram 1	1	18.0	21.0	150	15000	wooshr1	Woodchat Shrike	0.2066
+53	Spectrogram 1	1	18.0	21.0	150	15000	callar1	Calandra Lark	0.1496
+54	Spectrogram 1	1	18.0	21.0	150	15000	sarwar1	Sardinian Warbler	0.1399
+55	Spectrogram 1	1	18.0	21.0	150	15000	rebshr1	Red-backed Shrike	0.1141
+56	Spectrogram 1	1	18.0	21.0	150	15000	subwar6	Western Subalpine Warbler	0.1074
+57	Spectrogram 1	1	18.0	21.0	150	15000	rocbun1	Rock Bunting	0.1002
+58	Spectrogram 1	1	21.0	24.0	150	15000	corbun1	Corn Bunting	0.2940
+59	Spectrogram 1	1	21.0	24.0	150	15000	eucdov	Eurasian Collared-Dove	0.1752
+60	Spectrogram 1	1	21.0	24.0	150	15000	yellow2	Yellowhammer	0.1323
+61	Spectrogram 1	1	21.0	24.0	150	15000	rebshr1	Red-backed Shrike	0.1302
+62	Spectrogram 1	1	21.0	24.0	150	15000	sarwar1	Sardinian Warbler	0.1192
+63	Spectrogram 1	1	21.0	24.0	150	15000	cowpig1	Common Wood-Pigeon	0.1082
+64	Spectrogram 1	1	21.0	24.0	150	15000	thelar1	Thekla's Lark	0.1021
+65	Spectrogram 1	1	21.0	24.0	150	15000	eutdov	European Turtle-Dove	0.1015
+66	Spectrogram 1	1	24.0	27.0	150	15000	corbun1	Corn Bunting	0.4553
+67	Spectrogram 1	1	24.0	27.0	150	15000	wooshr1	Woodchat Shrike	0.2570
+68	Spectrogram 1	1	24.0	27.0	150	15000	eucdov	Eurasian Collared-Dove	0.2023
+69	Spectrogram 1	1	24.0	27.0	150	15000	sarwar1	Sardinian Warbler	0.1436
+70	Spectrogram 1	1	24.0	27.0	150	15000	subwar6	Western Subalpine Warbler	0.1433
+71	Spectrogram 1	1	24.0	27.0	150	15000	stonec4	European Stonechat	0.1097
+72	Spectrogram 1	1	24.0	27.0	150	15000	cowpig1	Common Wood-Pigeon	0.1036
+73	Spectrogram 1	1	27.0	30.0	150	15000	corbun1	Corn Bunting	0.3242
+74	Spectrogram 1	1	27.0	30.0	150	15000	wooshr1	Woodchat Shrike	0.2684
+75	Spectrogram 1	1	27.0	30.0	150	15000	eucdov	Eurasian Collared-Dove	0.2411
+76	Spectrogram 1	1	27.0	30.0	150	15000	sarwar1	Sardinian Warbler	0.1673
+77	Spectrogram 1	1	27.0	30.0	150	15000	comswi	Common Swift	0.1589
+78	Spectrogram 1	1	27.0	30.0	150	15000	cowpig1	Common Wood-Pigeon	0.1585
+79	Spectrogram 1	1	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.1385
+80	Spectrogram 1	1	27.0	30.0	150	15000	stonec4	European Stonechat	0.1365
+81	Spectrogram 1	1	27.0	30.0	150	15000	sposta1	Spotless Starling	0.1327
+82	Spectrogram 1	1	27.0	30.0	150	15000	subwar6	Western Subalpine Warbler	0.1306
+83	Spectrogram 1	1	27.0	30.0	150	15000	eurgre1	European Greenfinch	0.1294
+84	Spectrogram 1	1	27.0	30.0	150	15000	skylar	Eurasian Skylark	0.1263
+85	Spectrogram 1	1	27.0	30.0	150	15000	thelar1	Thekla's Lark	0.1178
+86	Spectrogram 1	1	27.0	30.0	150	15000	eutdov	European Turtle-Dove	0.1135
+87	Spectrogram 1	1	27.0	30.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1098
+88	Spectrogram 1	1	27.0	30.0	150	15000	reebun	Reed Bunting	0.1074
+89	Spectrogram 1	1	27.0	30.0	150	15000	blared1	Black Redstart	0.1061
+90	Spectrogram 1	1	30.0	33.0	150	15000	blutit	Eurasian Blue Tit	0.3006
+91	Spectrogram 1	1	30.0	33.0	150	15000	corbun1	Corn Bunting	0.1668
+92	Spectrogram 1	1	30.0	33.0	150	15000	wooshr1	Woodchat Shrike	0.1378
+93	Spectrogram 1	1	30.0	33.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1077
+94	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1068
+95	Spectrogram 1	1	30.0	33.0	150	15000	cirbun1	Cirl Bunting	0.1045
+96	Spectrogram 1	1	30.0	33.0	150	15000	gretit1	Great Tit	0.1035
+97	Spectrogram 1	1	30.0	33.0	150	15000	eurgre1	European Greenfinch	0.1028
+98	Spectrogram 1	1	30.0	33.0	150	15000	sposta1	Spotless Starling	0.1021
+99	Spectrogram 1	1	33.0	36.0	150	15000	corbun1	Corn Bunting	0.2016
+100	Spectrogram 1	1	33.0	36.0	150	15000	eutdov	European Turtle-Dove	0.1440
+101	Spectrogram 1	1	36.0	39.0	150	15000	corbun1	Corn Bunting	0.5276
+102	Spectrogram 1	1	36.0	39.0	150	15000	thelar1	Thekla's Lark	0.2030
+103	Spectrogram 1	1	36.0	39.0	150	15000	sarwar1	Sardinian Warbler	0.1977
+104	Spectrogram 1	1	36.0	39.0	150	15000	subwar6	Western Subalpine Warbler	0.1609
+105	Spectrogram 1	1	36.0	39.0	150	15000	wooshr1	Woodchat Shrike	0.1588
+106	Spectrogram 1	1	36.0	39.0	150	15000	eutdov	European Turtle-Dove	0.1192
+107	Spectrogram 1	1	36.0	39.0	150	15000	blared1	Black Redstart	0.1125
+108	Spectrogram 1	1	36.0	39.0	150	15000	comred2	Common Redstart	0.1089
+109	Spectrogram 1	1	36.0	39.0	150	15000	ibgshr1	Iberian Gray Shrike	0.1060
+110	Spectrogram 1	1	36.0	39.0	150	15000	comqua1	Common Quail	0.1020
+111	Spectrogram 1	1	39.0	42.0	150	15000	corbun1	Corn Bunting	0.6643
+112	Spectrogram 1	1	39.0	42.0	150	15000	wooshr1	Woodchat Shrike	0.1904
+113	Spectrogram 1	1	39.0	42.0	150	15000	thelar1	Thekla's Lark	0.1716
+114	Spectrogram 1	1	39.0	42.0	150	15000	callar1	Calandra Lark	0.1653
+115	Spectrogram 1	1	39.0	42.0	150	15000	eutdov	European Turtle-Dove	0.1568
+116	Spectrogram 1	1	39.0	42.0	150	15000	sarwar1	Sardinian Warbler	0.1540
+117	Spectrogram 1	1	39.0	42.0	150	15000	comswi	Common Swift	0.1093
+118	Spectrogram 1	1	42.0	45.0	150	15000	corbun1	Corn Bunting	0.2889
+119	Spectrogram 1	1	42.0	45.0	150	15000	citfin1	Citril Finch	0.1146
+120	Spectrogram 1	1	42.0	45.0	150	15000	eurgol	European Goldfinch	0.1074
+121	Spectrogram 1	1	42.0	45.0	150	15000	blutit	Eurasian Blue Tit	0.1020
+122	Spectrogram 1	1	45.0	48.0	150	15000	corbun1	Corn Bunting	0.3425
+123	Spectrogram 1	1	45.0	48.0	150	15000	thelar1	Thekla's Lark	0.1820
+124	Spectrogram 1	1	45.0	48.0	150	15000	comqua1	Common Quail	0.1678
+125	Spectrogram 1	1	45.0	48.0	150	15000	sarwar1	Sardinian Warbler	0.1245
+126	Spectrogram 1	1	45.0	48.0	150	15000	wooshr1	Woodchat Shrike	0.1204
+127	Spectrogram 1	1	45.0	48.0	150	15000	rocbun1	Rock Bunting	0.1081
+128	Spectrogram 1	1	48.0	51.0	150	15000	corbun1	Corn Bunting	0.1986
+129	Spectrogram 1	1	48.0	51.0	150	15000	thelar1	Thekla's Lark	0.1702
+130	Spectrogram 1	1	48.0	51.0	150	15000	eutdov	European Turtle-Dove	0.1570
+131	Spectrogram 1	1	48.0	51.0	150	15000	hawfin	Hawfinch	0.1379
+132	Spectrogram 1	1	48.0	51.0	150	15000	comqua1	Common Quail	0.1305
+133	Spectrogram 1	1	48.0	51.0	150	15000	rocbun1	Rock Bunting	0.1177
+134	Spectrogram 1	1	48.0	51.0	150	15000	sarwar1	Sardinian Warbler	0.1074
+135	Spectrogram 1	1	51.0	54.0	150	15000	corbun1	Corn Bunting	0.6088
+136	Spectrogram 1	1	54.0	57.0	150	15000	corbun1	Corn Bunting	0.3907
+137	Spectrogram 1	1	57.0	60.0	150	15000	corbun1	Corn Bunting	0.2589
+138	Spectrogram 1	1	57.0	60.0	150	15000	thelar1	Thekla's Lark	0.1953
+139	Spectrogram 1	1	57.0	60.0	150	15000	callar1	Calandra Lark	0.1874
+140	Spectrogram 1	1	57.0	60.0	150	15000	wooshr1	Woodchat Shrike	0.1436
+141	Spectrogram 1	1	57.0	60.0	150	15000	comqua1	Common Quail	0.1411
+142	Spectrogram 1	1	57.0	60.0	150	15000	stonec4	European Stonechat	0.1357
+143	Spectrogram 1	1	57.0	60.0	150	15000	sarwar1	Sardinian Warbler	0.1307
+144	Spectrogram 1	1	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.1206
+145	Spectrogram 1	1	57.0	60.0	150	15000	rocbun1	Rock Bunting	0.1147
+146	Spectrogram 1	1	57.0	60.0	150	15000	redkit1	Red Kite	0.1088
+147	Spectrogram 1	1	57.0	60.0	150	15000	subwar6	Western Subalpine Warbler	0.1015

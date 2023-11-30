@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	eurrob1	European Robin	0.1886
+2	Spectrogram 1	1	2.0	5.0	150	15000	eurrob1	European Robin	0.2777
+3	Spectrogram 1	1	8.0	11.0	150	15000	eurrob1	European Robin	0.8306
+4	Spectrogram 1	1	10.0	13.0	150	15000	eurrob1	European Robin	0.3719
+5	Spectrogram 1	1	12.0	15.0	150	15000	eurtre1	Eurasian Treecreeper	0.1281
+6	Spectrogram 1	1	12.0	15.0	150	15000	eurrob1	European Robin	0.1216
+7	Spectrogram 1	1	16.0	19.0	150	15000	eurrob1	European Robin	0.4157
+8	Spectrogram 1	1	20.0	23.0	150	15000	lirplo	Little Ringed Plover	0.4587
+9	Spectrogram 1	1	22.0	25.0	150	15000	eurrob1	European Robin	0.5506
+10	Spectrogram 1	1	24.0	27.0	150	15000	eurrob1	European Robin	0.6590
+11	Spectrogram 1	1	26.0	29.0	150	15000	firecr1	Common Firecrest	0.5307
+12	Spectrogram 1	1	26.0	29.0	150	15000	goldcr1	Goldcrest	0.2129
+13	Spectrogram 1	1	28.0	31.0	150	15000	goldcr1	Goldcrest	0.4161
+14	Spectrogram 1	1	28.0	31.0	150	15000	firecr1	Common Firecrest	0.3514
+15	Spectrogram 1	1	30.0	33.0	150	15000	eurrob1	European Robin	0.2120
+16	Spectrogram 1	1	36.0	39.0	150	15000	eurrob1	European Robin	0.2623
+17	Spectrogram 1	1	36.0	39.0	150	15000	eurtre1	Eurasian Treecreeper	0.1493
+18	Spectrogram 1	1	38.0	41.0	150	15000	eurrob1	European Robin	0.2802
+19	Spectrogram 1	1	38.0	41.0	150	15000	eurtre1	Eurasian Treecreeper	0.1664
+20	Spectrogram 1	1	40.0	43.0	150	15000	eurrob1	European Robin	0.2947
+21	Spectrogram 1	1	40.0	43.0	150	15000	eurtre1	Eurasian Treecreeper	0.1209
+22	Spectrogram 1	1	42.0	45.0	150	15000	goldcr1	Goldcrest	0.1456
+23	Spectrogram 1	1	44.0	47.0	150	15000	eurrob1	European Robin	0.6441
+24	Spectrogram 1	1	46.0	49.0	150	15000	eurrob1	European Robin	0.1440
+25	Spectrogram 1	1	56.0	59.0	150	15000	eurrob1	European Robin	0.1254
+26	Spectrogram 1	1	58.0	61.0	150	15000	eurrob1	European Robin	0.4670

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	2.012706	21.90396	3141.3	7450.6	Anthus spinoletta
+2	Spectrogram 1	1	2.677993	3.70540	2638.3	6265.0	Oenanthe oenanthe
+3	Spectrogram 1	1	6.408657	7.10763	2601.0	5631.0	Oenanthe oenanthe
+4	Spectrogram 1	1	15.840584	16.32902	2582.5	5387.0	Oenanthe oenanthe
+5	Spectrogram 1	1	23.461917	23.95036	2438.4	10651.2	Anthus spinoletta
+6	Spectrogram 1	1	24.304053	28.56526	2473.8	7136.5	Oenanthe oenanthe
+7	Spectrogram 1	1	27.756812	43.21843	2217.5	9793.2	Anthus spinoletta
+8	Spectrogram 1	1	30.855874	31.76538	2317.4	3845.9	Unidentified bird
+9	Spectrogram 1	1	38.384572	39.01617	2638.3	6072.2	Oenanthe oenanthe
+10	Spectrogram 1	1	41.483634	42.67105	2368.7	5847.9	Oenanthe oenanthe
+11	Spectrogram 1	1	45.525888	47.57228	2334.4	10779.3	Anthus spinoletta
+12	Spectrogram 1	1	45.862742	46.49435	2456.0	5996.6	Oenanthe oenanthe
+13	Spectrogram 1	1	48.136510	59.98537	2233.9	12000.0	Anthus spinoletta
+14	Spectrogram 1	1	51.395578	52.25456	2250.4	6708.7	Oenanthe oenanthe
+15	Spectrogram 1	1	54.646224	55.56415	2152.7	5455.8	Oenanthe oenanthe
+16	Spectrogram 1	1	58.141090	59.30324	2250.4	5185.4	Oenanthe oenanthe

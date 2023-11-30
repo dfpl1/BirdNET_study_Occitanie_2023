@@ -1,0 +1,232 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	cirbun1	Cirl Bunting	0.1907
+2	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.1724
+3	Spectrogram 1	1	0	3.0	150	15000	webwar1	Western Bonelli's Warbler	0.1461
+4	Spectrogram 1	1	0	3.0	150	15000	firecr1	Common Firecrest	0.1458
+5	Spectrogram 1	1	0	3.0	150	15000	grewhi1	Greater Whitethroat	0.1434
+6	Spectrogram 1	1	0	3.0	150	15000	yellow2	Yellowhammer	0.1398
+7	Spectrogram 1	1	0	3.0	150	15000	melwar1	Melodious Warbler	0.1310
+8	Spectrogram 1	1	0	3.0	150	15000	blackc1	Eurasian Blackcap	0.1293
+9	Spectrogram 1	1	0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.1156
+10	Spectrogram 1	1	0	3.0	150	15000	garwar1	Garden Warbler	0.1031
+11	Spectrogram 1	1	2.0	5.0	150	15000	grewhi1	Greater Whitethroat	0.1378
+12	Spectrogram 1	1	2.0	5.0	150	15000	cirbun1	Cirl Bunting	0.1318
+13	Spectrogram 1	1	2.0	5.0	150	15000	cetwar1	Cetti's Warbler	0.1272
+14	Spectrogram 1	1	2.0	5.0	150	15000	trepip	Tree Pipit	0.1195
+15	Spectrogram 1	1	2.0	5.0	150	15000	melwar1	Melodious Warbler	0.1080
+16	Spectrogram 1	1	2.0	5.0	150	15000	blakit1	Black Kite	0.1026
+17	Spectrogram 1	1	4.0	7.0	150	15000	melwar1	Melodious Warbler	0.2418
+18	Spectrogram 1	1	4.0	7.0	150	15000	cirbun1	Cirl Bunting	0.1362
+19	Spectrogram 1	1	4.0	7.0	150	15000	garwar1	Garden Warbler	0.1355
+20	Spectrogram 1	1	4.0	7.0	150	15000	webwar1	Western Bonelli's Warbler	0.1344
+21	Spectrogram 1	1	4.0	7.0	150	15000	subwar6	Western Subalpine Warbler	0.1326
+22	Spectrogram 1	1	4.0	7.0	150	15000	sarwar1	Sardinian Warbler	0.1171
+23	Spectrogram 1	1	4.0	7.0	150	15000	cetwar1	Cetti's Warbler	0.1049
+24	Spectrogram 1	1	4.0	7.0	150	15000	grewhi1	Greater Whitethroat	0.1045
+25	Spectrogram 1	1	4.0	7.0	150	15000	rebshr1	Red-backed Shrike	0.1024
+26	Spectrogram 1	1	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.2328
+27	Spectrogram 1	1	6.0	9.0	150	15000	eurlin1	Eurasian Linnet	0.1483
+28	Spectrogram 1	1	6.0	9.0	150	15000	stonec4	European Stonechat	0.1425
+29	Spectrogram 1	1	6.0	9.0	150	15000	grewhi1	Greater Whitethroat	0.1240
+30	Spectrogram 1	1	6.0	9.0	150	15000	eaywag1	Western Yellow Wagtail	0.1021
+31	Spectrogram 1	1	6.0	9.0	150	15000	corbun1	Corn Bunting	0.1009
+32	Spectrogram 1	1	8.0	11.0	150	15000	melwar1	Melodious Warbler	0.4601
+33	Spectrogram 1	1	8.0	11.0	150	15000	wooshr1	Woodchat Shrike	0.1446
+34	Spectrogram 1	1	8.0	11.0	150	15000	skylar	Eurasian Skylark	0.1108
+35	Spectrogram 1	1	10.0	13.0	150	15000	melwar1	Melodious Warbler	0.6723
+36	Spectrogram 1	1	10.0	13.0	150	15000	wooshr1	Woodchat Shrike	0.1466
+37	Spectrogram 1	1	10.0	13.0	150	15000	eurrol1	European Roller	0.1357
+38	Spectrogram 1	1	10.0	13.0	150	15000	spaspa1	Spanish Sparrow	0.1322
+39	Spectrogram 1	1	10.0	13.0	150	15000	woolar1	Wood Lark	0.1027
+40	Spectrogram 1	1	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.7615
+41	Spectrogram 1	1	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.2375
+42	Spectrogram 1	1	12.0	15.0	150	15000	garwar1	Garden Warbler	0.1380
+43	Spectrogram 1	1	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.1360
+44	Spectrogram 1	1	14.0	17.0	150	15000	grewhi1	Greater Whitethroat	0.3480
+45	Spectrogram 1	1	14.0	17.0	150	15000	melwar1	Melodious Warbler	0.3408
+46	Spectrogram 1	1	14.0	17.0	150	15000	garwar1	Garden Warbler	0.2795
+47	Spectrogram 1	1	14.0	17.0	150	15000	yellow2	Yellowhammer	0.1298
+48	Spectrogram 1	1	14.0	17.0	150	15000	comred2	Common Redstart	0.1262
+49	Spectrogram 1	1	14.0	17.0	150	15000	subwar6	Western Subalpine Warbler	0.1178
+50	Spectrogram 1	1	14.0	17.0	150	15000	whinch1	Whinchat	0.1104
+51	Spectrogram 1	1	16.0	19.0	150	15000	yellow2	Yellowhammer	0.1833
+52	Spectrogram 1	1	16.0	19.0	150	15000	webwar1	Western Bonelli's Warbler	0.1587
+53	Spectrogram 1	1	16.0	19.0	150	15000	cirbun1	Cirl Bunting	0.1564
+54	Spectrogram 1	1	16.0	19.0	150	15000	grewhi1	Greater Whitethroat	0.1459
+55	Spectrogram 1	1	16.0	19.0	150	15000	trepip	Tree Pipit	0.1402
+56	Spectrogram 1	1	16.0	19.0	150	15000	melwar1	Melodious Warbler	0.1266
+57	Spectrogram 1	1	16.0	19.0	150	15000	rebshr1	Red-backed Shrike	0.1233
+58	Spectrogram 1	1	16.0	19.0	150	15000	comchi1	Common Chiffchaff	0.1071
+59	Spectrogram 1	1	16.0	19.0	150	15000	subwar6	Western Subalpine Warbler	0.1034
+60	Spectrogram 1	1	16.0	19.0	150	15000	woolar1	Wood Lark	0.1028
+61	Spectrogram 1	1	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.2221
+62	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1912
+63	Spectrogram 1	1	18.0	21.0	150	15000	woolar1	Wood Lark	0.1870
+64	Spectrogram 1	1	18.0	21.0	150	15000	trepip	Tree Pipit	0.1680
+65	Spectrogram 1	1	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.1662
+66	Spectrogram 1	1	18.0	21.0	150	15000	eugori2	Eurasian Golden Oriole	0.1510
+67	Spectrogram 1	1	18.0	21.0	150	15000	yellow2	Yellowhammer	0.1503
+68	Spectrogram 1	1	18.0	21.0	150	15000	rebshr1	Red-backed Shrike	0.1363
+69	Spectrogram 1	1	18.0	21.0	150	15000	grewhi1	Greater Whitethroat	0.1252
+70	Spectrogram 1	1	18.0	21.0	150	15000	cirbun1	Cirl Bunting	0.1249
+71	Spectrogram 1	1	18.0	21.0	150	15000	comred2	Common Redstart	0.1059
+72	Spectrogram 1	1	20.0	23.0	150	15000	comred2	Common Redstart	0.1808
+73	Spectrogram 1	1	20.0	23.0	150	15000	melwar1	Melodious Warbler	0.1104
+74	Spectrogram 1	1	22.0	25.0	150	15000	garwar1	Garden Warbler	0.2774
+75	Spectrogram 1	1	22.0	25.0	150	15000	webwar1	Western Bonelli's Warbler	0.2247
+76	Spectrogram 1	1	22.0	25.0	150	15000	melwar1	Melodious Warbler	0.1788
+77	Spectrogram 1	1	22.0	25.0	150	15000	eugori2	Eurasian Golden Oriole	0.1721
+78	Spectrogram 1	1	22.0	25.0	150	15000	blackc1	Eurasian Blackcap	0.1366
+79	Spectrogram 1	1	22.0	25.0	150	15000	grewhi1	Greater Whitethroat	0.1102
+80	Spectrogram 1	1	22.0	25.0	150	15000	comred2	Common Redstart	0.1094
+81	Spectrogram 1	1	22.0	25.0	150	15000	eurbul	Eurasian Bullfinch	0.1030
+82	Spectrogram 1	1	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.5467
+83	Spectrogram 1	1	24.0	27.0	150	15000	wooshr1	Woodchat Shrike	0.1934
+84	Spectrogram 1	1	24.0	27.0	150	15000	garwar1	Garden Warbler	0.1663
+85	Spectrogram 1	1	26.0	29.0	150	15000	melwar1	Melodious Warbler	0.5133
+86	Spectrogram 1	1	26.0	29.0	150	15000	eurwar1	Eurasian Reed Warbler	0.3635
+87	Spectrogram 1	1	26.0	29.0	150	15000	grewhi1	Greater Whitethroat	0.1024
+88	Spectrogram 1	1	28.0	31.0	150	15000	melwar1	Melodious Warbler	0.8015
+89	Spectrogram 1	1	28.0	31.0	150	15000	garwar1	Garden Warbler	0.2495
+90	Spectrogram 1	1	28.0	31.0	150	15000	grewhi1	Greater Whitethroat	0.1489
+91	Spectrogram 1	1	30.0	33.0	150	15000	eugori2	Eurasian Golden Oriole	0.2576
+92	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1799
+93	Spectrogram 1	1	30.0	33.0	150	15000	cirbun1	Cirl Bunting	0.1431
+94	Spectrogram 1	1	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.1431
+95	Spectrogram 1	1	30.0	33.0	150	15000	trepip	Tree Pipit	0.1410
+96	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.1258
+97	Spectrogram 1	1	30.0	33.0	150	15000	sposta1	Spotless Starling	0.1199
+98	Spectrogram 1	1	30.0	33.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.1119
+99	Spectrogram 1	1	30.0	33.0	150	15000	garwar1	Garden Warbler	0.1101
+100	Spectrogram 1	1	30.0	33.0	150	15000	redkit1	Red Kite	0.1063
+101	Spectrogram 1	1	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.1027
+102	Spectrogram 1	1	30.0	33.0	150	15000	cetwar1	Cetti's Warbler	0.1011
+103	Spectrogram 1	1	32.0	35.0	150	15000	redkit1	Red Kite	0.2745
+104	Spectrogram 1	1	32.0	35.0	150	15000	melwar1	Melodious Warbler	0.2294
+105	Spectrogram 1	1	32.0	35.0	150	15000	yellow2	Yellowhammer	0.1737
+106	Spectrogram 1	1	32.0	35.0	150	15000	eugori2	Eurasian Golden Oriole	0.1686
+107	Spectrogram 1	1	32.0	35.0	150	15000	webwar1	Western Bonelli's Warbler	0.1634
+108	Spectrogram 1	1	32.0	35.0	150	15000	grewhi1	Greater Whitethroat	0.1527
+109	Spectrogram 1	1	32.0	35.0	150	15000	trepip	Tree Pipit	0.1468
+110	Spectrogram 1	1	32.0	35.0	150	15000	cirbun1	Cirl Bunting	0.1463
+111	Spectrogram 1	1	32.0	35.0	150	15000	eurbul	Eurasian Bullfinch	0.1192
+112	Spectrogram 1	1	32.0	35.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1184
+113	Spectrogram 1	1	32.0	35.0	150	15000	garwar1	Garden Warbler	0.1174
+114	Spectrogram 1	1	32.0	35.0	150	15000	firecr1	Common Firecrest	0.1100
+115	Spectrogram 1	1	32.0	35.0	150	15000	woolar1	Wood Lark	0.1064
+116	Spectrogram 1	1	34.0	37.0	150	15000	eugori2	Eurasian Golden Oriole	0.2704
+117	Spectrogram 1	1	34.0	37.0	150	15000	webwar1	Western Bonelli's Warbler	0.2213
+118	Spectrogram 1	1	34.0	37.0	150	15000	melwar1	Melodious Warbler	0.1643
+119	Spectrogram 1	1	34.0	37.0	150	15000	cirbun1	Cirl Bunting	0.1605
+120	Spectrogram 1	1	34.0	37.0	150	15000	garwar1	Garden Warbler	0.1496
+121	Spectrogram 1	1	34.0	37.0	150	15000	comred2	Common Redstart	0.1471
+122	Spectrogram 1	1	34.0	37.0	150	15000	trepip	Tree Pipit	0.1354
+123	Spectrogram 1	1	34.0	37.0	150	15000	grewhi1	Greater Whitethroat	0.1225
+124	Spectrogram 1	1	34.0	37.0	150	15000	yellow2	Yellowhammer	0.1116
+125	Spectrogram 1	1	34.0	37.0	150	15000	wooshr1	Woodchat Shrike	0.1086
+126	Spectrogram 1	1	36.0	39.0	150	15000	cirbun1	Cirl Bunting	0.2616
+127	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.2119
+128	Spectrogram 1	1	36.0	39.0	150	15000	grewhi1	Greater Whitethroat	0.1941
+129	Spectrogram 1	1	36.0	39.0	150	15000	yellow2	Yellowhammer	0.1924
+130	Spectrogram 1	1	36.0	39.0	150	15000	trepip	Tree Pipit	0.1811
+131	Spectrogram 1	1	36.0	39.0	150	15000	comred2	Common Redstart	0.1753
+132	Spectrogram 1	1	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.1732
+133	Spectrogram 1	1	36.0	39.0	150	15000	eugori2	Eurasian Golden Oriole	0.1401
+134	Spectrogram 1	1	36.0	39.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.1361
+135	Spectrogram 1	1	36.0	39.0	150	15000	garwar1	Garden Warbler	0.1357
+136	Spectrogram 1	1	36.0	39.0	150	15000	shttre1	Short-toed Treecreeper	0.1263
+137	Spectrogram 1	1	36.0	39.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1256
+138	Spectrogram 1	1	36.0	39.0	150	15000	stonec4	European Stonechat	0.1215
+139	Spectrogram 1	1	36.0	39.0	150	15000	rocbun1	Rock Bunting	0.1156
+140	Spectrogram 1	1	36.0	39.0	150	15000	eurbul	Eurasian Bullfinch	0.1139
+141	Spectrogram 1	1	36.0	39.0	150	15000	rebshr1	Red-backed Shrike	0.1107
+142	Spectrogram 1	1	36.0	39.0	150	15000	firecr1	Common Firecrest	0.1049
+143	Spectrogram 1	1	38.0	41.0	150	15000	comchi1	Common Chiffchaff	0.2154
+144	Spectrogram 1	1	38.0	41.0	150	15000	webwar1	Western Bonelli's Warbler	0.1768
+145	Spectrogram 1	1	38.0	41.0	150	15000	grewhi1	Greater Whitethroat	0.1692
+146	Spectrogram 1	1	38.0	41.0	150	15000	eurbul	Eurasian Bullfinch	0.1541
+147	Spectrogram 1	1	38.0	41.0	150	15000	cirbun1	Cirl Bunting	0.1527
+148	Spectrogram 1	1	38.0	41.0	150	15000	trepip	Tree Pipit	0.1367
+149	Spectrogram 1	1	38.0	41.0	150	15000	yellow2	Yellowhammer	0.1324
+150	Spectrogram 1	1	38.0	41.0	150	15000	stonec4	European Stonechat	0.1271
+151	Spectrogram 1	1	38.0	41.0	150	15000	melwar1	Melodious Warbler	0.1223
+152	Spectrogram 1	1	38.0	41.0	150	15000	shttre1	Short-toed Treecreeper	0.1194
+153	Spectrogram 1	1	38.0	41.0	150	15000	garwar1	Garden Warbler	0.1171
+154	Spectrogram 1	1	40.0	43.0	150	15000	melwar1	Melodious Warbler	0.2233
+155	Spectrogram 1	1	40.0	43.0	150	15000	woolar1	Wood Lark	0.1758
+156	Spectrogram 1	1	40.0	43.0	150	15000	cirbun1	Cirl Bunting	0.1711
+157	Spectrogram 1	1	40.0	43.0	150	15000	trepip	Tree Pipit	0.1408
+158	Spectrogram 1	1	40.0	43.0	150	15000	stonec4	European Stonechat	0.1226
+159	Spectrogram 1	1	40.0	43.0	150	15000	grewhi1	Greater Whitethroat	0.1195
+160	Spectrogram 1	1	40.0	43.0	150	15000	webwar1	Western Bonelli's Warbler	0.1104
+161	Spectrogram 1	1	42.0	45.0	150	15000	stonec4	European Stonechat	0.2010
+162	Spectrogram 1	1	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.1886
+163	Spectrogram 1	1	42.0	45.0	150	15000	cirbun1	Cirl Bunting	0.1773
+164	Spectrogram 1	1	42.0	45.0	150	15000	eurbla	Eurasian Blackbird	0.1760
+165	Spectrogram 1	1	42.0	45.0	150	15000	citfin1	Citril Finch	0.1678
+166	Spectrogram 1	1	42.0	45.0	150	15000	eurhob	Eurasian Hobby	0.1630
+167	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1522
+168	Spectrogram 1	1	42.0	45.0	150	15000	sonthr1	Song Thrush	0.1461
+169	Spectrogram 1	1	42.0	45.0	150	15000	garwar1	Garden Warbler	0.1286
+170	Spectrogram 1	1	42.0	45.0	150	15000	comred2	Common Redstart	0.1135
+171	Spectrogram 1	1	42.0	45.0	150	15000	yellow2	Yellowhammer	0.1116
+172	Spectrogram 1	1	42.0	45.0	150	15000	rebshr1	Red-backed Shrike	0.1051
+173	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1049
+174	Spectrogram 1	1	44.0	47.0	150	15000	melwar1	Melodious Warbler	0.2902
+175	Spectrogram 1	1	44.0	47.0	150	15000	yellow2	Yellowhammer	0.2165
+176	Spectrogram 1	1	44.0	47.0	150	15000	webwar1	Western Bonelli's Warbler	0.1913
+177	Spectrogram 1	1	44.0	47.0	150	15000	grewhi1	Greater Whitethroat	0.1644
+178	Spectrogram 1	1	44.0	47.0	150	15000	cirbun1	Cirl Bunting	0.1623
+179	Spectrogram 1	1	44.0	47.0	150	15000	rebshr1	Red-backed Shrike	0.1421
+180	Spectrogram 1	1	44.0	47.0	150	15000	garwar1	Garden Warbler	0.1330
+181	Spectrogram 1	1	44.0	47.0	150	15000	woolar1	Wood Lark	0.1305
+182	Spectrogram 1	1	44.0	47.0	150	15000	comred2	Common Redstart	0.1181
+183	Spectrogram 1	1	44.0	47.0	150	15000	reebun	Reed Bunting	0.1065
+184	Spectrogram 1	1	44.0	47.0	150	15000	trepip	Tree Pipit	0.1038
+185	Spectrogram 1	1	44.0	47.0	150	15000	sarwar1	Sardinian Warbler	0.1037
+186	Spectrogram 1	1	46.0	49.0	150	15000	grewhi1	Greater Whitethroat	0.2180
+187	Spectrogram 1	1	46.0	49.0	150	15000	melwar1	Melodious Warbler	0.1824
+188	Spectrogram 1	1	46.0	49.0	150	15000	cirbun1	Cirl Bunting	0.1722
+189	Spectrogram 1	1	46.0	49.0	150	15000	woolar1	Wood Lark	0.1657
+190	Spectrogram 1	1	46.0	49.0	150	15000	yellow2	Yellowhammer	0.1556
+191	Spectrogram 1	1	46.0	49.0	150	15000	webwar1	Western Bonelli's Warbler	0.1419
+192	Spectrogram 1	1	48.0	51.0	150	15000	grewhi1	Greater Whitethroat	0.1265
+193	Spectrogram 1	1	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.1216
+194	Spectrogram 1	1	48.0	51.0	150	15000	webwar1	Western Bonelli's Warbler	0.1180
+195	Spectrogram 1	1	48.0	51.0	150	15000	comred2	Common Redstart	0.1132
+196	Spectrogram 1	1	50.0	53.0	150	15000	webwar1	Western Bonelli's Warbler	0.2357
+197	Spectrogram 1	1	50.0	53.0	150	15000	sonthr1	Song Thrush	0.1215
+198	Spectrogram 1	1	50.0	53.0	150	15000	melwar1	Melodious Warbler	0.1127
+199	Spectrogram 1	1	52.0	55.0	150	15000	melwar1	Melodious Warbler	0.1786
+200	Spectrogram 1	1	52.0	55.0	150	15000	grewhi1	Greater Whitethroat	0.1538
+201	Spectrogram 1	1	52.0	55.0	150	15000	blackc1	Eurasian Blackcap	0.1532
+202	Spectrogram 1	1	52.0	55.0	150	15000	garwar1	Garden Warbler	0.1485
+203	Spectrogram 1	1	52.0	55.0	150	15000	yellow2	Yellowhammer	0.1260
+204	Spectrogram 1	1	52.0	55.0	150	15000	webwar1	Western Bonelli's Warbler	0.1063
+205	Spectrogram 1	1	52.0	55.0	150	15000	redkit1	Red Kite	0.1046
+206	Spectrogram 1	1	52.0	55.0	150	15000	trepip	Tree Pipit	0.1007
+207	Spectrogram 1	1	54.0	57.0	150	15000	eugori2	Eurasian Golden Oriole	0.1617
+208	Spectrogram 1	1	54.0	57.0	150	15000	cirbun1	Cirl Bunting	0.1497
+209	Spectrogram 1	1	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.1271
+210	Spectrogram 1	1	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.1256
+211	Spectrogram 1	1	54.0	57.0	150	15000	yellow2	Yellowhammer	0.1229
+212	Spectrogram 1	1	54.0	57.0	150	15000	sposta1	Spotless Starling	0.1120
+213	Spectrogram 1	1	56.0	59.0	150	15000	blackc1	Eurasian Blackcap	0.2799
+214	Spectrogram 1	1	56.0	59.0	150	15000	cirbun1	Cirl Bunting	0.1573
+215	Spectrogram 1	1	56.0	59.0	150	15000	webwar1	Western Bonelli's Warbler	0.1544
+216	Spectrogram 1	1	56.0	59.0	150	15000	melwar1	Melodious Warbler	0.1490
+217	Spectrogram 1	1	56.0	59.0	150	15000	garwar1	Garden Warbler	0.1029
+218	Spectrogram 1	1	58.0	61.0	150	15000	blackc1	Eurasian Blackcap	0.3329
+219	Spectrogram 1	1	58.0	61.0	150	15000	webwar1	Western Bonelli's Warbler	0.2058
+220	Spectrogram 1	1	58.0	61.0	150	15000	firecr1	Common Firecrest	0.1930
+221	Spectrogram 1	1	58.0	61.0	150	15000	melwar1	Melodious Warbler	0.1567
+222	Spectrogram 1	1	58.0	61.0	150	15000	woolar1	Wood Lark	0.1501
+223	Spectrogram 1	1	58.0	61.0	150	15000	garwar1	Garden Warbler	0.1490
+224	Spectrogram 1	1	58.0	61.0	150	15000	cirbun1	Cirl Bunting	0.1357
+225	Spectrogram 1	1	58.0	61.0	150	15000	eurrob1	European Robin	0.1296
+226	Spectrogram 1	1	58.0	61.0	150	15000	yellow2	Yellowhammer	0.1201
+227	Spectrogram 1	1	58.0	61.0	150	15000	sarwar1	Sardinian Warbler	0.1152
+228	Spectrogram 1	1	58.0	61.0	150	15000	comswi	Common Swift	0.1112
+229	Spectrogram 1	1	58.0	61.0	150	15000	blutit	Eurasian Blue Tit	0.1045
+230	Spectrogram 1	1	58.0	61.0	150	15000	trepip	Tree Pipit	0.1028
+231	Spectrogram 1	1	58.0	61.0	150	15000	lottit1	Long-tailed Tit	0.1023

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	trepip	Tree Pipit	0.2520
+2	Spectrogram 1	1	0	3.0	150	15000	comcha	Common Chaffinch	0.2171
+3	Spectrogram 1	1	0	3.0	150	15000	martit2	Marsh Tit	0.1893
+4	Spectrogram 1	1	6.0	9.0	150	15000	comcha	Common Chaffinch	0.1712
+5	Spectrogram 1	1	9.0	12.0	150	15000	trepip	Tree Pipit	0.3305
+6	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.5004
+7	Spectrogram 1	1	18.0	21.0	150	15000	comcha	Common Chaffinch	0.7665
+8	Spectrogram 1	1	21.0	24.0	150	15000	trepip	Tree Pipit	0.8234
+9	Spectrogram 1	1	24.0	27.0	150	15000	trepip	Tree Pipit	0.9822
+10	Spectrogram 1	1	27.0	30.0	150	15000	trepip	Tree Pipit	0.6623
+11	Spectrogram 1	1	30.0	33.0	150	15000	eurgre1	European Greenfinch	0.2032
+12	Spectrogram 1	1	30.0	33.0	150	15000	comcha	Common Chaffinch	0.1623
+13	Spectrogram 1	1	33.0	36.0	150	15000	comcha	Common Chaffinch	0.1726
+14	Spectrogram 1	1	36.0	39.0	150	15000	trepip	Tree Pipit	0.9949
+15	Spectrogram 1	1	39.0	42.0	150	15000	comcha	Common Chaffinch	0.4355
+16	Spectrogram 1	1	39.0	42.0	150	15000	trepip	Tree Pipit	0.2109
+17	Spectrogram 1	1	45.0	48.0	150	15000	trepip	Tree Pipit	0.9967
+18	Spectrogram 1	1	48.0	51.0	150	15000	comred2	Common Redstart	0.1784
+19	Spectrogram 1	1	48.0	51.0	150	15000	eupfly1	European Pied Flycatcher	0.1509
+20	Spectrogram 1	1	51.0	54.0	150	15000	trepip	Tree Pipit	0.1202
+21	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.9904

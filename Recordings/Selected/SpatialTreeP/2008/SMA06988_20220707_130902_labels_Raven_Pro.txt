@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	1.288469	3.882248	2782.1	4126.1	Sylvia atricapilla
+2	Spectrogram 1	1	8.379256	9.212971	2345.2	3826.4	Fringilla coelebs
+3	Spectrogram 1	1	15.840584	17.171159	2074.1	3852.9	Fringilla coelebs
+4	Spectrogram 1	1	16.177438	17.524856	4014.9	4850.7	Emberiza citrinella
+5	Spectrogram 1	1	24.927234	25.297774	2490.6	3620.2	Fringilla coelebs
+6	Spectrogram 1	1	26.022011	27.681020	3987.5	4850.7	Emberiza citrinella
+7	Spectrogram 1	1	35.041291	35.268668	2584.9	3304.9	Fringilla coelebs
+8	Spectrogram 1	1	38.232988	39.058281	3933.2	4948.7	Emberiza citrinella
+9	Spectrogram 1	1	51.648219	53.383019	2417.1	4386.0	Unidentified bird

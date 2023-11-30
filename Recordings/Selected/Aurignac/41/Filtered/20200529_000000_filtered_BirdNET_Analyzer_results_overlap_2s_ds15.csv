@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	16.0	19.0	150	15000	zitcis1	Zitting Cisticola	0.1040
+2	Spectrogram 1	1	17.0	20.0	150	15000	zitcis1	Zitting Cisticola	0.1246
+3	Spectrogram 1	1	22.0	25.0	150	15000	comnig1	Common Nightingale	0.1459
+4	Spectrogram 1	1	28.0	31.0	150	15000	comqua1	Common Quail	0.1091
+5	Spectrogram 1	1	29.0	32.0	150	15000	comqua1	Common Quail	0.1032
+6	Spectrogram 1	1	40.0	43.0	150	15000	grrwar1	Great Reed Warbler	0.2470
+7	Spectrogram 1	1	40.0	43.0	150	15000	comqua1	Common Quail	0.1084
+8	Spectrogram 1	1	41.0	44.0	150	15000	grrwar1	Great Reed Warbler	0.2786
+9	Spectrogram 1	1	59.0	62.0	150	15000	goldcr1	Goldcrest	0.1041

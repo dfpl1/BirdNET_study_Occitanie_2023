@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	9.0	12.0	150	15000	woolar1	Wood Lark	0.1149
+2	Spectrogram 1	1	9.0	12.0	150	15000	grewhi1	Greater Whitethroat	0.1147
+3	Spectrogram 1	1	12.0	15.0	150	15000	skylar	Eurasian Skylark	0.1520
+4	Spectrogram 1	1	18.0	21.0	150	15000	comred1	Common Redshank	0.1252
+5	Spectrogram 1	1	18.0	21.0	150	15000	lirplo	Little Ringed Plover	0.1014
+6	Spectrogram 1	1	21.0	24.0	150	15000	combuz1	Common Buzzard	0.2691
+7	Spectrogram 1	1	24.0	27.0	150	15000	misthr1	Mistle Thrush	0.1229
+8	Spectrogram 1	1	30.0	33.0	150	15000	thelar1	Thekla's Lark	0.1817
+9	Spectrogram 1	1	30.0	33.0	150	15000	woolar1	Wood Lark	0.1406
+10	Spectrogram 1	1	30.0	33.0	150	15000	cirbun1	Cirl Bunting	0.1334
+11	Spectrogram 1	1	30.0	33.0	150	15000	comqua1	Common Quail	0.1198
+12	Spectrogram 1	1	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.1010
+13	Spectrogram 1	1	39.0	42.0	150	15000	woolar1	Wood Lark	0.1861
+14	Spectrogram 1	1	39.0	42.0	150	15000	webwar1	Western Bonelli's Warbler	0.1042
+15	Spectrogram 1	1	39.0	42.0	150	15000	eurnut2	Eurasian Nuthatch	0.1014
+16	Spectrogram 1	1	42.0	45.0	150	15000	thelar1	Thekla's Lark	0.1263
+17	Spectrogram 1	1	54.0	57.0	150	15000	grewhi1	Greater Whitethroat	0.1138
+18	Spectrogram 1	1	54.0	57.0	150	15000	norlap	Northern Lapwing	0.1075
+19	Spectrogram 1	1	54.0	57.0	150	15000	cirbun1	Cirl Bunting	0.1072

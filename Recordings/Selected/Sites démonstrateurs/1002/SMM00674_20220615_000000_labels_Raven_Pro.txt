@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	4.118705	4.928058	1808.0	7052.0	Asio otus
+2	Spectrogram 1	1	19.730216	20.359712	1756.2	7439.4	Asio otus
+3	Spectrogram 1	1	22.985612	23.812950	1655.6	6998.2	Asio otus
+4	Spectrogram 1	1	27.661871	28.327338	1843.2	7215.7	Asio otus
+5	Spectrogram 1	1	33.453237	34.388489	1843.2	7106.2	Asio otus
+6	Spectrogram 1	1	37.697842	38.561151	1825.6	7382.9	Asio otus
+7	Spectrogram 1	1	42.176259	42.877698	1808.0	6786.7	Asio otus
+8	Spectrogram 1	1	46.043165	46.996403	1843.2	6944.8	Asio otus
+9	Spectrogram 1	1	50.827338	51.636691	1896.9	6839.0	Asio otus
+10	Spectrogram 1	1	54.568345	55.449640	1843.2	7052.0	Asio otus
+11	Spectrogram 1	1	58.237410	58.956835	1861.0	6998.2	Asio otus

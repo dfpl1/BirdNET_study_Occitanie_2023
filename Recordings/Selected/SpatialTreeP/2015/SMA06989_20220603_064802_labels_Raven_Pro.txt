@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	1.018985	2404.2	3174.3	Unidentified bird
+2	Spectrogram 1	1	0.000000	6.400236	3153.9	4788.3	Anthus spinoletta
+3	Spectrogram 1	1	6.585506	10.703552	3515.6	8602.5	Troglodytes troglodytes
+4	Spectrogram 1	1	8.067666	9.415084	2695.5	3720.6	Sylvia atricapilla
+5	Spectrogram 1	1	12.842578	14.291053	3277.9	4344.0	Anthus trivialis
+6	Spectrogram 1	1	13.423652	14.240525	1684.3	2917.5	Turdus merula
+7	Spectrogram 1	1	14.670014	15.899533	1921.9	4264.8	Fringilla coelebs
+8	Spectrogram 1	1	16.720616	18.025927	1992.0	8504.8	Unidentified bird
+9	Spectrogram 1	1	18.253304	20.602864	3073.4	8124.4	Troglodytes troglodytes
+10	Spectrogram 1	1	21.204992	24.657751	2841.9	5662.2	Anthus trivialis
+11	Spectrogram 1	1	27.276794	31.967494	3471.4	8218.0	Troglodytes troglodytes
+12	Spectrogram 1	1	31.201150	35.748686	3133.6	5367.1	Anthus spinoletta
+13	Spectrogram 1	1	37.677178	42.687889	3493.4	7804.4	Troglodytes troglodytes
+14	Spectrogram 1	1	42.089972	43.462654	2642.2	5178.0	Anthus trivialis
+15	Spectrogram 1	1	48.599685	49.871311	1684.3	3053.6	Unidentified bird
+16	Spectrogram 1	1	51.185044	54.730438	2521.0	6792.8	Prunella modularis

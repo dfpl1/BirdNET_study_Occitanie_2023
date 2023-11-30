@@ -1,0 +1,61 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	carcro1	Carrion Crow	0.2197
+2	Spectrogram 1	1	0	3.0	150	15000	eutdov	European Turtle-Dove	0.1214
+3	Spectrogram 1	1	0	3.0	150	15000	litegr	Little Egret	0.1013
+4	Spectrogram 1	1	9.0	12.0	150	15000	relpar1	Red-legged Partridge	0.1155
+5	Spectrogram 1	1	9.0	12.0	150	15000	carcro1	Carrion Crow	0.1062
+6	Spectrogram 1	1	12.0	15.0	150	15000	litegr	Little Egret	0.1011
+7	Spectrogram 1	1	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.2217
+8	Spectrogram 1	1	15.0	18.0	150	15000	comnig1	Common Nightingale	0.1597
+9	Spectrogram 1	1	15.0	18.0	150	15000	webwar1	Western Bonelli's Warbler	0.1578
+10	Spectrogram 1	1	15.0	18.0	150	15000	grewhi1	Greater Whitethroat	0.1405
+11	Spectrogram 1	1	15.0	18.0	150	15000	cirbun1	Cirl Bunting	0.1396
+12	Spectrogram 1	1	15.0	18.0	150	15000	eutdov	European Turtle-Dove	0.1085
+13	Spectrogram 1	1	15.0	18.0	150	15000	comred2	Common Redstart	0.1070
+14	Spectrogram 1	1	15.0	18.0	150	15000	trepip	Tree Pipit	0.1038
+15	Spectrogram 1	1	15.0	18.0	150	15000	garwar1	Garden Warbler	0.1038
+16	Spectrogram 1	1	18.0	21.0	150	15000	carcro1	Carrion Crow	0.1206
+17	Spectrogram 1	1	18.0	21.0	150	15000	eurlin1	Eurasian Linnet	0.1135
+18	Spectrogram 1	1	18.0	21.0	150	15000	grewhi1	Greater Whitethroat	0.1070
+19	Spectrogram 1	1	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.1006
+20	Spectrogram 1	1	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.1072
+21	Spectrogram 1	1	24.0	27.0	150	15000	grewhi1	Greater Whitethroat	0.1973
+22	Spectrogram 1	1	24.0	27.0	150	15000	carcro1	Carrion Crow	0.1875
+23	Spectrogram 1	1	24.0	27.0	150	15000	yellow2	Yellowhammer	0.1356
+24	Spectrogram 1	1	24.0	27.0	150	15000	corbun1	Corn Bunting	0.1330
+25	Spectrogram 1	1	24.0	27.0	150	15000	eutdov	European Turtle-Dove	0.1221
+26	Spectrogram 1	1	24.0	27.0	150	15000	garwar1	Garden Warbler	0.1166
+27	Spectrogram 1	1	24.0	27.0	150	15000	reebun	Reed Bunting	0.1096
+28	Spectrogram 1	1	24.0	27.0	150	15000	eaywag1	Western Yellow Wagtail	0.1062
+29	Spectrogram 1	1	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.1770
+30	Spectrogram 1	1	27.0	30.0	150	15000	rinphe	Ring-necked Pheasant	0.1078
+31	Spectrogram 1	1	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.1805
+32	Spectrogram 1	1	30.0	33.0	150	15000	rinphe	Ring-necked Pheasant	0.1647
+33	Spectrogram 1	1	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.1562
+34	Spectrogram 1	1	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.1482
+35	Spectrogram 1	1	30.0	33.0	150	15000	eurlin1	Eurasian Linnet	0.1411
+36	Spectrogram 1	1	30.0	33.0	150	15000	garwar1	Garden Warbler	0.1373
+37	Spectrogram 1	1	30.0	33.0	150	15000	subwar6	Western Subalpine Warbler	0.1127
+38	Spectrogram 1	1	30.0	33.0	150	15000	combuz1	Common Buzzard	0.1103
+39	Spectrogram 1	1	30.0	33.0	150	15000	winwre4	Eurasian Wren	0.1040
+40	Spectrogram 1	1	33.0	36.0	150	15000	corbun1	Corn Bunting	0.2118
+41	Spectrogram 1	1	33.0	36.0	150	15000	carcro1	Carrion Crow	0.1949
+42	Spectrogram 1	1	33.0	36.0	150	15000	yellow2	Yellowhammer	0.1399
+43	Spectrogram 1	1	33.0	36.0	150	15000	rinphe	Ring-necked Pheasant	0.1384
+44	Spectrogram 1	1	33.0	36.0	150	15000	grewhi1	Greater Whitethroat	0.1369
+45	Spectrogram 1	1	42.0	45.0	150	15000	grewhi1	Greater Whitethroat	0.1135
+46	Spectrogram 1	1	45.0	48.0	150	15000	eurbla	Eurasian Blackbird	0.1100
+47	Spectrogram 1	1	51.0	54.0	150	15000	eutkne1	Eurasian Thick-knee	0.1063
+48	Spectrogram 1	1	54.0	57.0	150	15000	litowl1	Little Owl	0.2002
+49	Spectrogram 1	1	54.0	57.0	150	15000	carcro1	Carrion Crow	0.1678
+50	Spectrogram 1	1	54.0	57.0	150	15000	comcuc	Common Cuckoo	0.1548
+51	Spectrogram 1	1	54.0	57.0	150	15000	rinphe	Ring-necked Pheasant	0.1507
+52	Spectrogram 1	1	57.0	60.0	150	15000	grewhi1	Greater Whitethroat	0.1283
+53	Spectrogram 1	1	57.0	60.0	150	15000	sarwar1	Sardinian Warbler	0.1249
+54	Spectrogram 1	1	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.1095
+55	Spectrogram 1	1	57.0	60.0	150	15000	rerswa1	Red-rumped Swallow	0.1086
+56	Spectrogram 1	1	57.0	60.0	150	15000	eurlin1	Eurasian Linnet	0.1054
+57	Spectrogram 1	1	57.0	60.0	150	15000	corbun1	Corn Bunting	0.1033
+58	Spectrogram 1	1	57.0	60.0	150	15000	subwar6	Western Subalpine Warbler	0.1027
+59	Spectrogram 1	1	57.0	60.0	150	15000	rinphe	Ring-necked Pheasant	0.1012
+60	Spectrogram 1	1	57.0	60.0	150	15000	comswi	Common Swift	0.1011

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	4.0	7.0	150	15000	dunnoc1	Dunnock	0.8914
+2	Spectrogram 1	1	14.0	17.0	150	15000	coatit2	Coal Tit	0.5662
+3	Spectrogram 1	1	16.0	19.0	150	15000	coatit2	Coal Tit	0.1020
+4	Spectrogram 1	1	38.0	41.0	150	15000	blackc1	Eurasian Blackcap	0.2802
+5	Spectrogram 1	1	48.0	51.0	150	15000	trepip	Tree Pipit	0.9626
+6	Spectrogram 1	1	50.0	53.0	150	15000	trepip	Tree Pipit	0.9061
+7	Spectrogram 1	1	52.0	55.0	150	15000	trepip	Tree Pipit	0.8770
+8	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.3562
+9	Spectrogram 1	1	56.0	59.0	150	15000	trepip	Tree Pipit	0.9787

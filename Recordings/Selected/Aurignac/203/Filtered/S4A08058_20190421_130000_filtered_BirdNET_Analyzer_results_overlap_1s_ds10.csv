@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	combuz1	Common Buzzard	0.1807
+2	Spectrogram 1	1	2.0	5.0	150	15000	combuz1	Common Buzzard	0.8081
+3	Spectrogram 1	1	4.0	7.0	150	15000	woolar1	Wood Lark	0.8774
+4	Spectrogram 1	1	4.0	7.0	150	15000	combuz1	Common Buzzard	0.1052
+5	Spectrogram 1	1	6.0	9.0	150	15000	combuz1	Common Buzzard	0.8308
+6	Spectrogram 1	1	8.0	11.0	150	15000	woolar1	Wood Lark	0.1276
+7	Spectrogram 1	1	10.0	13.0	150	15000	lirplo	Little Ringed Plover	0.2957
+8	Spectrogram 1	1	14.0	17.0	150	15000	combuz1	Common Buzzard	0.2356
+9	Spectrogram 1	1	16.0	19.0	150	15000	combuz1	Common Buzzard	0.4367
+10	Spectrogram 1	1	18.0	21.0	150	15000	combuz1	Common Buzzard	0.5389
+11	Spectrogram 1	1	18.0	21.0	150	15000	eurjay1	Eurasian Jay	0.1112
+12	Spectrogram 1	1	20.0	23.0	150	15000	combuz1	Common Buzzard	0.8474
+13	Spectrogram 1	1	20.0	23.0	150	15000	eurjay1	Eurasian Jay	0.1513
+14	Spectrogram 1	1	22.0	25.0	150	15000	woolar1	Wood Lark	0.3579
+15	Spectrogram 1	1	24.0	27.0	150	15000	combuz1	Common Buzzard	0.4903
+16	Spectrogram 1	1	24.0	27.0	150	15000	woolar1	Wood Lark	0.2328
+17	Spectrogram 1	1	26.0	29.0	150	15000	combuz1	Common Buzzard	0.3665
+18	Spectrogram 1	1	28.0	31.0	150	15000	woolar1	Wood Lark	0.7342
+19	Spectrogram 1	1	32.0	35.0	150	15000	woolar1	Wood Lark	0.5818
+20	Spectrogram 1	1	42.0	45.0	150	15000	woolar1	Wood Lark	0.3691
+21	Spectrogram 1	1	44.0	47.0	150	15000	eurjay1	Eurasian Jay	0.3104
+22	Spectrogram 1	1	46.0	49.0	150	15000	eurjay1	Eurasian Jay	0.4564
+23	Spectrogram 1	1	52.0	55.0	150	15000	eurjay1	Eurasian Jay	0.8115
+24	Spectrogram 1	1	58.0	61.0	150	15000	woolar1	Wood Lark	0.1079

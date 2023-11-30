@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.908273	1.393885	908.6	2063.6	Unidentified bird
+2	Spectrogram 1	1	26.798561	32.194245	3730.3	4583.8	Unidentified bird
+3	Spectrogram 1	1	35.269784	37.464029	3758.2	4752.7	Unidentified bird
+4	Spectrogram 1	1	40.449640	46.187050	3647.4	4485.0	Unidentified bird

@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	9.0	12.0	150	15000	eutkne1	Eurasian Thick-knee	0.1062
+2	Spectrogram 1	1	10.0	13.0	150	15000	eutkne1	Eurasian Thick-knee	0.1014
+3	Spectrogram 1	1	17.0	20.0	150	15000	eurbla	Eurasian Blackbird	0.3019
+4	Spectrogram 1	1	18.0	21.0	150	15000	eutkne1	Eurasian Thick-knee	0.4193
+5	Spectrogram 1	1	19.0	22.0	150	15000	eutkne1	Eurasian Thick-knee	0.1940
+6	Spectrogram 1	1	19.0	22.0	150	15000	eurbla	Eurasian Blackbird	0.1001
+7	Spectrogram 1	1	26.0	29.0	150	15000	combuz1	Common Buzzard	0.1010
+8	Spectrogram 1	1	39.0	42.0	150	15000	cirbun1	Cirl Bunting	0.3493
+9	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1572
+10	Spectrogram 1	1	42.0	45.0	150	15000	cirbun1	Cirl Bunting	0.1535
+11	Spectrogram 1	1	52.0	55.0	150	15000	webwar1	Western Bonelli's Warbler	0.1414

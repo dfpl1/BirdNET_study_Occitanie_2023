@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	6.0	9.0	150	15000	gretit1	Great Tit	0.2291
+2	Spectrogram 1	1	18.0	21.0	150	15000	carcro1	Carrion Crow	0.2931
+3	Spectrogram 1	1	20.0	23.0	150	15000	carcro1	Carrion Crow	0.4531
+4	Spectrogram 1	1	24.0	27.0	150	15000	carcro1	Carrion Crow	0.6415
+5	Spectrogram 1	1	26.0	29.0	150	15000	carcro1	Carrion Crow	0.6969
+6	Spectrogram 1	1	30.0	33.0	150	15000	carcro1	Carrion Crow	0.4924
+7	Spectrogram 1	1	34.0	37.0	150	15000	carcro1	Carrion Crow	0.3708
+8	Spectrogram 1	1	36.0	39.0	150	15000	carcro1	Carrion Crow	0.7652
+9	Spectrogram 1	1	38.0	41.0	150	15000	carcro1	Carrion Crow	0.6252
+10	Spectrogram 1	1	40.0	43.0	150	15000	carcro1	Carrion Crow	0.1371
+11	Spectrogram 1	1	42.0	45.0	150	15000	carcro1	Carrion Crow	0.4316
+12	Spectrogram 1	1	52.0	55.0	150	15000	gretit1	Great Tit	0.3969

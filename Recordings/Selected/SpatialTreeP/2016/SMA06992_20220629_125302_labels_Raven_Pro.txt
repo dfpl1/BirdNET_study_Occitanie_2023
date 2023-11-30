@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.774765	1.431632	3291.2	5618.1	Phoenicurus ochruros
+2	Spectrogram 1	1	8.859274	12.219398	3756.3	5503.1	Phoenicurus ochruros
+3	Spectrogram 1	1	12.573095	14.543694	3242.6	6058.4	Troglodytes troglodytes
+4	Spectrogram 1	1	15.722685	16.076382	1310.0	2367.1	Pyrrhocorax pyrrhocorax
+5	Spectrogram 1	1	21.701852	22.476618	2745.6	6099.9	Phoenicurus ochruros
+6	Spectrogram 1	1	22.594517	26.080961	3031.2	7128.5	Troglodytes troglodytes
+7	Spectrogram 1	1	26.998889	28.009453	1503.4	2462.5	Pyrrhocorax pyrrhocorax
+8	Spectrogram 1	1	29.264236	30.140058	3756.3	5353.0	Phoenicurus ochruros
+9	Spectrogram 1	1	33.306490	36.919255	3194.6	6397.8	Troglodytes troglodytes
+10	Spectrogram 1	1	43.294227	43.782666	1463.3	2621.3	Pyrrhocorax pyrrhocorax
+11	Spectrogram 1	1	48.119668	49.088124	3008.4	4688.0	Phoenicurus ochruros
+12	Spectrogram 1	1	54.553589	55.260983	3218.5	4788.0	Unidentified bird

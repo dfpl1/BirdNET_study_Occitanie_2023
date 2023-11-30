@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	comqua1	Common Quail	0.1439
+2	Spectrogram 1	1	9.0	12.0	150	15000	rebshr1	Red-backed Shrike	0.1089
+3	Spectrogram 1	1	21.0	24.0	150	15000	rebshr1	Red-backed Shrike	0.1025
+4	Spectrogram 1	1	42.0	45.0	150	15000	webwar1	Western Bonelli's Warbler	0.1402

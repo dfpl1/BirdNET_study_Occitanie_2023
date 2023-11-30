@@ -1,0 +1,315 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	thelar1	Thekla's Lark	0.1853
+2	Spectrogram 1	1	0	3.0	150	15000	comqua1	Common Quail	0.1802
+3	Spectrogram 1	1	0	3.0	150	15000	callar1	Calandra Lark	0.1708
+4	Spectrogram 1	1	0	3.0	150	15000	whinch1	Whinchat	0.1561
+5	Spectrogram 1	1	0	3.0	150	15000	corbun1	Corn Bunting	0.1430
+6	Spectrogram 1	1	0	3.0	150	15000	tawpip1	Tawny Pipit	0.1024
+7	Spectrogram 1	1	0	3.0	150	15000	melwar1	Melodious Warbler	0.1018
+8	Spectrogram 1	1	0	3.0	150	15000	rebshr1	Red-backed Shrike	0.1013
+9	Spectrogram 1	1	1.0	4.0	150	15000	skylar	Eurasian Skylark	0.1742
+10	Spectrogram 1	1	1.0	4.0	150	15000	comqua1	Common Quail	0.1695
+11	Spectrogram 1	1	1.0	4.0	150	15000	thelar1	Thekla's Lark	0.1622
+12	Spectrogram 1	1	1.0	4.0	150	15000	blared1	Black Redstart	0.1602
+13	Spectrogram 1	1	1.0	4.0	150	15000	corbun1	Corn Bunting	0.1248
+14	Spectrogram 1	1	1.0	4.0	150	15000	callar1	Calandra Lark	0.1078
+15	Spectrogram 1	1	1.0	4.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.1056
+16	Spectrogram 1	1	1.0	4.0	150	15000	eaywag1	Western Yellow Wagtail	0.1053
+17	Spectrogram 1	1	1.0	4.0	150	15000	reebun	Reed Bunting	0.1040
+18	Spectrogram 1	1	2.0	5.0	150	15000	skylar	Eurasian Skylark	0.2337
+19	Spectrogram 1	1	2.0	5.0	150	15000	comqua1	Common Quail	0.2100
+20	Spectrogram 1	1	2.0	5.0	150	15000	thelar1	Thekla's Lark	0.1534
+21	Spectrogram 1	1	2.0	5.0	150	15000	callar1	Calandra Lark	0.1429
+22	Spectrogram 1	1	2.0	5.0	150	15000	corbun1	Corn Bunting	0.1139
+23	Spectrogram 1	1	6.0	9.0	150	15000	zitcis1	Zitting Cisticola	0.1008
+24	Spectrogram 1	1	6.0	9.0	150	15000	comter	Common Tern	0.1003
+25	Spectrogram 1	1	7.0	10.0	150	15000	thelar1	Thekla's Lark	0.1641
+26	Spectrogram 1	1	7.0	10.0	150	15000	comqua1	Common Quail	0.1491
+27	Spectrogram 1	1	7.0	10.0	150	15000	whinch1	Whinchat	0.1378
+28	Spectrogram 1	1	7.0	10.0	150	15000	skylar	Eurasian Skylark	0.1370
+29	Spectrogram 1	1	7.0	10.0	150	15000	eaywag1	Western Yellow Wagtail	0.1127
+30	Spectrogram 1	1	7.0	10.0	150	15000	rebshr1	Red-backed Shrike	0.1111
+31	Spectrogram 1	1	7.0	10.0	150	15000	callar1	Calandra Lark	0.1105
+32	Spectrogram 1	1	7.0	10.0	150	15000	corbun1	Corn Bunting	0.1102
+33	Spectrogram 1	1	7.0	10.0	150	15000	blared1	Black Redstart	0.1066
+34	Spectrogram 1	1	8.0	11.0	150	15000	comqua1	Common Quail	0.2676
+35	Spectrogram 1	1	8.0	11.0	150	15000	skylar	Eurasian Skylark	0.2488
+36	Spectrogram 1	1	8.0	11.0	150	15000	corbun1	Corn Bunting	0.1750
+37	Spectrogram 1	1	8.0	11.0	150	15000	eaywag1	Western Yellow Wagtail	0.1635
+38	Spectrogram 1	1	8.0	11.0	150	15000	thelar1	Thekla's Lark	0.1479
+39	Spectrogram 1	1	8.0	11.0	150	15000	whinch1	Whinchat	0.1196
+40	Spectrogram 1	1	8.0	11.0	150	15000	yellow2	Yellowhammer	0.1129
+41	Spectrogram 1	1	8.0	11.0	150	15000	carcro1	Carrion Crow	0.1059
+42	Spectrogram 1	1	9.0	12.0	150	15000	comqua1	Common Quail	0.3035
+43	Spectrogram 1	1	9.0	12.0	150	15000	skylar	Eurasian Skylark	0.2849
+44	Spectrogram 1	1	9.0	12.0	150	15000	corbun1	Corn Bunting	0.1924
+45	Spectrogram 1	1	9.0	12.0	150	15000	thelar1	Thekla's Lark	0.1635
+46	Spectrogram 1	1	9.0	12.0	150	15000	crelar2	Crested Lark	0.1529
+47	Spectrogram 1	1	9.0	12.0	150	15000	tawpip1	Tawny Pipit	0.1424
+48	Spectrogram 1	1	9.0	12.0	150	15000	yellow2	Yellowhammer	0.1306
+49	Spectrogram 1	1	9.0	12.0	150	15000	eaywag1	Western Yellow Wagtail	0.1267
+50	Spectrogram 1	1	9.0	12.0	150	15000	eurlin1	Eurasian Linnet	0.1076
+51	Spectrogram 1	1	9.0	12.0	150	15000	callar1	Calandra Lark	0.1075
+52	Spectrogram 1	1	11.0	14.0	150	15000	corbun1	Corn Bunting	0.1154
+53	Spectrogram 1	1	12.0	15.0	150	15000	comqua1	Common Quail	0.1279
+54	Spectrogram 1	1	12.0	15.0	150	15000	corbun1	Corn Bunting	0.1037
+55	Spectrogram 1	1	13.0	16.0	150	15000	comqua1	Common Quail	0.2341
+56	Spectrogram 1	1	13.0	16.0	150	15000	whinch1	Whinchat	0.1879
+57	Spectrogram 1	1	13.0	16.0	150	15000	skylar	Eurasian Skylark	0.1757
+58	Spectrogram 1	1	13.0	16.0	150	15000	corbun1	Corn Bunting	0.1540
+59	Spectrogram 1	1	13.0	16.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.1277
+60	Spectrogram 1	1	13.0	16.0	150	15000	eurhob	Eurasian Hobby	0.1264
+61	Spectrogram 1	1	13.0	16.0	150	15000	norwhe	Northern Wheatear	0.1132
+62	Spectrogram 1	1	13.0	16.0	150	15000	relpar1	Red-legged Partridge	0.1120
+63	Spectrogram 1	1	13.0	16.0	150	15000	carcro1	Carrion Crow	0.1115
+64	Spectrogram 1	1	14.0	17.0	150	15000	comqua1	Common Quail	0.1069
+65	Spectrogram 1	1	14.0	17.0	150	15000	skylar	Eurasian Skylark	0.1063
+66	Spectrogram 1	1	15.0	18.0	150	15000	comqua1	Common Quail	0.1410
+67	Spectrogram 1	1	15.0	18.0	150	15000	skylar	Eurasian Skylark	0.1043
+68	Spectrogram 1	1	16.0	19.0	150	15000	comqua1	Common Quail	0.1403
+69	Spectrogram 1	1	16.0	19.0	150	15000	skylar	Eurasian Skylark	0.1362
+70	Spectrogram 1	1	16.0	19.0	150	15000	whinch1	Whinchat	0.1103
+71	Spectrogram 1	1	17.0	20.0	150	15000	comqua1	Common Quail	0.1593
+72	Spectrogram 1	1	17.0	20.0	150	15000	whinch1	Whinchat	0.1163
+73	Spectrogram 1	1	17.0	20.0	150	15000	skylar	Eurasian Skylark	0.1078
+74	Spectrogram 1	1	18.0	21.0	150	15000	comqua1	Common Quail	0.2097
+75	Spectrogram 1	1	18.0	21.0	150	15000	skylar	Eurasian Skylark	0.1710
+76	Spectrogram 1	1	18.0	21.0	150	15000	whinch1	Whinchat	0.1656
+77	Spectrogram 1	1	18.0	21.0	150	15000	corbun1	Corn Bunting	0.1291
+78	Spectrogram 1	1	18.0	21.0	150	15000	yellow2	Yellowhammer	0.1269
+79	Spectrogram 1	1	18.0	21.0	150	15000	rebshr1	Red-backed Shrike	0.1264
+80	Spectrogram 1	1	18.0	21.0	150	15000	thelar1	Thekla's Lark	0.1210
+81	Spectrogram 1	1	18.0	21.0	150	15000	comred2	Common Redstart	0.1200
+82	Spectrogram 1	1	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.1071
+83	Spectrogram 1	1	18.0	21.0	150	15000	comnig1	Common Nightingale	0.1061
+84	Spectrogram 1	1	19.0	22.0	150	15000	comqua1	Common Quail	0.2426
+85	Spectrogram 1	1	19.0	22.0	150	15000	whinch1	Whinchat	0.2423
+86	Spectrogram 1	1	19.0	22.0	150	15000	corbun1	Corn Bunting	0.2400
+87	Spectrogram 1	1	19.0	22.0	150	15000	yellow2	Yellowhammer	0.2032
+88	Spectrogram 1	1	19.0	22.0	150	15000	rebshr1	Red-backed Shrike	0.1665
+89	Spectrogram 1	1	19.0	22.0	150	15000	skylar	Eurasian Skylark	0.1521
+90	Spectrogram 1	1	19.0	22.0	150	15000	reebun	Reed Bunting	0.1372
+91	Spectrogram 1	1	19.0	22.0	150	15000	eaywag1	Western Yellow Wagtail	0.1287
+92	Spectrogram 1	1	19.0	22.0	150	15000	tawpip1	Tawny Pipit	0.1097
+93	Spectrogram 1	1	19.0	22.0	150	15000	eurhob	Eurasian Hobby	0.1067
+94	Spectrogram 1	1	19.0	22.0	150	15000	carcro1	Carrion Crow	0.1047
+95	Spectrogram 1	1	19.0	22.0	150	15000	grewhi1	Greater Whitethroat	0.1042
+96	Spectrogram 1	1	20.0	23.0	150	15000	comqua1	Common Quail	0.2769
+97	Spectrogram 1	1	20.0	23.0	150	15000	yellow2	Yellowhammer	0.2307
+98	Spectrogram 1	1	20.0	23.0	150	15000	corbun1	Corn Bunting	0.2071
+99	Spectrogram 1	1	20.0	23.0	150	15000	whinch1	Whinchat	0.1991
+100	Spectrogram 1	1	20.0	23.0	150	15000	tawpip1	Tawny Pipit	0.1415
+101	Spectrogram 1	1	20.0	23.0	150	15000	eaywag1	Western Yellow Wagtail	0.1387
+102	Spectrogram 1	1	20.0	23.0	150	15000	rebshr1	Red-backed Shrike	0.1259
+103	Spectrogram 1	1	20.0	23.0	150	15000	skylar	Eurasian Skylark	0.1205
+104	Spectrogram 1	1	20.0	23.0	150	15000	carcro1	Carrion Crow	0.1204
+105	Spectrogram 1	1	20.0	23.0	150	15000	eutdov	European Turtle-Dove	0.1076
+106	Spectrogram 1	1	20.0	23.0	150	15000	reebun	Reed Bunting	0.1040
+107	Spectrogram 1	1	20.0	23.0	150	15000	eurhob	Eurasian Hobby	0.1011
+108	Spectrogram 1	1	21.0	24.0	150	15000	comqua1	Common Quail	0.2571
+109	Spectrogram 1	1	21.0	24.0	150	15000	corbun1	Corn Bunting	0.2014
+110	Spectrogram 1	1	21.0	24.0	150	15000	tawpip1	Tawny Pipit	0.1413
+111	Spectrogram 1	1	21.0	24.0	150	15000	yellow2	Yellowhammer	0.1382
+112	Spectrogram 1	1	21.0	24.0	150	15000	whinch1	Whinchat	0.1304
+113	Spectrogram 1	1	21.0	24.0	150	15000	skylar	Eurasian Skylark	0.1095
+114	Spectrogram 1	1	21.0	24.0	150	15000	stonec4	European Stonechat	0.1037
+115	Spectrogram 1	1	21.0	24.0	150	15000	cirbun1	Cirl Bunting	0.1031
+116	Spectrogram 1	1	21.0	24.0	150	15000	webwar1	Western Bonelli's Warbler	0.1024
+117	Spectrogram 1	1	21.0	24.0	150	15000	rocbun1	Rock Bunting	0.1005
+118	Spectrogram 1	1	21.0	24.0	150	15000	reebun	Reed Bunting	0.1002
+119	Spectrogram 1	1	22.0	25.0	150	15000	skylar	Eurasian Skylark	0.2415
+120	Spectrogram 1	1	22.0	25.0	150	15000	comqua1	Common Quail	0.2060
+121	Spectrogram 1	1	22.0	25.0	150	15000	corbun1	Corn Bunting	0.1693
+122	Spectrogram 1	1	22.0	25.0	150	15000	whinch1	Whinchat	0.1381
+123	Spectrogram 1	1	22.0	25.0	150	15000	tawpip1	Tawny Pipit	0.1344
+124	Spectrogram 1	1	22.0	25.0	150	15000	thelar1	Thekla's Lark	0.1275
+125	Spectrogram 1	1	22.0	25.0	150	15000	callar1	Calandra Lark	0.1275
+126	Spectrogram 1	1	22.0	25.0	150	15000	yellow2	Yellowhammer	0.1244
+127	Spectrogram 1	1	22.0	25.0	150	15000	eaywag1	Western Yellow Wagtail	0.1029
+128	Spectrogram 1	1	24.0	27.0	150	15000	comqua1	Common Quail	0.3343
+129	Spectrogram 1	1	24.0	27.0	150	15000	skylar	Eurasian Skylark	0.2355
+130	Spectrogram 1	1	24.0	27.0	150	15000	corbun1	Corn Bunting	0.1901
+131	Spectrogram 1	1	24.0	27.0	150	15000	whinch1	Whinchat	0.1576
+132	Spectrogram 1	1	24.0	27.0	150	15000	yellow2	Yellowhammer	0.1507
+133	Spectrogram 1	1	24.0	27.0	150	15000	thelar1	Thekla's Lark	0.1216
+134	Spectrogram 1	1	24.0	27.0	150	15000	callar1	Calandra Lark	0.1170
+135	Spectrogram 1	1	24.0	27.0	150	15000	rebshr1	Red-backed Shrike	0.1082
+136	Spectrogram 1	1	24.0	27.0	150	15000	blared1	Black Redstart	0.1047
+137	Spectrogram 1	1	24.0	27.0	150	15000	eaywag1	Western Yellow Wagtail	0.1024
+138	Spectrogram 1	1	25.0	28.0	150	15000	comqua1	Common Quail	0.2669
+139	Spectrogram 1	1	25.0	28.0	150	15000	corbun1	Corn Bunting	0.2135
+140	Spectrogram 1	1	25.0	28.0	150	15000	yellow2	Yellowhammer	0.1876
+141	Spectrogram 1	1	25.0	28.0	150	15000	rebshr1	Red-backed Shrike	0.1436
+142	Spectrogram 1	1	25.0	28.0	150	15000	eaywag1	Western Yellow Wagtail	0.1322
+143	Spectrogram 1	1	25.0	28.0	150	15000	whinch1	Whinchat	0.1273
+144	Spectrogram 1	1	25.0	28.0	150	15000	skylar	Eurasian Skylark	0.1221
+145	Spectrogram 1	1	25.0	28.0	150	15000	melwar1	Melodious Warbler	0.1175
+146	Spectrogram 1	1	25.0	28.0	150	15000	callar1	Calandra Lark	0.1086
+147	Spectrogram 1	1	25.0	28.0	150	15000	thelar1	Thekla's Lark	0.1054
+148	Spectrogram 1	1	26.0	29.0	150	15000	skylar	Eurasian Skylark	0.1226
+149	Spectrogram 1	1	26.0	29.0	150	15000	comqua1	Common Quail	0.1036
+150	Spectrogram 1	1	26.0	29.0	150	15000	rebshr1	Red-backed Shrike	0.1030
+151	Spectrogram 1	1	27.0	30.0	150	15000	skylar	Eurasian Skylark	0.2290
+152	Spectrogram 1	1	27.0	30.0	150	15000	yellow2	Yellowhammer	0.1489
+153	Spectrogram 1	1	27.0	30.0	150	15000	comqua1	Common Quail	0.1373
+154	Spectrogram 1	1	27.0	30.0	150	15000	thelar1	Thekla's Lark	0.1084
+155	Spectrogram 1	1	27.0	30.0	150	15000	rebshr1	Red-backed Shrike	0.1006
+156	Spectrogram 1	1	28.0	31.0	150	15000	yellow2	Yellowhammer	0.2012
+157	Spectrogram 1	1	28.0	31.0	150	15000	rebshr1	Red-backed Shrike	0.1611
+158	Spectrogram 1	1	28.0	31.0	150	15000	comqua1	Common Quail	0.1553
+159	Spectrogram 1	1	28.0	31.0	150	15000	skylar	Eurasian Skylark	0.1399
+160	Spectrogram 1	1	28.0	31.0	150	15000	corbun1	Corn Bunting	0.1240
+161	Spectrogram 1	1	28.0	31.0	150	15000	thelar1	Thekla's Lark	0.1149
+162	Spectrogram 1	1	28.0	31.0	150	15000	grewhi1	Greater Whitethroat	0.1049
+163	Spectrogram 1	1	29.0	32.0	150	15000	skylar	Eurasian Skylark	0.2267
+164	Spectrogram 1	1	29.0	32.0	150	15000	comqua1	Common Quail	0.2171
+165	Spectrogram 1	1	29.0	32.0	150	15000	corbun1	Corn Bunting	0.1573
+166	Spectrogram 1	1	29.0	32.0	150	15000	yellow2	Yellowhammer	0.1490
+167	Spectrogram 1	1	29.0	32.0	150	15000	whinch1	Whinchat	0.1398
+168	Spectrogram 1	1	29.0	32.0	150	15000	eaywag1	Western Yellow Wagtail	0.1045
+169	Spectrogram 1	1	29.0	32.0	150	15000	rebshr1	Red-backed Shrike	0.1044
+170	Spectrogram 1	1	29.0	32.0	150	15000	carcro1	Carrion Crow	0.1027
+171	Spectrogram 1	1	30.0	33.0	150	15000	skylar	Eurasian Skylark	0.2118
+172	Spectrogram 1	1	30.0	33.0	150	15000	yellow2	Yellowhammer	0.2069
+173	Spectrogram 1	1	30.0	33.0	150	15000	comqua1	Common Quail	0.2054
+174	Spectrogram 1	1	30.0	33.0	150	15000	whinch1	Whinchat	0.1512
+175	Spectrogram 1	1	30.0	33.0	150	15000	corbun1	Corn Bunting	0.1342
+176	Spectrogram 1	1	30.0	33.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.1046
+177	Spectrogram 1	1	30.0	33.0	150	15000	carcro1	Carrion Crow	0.1014
+178	Spectrogram 1	1	31.0	34.0	150	15000	skylar	Eurasian Skylark	0.3152
+179	Spectrogram 1	1	31.0	34.0	150	15000	comqua1	Common Quail	0.2302
+180	Spectrogram 1	1	31.0	34.0	150	15000	corbun1	Corn Bunting	0.1648
+181	Spectrogram 1	1	31.0	34.0	150	15000	yellow2	Yellowhammer	0.1473
+182	Spectrogram 1	1	31.0	34.0	150	15000	eurhob	Eurasian Hobby	0.1341
+183	Spectrogram 1	1	31.0	34.0	150	15000	eaywag1	Western Yellow Wagtail	0.1158
+184	Spectrogram 1	1	31.0	34.0	150	15000	whinch1	Whinchat	0.1133
+185	Spectrogram 1	1	31.0	34.0	150	15000	carcro1	Carrion Crow	0.1019
+186	Spectrogram 1	1	31.0	34.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.1015
+187	Spectrogram 1	1	32.0	35.0	150	15000	comqua1	Common Quail	0.2221
+188	Spectrogram 1	1	32.0	35.0	150	15000	skylar	Eurasian Skylark	0.1644
+189	Spectrogram 1	1	32.0	35.0	150	15000	yellow2	Yellowhammer	0.1583
+190	Spectrogram 1	1	32.0	35.0	150	15000	corbun1	Corn Bunting	0.1286
+191	Spectrogram 1	1	33.0	36.0	150	15000	skylar	Eurasian Skylark	0.3507
+192	Spectrogram 1	1	33.0	36.0	150	15000	thelar1	Thekla's Lark	0.2157
+193	Spectrogram 1	1	33.0	36.0	150	15000	comqua1	Common Quail	0.1726
+194	Spectrogram 1	1	33.0	36.0	150	15000	callar1	Calandra Lark	0.1716
+195	Spectrogram 1	1	33.0	36.0	150	15000	reebun	Reed Bunting	0.1688
+196	Spectrogram 1	1	33.0	36.0	150	15000	crelar2	Crested Lark	0.1127
+197	Spectrogram 1	1	33.0	36.0	150	15000	yellow2	Yellowhammer	0.1106
+198	Spectrogram 1	1	33.0	36.0	150	15000	corbun1	Corn Bunting	0.1065
+199	Spectrogram 1	1	34.0	37.0	150	15000	skylar	Eurasian Skylark	0.3692
+200	Spectrogram 1	1	34.0	37.0	150	15000	comqua1	Common Quail	0.2203
+201	Spectrogram 1	1	34.0	37.0	150	15000	thelar1	Thekla's Lark	0.1375
+202	Spectrogram 1	1	34.0	37.0	150	15000	corbun1	Corn Bunting	0.1275
+203	Spectrogram 1	1	34.0	37.0	150	15000	callar1	Calandra Lark	0.1149
+204	Spectrogram 1	1	35.0	38.0	150	15000	eurmag1	Eurasian Magpie	0.6319
+205	Spectrogram 1	1	35.0	38.0	150	15000	thelar1	Thekla's Lark	0.2816
+206	Spectrogram 1	1	35.0	38.0	150	15000	skylar	Eurasian Skylark	0.1926
+207	Spectrogram 1	1	35.0	38.0	150	15000	callar1	Calandra Lark	0.1872
+208	Spectrogram 1	1	35.0	38.0	150	15000	crelar2	Crested Lark	0.1655
+209	Spectrogram 1	1	35.0	38.0	150	15000	reebun	Reed Bunting	0.1410
+210	Spectrogram 1	1	35.0	38.0	150	15000	eurrol1	European Roller	0.1057
+211	Spectrogram 1	1	35.0	38.0	150	15000	comqua1	Common Quail	0.1038
+212	Spectrogram 1	1	36.0	39.0	150	15000	eurmag1	Eurasian Magpie	0.6506
+213	Spectrogram 1	1	36.0	39.0	150	15000	thelar1	Thekla's Lark	0.1628
+214	Spectrogram 1	1	36.0	39.0	150	15000	crelar2	Crested Lark	0.1097
+215	Spectrogram 1	1	37.0	40.0	150	15000	eurmag1	Eurasian Magpie	0.5974
+216	Spectrogram 1	1	37.0	40.0	150	15000	thelar1	Thekla's Lark	0.1254
+217	Spectrogram 1	1	38.0	41.0	150	15000	eurmag1	Eurasian Magpie	0.5588
+218	Spectrogram 1	1	39.0	42.0	150	15000	comqua1	Common Quail	0.2428
+219	Spectrogram 1	1	39.0	42.0	150	15000	whinch1	Whinchat	0.1719
+220	Spectrogram 1	1	39.0	42.0	150	15000	trepip	Tree Pipit	0.1656
+221	Spectrogram 1	1	39.0	42.0	150	15000	thelar1	Thekla's Lark	0.1605
+222	Spectrogram 1	1	39.0	42.0	150	15000	corbun1	Corn Bunting	0.1571
+223	Spectrogram 1	1	39.0	42.0	150	15000	eurhob	Eurasian Hobby	0.1542
+224	Spectrogram 1	1	39.0	42.0	150	15000	yellow2	Yellowhammer	0.1428
+225	Spectrogram 1	1	39.0	42.0	150	15000	rebshr1	Red-backed Shrike	0.1377
+226	Spectrogram 1	1	39.0	42.0	150	15000	callar1	Calandra Lark	0.1373
+227	Spectrogram 1	1	39.0	42.0	150	15000	reebun	Reed Bunting	0.1250
+228	Spectrogram 1	1	39.0	42.0	150	15000	skylar	Eurasian Skylark	0.1246
+229	Spectrogram 1	1	39.0	42.0	150	15000	tawpip1	Tawny Pipit	0.1231
+230	Spectrogram 1	1	39.0	42.0	150	15000	cirbun1	Cirl Bunting	0.1134
+231	Spectrogram 1	1	39.0	42.0	150	15000	eaywag1	Western Yellow Wagtail	0.1040
+232	Spectrogram 1	1	39.0	42.0	150	15000	webwar1	Western Bonelli's Warbler	0.1004
+233	Spectrogram 1	1	40.0	43.0	150	15000	trepip	Tree Pipit	0.2201
+234	Spectrogram 1	1	40.0	43.0	150	15000	comqua1	Common Quail	0.2046
+235	Spectrogram 1	1	40.0	43.0	150	15000	whinch1	Whinchat	0.1279
+236	Spectrogram 1	1	40.0	43.0	150	15000	rebshr1	Red-backed Shrike	0.1161
+237	Spectrogram 1	1	40.0	43.0	150	15000	comred2	Common Redstart	0.1058
+238	Spectrogram 1	1	40.0	43.0	150	15000	corbun1	Corn Bunting	0.1035
+239	Spectrogram 1	1	40.0	43.0	150	15000	webwar1	Western Bonelli's Warbler	0.1029
+240	Spectrogram 1	1	40.0	43.0	150	15000	yellow2	Yellowhammer	0.1023
+241	Spectrogram 1	1	41.0	44.0	150	15000	comqua1	Common Quail	0.1753
+242	Spectrogram 1	1	41.0	44.0	150	15000	whinch1	Whinchat	0.1460
+243	Spectrogram 1	1	41.0	44.0	150	15000	thelar1	Thekla's Lark	0.1389
+244	Spectrogram 1	1	41.0	44.0	150	15000	trepip	Tree Pipit	0.1351
+245	Spectrogram 1	1	41.0	44.0	150	15000	yellow2	Yellowhammer	0.1166
+246	Spectrogram 1	1	41.0	44.0	150	15000	eurhob	Eurasian Hobby	0.1155
+247	Spectrogram 1	1	41.0	44.0	150	15000	rebshr1	Red-backed Shrike	0.1141
+248	Spectrogram 1	1	41.0	44.0	150	15000	callar1	Calandra Lark	0.1025
+249	Spectrogram 1	1	41.0	44.0	150	15000	skylar	Eurasian Skylark	0.1010
+250	Spectrogram 1	1	42.0	45.0	150	15000	yellow2	Yellowhammer	0.2251
+251	Spectrogram 1	1	42.0	45.0	150	15000	comqua1	Common Quail	0.2213
+252	Spectrogram 1	1	42.0	45.0	150	15000	whinch1	Whinchat	0.1896
+253	Spectrogram 1	1	42.0	45.0	150	15000	corbun1	Corn Bunting	0.1640
+254	Spectrogram 1	1	42.0	45.0	150	15000	rebshr1	Red-backed Shrike	0.1533
+255	Spectrogram 1	1	42.0	45.0	150	15000	grewhi1	Greater Whitethroat	0.1237
+256	Spectrogram 1	1	42.0	45.0	150	15000	trepip	Tree Pipit	0.1229
+257	Spectrogram 1	1	42.0	45.0	150	15000	thelar1	Thekla's Lark	0.1221
+258	Spectrogram 1	1	42.0	45.0	150	15000	eurhob	Eurasian Hobby	0.1214
+259	Spectrogram 1	1	42.0	45.0	150	15000	eaywag1	Western Yellow Wagtail	0.1165
+260	Spectrogram 1	1	42.0	45.0	150	15000	eutdov	European Turtle-Dove	0.1001
+261	Spectrogram 1	1	43.0	46.0	150	15000	skylar	Eurasian Skylark	0.2522
+262	Spectrogram 1	1	43.0	46.0	150	15000	comqua1	Common Quail	0.1882
+263	Spectrogram 1	1	43.0	46.0	150	15000	yellow2	Yellowhammer	0.1769
+264	Spectrogram 1	1	43.0	46.0	150	15000	corbun1	Corn Bunting	0.1564
+265	Spectrogram 1	1	43.0	46.0	150	15000	whinch1	Whinchat	0.1548
+266	Spectrogram 1	1	43.0	46.0	150	15000	reebun	Reed Bunting	0.1039
+267	Spectrogram 1	1	44.0	47.0	150	15000	comqua1	Common Quail	0.2486
+268	Spectrogram 1	1	44.0	47.0	150	15000	corbun1	Corn Bunting	0.2155
+269	Spectrogram 1	1	44.0	47.0	150	15000	skylar	Eurasian Skylark	0.1927
+270	Spectrogram 1	1	44.0	47.0	150	15000	yellow2	Yellowhammer	0.1453
+271	Spectrogram 1	1	44.0	47.0	150	15000	whinch1	Whinchat	0.1324
+272	Spectrogram 1	1	44.0	47.0	150	15000	eaywag1	Western Yellow Wagtail	0.1166
+273	Spectrogram 1	1	44.0	47.0	150	15000	thelar1	Thekla's Lark	0.1024
+274	Spectrogram 1	1	44.0	47.0	150	15000	cirbun1	Cirl Bunting	0.1002
+275	Spectrogram 1	1	45.0	48.0	150	15000	skylar	Eurasian Skylark	0.1404
+276	Spectrogram 1	1	45.0	48.0	150	15000	whinch1	Whinchat	0.1329
+277	Spectrogram 1	1	45.0	48.0	150	15000	rebshr1	Red-backed Shrike	0.1122
+278	Spectrogram 1	1	45.0	48.0	150	15000	corbun1	Corn Bunting	0.1042
+279	Spectrogram 1	1	45.0	48.0	150	15000	thelar1	Thekla's Lark	0.1017
+280	Spectrogram 1	1	45.0	48.0	150	15000	norwhe	Northern Wheatear	0.1009
+281	Spectrogram 1	1	46.0	49.0	150	15000	rebshr1	Red-backed Shrike	0.1217
+282	Spectrogram 1	1	46.0	49.0	150	15000	norwhe	Northern Wheatear	0.1167
+283	Spectrogram 1	1	46.0	49.0	150	15000	comred2	Common Redstart	0.1050
+284	Spectrogram 1	1	47.0	50.0	150	15000	thelar1	Thekla's Lark	0.1077
+285	Spectrogram 1	1	48.0	51.0	150	15000	eurmag1	Eurasian Magpie	0.2005
+286	Spectrogram 1	1	48.0	51.0	150	15000	thelar1	Thekla's Lark	0.1523
+287	Spectrogram 1	1	48.0	51.0	150	15000	grrwar1	Great Reed Warbler	0.1382
+288	Spectrogram 1	1	48.0	51.0	150	15000	comqua1	Common Quail	0.1012
+289	Spectrogram 1	1	49.0	52.0	150	15000	eurmag1	Eurasian Magpie	0.2389
+290	Spectrogram 1	1	49.0	52.0	150	15000	eurrol1	European Roller	0.1027
+291	Spectrogram 1	1	50.0	53.0	150	15000	eurmag1	Eurasian Magpie	0.1883
+292	Spectrogram 1	1	51.0	54.0	150	15000	eurmag1	Eurasian Magpie	0.5639
+293	Spectrogram 1	1	51.0	54.0	150	15000	skylar	Eurasian Skylark	0.1566
+294	Spectrogram 1	1	51.0	54.0	150	15000	comqua1	Common Quail	0.1161
+295	Spectrogram 1	1	52.0	55.0	150	15000	mutswa	Mute Swan	0.1514
+296	Spectrogram 1	1	52.0	55.0	150	15000	trepip	Tree Pipit	0.1216
+297	Spectrogram 1	1	54.0	57.0	150	15000	comqua1	Common Quail	0.1813
+298	Spectrogram 1	1	54.0	57.0	150	15000	woolar1	Wood Lark	0.1030
+299	Spectrogram 1	1	55.0	58.0	150	15000	comqua1	Common Quail	0.1962
+300	Spectrogram 1	1	55.0	58.0	150	15000	skylar	Eurasian Skylark	0.1461
+301	Spectrogram 1	1	55.0	58.0	150	15000	corbun1	Corn Bunting	0.1138
+302	Spectrogram 1	1	56.0	59.0	150	15000	comsan	Common Sandpiper	0.1644
+303	Spectrogram 1	1	57.0	60.0	150	15000	blared1	Black Redstart	0.1622
+304	Spectrogram 1	1	57.0	60.0	150	15000	comsan	Common Sandpiper	0.1536
+305	Spectrogram 1	1	57.0	60.0	150	15000	comqua1	Common Quail	0.1071
+306	Spectrogram 1	1	58.0	61.0	150	15000	comsan	Common Sandpiper	0.1961
+307	Spectrogram 1	1	58.0	61.0	150	15000	comqua1	Common Quail	0.1920
+308	Spectrogram 1	1	58.0	61.0	150	15000	skylar	Eurasian Skylark	0.1453
+309	Spectrogram 1	1	58.0	61.0	150	15000	callar1	Calandra Lark	0.1263
+310	Spectrogram 1	1	58.0	61.0	150	15000	blared1	Black Redstart	0.1113
+311	Spectrogram 1	1	59.0	62.0	150	15000	skylar	Eurasian Skylark	0.2188
+312	Spectrogram 1	1	59.0	62.0	150	15000	yellow2	Yellowhammer	0.2167
+313	Spectrogram 1	1	59.0	62.0	150	15000	comqua1	Common Quail	0.1151
+314	Spectrogram 1	1	59.0	62.0	150	15000	comsan	Common Sandpiper	0.1001

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	59.998879	1654.3	8154.8	Alauda arvensis
+2	Spectrogram 1	1	5.648536	5.850269	592.0	4050.4	Dendrocopos major
+3	Spectrogram 1	1	6.295764	7.489353	2389.4	4104.5	Luscinia megarhynchos
+4	Spectrogram 1	1	11.977921	12.146033	1034.2	4741.7	Dendrocopos major
+5	Spectrogram 1	1	12.146033	13.003400	1877.5	4866.4	Fringilla coelebs
+6	Spectrogram 1	1	18.231657	19.458869	1966.6	3996.9	Luscinia megarhynchos
+7	Spectrogram 1	1	20.324641	22.232703	1877.5	4214.5	Fringilla coelebs
+8	Spectrogram 1	1	33.176741	33.437313	1332.1	3688.4	Dendrocopos major
+9	Spectrogram 1	1	33.908025	34.496414	 -1.0	19536.5	Unidentified bird
+10	Spectrogram 1	1	36.312014	36.690264	1264.2	1966.6	Oriolus oriolus
+11	Spectrogram 1	1	36.992865	38.858899	440.7	13546.3	Pica pica
+12	Spectrogram 1	1	40.741744	42.229528	1627.8	3688.4	Luscinia megarhynchos
+13	Spectrogram 1	1	42.313583	43.028056	 -1.0	18860.7	Unidentified bird
+14	Spectrogram 1	1	47.861252	47.987336	884.0	4327.1	Dendrocopos major
+15	Spectrogram 1	1	50.029886	50.172781	796.8	3944.0	Dendrocopos major
+16	Spectrogram 1	1	50.206403	51.416804	636.6	3400.2	Pica pica

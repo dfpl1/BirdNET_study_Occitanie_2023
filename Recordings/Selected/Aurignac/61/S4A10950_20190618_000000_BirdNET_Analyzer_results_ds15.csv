@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	6.0	9.0	150	15000	eutkne1	Eurasian Thick-knee	0.1589
+2	Spectrogram 1	1	6.0	9.0	150	15000	eurbla	Eurasian Blackbird	0.1028
+3	Spectrogram 1	1	12.0	15.0	150	15000	mallar3	Mallard	0.1087
+4	Spectrogram 1	1	15.0	18.0	150	15000	brnowl	Barn Owl	0.1537
+5	Spectrogram 1	1	15.0	18.0	150	15000	tawowl1	Tawny Owl	0.1013
+6	Spectrogram 1	1	21.0	24.0	150	15000	brnowl	Barn Owl	0.1377
+7	Spectrogram 1	1	21.0	24.0	150	15000	tawowl1	Tawny Owl	0.1064
+8	Spectrogram 1	1	24.0	27.0	150	15000	brnowl	Barn Owl	0.1213
+9	Spectrogram 1	1	27.0	30.0	150	15000	tawowl1	Tawny Owl	0.1206
+10	Spectrogram 1	1	27.0	30.0	150	15000	brnowl	Barn Owl	0.1167
+11	Spectrogram 1	1	30.0	33.0	150	15000	brnowl	Barn Owl	0.1051
+12	Spectrogram 1	1	33.0	36.0	150	15000	brnowl	Barn Owl	0.1572
+13	Spectrogram 1	1	33.0	36.0	150	15000	tawowl1	Tawny Owl	0.1361
+14	Spectrogram 1	1	39.0	42.0	150	15000	brnowl	Barn Owl	0.1024
+15	Spectrogram 1	1	54.0	57.0	150	15000	tawowl1	Tawny Owl	0.1012

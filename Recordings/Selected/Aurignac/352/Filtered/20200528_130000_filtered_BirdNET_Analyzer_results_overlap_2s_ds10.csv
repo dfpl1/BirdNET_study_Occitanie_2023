@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	7.0	10.0	150	15000	woolar1	Wood Lark	0.1176
+2	Spectrogram 1	1	8.0	11.0	150	15000	woolar1	Wood Lark	0.1251
+3	Spectrogram 1	1	9.0	12.0	150	15000	woolar1	Wood Lark	0.1183
+4	Spectrogram 1	1	19.0	22.0	150	15000	misthr1	Mistle Thrush	0.1079
+5	Spectrogram 1	1	20.0	23.0	150	15000	combuz1	Common Buzzard	0.4543
+6	Spectrogram 1	1	21.0	24.0	150	15000	combuz1	Common Buzzard	0.5198
+7	Spectrogram 1	1	22.0	25.0	150	15000	combuz1	Common Buzzard	0.3875
+8	Spectrogram 1	1	22.0	25.0	150	15000	euhbuz1	European Honey-buzzard	0.1945
+9	Spectrogram 1	1	38.0	41.0	150	15000	woolar1	Wood Lark	0.1498

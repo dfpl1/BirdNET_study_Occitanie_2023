@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	2.720100	3538.5	6216.5	Troglodytes troglodytes
+2	Spectrogram 1	1	1.280047	1.557952	3134.1	4959.4	Carduelis citrinella
+3	Spectrogram 1	1	4.497008	4.741227	3415.3	5232.9	Carduelis citrinella
+4	Spectrogram 1	1	7.798182	8.185565	3415.3	5026.6	Carduelis citrinella
+5	Spectrogram 1	1	10.375119	10.720395	3391.1	5374.6	Carduelis citrinella
+6	Spectrogram 1	1	12.337297	15.385830	3134.1	6724.0	Troglodytes troglodytes
+7	Spectrogram 1	1	22.426089	22.754523	3343.1	5163.3	Carduelis citrinella
+8	Spectrogram 1	1	23.706137	27.251530	3044.6	8057.5	Troglodytes troglodytes
+9	Spectrogram 1	1	40.161480	44.414268	2957.3	6946.2	Troglodytes troglodytes
+10	Spectrogram 1	1	50.881875	55.100978	3134.1	6508.1	Troglodytes troglodytes

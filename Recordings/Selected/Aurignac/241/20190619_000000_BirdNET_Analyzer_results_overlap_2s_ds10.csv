@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	15.0	18.0	150	15000	tawowl1	Tawny Owl	0.1170
+2	Spectrogram 1	1	16.0	19.0	150	15000	tawowl1	Tawny Owl	0.1031
+3	Spectrogram 1	1	17.0	20.0	150	15000	tawowl1	Tawny Owl	0.4106
+4	Spectrogram 1	1	18.0	21.0	150	15000	tawowl1	Tawny Owl	0.6442
+5	Spectrogram 1	1	19.0	22.0	150	15000	tawowl1	Tawny Owl	0.6139
+6	Spectrogram 1	1	21.0	24.0	150	15000	tawowl1	Tawny Owl	0.7194
+7	Spectrogram 1	1	22.0	25.0	150	15000	tawowl1	Tawny Owl	0.4994
+8	Spectrogram 1	1	26.0	29.0	150	15000	tawowl1	Tawny Owl	0.1356
+9	Spectrogram 1	1	27.0	30.0	150	15000	tawowl1	Tawny Owl	0.5619
+10	Spectrogram 1	1	28.0	31.0	150	15000	tawowl1	Tawny Owl	0.5039
+11	Spectrogram 1	1	29.0	32.0	150	15000	tawowl1	Tawny Owl	0.1991
+12	Spectrogram 1	1	30.0	33.0	150	15000	tawowl1	Tawny Owl	0.1718
+13	Spectrogram 1	1	35.0	38.0	150	15000	graher1	Gray Heron	0.1171

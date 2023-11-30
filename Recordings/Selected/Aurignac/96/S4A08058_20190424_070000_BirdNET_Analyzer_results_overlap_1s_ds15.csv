@@ -1,0 +1,69 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	2.0	5.0	150	15000	lottit1	Long-tailed Tit	0.3355
+2	Spectrogram 1	1	4.0	7.0	150	15000	lottit1	Long-tailed Tit	0.6050
+3	Spectrogram 1	1	8.0	11.0	150	15000	eugori2	Eurasian Golden Oriole	0.1480
+4	Spectrogram 1	1	8.0	11.0	150	15000	comnig1	Common Nightingale	0.1285
+5	Spectrogram 1	1	8.0	11.0	150	15000	combuz1	Common Buzzard	0.1254
+6	Spectrogram 1	1	8.0	11.0	150	15000	stodov1	Stock Dove	0.1175
+7	Spectrogram 1	1	8.0	11.0	150	15000	comcuc	Common Cuckoo	0.1024
+8	Spectrogram 1	1	8.0	11.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1019
+9	Spectrogram 1	1	10.0	13.0	150	15000	eupfly1	European Pied Flycatcher	0.1902
+10	Spectrogram 1	1	10.0	13.0	150	15000	eurrob1	European Robin	0.1653
+11	Spectrogram 1	1	10.0	13.0	150	15000	eurspa1	Eurasian Sparrowhawk	0.1436
+12	Spectrogram 1	1	10.0	13.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1364
+13	Spectrogram 1	1	10.0	13.0	150	15000	martit2	Marsh Tit	0.1259
+14	Spectrogram 1	1	10.0	13.0	150	15000	stodov1	Stock Dove	0.1090
+15	Spectrogram 1	1	10.0	13.0	150	15000	eurtre1	Eurasian Treecreeper	0.1063
+16	Spectrogram 1	1	10.0	13.0	150	15000	comnig1	Common Nightingale	0.1032
+17	Spectrogram 1	1	12.0	15.0	150	15000	comnig1	Common Nightingale	0.1257
+18	Spectrogram 1	1	14.0	17.0	150	15000	comnig1	Common Nightingale	0.2965
+19	Spectrogram 1	1	14.0	17.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.2427
+20	Spectrogram 1	1	16.0	19.0	150	15000	eurtre1	Eurasian Treecreeper	0.3695
+21	Spectrogram 1	1	16.0	19.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.3222
+22	Spectrogram 1	1	16.0	19.0	150	15000	blawoo1	Black Woodpecker	0.1519
+23	Spectrogram 1	1	16.0	19.0	150	15000	stodov1	Stock Dove	0.1059
+24	Spectrogram 1	1	18.0	21.0	150	15000	eurtre1	Eurasian Treecreeper	0.3438
+25	Spectrogram 1	1	18.0	21.0	150	15000	eurrob1	European Robin	0.1681
+26	Spectrogram 1	1	18.0	21.0	150	15000	eupfly1	European Pied Flycatcher	0.1031
+27	Spectrogram 1	1	22.0	25.0	150	15000	comnig1	Common Nightingale	0.2278
+28	Spectrogram 1	1	24.0	27.0	150	15000	lottit1	Long-tailed Tit	0.1518
+29	Spectrogram 1	1	24.0	27.0	150	15000	comnig1	Common Nightingale	0.1412
+30	Spectrogram 1	1	26.0	29.0	150	15000	spofly1	Spotted Flycatcher	0.2280
+31	Spectrogram 1	1	26.0	29.0	150	15000	comcuc	Common Cuckoo	0.1688
+32	Spectrogram 1	1	26.0	29.0	150	15000	eurtre1	Eurasian Treecreeper	0.1642
+33	Spectrogram 1	1	26.0	29.0	150	15000	blackc1	Eurasian Blackcap	0.1568
+34	Spectrogram 1	1	26.0	29.0	150	15000	eupfly1	European Pied Flycatcher	0.1221
+35	Spectrogram 1	1	26.0	29.0	150	15000	sonthr1	Song Thrush	0.1221
+36	Spectrogram 1	1	26.0	29.0	150	15000	lottit1	Long-tailed Tit	0.1194
+37	Spectrogram 1	1	26.0	29.0	150	15000	eugori2	Eurasian Golden Oriole	0.1110
+38	Spectrogram 1	1	26.0	29.0	150	15000	martit2	Marsh Tit	0.1085
+39	Spectrogram 1	1	26.0	29.0	150	15000	shttre1	Short-toed Treecreeper	0.1037
+40	Spectrogram 1	1	32.0	35.0	150	15000	comnig1	Common Nightingale	0.2494
+41	Spectrogram 1	1	32.0	35.0	150	15000	comred2	Common Redstart	0.1213
+42	Spectrogram 1	1	34.0	37.0	150	15000	comnig1	Common Nightingale	0.3533
+43	Spectrogram 1	1	36.0	39.0	150	15000	comnig1	Common Nightingale	0.1305
+44	Spectrogram 1	1	38.0	41.0	150	15000	comnig1	Common Nightingale	0.1694
+45	Spectrogram 1	1	40.0	43.0	150	15000	spofly1	Spotted Flycatcher	0.2988
+46	Spectrogram 1	1	40.0	43.0	150	15000	eugori2	Eurasian Golden Oriole	0.1369
+47	Spectrogram 1	1	40.0	43.0	150	15000	blackc1	Eurasian Blackcap	0.1266
+48	Spectrogram 1	1	40.0	43.0	150	15000	eurrob1	European Robin	0.1212
+49	Spectrogram 1	1	42.0	45.0	150	15000	spofly1	Spotted Flycatcher	0.1931
+50	Spectrogram 1	1	42.0	45.0	150	15000	comnig1	Common Nightingale	0.1921
+51	Spectrogram 1	1	48.0	51.0	150	15000	comcuc	Common Cuckoo	0.2075
+52	Spectrogram 1	1	50.0	53.0	150	15000	comcuc	Common Cuckoo	0.1672
+53	Spectrogram 1	1	50.0	53.0	150	15000	cowpig1	Common Wood-Pigeon	0.1192
+54	Spectrogram 1	1	50.0	53.0	150	15000	eugori2	Eurasian Golden Oriole	0.1120
+55	Spectrogram 1	1	50.0	53.0	150	15000	blackc1	Eurasian Blackcap	0.1024
+56	Spectrogram 1	1	52.0	55.0	150	15000	lottit1	Long-tailed Tit	0.2072
+57	Spectrogram 1	1	52.0	55.0	150	15000	eurtre1	Eurasian Treecreeper	0.1441
+58	Spectrogram 1	1	52.0	55.0	150	15000	blutit	Eurasian Blue Tit	0.1389
+59	Spectrogram 1	1	52.0	55.0	150	15000	comnig1	Common Nightingale	0.1109
+60	Spectrogram 1	1	52.0	55.0	150	15000	comcuc	Common Cuckoo	0.1071
+61	Spectrogram 1	1	54.0	57.0	150	15000	comcuc	Common Cuckoo	0.1963
+62	Spectrogram 1	1	54.0	57.0	150	15000	eurrob1	European Robin	0.1281
+63	Spectrogram 1	1	54.0	57.0	150	15000	eurtre1	Eurasian Treecreeper	0.1099
+64	Spectrogram 1	1	54.0	57.0	150	15000	comred2	Common Redstart	0.1033
+65	Spectrogram 1	1	56.0	59.0	150	15000	comnig1	Common Nightingale	0.1083
+66	Spectrogram 1	1	58.0	61.0	150	15000	comnig1	Common Nightingale	0.1709
+67	Spectrogram 1	1	58.0	61.0	150	15000	comcuc	Common Cuckoo	0.1611
+68	Spectrogram 1	1	58.0	61.0	150	15000	blawoo1	Black Woodpecker	0.1117

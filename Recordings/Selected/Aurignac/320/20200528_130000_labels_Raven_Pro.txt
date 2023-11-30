@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	11.17939	13.58338	942.6	3614.8	Unidentified bird
+2	Spectrogram 1	1	15.05436	16.32360	765.3	2733.6	Turdus merula
+3	Spectrogram 1	1	21.12317	23.89700	994.6	3526.1	Turdus merula
+4	Spectrogram 1	1	27.79718	28.44441	1199.7	2954.3	Oriolus oriolus
+5	Spectrogram 1	1	28.71339	31.53766	780.6	2492.8	Unidentified bird
+6	Spectrogram 1	1	42.48170	43.08689	1180.0	2207.9	Oriolus oriolus

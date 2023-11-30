@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species
+1	Spectrogram 1	1	0.000000	30.94927	1678.9	4026.1	Lullula arborea
+2	Spectrogram 1	1	0.000000	59.94845	1209.8	3898.1	Luscinia megarhynchos
+3	Spectrogram 1	1	2.042551	48.02936	1058.8	1646.5	Otus scops
+4	Spectrogram 1	1	39.422071	50.26524	2105.0	4091.4	Lullula arborea
+5	Spectrogram 1	1	44.457001	44.99496	1684.0	3351.9	Coturnix coturnix
+6	Spectrogram 1	1	54.787433	57.42678	2143.8	4361.9	Lullula arborea

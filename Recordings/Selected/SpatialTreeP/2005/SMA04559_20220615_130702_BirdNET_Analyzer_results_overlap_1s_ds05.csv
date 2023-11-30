@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	shttre1	Short-toed Treecreeper	0.1313
+2	Spectrogram 1	1	10.0	13.0	150	15000	cowpig1	Common Wood-Pigeon	0.1443
+3	Spectrogram 1	1	10.0	13.0	150	15000	stodov1	Stock Dove	0.1437
+4	Spectrogram 1	1	12.0	15.0	150	15000	trepip	Tree Pipit	0.1455
+5	Spectrogram 1	1	14.0	17.0	150	15000	trepip	Tree Pipit	0.1991
+6	Spectrogram 1	1	16.0	19.0	150	15000	eurrob1	European Robin	0.2914
+7	Spectrogram 1	1	28.0	31.0	150	15000	trepip	Tree Pipit	0.4941
+8	Spectrogram 1	1	32.0	35.0	150	15000	eurrob1	European Robin	0.1775
+9	Spectrogram 1	1	42.0	45.0	150	15000	eurrob1	European Robin	0.4790

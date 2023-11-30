@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	8.0	11.0	150	15000	goldcr1	Goldcrest	0.1102
+2	Spectrogram 1	1	8.0	11.0	150	15000	mallar3	Mallard	0.1072
+3	Spectrogram 1	1	10.0	13.0	150	15000	goldcr1	Goldcrest	0.1943
+4	Spectrogram 1	1	10.0	13.0	150	15000	eurbul	Eurasian Bullfinch	0.1037
+5	Spectrogram 1	1	12.0	15.0	150	15000	goldcr1	Goldcrest	0.1170
+6	Spectrogram 1	1	14.0	17.0	150	15000	hoopoe	Eurasian Hoopoe	0.2080
+7	Spectrogram 1	1	20.0	23.0	150	15000	eurbul	Eurasian Bullfinch	0.1497
+8	Spectrogram 1	1	20.0	23.0	150	15000	tawowl1	Tawny Owl	0.1300
+9	Spectrogram 1	1	24.0	27.0	150	15000	grecor	Great Cormorant	0.1152
+10	Spectrogram 1	1	24.0	27.0	150	15000	mutswa	Mute Swan	0.1061
+11	Spectrogram 1	1	26.0	29.0	150	15000	reebun	Reed Bunting	0.1187
+12	Spectrogram 1	1	28.0	31.0	150	15000	litgre1	Little Grebe	0.2034
+13	Spectrogram 1	1	30.0	33.0	150	15000	mallar3	Mallard	0.1337
+14	Spectrogram 1	1	30.0	33.0	150	15000	litgre1	Little Grebe	0.1196
+15	Spectrogram 1	1	32.0	35.0	150	15000	litgre1	Little Grebe	0.1083
+16	Spectrogram 1	1	34.0	37.0	150	15000	litgre1	Little Grebe	0.1253
+17	Spectrogram 1	1	34.0	37.0	150	15000	reebun	Reed Bunting	0.1141
+18	Spectrogram 1	1	34.0	37.0	150	15000	eurcoo	Eurasian Coot	0.1014
+19	Spectrogram 1	1	36.0	39.0	150	15000	litowl1	Little Owl	0.1145
+20	Spectrogram 1	1	36.0	39.0	150	15000	eurbul	Eurasian Bullfinch	0.1034
+21	Spectrogram 1	1	38.0	41.0	150	15000	reebun	Reed Bunting	0.1016
+22	Spectrogram 1	1	38.0	41.0	150	15000	grrwar1	Great Reed Warbler	0.1004
+23	Spectrogram 1	1	38.0	41.0	150	15000	whinch1	Whinchat	0.1002
+24	Spectrogram 1	1	40.0	43.0	150	15000	litgre1	Little Grebe	0.1142
+25	Spectrogram 1	1	54.0	57.0	150	15000	eurbul	Eurasian Bullfinch	0.1358
+26	Spectrogram 1	1	54.0	57.0	150	15000	goldcr1	Goldcrest	0.1089
+27	Spectrogram 1	1	54.0	57.0	150	15000	trepip	Tree Pipit	0.1042
+28	Spectrogram 1	1	56.0	59.0	150	15000	yellow2	Yellowhammer	0.1138
+29	Spectrogram 1	1	56.0	59.0	150	15000	goldcr1	Goldcrest	0.1101
+30	Spectrogram 1	1	56.0	59.0	150	15000	cirbun1	Cirl Bunting	0.1049

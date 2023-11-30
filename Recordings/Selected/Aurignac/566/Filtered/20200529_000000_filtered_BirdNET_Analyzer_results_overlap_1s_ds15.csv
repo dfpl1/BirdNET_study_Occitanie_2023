@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	tawowl1	Tawny Owl	0.2923
+2	Spectrogram 1	1	2.0	5.0	150	15000	comnig1	Common Nightingale	0.1401
+3	Spectrogram 1	1	4.0	7.0	150	15000	comnig1	Common Nightingale	0.5636
+4	Spectrogram 1	1	4.0	7.0	150	15000	subwar6	Western Subalpine Warbler	0.1121
+5	Spectrogram 1	1	8.0	11.0	150	15000	comnig1	Common Nightingale	0.5007
+6	Spectrogram 1	1	10.0	13.0	150	15000	comnig1	Common Nightingale	0.2195
+7	Spectrogram 1	1	10.0	13.0	150	15000	booeag1	Booted Eagle	0.1283
+8	Spectrogram 1	1	10.0	13.0	150	15000	eurbla	Eurasian Blackbird	0.1080
+9	Spectrogram 1	1	12.0	15.0	150	15000	comnig1	Common Nightingale	0.5679
+10	Spectrogram 1	1	12.0	15.0	150	15000	garwar1	Garden Warbler	0.3843
+11	Spectrogram 1	1	12.0	15.0	150	15000	webwar1	Western Bonelli's Warbler	0.1220
+12	Spectrogram 1	1	12.0	15.0	150	15000	eugori2	Eurasian Golden Oriole	0.1071
+13	Spectrogram 1	1	12.0	15.0	150	15000	comred2	Common Redstart	0.1023
+14	Spectrogram 1	1	14.0	17.0	150	15000	comnig1	Common Nightingale	0.3709
+15	Spectrogram 1	1	14.0	17.0	150	15000	garwar1	Garden Warbler	0.2417
+16	Spectrogram 1	1	18.0	21.0	150	15000	comnig1	Common Nightingale	0.2109
+17	Spectrogram 1	1	20.0	23.0	150	15000	comnig1	Common Nightingale	0.2917
+18	Spectrogram 1	1	22.0	25.0	150	15000	comqua1	Common Quail	0.1549
+19	Spectrogram 1	1	22.0	25.0	150	15000	litowl1	Little Owl	0.1057
+20	Spectrogram 1	1	28.0	31.0	150	15000	comnig1	Common Nightingale	0.4841
+21	Spectrogram 1	1	30.0	33.0	150	15000	comnig1	Common Nightingale	0.2247
+22	Spectrogram 1	1	34.0	37.0	150	15000	comnig1	Common Nightingale	0.5452
+23	Spectrogram 1	1	36.0	39.0	150	15000	comnig1	Common Nightingale	0.1883
+24	Spectrogram 1	1	36.0	39.0	150	15000	webwar1	Western Bonelli's Warbler	0.1598
+25	Spectrogram 1	1	36.0	39.0	150	15000	rebshr1	Red-backed Shrike	0.1139
+26	Spectrogram 1	1	36.0	39.0	150	15000	grewhi1	Greater Whitethroat	0.1064
+27	Spectrogram 1	1	36.0	39.0	150	15000	cirbun1	Cirl Bunting	0.1039
+28	Spectrogram 1	1	40.0	43.0	150	15000	comnig1	Common Nightingale	0.1222
+29	Spectrogram 1	1	42.0	45.0	150	15000	litowl1	Little Owl	0.1511
+30	Spectrogram 1	1	46.0	49.0	150	15000	comnig1	Common Nightingale	0.4299
+31	Spectrogram 1	1	48.0	51.0	150	15000	comnig1	Common Nightingale	0.5836
+32	Spectrogram 1	1	52.0	55.0	150	15000	comnig1	Common Nightingale	0.5578
+33	Spectrogram 1	1	52.0	55.0	150	15000	booeag1	Booted Eagle	0.1420
+34	Spectrogram 1	1	58.0	61.0	150	15000	comnig1	Common Nightingale	0.6243

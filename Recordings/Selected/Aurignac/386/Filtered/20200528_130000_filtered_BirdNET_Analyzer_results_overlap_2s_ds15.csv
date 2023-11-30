@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence
+1	Spectrogram 1	1	0	3.0	150	15000	firecr1	Common Firecrest	0.1274
+2	Spectrogram 1	1	0	3.0	150	15000	goldcr1	Goldcrest	0.1131
+3	Spectrogram 1	1	36.0	39.0	150	15000	redcro	Red Crossbill	0.1439
+4	Spectrogram 1	1	36.0	39.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1315
+5	Spectrogram 1	1	37.0	40.0	150	15000	blackc1	Eurasian Blackcap	0.1615
+6	Spectrogram 1	1	37.0	40.0	150	15000	gretit1	Great Tit	0.1070
+7	Spectrogram 1	1	37.0	40.0	150	15000	eurrob1	European Robin	0.1061
+8	Spectrogram 1	1	38.0	41.0	150	15000	redcro	Red Crossbill	0.1213
+9	Spectrogram 1	1	39.0	42.0	150	15000	blakit1	Black Kite	0.1225
+10	Spectrogram 1	1	40.0	43.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1110
+11	Spectrogram 1	1	40.0	43.0	150	15000	blackc1	Eurasian Blackcap	0.1000
+12	Spectrogram 1	1	41.0	44.0	150	15000	eurbla	Eurasian Blackbird	0.1068
+13	Spectrogram 1	1	42.0	45.0	150	15000	litgre1	Little Grebe	0.1037
+14	Spectrogram 1	1	49.0	52.0	150	15000	eurbla	Eurasian Blackbird	0.4669
+15	Spectrogram 1	1	49.0	52.0	150	15000	eugori2	Eurasian Golden Oriole	0.1608
+16	Spectrogram 1	1	49.0	52.0	150	15000	garwar1	Garden Warbler	0.1602
+17	Spectrogram 1	1	50.0	53.0	150	15000	eurbla	Eurasian Blackbird	0.6403
+18	Spectrogram 1	1	50.0	53.0	150	15000	grswoo	Great Spotted Woodpecker	0.1051
+19	Spectrogram 1	1	50.0	53.0	150	15000	sonthr1	Song Thrush	0.1029
+20	Spectrogram 1	1	51.0	54.0	150	15000	eurbla	Eurasian Blackbird	0.3661
+21	Spectrogram 1	1	51.0	54.0	150	15000	eugori2	Eurasian Golden Oriole	0.1303
+22	Spectrogram 1	1	52.0	55.0	150	15000	eurbla	Eurasian Blackbird	0.2951
+23	Spectrogram 1	1	52.0	55.0	150	15000	eugori2	Eurasian Golden Oriole	0.2091
+24	Spectrogram 1	1	52.0	55.0	150	15000	combuz1	Common Buzzard	0.1673
+25	Spectrogram 1	1	52.0	55.0	150	15000	eugwoo2	Eurasian Green Woodpecker	0.1022
+26	Spectrogram 1	1	53.0	56.0	150	15000	eurbul	Eurasian Bullfinch	0.1252
+27	Spectrogram 1	1	53.0	56.0	150	15000	eurbla	Eurasian Blackbird	0.1192
+28	Spectrogram 1	1	55.0	58.0	150	15000	gretit1	Great Tit	0.1556
+29	Spectrogram 1	1	55.0	58.0	150	15000	eurbul	Eurasian Bullfinch	0.1497
+30	Spectrogram 1	1	58.0	61.0	150	15000	blackc1	Eurasian Blackcap	0.1460
+31	Spectrogram 1	1	58.0	61.0	150	15000	eurbul	Eurasian Bullfinch	0.1181
+32	Spectrogram 1	1	59.0	62.0	150	15000	blackc1	Eurasian Blackcap	0.1801
+33	Spectrogram 1	1	59.0	62.0	150	15000	sarwar1	Sardinian Warbler	0.1285
+34	Spectrogram 1	1	59.0	62.0	150	15000	dunnoc1	Dunnock	0.1064

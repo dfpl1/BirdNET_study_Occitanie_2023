@@ -1,0 +1,26 @@
+Script order (1-minute analysis):
+*1. check_recordings_yet_to_analyze.R ->
+			includes generate_recording_CSV.R
+*2. ../BirdNET/scripts/local/run_all_scripts.sh (after running the command "conda activate tf2"
+*3. check_recordings_yet_to_analyze.R (again)
+*4. generate_annotation_CSV.R ->
+			includes generate_recording_CSV.R
+5. generate_BirdNET_recall_and_precision_results_by_all_confidence_levels.R ->
+	includes Annotation_analysis.R
+*6. Noise_analysis.R
+7. compile_PR_results.R
+8. generate_BirdNET_recall_results_by_audio_fragment.R
+9. PR_results_analysis -> We find out the optimal confidence thresholds according to F-scores with Beta-values of 1, 0.25 and 0.1
+10. generate_BirdNET_recall_and_precision_results_by_optimal_confidence_thresholds.R (updating the three confidence thresholds analyzed according to the results obtained in step 4)
+11. randomize_results_by_recording_subset.R
+12. BirdNET_results_analysis.R
+
+---------
+
+Script order (2-hour analysis):
+1. generate_annotation_CSV.R ->
+			includes generate_recording_CSV.R
+2. synthesize_BirdNET_results_in_2h_recordings.R
+3. analyze_minutes_needed_by_BirdNET.R
+
+* It only has to be run once
